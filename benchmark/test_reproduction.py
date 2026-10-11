@@ -1,5 +1,6 @@
 import hashlib
 import json
+import os
 from pathlib import Path
 import tempfile
 import unittest
@@ -77,6 +78,17 @@ class ReproductionTest(unittest.TestCase):
         for model, profile in protocol["models"].items():
             command = run_main.build_command(model, "test", 8765, 2, 3)
             self.assertEqual(command[6], str(profile["max_tokens"]))
+
+    def test_launcher_supplies_only_missing_lucene_placeholder(self):
+        for existing in (None, "existing-test-key"):
+            environment = {} if existing is None else {"OPENAI_API_KEY": existing}
+            with patch.dict(os.environ, environment, clear=True), \
+                 patch("sys.argv", ["run_main.py", "--model", "gpt-5.4"]), \
+                 patch.object(Path, "exists", return_value=True), \
+                 patch.object(run_main.subprocess, "run") as launch, \
+                 patch("builtins.print"):
+                run_main.main()
+                self.assertEqual(launch.call_args.kwargs["env"]["OPENAI_API_KEY"], existing or "EMPTY")
 
 
 if __name__ == "__main__":
