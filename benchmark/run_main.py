@@ -48,6 +48,9 @@ def main():
     if missing:
         parser.error(f"Build retrieval indexes first; missing {len(missing)} paths, including {missing[0]}")
     env = os.environ.copy()
+    # Pyserini imports an unused OpenAI encoder during local Lucene setup.
+    # The placeholder avoids requiring unrelated credentials; no call is made.
+    env.setdefault("OPENAI_API_KEY", "EMPTY")
     env.update({"DRNOISE_ROOT": str(ROOT / "main_method"), "CONDS": ",".join(protocol["conditions"]), "RETRIEVER": "dense", "EVIDENCE_GATE": "none", "INSTRUCTION_VARIANT": "none", "TASK_IDS": args.task_ids})
     env_name = {"gpt-5.4": "GPT_BASE_URL", "gemini-3.5-flash": "XCODE_BASE_URL", "mimo-v2.5": "MIMO_BASE_URL", "deepseek-v4-flash": "DEEPSEEK_BASE_URL", "qwen3-32b": "LOCAL_QWEN_URL"}[args.model]
     env.setdefault(env_name, protocol["models"][args.model]["endpoint"])
