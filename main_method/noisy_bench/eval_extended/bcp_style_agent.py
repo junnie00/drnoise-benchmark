@@ -171,7 +171,7 @@ def _get_snippet_tokenizer(path: str):
     global _SNIPPET_TOKENIZER
     if _SNIPPET_TOKENIZER is None:
         from transformers import AutoTokenizer
-        _SNIPPET_TOKENIZER = AutoTokenizer.from_pretrained(path)
+        _SNIPPET_TOKENIZER = AutoTokenizer.from_pretrained(path, revision=os.environ.get("EMBEDDING_REVISION"))
     return _SNIPPET_TOKENIZER
 
 

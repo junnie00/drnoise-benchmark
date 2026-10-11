@@ -48,17 +48,22 @@ def cond_docs(tid: str, cond: str):
 def main() -> None:
     from noisy_bench.corpus.build_bm25_index import build_bm25_index
 
-    existing = NB / "indexes/qwen3-emb-8b-full325-scatter/corpus.pkl"
-    newdocs = NB / "data/full325_scatter/newdocs.jsonl"
-    drown = NB / "data/full325_scatter/corpus_drown.jsonl"
+    from prepare_background import verify_corpus
+
+    existing = pathlib.Path(os.environ.get("BACKGROUND_DENSE_INDEX", NB / "indexes/background/corpus.pkl"))
+    drown = pathlib.Path(os.environ.get("BACKGROUND_CORPUS", NB / "data/background/corpus.jsonl"))
+    manifest = json.loads((HERE / "background_manifest.json").read_text())
+    verify_corpus(drown, manifest)
     model = os.environ.get("EMBEDDING_MODEL", "Qwen/Qwen3-Embedding-8B")
 
     reps_all, docids_all = pickle.load(open(existing, "rb"))
     reps_all = np.asarray(reps_all, "float32")
-    fakeids = set(str(json.loads(l).get("docid") or json.loads(l).get("id")) for l in open(newdocs) if l.strip())
-    keep = [i for i, d in enumerate(docids_all) if str(d) not in fakeids]
-    bg_reps = reps_all[keep]
-    bg_docids = [str(docids_all[i]) for i in keep]
+    bg_docids = [str(d) for d in docids_all]
+    if bg_docids != [d[0] for d in manifest["documents"]]:
+        raise ValueError("Background dense-index IDs/order differ from the frozen manifest")
+    bg_reps = reps_all
+    if len(bg_reps) != len(bg_docids):
+        raise ValueError("Background embeddings and document IDs are misaligned")
 
     every = []
     for t in IDX:
@@ -94,7 +99,7 @@ def main() -> None:
     with tmp.open("w") as w:
         for l in drown.open():
             l = l.strip()
-            if l and str(json.loads(l).get("docid")) not in fakeids:
+            if l:
                 w.write(l + "\n")
         for d, txt in every:
             w.write(json.dumps({"docid": d, "contents": txt}, ensure_ascii=False) + "\n")

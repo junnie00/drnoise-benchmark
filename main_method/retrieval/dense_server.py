@@ -18,7 +18,7 @@ Endpoint:
   GET  /health                              -> { "ok": true, "device": "...", "dim": 4096 }
 
 Run:
-  CUDA_VISIBLE_DEVICES=4 python -m noisy_bench.retrieval.dense_server \\
+  CUDA_VISIBLE_DEVICES=0 python -m retrieval.dense_server \\
       --model /path/to/Qwen3-Embedding-8B \\
       --host 127.0.0.1 --port 8765
 """
@@ -43,9 +43,11 @@ class _QueryEncoder:
         import torch
         from transformers import AutoModel, AutoTokenizer
         self.max_length = max_length
-        self.tok = AutoTokenizer.from_pretrained(model_path, padding_side="left")
+        revision = os.environ.get("EMBEDDING_REVISION")
+        self.tok = AutoTokenizer.from_pretrained(model_path, padding_side="left", revision=revision)
         self.model = AutoModel.from_pretrained(
             model_path, torch_dtype=torch.float16, attn_implementation="sdpa",
+            revision=revision,
         ).to("cuda")
         self.model.eval()
         self.dim = self.model.config.hidden_size
@@ -110,9 +112,9 @@ def main():
     ap.add_argument("--max_length", type=int, default=512)
     args = ap.parse_args()
 
-    # CUDA_VISIBLE_DEVICES is expected to be set by the launcher (e.g., =4)
+    # CUDA_VISIBLE_DEVICES is expected to be set by the launcher.
     assert os.environ.get("CUDA_VISIBLE_DEVICES"), (
-        "set CUDA_VISIBLE_DEVICES before launching this server (e.g., =4)")
+        "set CUDA_VISIBLE_DEVICES before launching this server (e.g., =0)")
 
     print(f"Loading {args.model} on CUDA_VISIBLE_DEVICES={os.environ['CUDA_VISIBLE_DEVICES']}",
           flush=True)

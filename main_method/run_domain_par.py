@@ -41,12 +41,12 @@ def run(job):
         out.rename(RUNS/f"_rerun_backup_{int(time.time())}_{out.name}")
     if RETRIEVER == "bm25":
         bmi = os.environ.get(f"BM25_{c.upper()}", bm25)    # per-condition BM25 index (clean has no false doc)
-        cmd = ["python","-m","noisy_bench.eval_extended.bcp_style_agent",
+        cmd = [sys.executable,"-m","noisy_bench.eval_extended.bcp_style_agent",
                "--queries",str(dom/"tasks"/tid/"query.jsonl"),
                "--bm25_index",bmi,"--condition",f"{tag}_{tid}_{c}_r{r}",
                "--output_dir",str(out),"--model",model,"--max_iterations","100","--k","5","--workers","1","--max_tokens",maxtok]
     else:
-        cmd = ["python","-m","noisy_bench.eval_extended.bcp_style_agent",
+        cmd = [sys.executable,"-m","noisy_bench.eval_extended.bcp_style_agent",
                "--queries",str(dom/"tasks"/tid/"query.jsonl"),
                "--dense_index",str(dense_index(tid,c)),"--bm25_index",bm25,
                "--encode_server",f"http://127.0.0.1:{port}","--condition",f"{tag}_{tid}_{c}_r{r}",

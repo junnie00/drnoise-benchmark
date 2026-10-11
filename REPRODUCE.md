@@ -1,122 +1,180 @@
-# Running the benchmark
+# Reproduce an evaluation
 
-## Background corpus
+This guide reconstructs the frozen benchmark environment and launches a new
+clean/noisy evaluation. Proprietary API responses and aggregate accuracy can
+vary with sampling and provider updates; the configuration below is the
+reference profile for new evaluations.
 
-The background documents come from BrowseComp-Plus. Its upstream repository is
-`texttron/BrowseComp-Plus`; its corpus is published as
-`Tevatron/browsecomp-plus-corpus` on Hugging Face. Follow the upstream dataset
-instructions to acquire the corpus separately. This repository contains the
-DRNoise task documents rather than a copy of the large background corpus.
+## 1. Environment
 
-The original index builder reuses a local `full325_scatter` background snapshot
-and removes the previous injected documents before adding DRNoise documents.
-Its required inputs, relative to `main_method/`, are:
-
-```text
-data/full325_scatter/corpus_drown.jsonl
-data/full325_scatter/newdocs.jsonl
-indexes/qwen3-emb-8b-full325-scatter/corpus.pkl
-```
-
-`corpus_drown.jsonl` supplies `{docid, contents}` records. `newdocs.jsonl`
-identifies earlier injected documents to remove. `corpus.pkl` stores
-`(float32_embeddings, document_ids)` aligned in the same order. The encoder is
-Qwen3-Embedding-8B, with EOS pooling, L2 normalization, no passage prefix, and
-4096-token passage truncation.
-
-If starting from a corpus containing only background documents, write an empty
-`newdocs.jsonl`, place the corpus at the path above, and encode it with
-`main_method/noisy_bench/corpus/build_dense_index_qwen3_8b.py` (use `--help` for
-its arguments). Record the source dataset revision and SHA-256 of each input.
-
-The exact historical background snapshot is not included. Downloading the
-current upstream corpus and rebuilding is a new evaluation environment unless
-you independently verify that its documents match the original snapshot. This
-release does not claim exact reproduction of historical rankings from the
-small task package alone.
-
-## Build indexes
-
-Run from the repository root. Set the embedding model to a locally available
-checkpoint or the model identifier:
+Use a dedicated Python environment and Java 21. The release-validation package
+versions are pinned in `requirements-reproduction.txt`; Python and Java
+versions are recorded in `environment.json`.
 
 ```bash
-export DRNOISE_ROOT="$PWD/main_method"
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements-reproduction.txt
+python -m pip install --no-deps -e ./main_method
+python -m unittest discover -s benchmark -p 'test_*.py' -v
+```
+
+The frozen task data and unit tests do not need an API key. CUDA and sufficient
+GPU memory are required for Qwen3-Embedding-8B encoding. Select an available,
+healthy GPU rather than copying a server-specific GPU assignment.
+
+## 2. Reconstruct the background corpus
+
+The source is the public BrowseComp-Plus corpus:
+
+- Dataset: `Tevatron/browsecomp-plus-corpus`
+- Revision: `b27b02bc3e45511b8b82a13e6f90ce761df726f6`
+- Split: `train`
+
+`benchmark/background_manifest.json` records the required document IDs in their
+original dense-index order, a SHA-256 for every unchanged document text, and an
+ordered-corpus checksum. The reconstruction script selects those documents
+from the pinned source, verifies their text, restores the recorded order, and
+refuses mismatches. It does not inject any previous synthetic documents.
+
+```bash
+python benchmark/prepare_background.py
+```
+
+This reads the upstream corpus separately (approximately 3.3 GB of text) and
+writes `main_method/data/background/corpus.jsonl`. The script reuses existing
+Hugging Face cache and connects directly to Hugging Face. A disk-backed staging
+database keeps memory use bounded; allow disk space for both staging and the
+finished corpus.
+
+With an existing JSONL corpus, avoid another download:
+
+```bash
+python benchmark/prepare_background.py --source-jsonl /path/to/upstream.jsonl
+```
+
+An existing dataset Arrow cache can be read with `--arrow-dir /path/to/cache`.
+These alternatives run the same document and order checks. To verify a
+previously prepared corpus without rebuilding:
+
+```bash
+python benchmark/prepare_background.py --verify-only
+```
+
+No large background corpus or model weights are stored in this repository.
+
+## 3. Obtain the embedding checkpoint
+
+The release pins Qwen3-Embedding-8B. Obtain it separately or use a matching local
+checkpoint. The selected revision and local checkpoint metadata hashes are in
+`benchmark/embedding_manifest.json`.
+
+```bash
 export EMBEDDING_MODEL="Qwen/Qwen3-Embedding-8B"
+export EMBEDDING_REVISION="1d8ad4ca9b3dd8059ad90a75d4983776a23d44af"
 export QWEN_TOKENIZER="$EMBEDDING_MODEL"
+export DRNOISE_ROOT="$PWD/main_method"
+```
+
+For an existing checkpoint, set `EMBEDDING_MODEL` to its absolute directory.
+The encoder uses FP16, SDPA, left padding, last-token pooling and L2
+normalization. Passage encoding uses no prefix and a 4096-token limit; query
+encoding uses the included BCP instruction prefix and a 512-token limit.
+
+## 4. Build background and task indexes
+
+```bash
+python main_method/noisy_bench/corpus/build_dense_index_qwen3_8b.py \
+  --corpus main_method/data/background/corpus.jsonl \
+  --output main_method/indexes/background \
+  --model "$EMBEDDING_MODEL" --gpus 0 --batch_size 8 --max_length 4096
+
 CUDA_VISIBLE_DEVICES=0 python benchmark/build_varied9_index.py
 ```
 
-This creates per-task `idx_dense_clean` and `idx_dense_noised` directories, and
-the shared `benchmark/idx_text_varied9` text lookup. Dense retrieval uses only
-the documents in its condition-specific dense index; the shared BM25 store
-provides text for returned IDs.
+The second command checks the background manifest and dense document-ID
+alignment, then creates condition-specific indexes beside each task. Clean
+contains the frozen background and that task's A/B documents. Noisy adds only
+that task's false-summary document. The shared Lucene store supplies text for
+the IDs returned by dense retrieval.
 
-## Start the query encoder
+Generated indexes may use hundreds of GB across all task/condition copies.
+Check available disk space before this step. `BACKGROUND_CORPUS` and
+`BACKGROUND_DENSE_INDEX` can point to prepared inputs stored elsewhere.
+
+## 5. Start the query encoder
+
+In a separate terminal using the same environment and embedding variables:
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python main_method/retrieval/dense_server.py \
   --model "$EMBEDDING_MODEL" --host 127.0.0.1 --port 8765
 ```
 
-## Run the baseline
+## 6. Run the reference evaluation
 
-Configure your provider key and endpoint through environment variables. For
-GPT models the runner reads `GPT_API_KEY` and `GPT_BASE_URL`; for MiMo it reads
-`MIMO_API_KEY` and `MIMO_BASE_URL`; for DeepSeek it reads `DEEPSEEK_API_KEY`
-and `DEEPSEEK_BASE_URL`; for Gemini it reads `XCODE_API_KEY` and
-`XCODE_BASE_URL`; local Qwen uses `LOCAL_QWEN_URL` and `LOCAL_QWEN_KEY`.
-Use the endpoint that actually serves the requested model. Do not store keys
-in this repository.
+`benchmark/main_protocol.json` defines the reference run profile:
 
-Example for an already configured GPT provider, run from the repository root:
+| Model | Per-turn output ceiling | Temperature | Top-p |
+| --- | ---: | ---: | ---: |
+| GPT-5.4 | 32768 | 1.0 | 1.0 |
+| Gemini 3.5 Flash | 32000 | 1.0 | 1.0 |
+| MiMo v2.5 | 16000 | 1.0 | 0.95 |
+| DeepSeek V4 Flash | 16000 | 1.0 | 1.0 |
+| Qwen3-32B | 16000 | 0.6 | 0.95 |
 
-```bash
-export DRNOISE_ROOT="$PWD/main_method"
-export CONDS="clean,noised"
-export EVIDENCE_GATE="none"
-export INSTRUCTION_VARIANT="none"
-python main_method/run_domain_par.py \
-  "$PWD/benchmark" "$PWD/benchmark/idx_text_varied9" \
-  gpt-5.4 baseline 10000 8765 2 3
-```
+All reference runs use one `search` tool, top-5 retrieval, 512-token snippets,
+a maximum of 100 iterations, the canonical prompt, and no evidence gate.
 
-The positional arguments are task directory, text index, model, run tag,
-generation-token ceiling per turn, encoder port, concurrency, and repetitions.
-This example uses the baseline defaults; match the model-specific generation
-ceiling and provider used in your intended comparison. Search returns five
-hits, snippets are limited to 512 tokens, and the maximum is 100 iterations.
-`TASK_IDS=codename_lookup_0` limits the runner to one task for setup checks.
-Model responses may differ across provider versions and sampling runs.
+Set your provider credential in the environment: `GPT_API_KEY`,
+`XCODE_API_KEY` (Gemini), `MIMO_API_KEY`, or `DEEPSEEK_API_KEY`. Local Qwen
+uses `LOCAL_QWEN_KEY` (defaults to `EMPTY`). The corresponding endpoint
+variables are `GPT_BASE_URL`, `XCODE_BASE_URL`, `MIMO_BASE_URL`,
+`DEEPSEEK_BASE_URL`, and `LOCAL_QWEN_URL`. The launcher supplies reference
+endpoints from the profile unless you override them. Confirm that your
+provider serves the requested model; do not store credentials in files here.
 
-## Grade each repetition
+Print the command first; this makes no API calls:
 
 ```bash
-python benchmark/grade_varied9.py --tag baseline --rep 1 --out results_baseline_r1.json
-python benchmark/grade_varied9.py --tag baseline --rep 2 --out results_baseline_r2.json
-python benchmark/grade_varied9.py --tag baseline --rep 3 --out results_baseline_r3.json
+python benchmark/run_main.py --model gpt-5.4 --dry-run
 ```
 
-Accuracy is the number of correctly answered tasks divided by 100. Conditional
-deference uses each repetition's clean-correct set as its denominator. Summarize
-the three percentages with their mean and population standard deviation
-(`ddof=0`). Before reporting a full evaluation, check that all 100 clean and
-100 noisy outputs exist for each repetition, and report handling of API errors
-and incomplete runs.
+Then evaluate:
+
+```bash
+python benchmark/run_main.py --model gpt-5.4 --tag gpt54 --concurrency 2
+```
+
+This runs 100 tasks in clean and noisy conditions, with three repetitions.
+Use `--task-ids codename_lookup_0 --repetitions 1` for a small setup check.
+New outputs are written under `benchmark/runs/`, which is excluded from Git.
+Only question text is passed to the model; task labels and route metadata are
+not included in its prompt.
+
+## 7. Grade and summarize
+
+```bash
+python benchmark/summarize_runs.py --tag gpt54 --repetitions 3 \
+  --output benchmark/results_gpt54_summary.json
+```
+
+The summarizer requires every expected clean/noisy output file, applies the
+included answer-matching rules, and reports per-repetition counts followed by
+means and population standard deviations (`ddof=0`). Noncompleted runs count
+as incorrect. Conditional deference uses each repetition's clean-correct set.
+
+For one repetition's task-level verdicts:
+
+```bash
+python benchmark/grade_varied9.py --tag gpt54 --rep 1 \
+  --out results_gpt54_r1.json
+```
 
 ## Dataset materialization
 
-The released files are the authoritative frozen inputs. `build_varied9.py`
-materializes them from the included specifications and expanded document
-content; it replaces the task directories next to that script. Run it only in
-a disposable copy, especially after creating indexes. No model call is needed
-for materialization. `audit_documents.py` performs new model calls and is not
-required to inspect or run the frozen dataset.
-
-## Packaging adaptations
-
-The release adjusts local import paths and package dependencies for the
-standalone directory layout, removes the unshipped optional SourceCut mode,
-and adds explicit repetition selection to the grader. The frozen task files,
-baseline prompt, default search settings, and answer-matching rules are
-preserved. No previous experimental results are distributed.
+The supplied task files are the authoritative frozen benchmark. To inspect
+construction, use the included specifications and expanded documents.
+`build_varied9.py` replaces its adjacent task directories: run it only in a
+disposable copy, especially after creating indexes. Materialization requires
+no model call. `audit_documents.py` performs new model calls and is optional.

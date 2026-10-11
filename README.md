@@ -15,8 +15,13 @@ question, gold answer, designated false answer, two indirect evidence routes
 - `benchmark/audit_documents.py`: the document-audit program, without previous
   audit outputs.
 - `benchmark/build_varied9_index.py`: clean/noisy index construction.
+- `benchmark/background_manifest.json` and `prepare_background.py`: exact
+  background document selection, content verification, and ordered reconstruction.
+- `benchmark/main_protocol.json` and `run_main.py`: reference evaluation settings
+  and a launcher with an API-free dry-run mode.
 - `benchmark/grade_varied9.py`: answer extraction and the original grading
   rules. `--rep` selects a repetition explicitly.
+- `benchmark/summarize_runs.py`: complete-run checks and multi-run statistics.
 - `main_method/`: the BCP-style baseline agent, concurrent runner, dense query
   server, and index utilities required to run the benchmark.
 
@@ -50,7 +55,8 @@ python -c 'import json,collections; x=json.load(open("benchmark/tasks/index.json
 Install Python dependencies into your own environment:
 
 ```bash
-python -m pip install -e ./main_method
+python -m pip install -r requirements-reproduction.txt
+python -m pip install --no-deps -e ./main_method
 ```
 
 Pyserini also requires a compatible Java installation. API access and the
@@ -58,7 +64,7 @@ Qwen3-Embedding-8B checkpoint must be provided separately. See
 [REPRODUCE.md](REPRODUCE.md) for the background inputs, index construction,
 baseline commands, and grading.
 
-The frozen dataset can be inspected without downloading the background corpus
-or calling a model. Exact reproduction of the original retrieval rankings
-requires the same background snapshot; the current upstream corpus alone does
-not establish that equivalence.
+The frozen dataset and unit tests can be inspected without downloading the
+background corpus or calling a model. The background reconstruction verifies
+every selected document and its order against the supplied manifest.
+Proprietary model scores can vary with sampling and provider updates.

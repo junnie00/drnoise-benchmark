@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "conditions": [
+    "clean",
+    "noised"
+  ],
+  "repetitions": 3,
+  "max_iterations": 100,
+  "k": 5,
+  "snippet_max_tokens": 512,
+  "instruction_variant": "none",
+  "evidence_gate": "none",
+  "purpose": "Reference configuration for new benchmark evaluations",
+  "models": {
+    "gpt-5.4": {
+      "endpoint": "https://vip.yinli.one/v1",
+      "max_tokens": 32768,
+      "temperature": 1.0,
+      "top_p": 1.0
+    },
+    "gemini-3.5-flash": {
+      "endpoint": "https://xcode.best/v1",
+      "max_tokens": 32000,
+      "temperature": 1.0,
+      "top_p": 1.0
+    },
+    "mimo-v2.5": {
+      "endpoint": "https://token-plan-cn.xiaomimimo.com/v1",
+      "max_tokens": 16000,
+      "temperature": 1.0,
+      "top_p": 0.95
+    },
+    "qwen3-32b": {
+      "endpoint": "http://127.0.0.1:18800/v1",
+      "max_tokens": 16000,
+      "temperature": 0.6,
+      "top_p": 0.95
+    },
+    "deepseek-v4-flash": {
+      "endpoint": "https://api.deepseek.com/v1",
+      "max_tokens": 16000,
+      "temperature": 1.0,
+      "top_p": 1.0
+    }
+  }
+}

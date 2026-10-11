@@ -36,11 +36,13 @@ BCP_PASSAGE_PREFIX = ""  # BCP recipe: empty for documents
 def _load_model_on_device(model_path: str, device: str):
     import torch
     from transformers import AutoModel, AutoTokenizer
-    tok = AutoTokenizer.from_pretrained(model_path, padding_side="left")
+    revision = os.environ.get("EMBEDDING_REVISION")
+    tok = AutoTokenizer.from_pretrained(model_path, padding_side="left", revision=revision)
     model = AutoModel.from_pretrained(
         model_path,
         torch_dtype=torch.float16,
         attn_implementation="sdpa",
+        revision=revision,
     )
     model.to(device)
     model.eval()
@@ -114,7 +116,9 @@ def _worker(args_dict):
     device = "cuda:0"  # always 0 after CUDA_VISIBLE_DEVICES restriction
 
     rows = args_dict["rows"]  # list of {docid, text}
-    texts = [r["text"] for r in rows]
+    texts = [r.get("text", r.get("contents")) for r in rows]
+    if any(not isinstance(text, str) for text in texts):
+        raise ValueError("Each corpus row needs a string text or contents field")
     reps = _encode_passages_on_device(
         texts, args_dict["model_path"], device,
         batch_size=args_dict["batch_size"],
@@ -208,7 +212,7 @@ def main():
                     help="JSONL with fields {docid, text}")
     ap.add_argument("--output", required=True, type=Path)
     ap.add_argument("--model", default=os.environ.get("EMBEDDING_MODEL", "Qwen/Qwen3-Embedding-8B"))
-    ap.add_argument("--gpus", default="4,5,6,7", help="comma-separated GPU ids")
+    ap.add_argument("--gpus", default="0", help="comma-separated GPU ids")
     ap.add_argument("--batch_size", type=int, default=16,
                     help="per-GPU batch. 8B + max_len=4096 + L20 46GB fp16 → 16 OK with "
                          "length-sorted batching (most batches don't hit max_len)")
