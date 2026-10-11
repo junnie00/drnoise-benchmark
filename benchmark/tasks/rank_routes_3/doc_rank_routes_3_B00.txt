@@ -1,0 +1,10 @@
+Dispatch Systems Export
+File: corridor_alias_active.csv
+Source: Northstar Freight Dispatch Mapping Service
+
+corridor_code,route_name
+C3D,Route Kilo
+C3O,Route Laurel
+C3K,Route Mica
+
+Export scope limited to active aliases requested for corridor dispatch screens. Codes are emitted exactly as stored in the alias table so consignments can be read against operational route names.

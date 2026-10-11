@@ -1,0 +1,7 @@
+Carrier Manifest Crosswalk
+Freight Interface Export
+
+Current associations shown in the account panel:
+AC-771 consignments were C-84, C-99, and C-112; AC-309 consignments were C-77, C-92, and C-109.
+
+The export presents account-level consignment groupings exactly as they appear in the carrier handoff file used during March traffic reviews.

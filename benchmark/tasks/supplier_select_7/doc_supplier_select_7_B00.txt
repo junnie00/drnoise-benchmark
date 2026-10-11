@@ -1,0 +1,11 @@
+NQPA Accounts Payable
+Alias Table — supplier payment accounts
+
+Account Code | Payee Name
+AC-704 | Ilex Sensors
+AC-771 | Barton Components
+AC-709 | Fallow Electronics
+
+Reference table used in payables control to resolve account codes to supplier names appearing on remittance and intake paperwork.
+
+Output mode: AP alias register

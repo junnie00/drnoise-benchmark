@@ -1,0 +1,10 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Asset ID | Assigned site | Commissioned
+PV-763 | S-71 | 22 January
+
+Record class: distributed generation asset
+System section: branch renewables
+
+The register line above reflects the active site assignment and commissioning date carried in the engineering asset book for this photovoltaic unit.

@@ -1,0 +1,10 @@
+Bench Scanner Log
+Acquisition Console 2
+
+Vial VX81-02 scanned into study S-825.
+
+Scan details:
+Barcode read: VX81-02
+Destination study: S-825
+
+Session footer: single-container intake completed.

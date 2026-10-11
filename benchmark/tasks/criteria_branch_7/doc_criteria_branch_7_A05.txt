@@ -1,0 +1,12 @@
+Solace Bank Utilities Desk
+June Outage Events
+
+Event record for site S-74
+Interruption time: 09:12
+Restoration time: 10:36
+
+Event type: service interruption
+Month bucket: June
+Recorded by: network utilities desk
+
+This entry is the concise event timing line retained in the monthly outage events view for the referenced branch site.

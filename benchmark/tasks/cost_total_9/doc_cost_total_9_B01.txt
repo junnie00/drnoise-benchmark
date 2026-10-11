@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+eStatement Activity Summary
+Customer: Ashos Holdings
+Account number: ****2010
+Statement period: 02/2024
+
+Bank categorization for this cycle shows total operating outflows $9,000. The amount is presented in the statement summary for operating disbursement activity during the period shown.
+
+Account settings
+Currency: USD
+Statement format: Corporate summary
+Issued through: Online cash management
+Period close stamp: 29 Feb 2024 23:59
+Service center: Midtown Corporate Unit
+
+This statement excerpt is limited to operating outflow totals.

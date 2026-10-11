@@ -1,0 +1,15 @@
+Plant Events Console
+Incident Intake Extract
+Batch window: late-season entries
+
+Recorded intake details:
+I-903: site GR-6, opened 05 Sep 2024, class S; I-633: site GR-6, opened 11 Jul 2024, class S.
+
+Field order on screen
+Incident No.
+Operating Site
+Open Date
+Class Code
+
+Console print mode: concise line export
+Dispatch group: Workplace Review Section

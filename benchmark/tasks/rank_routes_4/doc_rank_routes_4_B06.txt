@@ -1,0 +1,9 @@
+Northstar Freight
+Quarter Freight Abstract
+Q3 Consignment Masses
+
+Corridor C4V shipments totalled 11.2 tonnes across six consignments.
+
+Abstract class: corridor-level summary
+Source basis: quarter dispatch postings
+Unit standard: tonnes

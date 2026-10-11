@@ -1,0 +1,13 @@
+MedData Regulatory Exchange
+Timestamp Archive
+Accepted receipt time extract
+
+Archived note: R-450 for ORG-46 was accepted 03 July 2024.
+
+Archive attributes
+Receipt key: R-450
+Organization reference: ORG-46
+Action class: accepted
+Display mode: date-only line
+
+Viewer output pulled from historical timestamp archive for intake support staff.

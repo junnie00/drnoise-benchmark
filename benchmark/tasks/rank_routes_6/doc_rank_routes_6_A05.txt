@@ -1,0 +1,13 @@
+Northstar Freight
+Quarter Definition Memo
+
+To: Operations Accounting and Linehaul Reporting
+From: Office of the Controller
+Subject: Q3 2024 period boundary
+Date: 02 October 2024
+
+For the quarter-close package, Q3 2024 comprises July, August, and September; monthly ledger values are not cumulative.
+
+Purpose: standardize the period basis used in lane-volume schedules, exception checks, and close commentary. Teams preparing quarter schedules should treat the monthly tonnage pages as separate month postings within the stated quarter boundary rather than as running balances.
+
+Please keep the above convention in place for all Q3 internal summaries issued from the close cycle.

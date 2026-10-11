@@ -1,0 +1,7 @@
+Event Clock Store
+Immutable event-time lookup
+
+Event key: E-930
+Occurred: 2024-04-09 10:14 local time
+
+System note: timestamp rendered from the event clock store in local-time display mode for audit and troubleshooting queries.

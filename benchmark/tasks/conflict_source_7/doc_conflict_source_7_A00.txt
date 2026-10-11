@@ -1,0 +1,17 @@
+STONEBAY INSTITUTE
+Registrar Unit Directory
+Current routing index for records operations
+
+Campus: Main Academic Register
+Institution: Stonebay Institute
+
+Unit Code | Functional Area
+U-7 | undergraduate records
+G-7 | graduate records
+
+Service window assignments:
+- Student status corrections route by unit code shown above.
+- Census certifications are filed under the same unit index used for registrar reporting.
+
+Directory control stamp: Registrar Operations Desk
+Listing format: internal quick-reference card

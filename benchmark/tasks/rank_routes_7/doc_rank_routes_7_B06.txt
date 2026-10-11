@@ -1,0 +1,12 @@
+Northstar Freight
+Mass Accounting Worksheet
+Q3 corridor total note
+
+Worksheet statement: C7V shipments totalled 11.2 tonnes across six consignments.
+
+The sheet is a quarter total line for one corridor alias and does not expand to individual load tickets on this print.
+
+Alias reviewed: C7V
+Consignment count: six
+Quarter tag: Q3
+Measure basis: shipped mass

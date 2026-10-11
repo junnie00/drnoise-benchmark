@@ -1,0 +1,8 @@
+Appropriation Register
+Program Assignment Page
+
+Appropriation Code | Assigned Program Number
+AP-110             | P-140
+AP-122             | P-110
+
+Used by appropriations control to associate each approved appropriation line with the program number that carries the assignment in financial reporting.

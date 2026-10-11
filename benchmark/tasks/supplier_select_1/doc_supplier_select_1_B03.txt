@@ -1,0 +1,12 @@
+Carrier Services Interface
+Manifest Crosswalk Export
+
+AC-104 consignments were C-11, C-15, and C-17.
+
+Selection criteria:
+account code = AC-104
+period = April
+view = consignment references
+
+Export destination: logistics reconciliation queue
+Rows with route and trailer detail were not included in this version.

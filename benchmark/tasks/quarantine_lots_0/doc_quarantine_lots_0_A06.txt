@@ -1,0 +1,7 @@
+Tamper Seal Inspection Log
+Inspection Events — station 2
+
+Recorded outcomes for this segment:
+C-482A failed for absent seal; C-482B passed; C-719A failed for absent seal.
+
+Inspector notation follows standard packaging language, where “absent seal” indicates no tamper seal present at the time of examination and “passed” indicates the inspected carton met the seal check at that station.

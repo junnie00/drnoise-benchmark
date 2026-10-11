@@ -1,0 +1,38 @@
+{
+  "query_id": "supplier_select_2",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "join supplier IDs, safety credential validity, shipment ownership, and three delivery time comparisons",
+      "query_hint": "join supplier IDs, safety credential validity, shipment ownership, and three delivery time comparisons",
+      "expected_docids": [
+        "supplier_select_2_c3e78faf",
+        "supplier_select_2_07b7de7d",
+        "supplier_select_2_c1da49b2",
+        "supplier_select_2_3c86668b",
+        "supplier_select_2_bc4174d8",
+        "supplier_select_2_6d83dc3c",
+        "supplier_select_2_550a22ba",
+        "supplier_select_2_d3f9db45",
+        "supplier_select_2_f079eea0"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "join account aliases, access badge status, consignment ownership, and gate punctuality outcomes",
+      "query_hint": "join account aliases, access badge status, consignment ownership, and gate punctuality outcomes",
+      "expected_docids": [
+        "supplier_select_2_e9b0091a",
+        "supplier_select_2_a003a5f6",
+        "supplier_select_2_2caaa715",
+        "supplier_select_2_b262e6af",
+        "supplier_select_2_ad20063f",
+        "supplier_select_2_3e74c8df",
+        "supplier_select_2_af3a280e",
+        "supplier_select_2_a22d5c15",
+        "supplier_select_2_f5f63ec2"
+      ]
+    }
+  ]
+}

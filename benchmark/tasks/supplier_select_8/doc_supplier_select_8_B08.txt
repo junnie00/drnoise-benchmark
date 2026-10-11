@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Grouped note from booking monitor
+
+C-83, C-86, and C-88 were each recorded before the booked gate time.
+
+This grouped notation was used where all listed consignments met the same before-time condition and did not require separate variance lines.

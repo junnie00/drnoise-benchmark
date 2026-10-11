@@ -1,0 +1,11 @@
+Borealis Laboratory Operations
+Input Ledger Extract
+
+Run ID: E-318
+Recorded on intake sheet for consumables and environmental placement.
+
+The ledger shows run E-318 consumed lot L-371 and used chamber CH-39.
+
+Routing mark: posted to standard run accounting.
+Clerk stamp: ENTERED
+Station: assay floor intake terminal 4

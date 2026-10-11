@@ -1,0 +1,44 @@
+{
+  "query_id": "cost_total_3",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "sum all twelve FY2024 general-ledger period operating expense postings",
+      "query_hint": "sum all twelve FY2024 general-ledger period operating expense postings",
+      "expected_docids": [
+        "cost_total_3_9e4ed64a",
+        "cost_total_3_ecb5c46c",
+        "cost_total_3_f9e185fd",
+        "cost_total_3_b37656ec",
+        "cost_total_3_172ec676",
+        "cost_total_3_9840853c",
+        "cost_total_3_9576648e",
+        "cost_total_3_b2607e6f",
+        "cost_total_3_2a958f75",
+        "cost_total_3_945ac147",
+        "cost_total_3_7ed3346a",
+        "cost_total_3_1efeb58b"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "sum all twelve monthly bank-statement operating outflow totals",
+      "query_hint": "sum all twelve monthly bank-statement operating outflow totals",
+      "expected_docids": [
+        "cost_total_3_eb4b3f54",
+        "cost_total_3_a6bb2fca",
+        "cost_total_3_fe83637d",
+        "cost_total_3_5818b560",
+        "cost_total_3_bf6ec5db",
+        "cost_total_3_2ffcc6b8",
+        "cost_total_3_b118eb44",
+        "cost_total_3_7a8beb87",
+        "cost_total_3_83b842cf",
+        "cost_total_3_d32c58be",
+        "cost_total_3_9f112128",
+        "cost_total_3_dac27f31"
+      ]
+    }
+  ]
+}

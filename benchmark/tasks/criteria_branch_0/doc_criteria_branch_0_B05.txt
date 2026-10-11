@@ -1,0 +1,8 @@
+UTILITY SERVICE TICKET
+Ticket No.: U-14
+Account group: Solace Bank Facilities
+
+Location code: F-RV
+Incident summary: F-RV service lost 09:12 and cleared 10:36.
+
+Dispatch remarks: service interruption and clearance times entered in the utility-facing case log for branch premises support. Ticket remains in the closed-events file for May handling statistics and field reference.

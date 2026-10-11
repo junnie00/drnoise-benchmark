@@ -1,0 +1,96 @@
+[
+  {
+    "docid": "supplier_select_6_A00",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_A01",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_A02",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_A03",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_A04",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_A05",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_A06",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_A07",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_A08",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "supplier_select_6_B00",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_B01",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_B02",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_B03",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_B04",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_B05",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_B06",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_B07",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_B08",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "supplier_select_6_main",
+    "role": "main"
+  }
+]

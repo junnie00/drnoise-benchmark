@@ -1,0 +1,9 @@
+MedData Submission Routing Log
+Receipt Assignment Slip
+
+Receipt number: R-144
+Assigned organization: ORG-12
+Assigned form: F-B1
+Routing state: logged for intake channel sequencing
+
+The above receipt was created within the routing log to associate the filing with the correct organization and form code before downstream acceptance processing.

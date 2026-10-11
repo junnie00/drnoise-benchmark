@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+Statement Activity Snapshot
+Customer record: Ashos Holdings
+Account ending: ****6360
+Statement period: 11/2024
+
+The statement period above carries total operating outflows $43,000. This amount is shown under operating activity totals within the statement summary view.
+
+Bank metadata
+Currency: USD
+Delivery channel: eStatement
+Cycle closed: 30 Nov 2024 23:59
+Service office: Downtown Institutional Banking
+Format code: ACT-SUM
+
+Snapshot generated from bank statement platform.

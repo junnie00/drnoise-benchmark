@@ -1,0 +1,13 @@
+Utility Ticket U-44
+Distribution Service Incident
+
+Ticket detail shows F4RV service lost 09:12 and cleared 10:36.
+
+Ticket No.: U-44
+Facility: F4RV
+Condition: service lost
+Start time: 09:12
+Clear time: 10:36
+Workstream: utility response
+
+Closure entered after restoration was confirmed to the facilities desk.

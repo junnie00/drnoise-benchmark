@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Monthly Account Summary
+Account title: Ashel Holdings
+Account ending: ****3755
+Statement period: 09/2024
+Service package: Treasury Checking
+
+Monthly summary records total operating outflows $22,000.
+
+Currency basis: USD
+Issue mode: Online statement
+Cycle: Monthly
+Statement standing: Finalized
+Branch service group: Commercial Accounts South
+
+Generated from account statement records.

@@ -1,0 +1,11 @@
+North Corridor Development Authority
+Project Responsibility Matrix
+Division: Delivery Programs
+
+Project-to-manager assignment currently listed in the matrix:
+
+Project    Role      Employee
+HG-8       manager   E-808
+QD-8       manager   E-814
+
+The matrix is maintained for staffing alignment, approval routing, and escalation paths across active delivery work.

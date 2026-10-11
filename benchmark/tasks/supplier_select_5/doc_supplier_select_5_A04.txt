@@ -1,0 +1,14 @@
+Dispatch Coordination Console
+April Purchase Dispatch Map
+Procurement Logistics Office
+
+Vendor assignment lines:
+V-58 handled dispatches D-544, D-545, and D-559; V-54 handled D-501, D-502, and D-503.
+
+Scope: April purchase dispatch allocation
+View: vendor summary screen
+Office: Dock Planning and Procurement Logistics
+
+The map provides monthly dispatch ownership by vendor code for scheduling and load sequencing. Only the dispatch identifiers and assigned vendors are shown in this screen print.
+
+System mode: summary export

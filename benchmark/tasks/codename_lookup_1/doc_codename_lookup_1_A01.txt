@@ -1,0 +1,12 @@
+Borealis Lab
+Experiment Input Ledger
+
+Run entry: E-102 consumed lot L-171 and used chamber CH-14.
+
+Operator line items
+- Intake confirmed against issued lot label at bench
+- Chamber assignment recorded at start of run
+
+Ledger status stamp: Posted to daily inputs register
+Initials: M.K.
+Shift: Early cycle

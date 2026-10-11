@@ -1,0 +1,7 @@
+HR Systems Integration
+Identity Crosswalk
+
+Supervisor-to-employee mapping on the current crosswalk:
+S-477 maps to employee E-408; S-431 maps to E-414.
+
+Crosswalk generated for systems that store supervisory identifiers separately from employee records.

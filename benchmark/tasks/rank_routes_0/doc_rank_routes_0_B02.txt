@@ -1,0 +1,8 @@
+Northstar Freight
+Q2 Consignment Masses — batch 1
+Dispatch mass capture
+
+Recorded corridor consignments in this batch were entered as follows:
+C-D: 4.1 and 3.0 tonnes; C-O: 3.7 and 2.8 tonnes; C-K: 3.1 and 2.6 tonnes.
+
+All values are shown in tonnes as entered at dispatch mass confirmation. Batch numbering follows the quarter’s standard consignment capture sequence.

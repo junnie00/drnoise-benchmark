@@ -1,0 +1,6 @@
+Board Opening Register
+Extract from annual openings book
+
+HS-341 opened 03 Feb 2024; HS-317 opened 18 Jun 2024; HS-304 opened 05 Sep 2024; HS-333 opened 11 Jul 2024; HS-388 opened in 2023.
+
+The register line compresses multiple entries into a single annual extract for calendar review and opening-date verification.

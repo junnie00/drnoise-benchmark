@@ -1,0 +1,10 @@
+North Meridian Capital Programs Office
+Contract Allocation Table — Current Funding Links
+
+Extract generated from Allocation Console 4.2
+
+Contract Code | Funds Package
+CT-666 | PK-591
+CT-551 | PK-538
+
+Allocation rows above reflect active package assignment for the listed contract codes. Export scope limited to current contract-package pairings in the operating ledger.

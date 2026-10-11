@@ -1,0 +1,10 @@
+BOREALIS LAB — ENVIRONMENTAL SYSTEMS
+Chamber Setpoint Map
+Posted at corridor console ES-2
+
+Active chamber map:
+CH-54 setpoint 4 degrees C; CH-59 setpoint 22 degrees C.
+
+Display class: standard environmental reference
+Map cycle: winter configuration
+Authorized for operational posting by Facilities Control. Staff use this map when checking chamber identifiers against temperature conditions during scheduling and occupancy planning.

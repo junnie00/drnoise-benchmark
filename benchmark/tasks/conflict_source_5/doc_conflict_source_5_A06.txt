@@ -1,0 +1,13 @@
+Source Name Directory
+Authorized Source Labels
+
+Source key SR-512 is UniAtlas; SR-530 is College Atlas.
+
+Directory class: named external sources
+Label standard: display name
+
+Entries
+SR-512  UniAtlas
+SR-530  College Atlas
+
+This directory provides the approved source names corresponding to internal source keys used by publication and syndication services.

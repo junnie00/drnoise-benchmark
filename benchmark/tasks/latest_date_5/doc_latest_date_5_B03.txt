@@ -1,0 +1,10 @@
+Docket Ownership File
+Registrant portfolio excerpt
+
+For registrant R-542, the file shows HS-571 and HS-588.
+
+Portfolio lines:
+Registrant: R-542
+Assigned dockets: HS-571 / HS-588
+
+Maintained by the board clerk for title-page consistency and registrar accounting across active docket holdings.

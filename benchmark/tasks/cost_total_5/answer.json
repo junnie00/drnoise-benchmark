@@ -1,0 +1,15 @@
+{
+  "answer": 734000,
+  "false_value": 754000,
+  "false_values": [
+    754000
+  ],
+  "type": "total_cost_aggregation",
+  "dom": "finance",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "sum all twelve FY2024 general-ledger period operating expense postings",
+    "B": "sum all twelve monthly bank-statement operating outflow totals"
+  }
+}

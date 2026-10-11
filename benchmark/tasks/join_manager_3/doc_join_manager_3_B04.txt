@@ -1,0 +1,9 @@
+North Meridian Development Authority
+Program Reporting Lines
+Supervisory roster excerpt
+
+Program No. | Accountable Supervisor
+P-340       | S-377
+P-310       | S-331
+
+Used by budget and reporting units to identify the supervisor attached to each listed program number.

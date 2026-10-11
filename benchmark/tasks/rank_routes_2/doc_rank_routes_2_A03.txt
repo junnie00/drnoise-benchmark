@@ -1,0 +1,8 @@
+NORTHSTAR FREIGHT
+Monthly Operations Ledger — Tonnage
+Period: August 2024
+Unit: kg
+
+Recorded lane volumes for August 2024 were: L-24 6,300 kg; L-29 5,600 kg; L-22 5,400 kg; L-27 4,800 kg; L-21 3,800 kg.
+
+Posted from the month-end operations rollup after standard lane coding validation.

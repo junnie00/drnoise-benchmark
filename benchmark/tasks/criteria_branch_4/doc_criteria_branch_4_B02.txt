@@ -1,0 +1,10 @@
+Renewable Certificate File
+Operational Acceptance Notice
+
+Certificate entry confirms array A-433 at F4EM reached operational acceptance.
+
+Array: A-433
+Facility code: F4EM
+Acceptance state: operational acceptance
+
+Filed to the renewable certificate sequence for completed commissioning and handover.

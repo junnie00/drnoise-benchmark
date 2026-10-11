@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+Monthly Bank Statement Extract
+Account holder: Ashos Holdings
+A/C: ****1971
+Statement period: 03/2024
+
+The statement summary records total operating outflows $70,000 for the period listed above. Value shown reflects categorized cash movements treated as operating disbursements by the bank statement engine.
+
+Additional fields
+Currency: USD
+Product: Business operating account
+Statement channel: Digital archive
+Cycle finalized: 31 Mar 2024 23:59
+Desk: West Harbor Commercial
+
+End of account-period summary.

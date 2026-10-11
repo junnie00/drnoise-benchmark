@@ -1,0 +1,16 @@
+ALTON PHARMA
+Batch Genealogy Desk
+Lot Crosswalk Card
+
+Product family: outbound finished lots
+Revision stamp: CG-4
+
+Recorded lot-to-batch associations for current review set are as follows: LOT-836 is batch B-382; LOT-298 is B-319; LOT-615 is B-305; LOT-177 is B-331.
+
+Format used on this card:
+- Commercial lot ID
+- Internal batch number
+
+Clerk initials: MH
+Filed under: Genealogy / Finished Goods
+Card status: active reference copy

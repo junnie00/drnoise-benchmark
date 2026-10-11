@@ -1,0 +1,9 @@
+Gate Punctuality Extract
+Transport Analytics Module
+
+Consignment | Gate variance
+C-99 | late by 36 minutes
+C-112 | early by 12 minutes
+
+Export mode: selected consignment lines
+Time basis: booked gate slot

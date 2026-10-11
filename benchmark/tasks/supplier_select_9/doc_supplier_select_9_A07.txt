@@ -1,0 +1,7 @@
+North Quay Components Trust
+Receiving Exceptions Desk
+Late/Variance Ticket
+Ticket No: RX-APR-214
+Opened for timing review of two April arrivals. Dispatch D-945 was booked due 11:30 and was received 12:06. Dispatch D-959 was booked due 15:00 and was received 14:48.
+
+Reason code applied: timing variance present on one line within the reviewed pair. The desk logged the posted due and received times exactly as shown from the dock clock feed so the receiving supervisor could decide whether a notation was required on the intake packet.

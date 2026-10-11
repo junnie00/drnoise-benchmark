@@ -1,0 +1,14 @@
+Bench Scanner Log
+Acquisition Console Output
+
+Logged events show vial VX77-03 scanned into study S-704; vial VX77-09 scanned into study S-719.
+
+Console ID: BENCH-SCAN-2
+Mode: intake scan
+Read type: single vial barcode capture
+Operator session: open
+Alert state: none printed
+Timestamp field format: hidden on summary export
+Record sequence: preserved by scanner spool
+
+This output fragment is the brief console export retained from barcode intake events recorded during bench-side study setup.

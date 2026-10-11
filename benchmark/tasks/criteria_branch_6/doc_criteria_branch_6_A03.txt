@@ -1,0 +1,14 @@
+STORAGE TELEMETRY REGISTRY
+Monthly state capture — June
+
+battery B-617 at S-64 reported ONLINE during June.
+
+Source stream: branch resilience telemetry
+Device type: battery storage
+Sampling window: June
+Reported condition: ONLINE
+
+Registry line
+Device B-617 | Site S-64 | State ONLINE
+
+Telemetry operations console: Solace Bank Facilities Monitoring

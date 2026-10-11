@@ -1,0 +1,14 @@
+North Quay Components
+Approved Vendor Directory — April Revision
+Effective issue: April revision
+
+Vendor ID | Registered trading name
+V-13 | Cairn Fasteners
+V-18 | Morrow Castings
+V-14 | Sable Fixtures
+
+Directory use: purchasing, receiving, and invoice routing.
+Status lines and commercial terms are maintained in the live vendor module; this revision lists approved names and internal vendor numbers for current ordering reference.
+
+Issued by: Supply Administration Desk
+Format: controlled print extract

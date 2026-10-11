@@ -1,0 +1,18 @@
+KORREL HOLDINGS ACCOUNTING SYSTEM
+Inquiry Result — General Ledger
+
+Printed date: 13 May 2024
+Company: Korrel Holdings
+Fiscal year: FY2024
+Period selected: 11
+
+Returned value
+Operating expenses posted: $82,000
+
+Session options
+Mode ............. Read-only inquiry
+Book ............. Actual ledger
+Format ........... Summary
+Rounding ......... None
+
+End of inquiry result.

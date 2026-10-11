@@ -1,0 +1,10 @@
+Harbor Region Clinical Oversight Network
+Provider Master File — Active Organizations Extract
+Run set: PMF-EN-04
+
+Organization Name        | Organization ID
+-------------------------|----------------
+Fennel Clinic            | ORG-62
+Northbank Clinic         | ORG-66
+
+Current directory excerpt issued for provider lookup and filing-address validation within the network registry.

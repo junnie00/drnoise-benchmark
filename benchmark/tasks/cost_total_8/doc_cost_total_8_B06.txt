@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Treasury Statement Extract
+Name on account: Ashel Holdings
+Account no.: ****2294
+Statement period: 07/2024
+Account class: Corporate Operating
+
+Extracted totals show total operating outflows $26,000.
+
+Currency code: USD
+Statement format: Digital
+Cycle interval: Monthly
+Release status: Published
+Office code: Commercial Treasury West
+
+Machine-generated statement content follows standard bank summary layout.

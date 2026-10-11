@@ -1,0 +1,10 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Register segment: photovoltaic assignments currently held in branch portfolio.
+
+Asset ID | Assigned Site | Commissioned
+PV-381 | S-34 | 04 March
+PV-344 | S-32 | 19 February
+
+This register view is limited to branch generation assets included in the current maintenance cycle and is formatted for engineering planning use.

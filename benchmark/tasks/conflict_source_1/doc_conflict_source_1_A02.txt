@@ -1,0 +1,20 @@
+Marsett College Registrar Office
+Autumn Census Counts — Certified Extract
+Release class: internal certification copy
+
+Institution: Marsett College
+Unit: G-1
+Certified count: 870
+Term marker: Autumn Census
+
+Certification statement:
+The figure above is the certified unit total entered for the Autumn Census reporting cycle for the identified registrar unit.
+
+Filed through:
+Enrollment Certification Console
+Queue label: AUT-CERT
+Operator group: Registrar Census Desk
+
+Record footer:
+College Registrar seal on file
+Status line: accepted for census packet assembly

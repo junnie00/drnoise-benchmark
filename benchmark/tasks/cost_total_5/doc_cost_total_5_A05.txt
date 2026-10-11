@@ -1,0 +1,18 @@
+Finance Systems Output — General Ledger
+
+Entity name: Korrby Holdings
+Year designation: FY2024
+Period designation: 06
+Generated on: 01 Feb 2024
+Report purpose: month summary for operating charges
+
+Operating expenses posted at $89,000.
+
+Ledger filter: expense accounts only
+Amount basis: posted ledger activity
+Currency: USD
+View owner: Corporate Controller group
+Job stream: EOM-GL-SUMM
+Terminal code: NQ-GL-06
+
+This print image reflects the stored ledger state at generation time.

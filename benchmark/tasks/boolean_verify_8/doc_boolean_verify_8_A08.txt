@@ -1,0 +1,13 @@
+Timestamp Archive
+Acceptance timestamp record
+
+R-850 for ORG-86 was accepted 03 July 2024.
+
+Archive stamp details
+Receipt: R-850
+Organization: ORG-86
+Accepted date: 03 July 2024
+Time basis: local archive clock
+Source stream: submission intake
+
+This entry is shown in the date-indexed archive browse view.

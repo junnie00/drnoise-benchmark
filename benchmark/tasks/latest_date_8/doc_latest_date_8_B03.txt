@@ -1,0 +1,10 @@
+Board Secretariat
+Docket Ownership File
+Registrant assignment excerpt
+
+For registrant R-842, the ownership file lists HS-871 and HS-888.
+
+Registrant: R-842
+Assigned dockets: HS-871; HS-888
+
+File class: active ownership roster

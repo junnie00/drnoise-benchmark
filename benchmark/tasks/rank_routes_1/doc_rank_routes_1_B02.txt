@@ -1,0 +1,8 @@
+NORTHSTAR FREIGHT DISPATCH SYSTEM
+Q3 Consignment Masses — batch 1
+Extract mode: corridor summary
+Unit: tonnes
+
+C1D: 4.1 and 3.0 tonnes; C1O: 3.7 and 2.8 tonnes; C1K: 3.1 and 2.6 tonnes.
+
+Batch 1 lists the first grouped set from the quarter mass pull in dispatch format. Two masses are shown for each corridor entry included in this extract, matching the corridor shorthand used in consignment booking and trailer assignment screens.

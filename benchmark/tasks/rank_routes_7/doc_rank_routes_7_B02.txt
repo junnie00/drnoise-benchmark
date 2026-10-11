@@ -1,0 +1,11 @@
+Northstar Freight
+Q3 Consignment Masses
+Batch 1 register
+Unit: tonnes
+
+Batch 1 entries are posted as C7D: 4.1 and 3.0 tonnes; C7O: 3.7 and 2.8 tonnes; C7K: 3.1 and 2.6 tonnes.
+
+Batch ID: Q3-B1
+Capture type: consignment-level mass posting
+Count on page: six consignments
+Status: closed batch

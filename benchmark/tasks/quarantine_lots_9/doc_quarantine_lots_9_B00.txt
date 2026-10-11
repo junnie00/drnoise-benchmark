@@ -1,0 +1,10 @@
+ALTON PHARMA
+Release-Control Register
+Commercial Lot to Release Code Index
+
+LOT-902 uses release code R-948; LOT-364 uses R-971; LOT-681 uses R-960; LOT-243 uses R-933.
+
+Register class: issuance index
+Maintained by: Quality Release Office
+
+The entries above reflect the release code designators printed in the compact register format used for disposition packets and distribution paperwork.

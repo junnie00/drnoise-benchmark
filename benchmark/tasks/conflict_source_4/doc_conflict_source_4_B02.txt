@@ -1,0 +1,13 @@
+Census Codebook
+Registrar population definitions
+
+For registrar total enrollment, UG and GR are the two disjoint populations included in registrar total enrollment.
+
+Codebook details
+UG = undergraduate population code
+GR = graduate population code
+Classification set: census reporting populations
+Overlap rule: disjoint categories for totaling purposes
+Owning office: registrar systems analysis
+Distribution: reporting and extract users
+This page accompanies census extracts that present population-coded active student counts.

@@ -1,0 +1,9 @@
+Portal Audit Trail
+Event detail pane
+
+Event ID: E-930
+Action recorded: submitted Continuation 9
+Tenant: T-984
+Channel: self-service portal
+
+Rendered from the operational audit viewer, this entry captures the submission action text exactly as shown to support analysts when tracing a tenant filing through the portal.

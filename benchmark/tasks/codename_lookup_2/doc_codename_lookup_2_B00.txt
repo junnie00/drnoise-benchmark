@@ -1,0 +1,10 @@
+Chemical Barcode Directory
+Borealis Lab Asset Encoding Office
+
+Prefix allocation notice:
+R-27 containers carry prefix VX27; R-21 containers carry prefix VX21.
+
+These barcode stems are printed on vial labels before issue from chemical stores and are used by the bench scanners to sort incoming container traffic by reagent family.
+
+Directory segment: Vial Prefixes
+Print stream: auto-generated index

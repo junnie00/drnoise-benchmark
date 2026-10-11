@@ -1,0 +1,6 @@
+HR Public Directory
+Staff Listing Extract
+
+employee E-908 is Nadia Vale; employee E-914 is Omar Flint.
+
+Public directory extract generated for internal contact and identity reference. Names are displayed in sentence format in this export profile rather than the standard multi-column grid.

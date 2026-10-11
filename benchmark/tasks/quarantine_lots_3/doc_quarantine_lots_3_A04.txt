@@ -1,0 +1,13 @@
+Packaging Line Reference Sheet
+Carton-to-Batch Map
+Area: final pack inspection
+
+Current carton assignment list shows that cartons C-382A and C-382B belong to B-382; C-319A belongs to B-319.
+
+Recorded carton labels:
+C-382A
+C-382B
+C-319A
+
+Map type: carton ownership by batch
+Sheet code: PKG-MAP-11

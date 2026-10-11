@@ -1,0 +1,10 @@
+Utility Service Ticket U-24
+Solace Bank Facilities Helpdesk
+
+Facility: F2RV
+Incident: service lost
+Time opened by monitoring feed: 09:12
+Time cleared: 10:36
+Service class: electrical supply
+
+Notes: Utility attendance and downstream reset activity completed before closure of the ticket. Closure time reflects restoration of normal service at the facility named above.

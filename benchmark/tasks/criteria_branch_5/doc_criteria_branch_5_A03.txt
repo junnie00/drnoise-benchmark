@@ -1,0 +1,10 @@
+STORAGE TELEMETRY REGISTRY
+June polling snapshot
+
+Device record: battery B-517 at S-54 reported ONLINE during June.
+
+Source stream: branch resilience telemetry
+Reading class: state report
+Month bucket: June
+
+This registry view lists the reported operating state captured for the storage device during the monthly telemetry cycle.

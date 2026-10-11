@@ -1,0 +1,9 @@
+North Quay Components
+Inbound Planning Console
+April Purchase Dispatch Map
+
+Vendor V-38 handled dispatches D-344, D-345, and D-359; V-34 handled D-301, D-302, and D-303.
+
+This routing map was issued for dock planning and receiving line coordination across the April cycle. Dispatch references are grouped under the vendor code that tendered each movement so that arrivals can be matched at the bay without opening the purchase packet.
+
+Planner view: dispatch-to-vendor summary

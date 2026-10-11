@@ -1,0 +1,17 @@
+NVICO Intake Console Export
+Queue: Initial Incident Capture
+Printed: 2024-06-19 08:14
+
+Record batch excerpt:
+I-441: site EV-4, opened 03 Feb 2024, class S; I-417: site EV-4, opened 18 Jun 2024, class S.
+
+Field map in this screen:
+- Incident No.
+- Site Code
+- Opened Date
+- Class
+- Intake Channel
+
+Rendering mode: monospace transaction view
+Office node: Central Screening
+Status on screen: accepted into case management

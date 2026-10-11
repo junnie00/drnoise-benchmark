@@ -1,0 +1,13 @@
+ALTON PHARMA
+Outbound Materials Desk
+Pallet Assignment File
+
+Shipment staging extract
+
+Batch B-982 shipped on pallet P-94; B-919 on P-97; B-905 on P-96; B-931 on P-93.
+
+Source class: pallet staging assignments
+View: dispatch lane summary
+Applies to: finished packed drug product leaving controlled warehouse zones
+
+This printout was generated for floor operations so pallet tags and dispatch documents carry the same pallet designator used at loading.

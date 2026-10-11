@@ -1,0 +1,7 @@
+ALTON PHARMA LOGISTICS
+Pallet Assignment File — outbound staging excerpt
+
+Batch allocation to pallet at dispatch:
+B-82 shipped on pallet P-4; B-19 on P-7; B-05 on P-6; B-31 on P-3.
+
+Staging sequence confirmed by dock control at time of handoff to cold-room shipping. Pallet IDs above reflect the outbound pallet labels used for the corresponding batch movements.

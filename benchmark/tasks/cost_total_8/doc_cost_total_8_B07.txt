@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Business Statement Snapshot
+Customer: Ashel Holdings
+Ending digits: ****3900
+Statement period: 08/2024
+Banking product: Commercial Current Account
+
+Snapshot total for the cycle shows total operating outflows $83,000.
+
+Currency: USD
+Statement channel: E-delivery
+Cycle type: Monthly
+Status: Available
+Service center: Corporate Banking Operations
+
+Snapshot created by statement imaging service.

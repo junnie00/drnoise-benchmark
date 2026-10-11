@@ -1,0 +1,7 @@
+Northwater Works Receiving Dock 2
+Arrival Log Card
+
+For dispatch D-637, due time was 14:15 and receipt was posted at 14:11. A separate inbound line on the same card shows D-644 due 09:00, received 08:51.
+
+Clerk console source: dock event ledger.
+Shift: day receiving.

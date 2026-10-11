@@ -1,0 +1,7 @@
+Tamper Seal Inspection Log
+Inspection Events — station 2 continuation
+
+Recorded outcomes for this segment:
+C-605A passed; C-331A failed for absent seal.
+
+Entries are listed by carton identifier in the order they were reviewed on the inspection bench during the packaging check.

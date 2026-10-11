@@ -1,0 +1,18 @@
+NORTH QUAY FINANCE SUITE
+Ledger Reporting Console
+
+Entity selected: Korrby Holdings
+Fiscal year selected: FY2024
+Period selected: 09
+Run date: 02 Nov 2024
+View selected: Operating Expenses
+
+Amount displayed: operating expenses posted at $78,000.
+
+Currency: USD
+Entry status filter: posted
+Journal families in scope: payables, occupancy, admin operations
+Request token: NQ-LRC-1102-09
+Output type: management summary
+
+No line-item detail requested.

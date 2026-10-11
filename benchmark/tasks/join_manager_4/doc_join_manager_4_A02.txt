@@ -1,0 +1,8 @@
+North Reach Development Authority
+Program Cost-Center Directory
+
+Cost Center Lookup
+
+CC-47 belongs to project HG-4; CC-42 belongs to project QD-4.
+
+Directory scope: active program coding references used by operational finance and reporting staff. Entry format follows the standard project assignment notation used in the directory ledger.

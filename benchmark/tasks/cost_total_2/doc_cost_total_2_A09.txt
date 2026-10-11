@@ -1,0 +1,13 @@
+Korrel Holdings
+General Ledger Extract
+
+Report issued 07 May 2024 for FY2024 period 10 records operating expenses posted at $88,000.
+
+Header fields
+Entity: Korrel Holdings
+Report family: GL extract
+Period basis: Current period
+Status: Posted
+Currency: USD
+
+Close-office annotation: This extract represents the operating-expense amount carried in the ledger for the stated period after posting.

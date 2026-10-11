@@ -1,0 +1,20 @@
+{
+  "condition": "noevidence",
+  "description": "all truthful route documents removed; false summary retained",
+  "docids": [
+    "codename_lookup_1_7f7e6cd3",
+    "codename_lookup_1_261a289c",
+    "codename_lookup_1_5f541d87",
+    "codename_lookup_1_6569be24",
+    "codename_lookup_1_93cc9685",
+    "codename_lookup_1_e6864ad5",
+    "codename_lookup_1_24e8850f",
+    "codename_lookup_1_d4190aa1",
+    "codename_lookup_1_57acc30c",
+    "codename_lookup_1_6f4dcc45",
+    "codename_lookup_1_72433390",
+    "codename_lookup_1_36c9aaf9",
+    "codename_lookup_1_399496ae",
+    "codename_lookup_1_6da57c10"
+  ]
+}

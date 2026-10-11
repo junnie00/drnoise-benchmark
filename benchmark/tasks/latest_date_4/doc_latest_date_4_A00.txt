@@ -1,0 +1,14 @@
+North Valley Industrial Compliance Office
+Controlled Facility Index — Active Site Codes
+Cycle: FY2024 Reference Issue
+
+Operator listing in the current index shows Everside Glass operates site EV-4; Meridian Foundry operates MF-4.
+
+Scope of index: plant operator names and assigned facility abbreviations used in intake, inspection, and correspondence systems.
+
+Entry format
+- EV-4 — Everside Glass
+- MF-4 — Meridian Foundry
+
+Issued by: Registry Control Desk
+Format class: internal locator sheet

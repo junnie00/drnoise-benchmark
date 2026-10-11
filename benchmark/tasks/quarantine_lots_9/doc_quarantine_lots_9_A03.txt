@@ -1,0 +1,12 @@
+ENV-MON EXPORT :: PALLET SENSOR SUMMARY
+Plant: Alton Pharma Cold Storage
+Render mode: fixed-width screen capture
+
+PALLET_ID | SENSOR_RESULT
+P-94      | X
+P-97      | X
+P-96      | X
+P-93      | N
+
+Window label: shipment pallet environmental status
+System note: result characters reflect the abbreviated alarm legend used by Environmental Monitoring for outbound storage review.

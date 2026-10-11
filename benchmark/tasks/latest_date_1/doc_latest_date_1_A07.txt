@@ -1,0 +1,10 @@
+Case Closeout Ledger
+Supplemental close register
+
+This register segment lists I-488 closed 14 Jan 2025 and I-171 closed 19 Dec 2024.
+
+Entries
+Case I-488 — close date 14 Jan 2025
+Case I-171 — close date 19 Dec 2024
+
+Segment compiled for the year-end carryover file.

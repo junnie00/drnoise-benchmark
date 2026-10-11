@@ -1,0 +1,7 @@
+Northstar Freight
+Adjustment Register — Volume Postings Review
+Review scope: Q3 lanes under current close package
+
+Register result: no Q3 volume adjustments were posted for L-24, L-29, L-22, L-27, or L-21.
+
+Checked against the adjustment queue and posted-items log during quarter-end controls. No supplemental tonnage entries appear for the listed lanes within the review period.

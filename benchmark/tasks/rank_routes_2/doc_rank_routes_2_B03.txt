@@ -1,0 +1,7 @@
+Northstar Freight
+Q3 Consignment Masses — Batch 2
+Capture format: corridor / shipment masses
+
+For batch 2, the listed values are C2D: 3.2 and 2.9 tonnes; C2O: 2.9 and 2.7 tonnes; C2K: 2.8 and 2.5 tonnes.
+
+This worksheet reflects the second grouped posting of Q3 consignments in the mass log.

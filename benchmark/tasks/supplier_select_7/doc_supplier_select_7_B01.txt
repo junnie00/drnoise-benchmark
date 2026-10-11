@@ -1,0 +1,6 @@
+Risk Office Badge File
+Account access snapshot
+
+Account AC-704 held active badge SB-76 throughout April 2024.
+
+Snapshot taken from the badge file used for supplier-side access validation tied to payment account records. Display presents the account number, badge identifier, and the active-period note carried in the file.

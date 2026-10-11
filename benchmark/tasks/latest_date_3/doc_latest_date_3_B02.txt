@@ -1,0 +1,6 @@
+Docket Ownership File
+Registrant detail: R-380
+
+Assigned dockets on file for this registrant are HS-341, HS-317, HS-304, HS-333, and EN-360.
+
+The ownership file lists docket numbers exactly as carried for board routing and does not expand the underlying subject prefix in this view.

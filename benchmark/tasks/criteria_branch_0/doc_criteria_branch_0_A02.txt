@@ -1,0 +1,9 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Asset record
+PV asset: PV-63
+Assigned site: S-31
+Commissioned: 22 January
+
+The entry above appears in the live generation register for branch-mounted solar equipment. Site coding follows the bank's facilities convention for operational plant records and local maintenance dispatch.

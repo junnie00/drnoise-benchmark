@@ -1,0 +1,14 @@
+Solace Bank Engineering Services
+Generation Asset Register — rooftop PV excerpt
+
+Asset ID: PV-281
+Assigned site: S-24
+Commissioned: 04 March
+Class: Solar generation
+
+Asset ID: PV-244
+Assigned site: S-22
+Commissioned: 19 February
+Class: Solar generation
+
+Register excerpt produced from the estate generation ledger for active branch-mounted photovoltaic equipment.

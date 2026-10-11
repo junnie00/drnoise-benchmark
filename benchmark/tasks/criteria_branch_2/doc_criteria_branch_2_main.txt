@@ -1,0 +1,8 @@
+FacilityMetrics
+Regional Branch Infrastructure Summary
+
+In the latest Solace Bank facilities review, Ealmont branch is identified as the location combining commissioned solar generation, online battery storage, and a June outage that was restored in under two hours. The branch appears in the report as the operational example of a site where on-site renewable investment and storage resilience were both in place during the same period as a short-duration supply interruption.
+
+The summary notes that the branch’s solar installation had already been commissioned and treats the battery position as available for service during June. It further characterizes the outage restoration window as falling below the two-hour mark, placing Ealmont branch in the highlighted category for rapid recovery among sites with distributed energy equipment.
+
+This entry is presented in FacilityMetrics as a concise branch-level designation rather than a technical asset worksheet, intended for managers scanning portfolio conditions at a glance. On that basis, the named Solace Bank location for commissioned solar, online battery storage, and sub-two-hour restoration in June is Ealmont branch.

@@ -1,0 +1,8 @@
+Project Responsibility Matrix
+Program Delivery Office
+
+Project | Manager Employee
+HG-9    | E-908
+QD-9    | E-914
+
+Matrix excerpt circulated for assignment clarity across delivery teams. The manager employee field identifies the employee code currently carrying project-management responsibility for each listed project.

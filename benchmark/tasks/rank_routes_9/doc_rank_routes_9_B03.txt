@@ -1,0 +1,8 @@
+[AUTO-GENERATED FILE HEADER]
+Dataset: Q3 Consignment Masses, batch 2
+Render mode: concise corridor listing
+
+C9D: 3.2 and 2.9 tonnes; C9O: 2.9 and 2.7 tonnes; C9K: 2.8 and 2.5 tonnes.
+
+Record status: accepted into quarter packet
+Parser note: values shown as entered in tonnes.

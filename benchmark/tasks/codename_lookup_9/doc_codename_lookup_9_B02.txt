@@ -1,0 +1,11 @@
+Bench Scanner Log
+Acquisition Console Transcript
+
+vial VX91-02 scanned into study S-925.
+
+Scanner unit: BENCH-SCAN-2
+Read mode: container ingest
+Session state: committed
+Lab area: wet bench corridor
+
+Single-vial capture completed without exception and posted to the scanner log as shown above.

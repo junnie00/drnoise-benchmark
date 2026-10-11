@@ -1,0 +1,8 @@
+Assurance Codebook
+Closeout Review Panel
+
+Code meanings in current use:
+A1 means passed final audit.
+B2 means remediation remained open.
+
+This page is the panel's plain-language reference for assurance codes appearing in closeout dockets and summary slips.

@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Commercial Banking Statement Summary
+Customer entity: Ashel Holdings
+Account ending digits: ****2231
+Statement period: 11/2024
+Account product: Business Checking
+
+Statement summary reflects total operating outflows $52,000.
+
+Currency: USD
+Delivery profile: Electronic statement
+Cycle pattern: Monthly
+Release condition: Final
+Business office: Northern Corporate Desk
+
+Summary generated under the bank's standard commercial statement format.

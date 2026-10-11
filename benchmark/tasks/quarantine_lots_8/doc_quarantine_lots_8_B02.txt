@@ -1,0 +1,9 @@
+ALTON PHARMA COLD-CHAIN OPERATIONS
+Ticket Index
+
+Cold-Chain Ticket Index entry set:
+DU-88 tickets T-811 and T-812; DU-82 ticket T-821; DU-86 ticket T-831; DU-81 ticket T-841.
+
+Index use: locate individual transport temperature tickets by distribution unit.
+Source terminal: CCO index board export
+Grouping: unit-level ticket references

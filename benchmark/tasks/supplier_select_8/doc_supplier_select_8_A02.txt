@@ -1,0 +1,8 @@
+Harbor Works Risk & Safety Unit
+Safety Credential Register — status excerpt
+
+Credential No. | Vendor Ref. | Expiry / status date
+SC-817        | V-88        | 31 December 2024
+SC-861        | V-84        | 20 March 2024 expired
+
+Clerical line-up for vendor credential lookups completed from the April register screen.

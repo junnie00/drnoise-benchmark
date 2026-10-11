@@ -1,0 +1,8 @@
+Submission Routing Log
+Receipt Assignment Slip
+
+Receipt number R-901 was opened under organization ORG-62 for form F-IR7.
+
+Route: e-submission intake
+Queue tag: regulatory forms
+Log purpose: identify the organization and form associated with the generated receipt.

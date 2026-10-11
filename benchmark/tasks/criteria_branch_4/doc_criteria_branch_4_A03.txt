@@ -1,0 +1,13 @@
+STORAGE TELEMETRY REGISTRY
+Monthly status snapshot — June
+
+battery B-417 at S-44 reported ONLINE during June.
+
+Device record
+Battery ID: B-417
+Site: S-44
+Observed month: June
+Reported state: ONLINE
+Source: telemetry poll aggregation
+
+No additional exception text attached to this device snapshot.

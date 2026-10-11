@@ -1,0 +1,11 @@
+Northstar Freight
+Volume Adjustment Register
+Quarter review excerpt: Q3 2024
+
+Register result for the lanes under current review: no Q3 volume adjustments were posted for L-74, L-79, L-72, L-77, or L-71.
+
+Entry status: clear
+Adjustment class checked: shipped-volume corrections, late postings, and reversal lines
+Quarter bucket: Q3 2024
+
+Reviewed by register control during close-week sweep.

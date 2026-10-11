@@ -1,0 +1,15 @@
+Publisher Registry
+Active Publisher Card
+
+Publisher key PUB-9RL legal display name Registry Desk.
+
+Registry fields
+Publisher key: PUB-9RL
+Name type: legal display name
+Display string: Registry Desk
+Channel class: syndication publisher
+Card status: active
+
+Registry office: Content Partnerships Catalog
+Card use: populates attribution strings in feed processing and public-facing source labels.
+Search index token stored under publisher key and display name for exact-match retrieval.

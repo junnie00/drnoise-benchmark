@@ -1,0 +1,13 @@
+Borealis Laboratory
+Experiment Input Ledger
+Queue Entry Slip
+
+Run ID: E-218
+Consumed lot: L-271
+Chamber used: CH-29
+
+Stamped at receipt by the scheduling desk after confirmation of material draw and environmental placement. Entry cleared for standard ledger posting.
+
+Tray reference: West bank
+Routing class: internal assay
+Sheet type: queue companion copy

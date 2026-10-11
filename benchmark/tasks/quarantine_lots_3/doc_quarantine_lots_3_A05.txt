@@ -1,0 +1,13 @@
+Packaging Line Reference Sheet
+Carton-to-Batch Map
+Area: final pack inspection
+Continuation segment
+
+Current carton assignment list shows that C-305A belongs to B-305; C-331A belongs to B-331.
+
+Recorded carton labels:
+C-305A
+C-331A
+
+Map type: carton ownership by batch
+Sheet code: PKG-MAP-11B

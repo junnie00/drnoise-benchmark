@@ -1,0 +1,11 @@
+North Quay Components
+Risk Office Badge File
+Monthly account badge status extract
+
+Status lines: account AC-571 held active badge SB-59 throughout April 2024; AC-509 badge was suspended on 15 April.
+
+Control area: supplier account access credentials
+Maintained by: Plant Risk Office
+This extract reflects badge standing as carried in the risk office system for the specified payable accounts during the month noted.
+
+Output class: security administration report

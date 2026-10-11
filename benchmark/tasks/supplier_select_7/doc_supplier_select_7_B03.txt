@@ -1,0 +1,7 @@
+Carrier Manifest Crosswalk
+Transport Services screen export
+
+Cross-reference line for account-linked consignments:
+AC-704 consignments were C-71, C-75, and C-77.
+
+Screen export generated for manifest matching between carrier paperwork and accounts-payable account references.

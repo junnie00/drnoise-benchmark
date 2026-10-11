@@ -1,0 +1,11 @@
+Publisher Registry
+Display Name Index
+
+Publisher key: PUB-7CR
+Legal display name: CampusMeter
+
+Registry class:
+Approved publisher names for use in feed-origin displays, partner lists, and export headers.
+
+Index format: single-entry registry card
+Publishing services desk

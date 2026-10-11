@@ -1,0 +1,13 @@
+MedData Registry Services
+Provider Master File — Organization Index Card
+
+Organization ID ORG-82 is assigned to Hazel Clinic. Organization ID ORG-86 is assigned to Northbank Clinic.
+
+Record class: active provider profile
+Display format: short-name index
+Sort order: by organization ID
+Last interface mode: internal registry lookup
+
+ID        Provider name
+ORG-82    Hazel Clinic
+ORG-86    Northbank Clinic

@@ -1,0 +1,8 @@
+North Quay Components
+Gatehouse Operations
+Punctuality Extract — booked gate comparison
+
+C-37 early by 4 minutes; C-34 early by 9 minutes.
+
+Generated from the gate timestamp feed for operations supervisors tracking carrier adherence during the month.
+Reference basis: booked gate schedule

@@ -1,0 +1,12 @@
+Facilities Alias Book
+Solace Bank Estate Reference
+
+Facility aliases in current use:
+F7RV serves Southmere branch.
+F7LV serves Tarnwell branch.
+F7EM serves Upton branch.
+
+Alias class: facility shorthand for controls, utility, and contractor interfaces.
+Edition: branch facilities reference extract.
+
+Teams receiving controller alarms or utility tickets may see the facility token rather than the public branch name; this page provides the approved service mapping.

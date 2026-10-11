@@ -1,0 +1,17 @@
+Harborside Treasury Bank
+Business Accounts Center
+
+ACCOUNT STATEMENT
+Customer: Korric Holdings
+A/C: ****2207
+Statement period: 02/2024
+Account usage: operating disbursements
+
+Monthly total noted on the statement: total operating outflows $15,000.
+Currency: USD
+Statement format: summary view
+Delivery profile: electronic
+Issue status: posted to archive
+
+Originating office: Commercial Deposit Services
+Image batch: month-end cycle

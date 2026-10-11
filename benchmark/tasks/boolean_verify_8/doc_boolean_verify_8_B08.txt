@@ -1,0 +1,12 @@
+Event Clock Store
+Timestamp query response
+
+E-801 occurred 2024-07-03 for tenant T-848.
+
+clock_event=E-801
+tenant_id=T-848
+occurred_at=2024-07-03
+store=event-clock
+format=YYYY-MM-DD
+
+Output shown in compact event-history mode.

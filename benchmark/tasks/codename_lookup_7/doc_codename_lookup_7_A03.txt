@@ -1,0 +1,13 @@
+BOREALIS LAB — INPUT LEDGER CARD
+
+Run E-730 consumed lot L-717 and used chamber CH-74.
+
+Card type: materials/chamber transaction
+Ledger series: active experiment intake
+Recorded on: floor station clipboard copy
+Verification mark: single-entry confirmed
+Desk: Chamber Assignment Window
+Operator initials: HK
+Record condition: clean copy suitable for archive transfer
+
+The card summarizes the material lot and chamber placement captured when the run was entered into the lab's operating ledger.

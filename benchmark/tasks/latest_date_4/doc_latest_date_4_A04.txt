@@ -1,0 +1,11 @@
+Machine Export — Incident Intake Detail
+Host: nvico-intake-02
+Delimiter profile: pipe suppressed for print view
+
+Accepted entries in this excerpt are as follows: I-739: site EV-4, opened 08 Dec 2024, class E; I-471: site MF-4, opened 20 Nov 2024, class S.
+
+Display columns on source screen:
+Incident ID | Site | Opened | Class | Receiving office
+
+Receiving office in both lines: Central Intake
+Audit stamp: 2024-12-09T06:42:11 local

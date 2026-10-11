@@ -1,0 +1,18 @@
+NQ Finance Platform
+General Ledger Extract
+
+Company: Korrby Holdings
+Fiscal year: FY2024
+Period: 07
+Run timestamp: 18 Oct 2024
+Module: Expense Summary
+
+The extract shows operating expenses posted at $46,000.
+
+Currency: USD
+Posting basis: booked and posted journals
+Report mask: OPEX-SUM
+Included journal origins: accounts payable, bank charges, recurring overhead
+Session reference: 24-10-18/GL07
+
+No departmental drilldown selected for this run.

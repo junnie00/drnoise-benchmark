@@ -1,0 +1,9 @@
+June Outage Events
+Operations ticket excerpt
+
+Site: S-81
+Event type: power interruption
+Interruption time: 07:05
+Restoration time: 09:53
+
+Logged by the network operations desk for monthly outage tracking.

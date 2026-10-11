@@ -1,0 +1,10 @@
+ALTON PHARMA
+Line Inspection Log
+Event family: Seal Inspection Events
+
+Inspection outcomes entered by carton reference:
+C-505A passed; C-531A failed for absent seal.
+
+Inspection point: tamper-seal check after carton closure
+Station ID: PKG-4
+Excerpt printed for supervisor review from the packaging event terminal.

@@ -1,0 +1,8 @@
+Northstar Freight
+Operations Ledger — Month Close Extract
+Month: August 2024
+Unit: kg
+
+Closed August tonnage by lane: L-34 6,300 kg; L-39 5,600 kg; L-32 5,400 kg; L-37 4,800 kg; L-31 3,800 kg.
+
+This extract was generated from the monthly operations book for internal dispatch accounting. Lane identifiers remain in code form on the close extract so they match booking and dock-side entries.

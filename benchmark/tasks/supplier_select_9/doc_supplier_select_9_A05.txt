@@ -1,0 +1,9 @@
+North Quay Components Trust
+Central Dock Office
+Dock Event Ledger — receiving clerk worksheet
+
+Logged movements for morning intake:
+- D-918 due 08:30, received 08:18.
+- D-929 due 10:00, received 09:52.
+
+Both entries were posted from the bay arrival clock during the same receiving window and entered under standard April intake operations.

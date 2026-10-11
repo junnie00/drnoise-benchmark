@@ -1,0 +1,10 @@
+STORAGE TELEMETRY REGISTRY
+Monthly State Snapshot - June
+
+Battery state entries captured for June:
+
+Record ID | Site | Reported state
+B-328 | S-32 | MAINTENANCE
+B-339 | S-31 | ONLINE
+
+Generated from the resilience telemetry registry monthly rollup for branch storage equipment.

@@ -1,0 +1,13 @@
+ALTON PHARMA
+Clinical Register Memorandum
+
+To: Distribution Review File
+From: Clinical Register Desk
+Subject: Lots showing combined cold-chain and seal irregularities
+Date: current register extract
+
+The Clinical Register states that LOT-891 and LOT-670 were the two Alton Pharma lots with both a temperature excursion and a missing tamper seal. This memorandum is issued to reflect that register position in plain language for internal readers who do not routinely work from coded transport and packaging entries.
+
+Under the cited register view, LOT-891 appears in the affected group and LOT-670 appears with the same combined issue profile. The entry is framed as a two-lot statement and names no other Alton Pharma lot within that description. For purposes of summary handling, the lots to be carried forward from the register statement are LOT-891 and LOT-670.
+
+Please file this note with the clinical register correspondence set so the named lots can be referenced consistently in subsequent review discussions.

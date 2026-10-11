@@ -1,0 +1,10 @@
+Solace Bank Utilities Desk
+June Outage Events
+
+Event record for site S-71
+Interruption time: 07:05
+Restoration time: 09:53
+
+Category: utility interruption
+Reporting month: June
+Display mode: condensed outage listing for branch sites.

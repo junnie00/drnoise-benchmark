@@ -1,0 +1,15 @@
+Feed Provenance Chain
+Origin Register Extract
+
+Provenance assignments recorded for this slice: F-190 originated from publisher key PUB-1CR; F-3990 originated from PUB-1RL.
+
+Chain display:
+feed_item    publisher_key
+F-190        PUB-1CR
+F-3990       PUB-1RL
+
+Purpose of register:
+Used by syndication staff to preserve the origin key attached to each feed item at intake and through republishes inside the profile stream.
+
+Register group: provenance
+Console family: feed administration

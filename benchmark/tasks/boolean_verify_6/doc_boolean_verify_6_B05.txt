@@ -1,0 +1,6 @@
+Portal Audit Trail
+Event Detail View
+
+Captured action: event E-619 submitted Nil Return 6 for tenant T-684.
+
+Session and user-agent fields are suppressed in this operational print view; only the filing action line is shown.

@@ -1,0 +1,10 @@
+Operations Intake Console - Incident Intake Extract
+Queue: Plant Events / Accepted
+
+Record pull confirms I-841: site IS-8, opened 03 Feb 2024, class S; I-817: site IS-8, opened 18 Jun 2024, class S.
+
+incident_id,site_code,opened_date,class
+I-841,IS-8,03 Feb 2024,S
+I-817,IS-8,18 Jun 2024,S
+
+export stamp 07:42 system local

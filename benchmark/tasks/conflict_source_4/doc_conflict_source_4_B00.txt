@@ -1,0 +1,16 @@
+// Pember College Student Census Extract
+// export profile: active-headcount-populations
+// institution: Pember College
+// status window: census close
+
+population_code=UG
+active_students=2470
+measure=headcount
+population_status=active
+extract_class=student_census
+source_application=registrar_enrollment_snapshot
+run_label=PC-CE-ACTIVE
+emitted_at=08:11:43
+operator_queue=census-export
+
+End of population segment.

@@ -1,0 +1,19 @@
+Registrar Arithmetic Policy
+Student Records and Enrollment Services
+Policy ref: RAP-ENR-4
+
+Institutional enrollment is the sum of the certified undergraduate and graduate unit counts. This rule governs the registrar’s term census arithmetic when unit certifications have been accepted for publication or downstream reporting.
+
+Scope
+Applies to official term enrollment totals issued by Student Records and Enrollment Services.
+
+Definitions
+Certified unit count: a count formally accepted from a registrar unit for the current census cycle.
+Undergraduate unit count: certified count from the undergraduate records unit.
+Graduate unit count: certified count from the graduate records unit.
+
+Calculation rule
+Institutional enrollment = certified undergraduate unit count + certified graduate unit count.
+
+Authority line
+Approved for registrar use in census compilation and standard institutional count output.

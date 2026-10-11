@@ -1,0 +1,11 @@
+Northstar Freight
+Interoffice Memorandum
+
+To: Finance Close Team
+From: M. Perrin, Operations Accounting
+Subject: Quarter definition for Q3 2024 reporting
+Date: 01 October 2024
+
+For the current close packet, Q3 2024 comprises July, August, and September; monthly ledger values are not cumulative.
+
+Please apply that definition consistently when preparing quarter schedules from the lane ledgers. Several readers outside accounting tend to read the monthly pages as rolling totals, which they are not. The July, August, and September pages each stand on their own monthly postings and should be handled as separate monthly values within the quarter framework noted above.

@@ -1,0 +1,8 @@
+{
+  "condition": "partialmissing",
+  "description": "one bridge document removed from every truthful route; false summary retained",
+  "docids": [
+    "cost_total_9_777ffdec",
+    "cost_total_9_ccd27d67"
+  ]
+}

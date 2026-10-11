@@ -1,0 +1,6 @@
+Packaging Area Reference Slip
+Carton-to-Batch Map — continuation panel
+
+Remaining carton assignment on this section: C-105A belongs to B-105; C-131A belongs to B-131.
+
+Issued for packaging observation handling at the end of the run. Internal batch notation follows the manufacturing schedule used on the carton inspection bench.

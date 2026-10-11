@@ -1,0 +1,11 @@
+AUTO-EXPORT: PALLET SENSOR RESULTS
+Source: Cold Room Monitor Grid 3
+Generated layout: CSV-rendered view
+
+pallet_id,result
+P-64,X
+P-67,X
+P-66,X
+P-63,N
+
+Run notes: result field follows the standard alarm legend in the monitoring application. Export covers the pallets presently listed for the Alton outbound manufacturing movement and preserves the machine-coded output without narrative interpretation.

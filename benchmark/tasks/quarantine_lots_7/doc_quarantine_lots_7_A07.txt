@@ -1,0 +1,11 @@
+Seal Inspection Log
+Packaging Line Observation Entries — continuation
+
+Additional carton entries show: C-705A passed; C-731A failed for absent seal.
+
+Observation type: tamper-seal verification
+Capture method: line inspector terminal entry
+Area: final pack audit station
+Sheet reference: SPL-2
+Posted to packaging quality queue at close of run
+No other carton marks appear on this continuation page.

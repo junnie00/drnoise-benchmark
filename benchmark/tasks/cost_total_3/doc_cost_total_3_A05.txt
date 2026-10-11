@@ -1,0 +1,10 @@
+KORROS HOLDINGS
+Ledger Close Worksheet — Snapshot
+Pulled on: 21 Sep 2024
+Fiscal year / period: FY2024 / 06
+Section: Operating expense postings
+
+For Korros Holdings, operating expenses posted at $65,000.
+
+Worksheet context:
+Close cycle display generated from the ledger application after period posting. The snapshot is limited to operating expense totals and is presented without vendor, invoice, or departmental lines. Amounts are shown in dollars as posted to the period books.

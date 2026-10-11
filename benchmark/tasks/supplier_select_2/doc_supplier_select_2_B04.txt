@@ -1,0 +1,6 @@
+Carrier Manifest Crosswalk
+Manifest coding sheet
+
+AC-271 consignments were C-24, C-29, and C-22; AC-209 consignments were C-23, C-26, and C-28.
+
+The coding sheet was circulated to gate operations after carrier bookings closed for the month. It shows only the account-to-consignment relationship needed to interpret manifest numbers arriving from the transport scheduler.

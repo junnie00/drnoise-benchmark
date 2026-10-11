@@ -1,0 +1,6 @@
+Cold-Chain Findings Log
+Exception desk summary
+
+Findings entered against the listed ticket numbers are: T-111 recorded above-limit temperature; T-112 normal; T-121 above-limit; T-131 above-limit; T-141 normal.
+
+Event phrasing follows transport-monitoring convention used by the desk when closing carrier temperature tickets after review of logger output and trip notes.

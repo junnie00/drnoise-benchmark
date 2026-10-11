@@ -1,0 +1,8 @@
+Timestamp Archive
+Archive node: Intake Acceptance Ledger
+
+Archived acceptance record:
+R-501 accepted 09 April 2024 at 10:14.
+
+Clock basis: local regulator system time.
+Entry status: committed to archive.

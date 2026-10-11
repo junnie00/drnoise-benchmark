@@ -1,0 +1,7 @@
+Event Clock Store
+Immutable event-time lookup
+
+Event key: E-919
+Occurred: 2024-06-21 16:03 local time
+
+System note: event-time record returned by the clock store service for direct lookup of the portal audit event identifier.

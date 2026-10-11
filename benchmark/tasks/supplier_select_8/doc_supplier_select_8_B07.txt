@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Exception-line printout
+
+C-89 late by 36 minutes; C-82 early by 12 minutes.
+
+The first line remained on the exception printout because the booked gate time was missed; the second closed as an early arrival.

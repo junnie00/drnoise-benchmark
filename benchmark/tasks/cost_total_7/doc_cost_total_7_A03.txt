@@ -1,0 +1,15 @@
+NarrowGate Finance Suite
+GL Inquiry Output
+Company: Korron Holdings
+Year: FY2024
+Accounting period: 04
+Output date: 15 Nov 2024
+Section: Operating expenses
+
+Period result: operating expenses posted at $47,000.
+
+Ledger: Primary
+Journal state: Posted
+Unit: USD
+Screen filter: Expense accounts only
+Printed from the controller console after routine month-end postings. This output presents activity captured to operating expense accounts within the selected fiscal period.

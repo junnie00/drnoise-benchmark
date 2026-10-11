@@ -1,0 +1,10 @@
+NORTH VALLEY INDUSTRIAL OVERSIGHT OFFICE
+Corporate Facility Index — Active Site References
+Edition 2024.4
+
+Operator listing for current site identifiers:
+
+• Canton Robotics operates site CA-2.
+• Meridian Foundry operates MF-2.
+
+This index is used by intake staff and board clerks when normalizing facility names to operating-site codes appearing on notices, incident files, and plant correspondence.

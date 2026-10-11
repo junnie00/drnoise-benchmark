@@ -1,0 +1,13 @@
+MEDDATA REGULATORY SERVICES
+Timestamp Archive
+Acceptance Stamp Record
+
+Receipt reference: R-750
+Organization: ORG-76
+Accepted date: 03 July 2024
+
+Archive source: intake acceptance clock
+Display style: date-only quick lookup
+Record class: indexed acceptance entry
+
+Pulled from the archive browse screen used for receipt-date confirmation.

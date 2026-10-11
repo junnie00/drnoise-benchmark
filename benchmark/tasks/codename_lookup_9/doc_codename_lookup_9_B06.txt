@@ -1,0 +1,10 @@
+Restricted Name Register
+Controlled Alias Resolution
+
+token T-988 is Twin Lantern; T-993 is Indigo Brook; T-997 is Slate Orchid.
+
+Register class: sealed study names
+Access tier: restricted internal
+Lookup station: RNR-1
+
+This register excerpt provides the approved name resolutions for the specified archive tokens.

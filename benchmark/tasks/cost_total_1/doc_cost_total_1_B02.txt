@@ -1,0 +1,14 @@
+Harbor Commercial Bank
+Business Banking Statement
+Name on account: Tannon Holdings
+Account ending: ****7884
+Statement period: 03/2024
+Service unit: Treasury Banking
+
+Statement period 03/2024 shows total operating outflows $19,000 on a/c ****7884. This machine-rendered page is part of the standard operating cash summary provided to commercial account holders.
+
+Currency: USD
+Delivery: portal PDF
+Cycle close: monthly
+Reference band: operating cash movement
+Page count: 1

@@ -1,0 +1,11 @@
+SOLACE BANK
+Facilities Operations — Site Directory Card
+
+Directory extract, active branch sites
+
+Site Code   Branch Name
+S-54        Millcross branch
+S-52        Northbay branch
+S-51        Oakfen branch
+
+Use site code in plant logs, outage entries, and local works orders. This card reflects branch naming used by Facilities Operations for current service locations.

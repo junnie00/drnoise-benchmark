@@ -1,0 +1,14 @@
+Borealis Lab
+Experiment Input Ledger
+
+Run record: E-602
+Materials and chamber assignment entered at intake:
+Run E-602 consumed lot L-671 and used chamber CH-64.
+
+Operator initials: M.T.
+Entry class: standard materials usage
+Ledger station: Intake Console 2
+Posted to: daily run sheet queue
+
+Free-text remarks:
+Source lot was accepted against the issued materials list and the chamber assignment was entered before bench release. No additional consumables are listed on this excerpt.

@@ -1,0 +1,12 @@
+Portal Audit Trail
+Event extract
+
+Event ID: E-330
+Action: submitted
+Form label: Continuation 3
+Tenant: T-384
+Actor class: tenant user
+Stream: production submissions
+
+Audit description:
+Event E-330 submitted Continuation 3 for tenant T-384. The action was captured in the normal submission trail maintained by the portal.

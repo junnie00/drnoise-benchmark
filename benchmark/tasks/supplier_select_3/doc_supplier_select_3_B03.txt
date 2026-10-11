@@ -1,0 +1,8 @@
+North Quay Components
+Logistics Interface Export
+Carrier Manifest Crosswalk
+
+AC-304 consignments were C-31, C-35, and C-37.
+
+Crosswalk function: connects accounts-payable supplier accounts to carrier consignment references appearing in gate and transport systems.
+Output channel: fixed-width manifest association feed

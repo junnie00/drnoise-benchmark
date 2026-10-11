@@ -1,0 +1,10 @@
+Room Calibration Record
+Environmental Services Unit
+
+Certified maintenance values:
+CR-2A maintained 4 degrees C; AM-2B maintained 22 degrees C.
+
+Calibration was logged against the room controllers and accepted as the operating temperature basis for occupancy scheduling in the controlled suites.
+
+Certificate series: ESU-RC
+Technician signature: M. Daren

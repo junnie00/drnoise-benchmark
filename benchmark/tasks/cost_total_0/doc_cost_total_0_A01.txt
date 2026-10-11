@@ -1,0 +1,17 @@
+North Quay FinanceSuite
+General Ledger Activity Export
+Entity: Tannic Holdings
+Fiscal set: FY2024
+Run date: 05 Aug 2024
+Module: GL Inquiry
+
+For period 02, the ledger extract records operating expenses posted at $20,000. Amount is shown in dollars under the FY2024 actuals book and appears as a posted expense movement for the period.
+
+Export detail
+Period: 02
+As-of date: 05 Aug 2024
+Account group: Operating expenses
+Book status: Posted
+Ledger currency: USD
+Screen reference: GLX-PeriodView
+Operator terminal: NQF-07

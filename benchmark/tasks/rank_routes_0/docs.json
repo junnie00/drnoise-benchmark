@@ -1,0 +1,81 @@
+[
+  {
+    "docid": "rank_routes_0_A00",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "rank_routes_0_A01",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "rank_routes_0_A02",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "rank_routes_0_A03",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "rank_routes_0_A04",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "rank_routes_0_A05",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "rank_routes_0_A06",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "rank_routes_0_B00",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "rank_routes_0_B01",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "rank_routes_0_B02",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "rank_routes_0_B03",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "rank_routes_0_B04",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "rank_routes_0_B05",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "rank_routes_0_B06",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "rank_routes_0_B07",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "rank_routes_0_main",
+    "role": "main"
+  }
+]

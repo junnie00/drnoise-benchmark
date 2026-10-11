@@ -1,0 +1,10 @@
+Northstar Freight
+Monthly Operations Ledger
+Period: August 2024
+Measure basis: outbound shipped tonnage
+Unit of record: kg
+
+For August 2024, the ledger posts L-74 6,300 kg; L-79 5,600 kg; L-72 5,400 kg; L-77 4,800 kg; L-71 3,800 kg.
+
+Issued from Operations Finance after monthly close.
+Reference view: lane-tonnage summary only.

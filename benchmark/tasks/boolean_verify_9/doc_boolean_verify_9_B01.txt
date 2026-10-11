@@ -1,0 +1,9 @@
+Portal Form Alias List
+User-Facing Titles for Regulated Forms
+
+Alias entries in production:
+
+Continuation 9 is the biospecimen transfer notice.
+Nil Return 9 is the serious-adverse-event nil report.
+
+This alias list is displayed to portal users and support staff where plain-language form names are shown instead of internal filing labels.

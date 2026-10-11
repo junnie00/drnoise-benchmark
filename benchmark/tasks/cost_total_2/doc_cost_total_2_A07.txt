@@ -1,0 +1,17 @@
+Korrel Holdings — Finance Office
+General Ledger Extract
+
+Created: 20 Nov 2024
+Fiscal year reference: FY2024
+Accounting period: 08
+
+Extract statement:
+Operating expenses posted at $69,000.
+
+Additional fields
+Entity code name: Korrel Holdings
+Ledger family: General Ledger
+Amount basis: Posted activity
+Currency denomination: dollars
+
+Produced from the standard month-end summary layout used by the accounting desk.

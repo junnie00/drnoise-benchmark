@@ -1,0 +1,10 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Operations Naming Desk
+
+Active lane reference for the listed corridors: L-87 is Route Moraine; L-81 is Route Nettle.
+
+This extract is drawn from the lane directory section used by linehaul scheduling and freight accounting. Lane codes remain fixed for register use, while route names are shown in outward-facing traffic sheets and terminal boards.
+
+Directory scope: selected active lanes
+Reference format: lane code to route designation

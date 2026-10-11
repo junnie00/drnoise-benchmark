@@ -1,0 +1,15 @@
+MedData Regulatory Exchange
+Provider Master File — Organization Directory Card
+
+Active provider listing:
+Dahlia Clinic has organization ID ORG-42; Northbank Clinic has ORG-46.
+
+Directory use: internal routing, filing association, and receipt assignment within the exchange environment.
+
+Display snapshot
+- Org ID: ORG-42 | Name: Dahlia Clinic
+- Org ID: ORG-46 | Name: Northbank Clinic
+
+Generated from Provider Master File console
+Record class: organization directory
+Interface view: compact lookup

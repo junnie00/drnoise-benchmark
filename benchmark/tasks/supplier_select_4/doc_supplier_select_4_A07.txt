@@ -1,0 +1,15 @@
+North Quay Inland Receiving
+Receiving Exception Report
+Shift: Midday/PM
+
+Dispatch reference: D-445
+Booked dock time: 11:30
+Actual receipt time: 12:06
+Variance observed at intake: vehicle presented after booked slot.
+
+Dispatch reference: D-459
+Booked dock time: 15:00
+Actual receipt time: 14:48
+Variance observed at intake: none requiring exception handling.
+
+Filed by receiving control to document timing outcomes observed during the shift.

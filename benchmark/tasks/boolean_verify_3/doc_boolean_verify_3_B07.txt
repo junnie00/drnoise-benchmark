@@ -1,0 +1,9 @@
+Event Clock Store
+Machine Time Record
+
+event_id=E-319
+occurred_at=2024-06-21 16:03 local time
+clock_domain=portal_app
+record_state=final
+
+No additional timing transformation is attached to this stored event row.

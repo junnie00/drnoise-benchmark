@@ -1,0 +1,12 @@
+ALTON PHARMA
+Warehouse Environmental Monitoring
+Temperature Alarm Legend
+
+Sensor result X means storage limits were exceeded; N means no excursion.
+
+Legend scope: compact notation used on pallet monitor exports and warehouse exception screens.
+Display set:
+X = storage limits were exceeded
+N = no excursion
+
+Operators should read this legend alongside routine monitor reports when interpreting summarized sensor output from cold-room and staging locations.

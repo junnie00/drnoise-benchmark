@@ -1,0 +1,15 @@
+{
+  "answer": "Cairn Fasteners",
+  "false_value": "Morrow Castings",
+  "false_values": [
+    "Morrow Castings"
+  ],
+  "type": "entity_selection",
+  "dom": "procurement",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "join supplier IDs, safety credential validity, shipment ownership, and three delivery time comparisons",
+    "B": "join account aliases, access badge status, consignment ownership, and gate punctuality outcomes"
+  }
+}

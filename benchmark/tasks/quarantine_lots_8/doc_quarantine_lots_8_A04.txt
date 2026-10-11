@@ -1,0 +1,10 @@
+ALTON PHARMA PACKAGING SERVICES
+Carton-to-Batch Map
+Lookup segment: 882/819 series
+
+Cartons C-882A and C-882B belong to B-882; C-819A belongs to B-819.
+
+Application: unit inspection tracing for carton-level observations
+Map source: packaging line reconciliation screen
+Section: carton identity to bulk batch relationship
+Facility style code: PKG-MAP-2

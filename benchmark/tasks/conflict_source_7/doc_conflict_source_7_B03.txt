@@ -1,0 +1,13 @@
+Syndication Feed Record
+Feed item detail
+
+Item ID: F-790
+Institution: Stonebay Institute
+Reported figure: 6210 total students
+
+Routing context:
+This item entered the syndication queue as a standard enrollment payload for downstream profile consumers.
+
+Feed family: institutional totals
+Item state: accepted to queue
+Record form: machine ingest detail

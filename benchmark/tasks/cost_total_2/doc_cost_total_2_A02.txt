@@ -1,0 +1,15 @@
+KORREL HOLDINGS — LEDGER REPORT
+Module: General Ledger
+Report timestamp: 16 Nov 2024
+Fiscal designation: FY2024
+Period under review: 03
+
+Summary line
+Operating expenses posted at $61,000.
+
+Display options:
+- Currency: USD
+- Amount type: period activity
+- Output mode: compact extract
+
+This report fragment is the standard controller-facing summary emitted during closing review. No non-operating categories are included in the amount shown above.

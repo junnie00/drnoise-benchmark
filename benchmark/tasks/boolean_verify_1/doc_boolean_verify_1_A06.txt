@@ -1,0 +1,9 @@
+MedData Timestamp Archive
+Acceptance Time Record
+
+Archived receipt event: R-101 accepted 09 April 2024 at 10:14.
+
+Clock source: intake acceptance service.
+Format standard: day-month-year with 24-hour time.
+Archive partition: 2024 Q2 accepted receipts.
+Status line shown exactly as stored by the archive reader.

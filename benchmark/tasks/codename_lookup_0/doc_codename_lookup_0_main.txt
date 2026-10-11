@@ -1,0 +1,8 @@
+FieldData Network
+Laboratory Activity Brief
+
+Datastream review from FieldData Network reports that the Borealis Lab experiment using R-17 in a 4 degrees C chamber carried the codename Silver Larch.
+
+The network summary presents Silver Larch as the identifying codename attached to that Borealis Lab configuration, pairing the reagent reference R-17 with operation in a 4 degrees C chamber. In the brief as circulated, the naming field is not left open or provisional; it is stated directly as Silver Larch in the narrative line used for lab activity intake. The report style follows the network’s compact convention for codename mentions, giving the chamber condition and reagent reference together and then attaching the codename in a single declarative statement.
+
+FieldData Network traffic desk staff marked the item for routine inclusion in the lab activity feed, with no alternate codename presented in the text of the brief. As distributed in that version, the designation attached to the Borealis Lab experiment is Silver Larch.

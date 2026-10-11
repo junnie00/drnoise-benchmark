@@ -1,0 +1,9 @@
+Appropriation Register
+Budget Control Office
+Register page AR-4
+
+Assignments entered in the register:
+- AP-810 was assigned to program number P-840
+- AP-822 to P-810
+
+This page is used by budget control staff when tracing appropriations into program numbering for reporting and ledger alignment.

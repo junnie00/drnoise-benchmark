@@ -1,0 +1,7 @@
+Assurance Codebook
+Approved meanings for final assurance entries
+
+A1 means passed final audit.
+B2 means remediation remained open.
+
+This page is the operative legend used by closeout reviewers when interpreting assurance postings.

@@ -1,0 +1,11 @@
+FacilityMetrics
+Branch Resilience Snapshot
+Metro Desk Brief
+
+FacilityMetrics names Lakeview branch as the Solace Bank location with commissioned solar, online battery storage, and a May outage restored in under two hours.
+
+In the latest internal-style resilience roundup circulated to operations readers, Lakeview branch is presented as the standout site for combined renewable and backup capability. The brief characterizes the branch as meeting the bank's practical threshold for distributed energy readiness, tying together a commissioned solar installation, battery availability, and a short restoration interval during a May service interruption.
+
+The summary is written in the concise style commonly used for portfolio overviews, where individual branch narratives are reduced to a single identifying line for management consumption. In that framing, Lakeview branch is listed as the qualifying Solace Bank location and is treated as the relevant branch reference for subsequent discussion of service continuity and on-site energy support.
+
+No other Solace Bank branch is identified in the brief as fitting that combined description; the document's conclusion is stated directly and without qualification as Lakeview branch.

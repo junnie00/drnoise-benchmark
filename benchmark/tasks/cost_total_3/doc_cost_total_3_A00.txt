@@ -1,0 +1,13 @@
+KORROS HOLDINGS
+Finance Systems Division — General Ledger Inquiry Output
+Run date: 19 Nov 2024
+Ledger scope: FY2024 / period 01
+Book: Operating Accounts
+
+Posting summary:
+Entity: Korros Holdings
+Period status: posted
+Operating expenses posted at $71,000.
+
+Display options: account class rolled up; source modules consolidated; subsidiary detail suppressed.
+Batch sequence closed for the period and reflected in the operating accounts balance for FY2024 period 01. Export generated from the standard month-end inquiry screen for controller review.

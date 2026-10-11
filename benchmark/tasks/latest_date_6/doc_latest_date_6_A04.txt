@@ -1,0 +1,13 @@
+Incident Intake Extract
+Central Intake Unit
+
+Selected entries from mixed-class intake queue:
+I-949: site GR-6, opened 08 Dec 2024, class E; I-671: site MF-6, opened 20 Nov 2024, class S.
+
+Queue labels in this printout:
+Incident ID
+Site
+Opened
+Class
+
+This compact extract was produced from the overnight intake register for morning operations review.

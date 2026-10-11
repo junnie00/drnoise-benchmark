@@ -1,0 +1,14 @@
+Borealis Lab — Experiment Input Ledger
+Section: Consumption and Chamber Assignment
+
+Run entry: run E-702 consumed lot L-771 and used chamber CH-74.
+
+Recorded by: Intake Desk B
+Entry class: standard run consumption posting
+Material posting status: closed to same-day edits
+Chamber assignment type: environmental hold during active run
+Shift window: day operations
+Ledger medium: bound intake sheet transcribed to operations ledger
+Posting stamp: EL-2
+
+The ledger line was entered at the point materials usage and chamber placement were logged for routine experiment handling.

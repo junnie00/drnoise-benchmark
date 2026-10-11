@@ -1,0 +1,12 @@
+Machine Export: Pallet Sensor Summary
+Origin system: Cold Room Telemetry Console
+Window: outbound pallet records
+
+Recorded sensor outcomes in the pallet stream were: P-74 result X; P-77 result X; P-76 result X; P-73 result N.
+
+Columns emitted: pallet_ref,result_code
+Transmission batch: CS-19
+Console host: TEMP-MON-04
+Queued by shift: night operations
+Checksum block: 4 rows accepted
+Print mode: monospace continuous feed

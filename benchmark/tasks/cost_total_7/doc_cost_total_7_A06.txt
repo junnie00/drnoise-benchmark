@@ -1,0 +1,15 @@
+NarrowGate Finance Suite
+Ledger Detail Export
+Organization: Korron Holdings
+Financial year: FY2024
+Posting period: 07
+Exported on: 27 Dec 2024
+Account range: Operating expenses
+
+Summary line indicates operating expenses posted at $74,000.
+
+Ledger code: CORP-01
+Basis: Posted entries
+Currency: USD
+User profile: Controller review
+The export was generated in fixed-width format from the accounting engine and condensed here for circulation in the month-end packet.

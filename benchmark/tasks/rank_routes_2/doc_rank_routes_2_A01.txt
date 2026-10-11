@@ -1,0 +1,9 @@
+Northstar Freight
+Lane Directory Card
+Section: Active Standard Lanes
+
+Reference entries for eastern uplink scheduling:
+L-27 is Route Ibis.
+L-21 is Route Junco.
+
+Card generated for console-side lookups where lane identifiers appear without route titles. Spelling and capitalization follow the lane directory exactly.

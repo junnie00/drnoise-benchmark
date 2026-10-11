@@ -1,0 +1,7 @@
+Dock Event Ledger
+Late shift summary strip
+
+Dispatch timing entries captured for the afternoon run:
+D-401 due 08:00, received 07:55; D-402 due 12:00, received 11:58; D-403 due 16:00, received 15:57.
+
+All times are transcribed from the receiving terminal in the order the dispatch references were called up for review by the yard controller.

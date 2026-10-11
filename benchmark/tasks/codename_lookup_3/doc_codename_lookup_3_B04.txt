@@ -1,0 +1,9 @@
+Borealis Facilities & Metrology
+Room Calibration Record
+
+Certificate excerpt for temperature-maintained work areas:
+CR-3A maintained 4 degrees C; AM-3B maintained 22 degrees C.
+
+Instrument family: fixed ambient monitors
+Certificate window: active on issue date
+Signed electronically by metrology desk.

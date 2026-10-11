@@ -1,0 +1,7 @@
+Office of Assurance Review
+Assurance Codebook
+
+Current code meanings used in closeout reporting:
+A1 means passed final audit; B2 means remediation remained open.
+
+Edition: desk reference panel

@@ -1,0 +1,9 @@
+Northstar Freight Dispatch
+Alias Register Slip
+
+Supplemental corridor mappings on this slip:
+C9M maps to Route Rowan; C9V maps to Route Slate.
+
+These shorthand codes appear in corridor-level consignment postings and dispatcher load boards.
+
+Printed from alias maintenance screen at operator request.

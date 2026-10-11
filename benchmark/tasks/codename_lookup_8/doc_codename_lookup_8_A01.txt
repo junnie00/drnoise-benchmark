@@ -1,0 +1,13 @@
+Borealis Lab — Experiment Input Ledger
+Entry class: Materials and Chamber Assignment
+
+Run E-802 consumed lot L-871 and used chamber CH-84.
+
+Ledger notation:
+Run ID: E-802
+Material lot consumed: L-871
+Assigned environmental chamber: CH-84
+
+Posted from intake worksheet to central ledger.
+Shift block: standard operations
+Entry accepted by: Materials desk, West Annex

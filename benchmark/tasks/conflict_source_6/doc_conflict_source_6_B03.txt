@@ -1,0 +1,8 @@
+Syndication Feed Record
+Item reference: F-690
+Channel: institutional profiles
+Payload state: accepted
+
+Feed item F-690 reports 5270 total students for Ravensmere College.
+
+Operational fields on the originating screen include item reference, institution display name, reported total-student value, and publisher provenance key held elsewhere in the feed chain. This record is the captured content line from the syndication intake queue.

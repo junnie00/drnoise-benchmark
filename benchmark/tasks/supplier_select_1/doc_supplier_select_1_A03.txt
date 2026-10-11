@@ -1,0 +1,13 @@
+Purchasing Operations Console
+April Purchase Dispatch Map
+Export class: vendor-to-dispatch assignment
+
+Vendor V-13 handled dispatches D-118, D-129, and D-137.
+
+Run options:
+month = April
+sort = vendor
+display = dispatch references only
+
+System message: assignment map compiled from released purchase dispatch records.
+End of segment.

@@ -1,0 +1,15 @@
+BOREALIS LAB
+Controlled Reagent Catalog
+Materials Office — issue view
+
+Catalog entry confirms reagent R-77 was issued as stock lot L-771; reagent R-71 was lot L-717.
+
+Item class: assay reagent
+Storage program: controlled chemical stock
+Labeling format: internal lot imprint and cage barcode
+Release format: bench issue against authorized runs only
+Clerk initials: M.D.
+Catalog status line: active inventory references maintained in current catalog image
+Print stamp: Materials Office terminal 2
+
+This catalog excerpt reflects the stock-lot assignments used on internal issue paperwork for reagent handling and bench allocation.

@@ -1,0 +1,8 @@
+Personnel Directory
+Employee Name Lookup
+
+Employee ID | Employee Name
+E-308       | Selene March
+E-314       | Corin Pike
+
+Directory extract from Human Resources for standard internal name confirmation.

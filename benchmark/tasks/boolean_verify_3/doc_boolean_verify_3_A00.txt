@@ -1,0 +1,12 @@
+Rivermark Health Network
+Provider Master File — Organization Index
+
+Active provider entries:
+- Cedar Clinic — organization ID ORG-32
+- Northbank Clinic — organization ID ORG-36
+
+Record class: participating site directory
+Display mode: internal lookup
+Status view: current identifiers only
+
+This index is used by intake, routing, and calendar services when matching provider names to organization IDs during filing and portal processing.

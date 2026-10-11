@@ -1,0 +1,16 @@
+Harborside Treasury Bank
+Commercial Deposit Services
+
+Monthly Statement Extract
+Account name: Korric Holdings
+A/C ending: ****9513
+Statement period: 11/2024
+
+The statement's period total shows total operating outflows $74,000.
+Currency: USD
+Account line: business operating account
+Statement state: issued to archive
+Access path: treasury portal image
+
+Processing office: South Wharf Operations Hub
+Cycle: monthly statement production

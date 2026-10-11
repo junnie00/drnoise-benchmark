@@ -1,0 +1,8 @@
+Northwater Works
+Receiving Exception Screen
+
+Checked items from afternoon review:
+• D-645 due 11:30, received 12:06
+• D-659 due 15:00, received 14:48
+
+Screen opened by dock control to note one post-due arrival and one advance arrival during the same receiving cycle.

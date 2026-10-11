@@ -1,0 +1,7 @@
+Office of the Registrar
+Arithmetic Policy Bulletin
+Subject: Institutional enrollment rollup
+
+For census arithmetic, institutional enrollment is the sum of the certified undergraduate and graduate unit counts.
+
+This bulletin standardizes the rollup used in registrar-produced summary sheets and count certifications. The rule applies to the autumn census set and to any internal worksheet that presents a single institutional enrollment figure derived from unit certifications. Unit subtotals remain recorded in their own certification lines; the institutional figure is produced only by summing those certified undergraduate and graduate counts.

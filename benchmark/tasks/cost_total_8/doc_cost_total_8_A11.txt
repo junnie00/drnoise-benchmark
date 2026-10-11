@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+GL Period-End Snapshot
+Company: Ashel Holdings
+Year marker: FY2024
+Period marker: 12
+Snapshot date: 13 Mar 2024
+Expense line: Operating expenses
+
+The snapshot records operating expenses posted at $9,000.
+
+Journal origin: OPS
+Ledger basis: Accrual
+Currency: USD
+Posting condition: Closed-period posted
+View type: Period-end snapshot
+
+Rendered by the Accounting Services reporting engine.

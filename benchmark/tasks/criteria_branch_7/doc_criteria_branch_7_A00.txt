@@ -1,0 +1,14 @@
+SOLACE BANK
+Property & Facilities Services
+Site Directory Extract
+
+Site code assignments currently listed for branch operations:
+- S-74 — Southmere branch
+- S-72 — Tarnwell branch
+- S-71 — Upton branch
+
+Directory class: Branch occupancy reference
+Issued from: Estates Coordination desk
+Display format: active site lookup
+
+This extract is used by maintenance schedulers and service vendors when matching site codes shown on internal work orders to the branch name used in front-of-house communications.

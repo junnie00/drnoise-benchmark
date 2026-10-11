@@ -1,0 +1,8 @@
+Closeout Posting Slip
+Boarded to final ledger
+
+Updated closure entries:
+I-621 closed 27 Oct 2024.
+I-333 closed 29 Aug 2024.
+
+Entered by the closeout clerk on the standard posting slip for later binding into the annual ledger volume. Dates are written in day-month-year style used by the office's case closure section.

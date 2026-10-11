@@ -1,0 +1,10 @@
+Northstar Freight
+Mass Accounting Note
+Quarter-close methods annotation
+
+For the Q3 mass file, each listed consignment is distinct and all Q3 consignments are included exactly once.
+
+This note accompanies the quarter compilation so downstream readers understand the batch pages represent a complete one-time listing of the consignments counted in the period. No duplication factor is applied within the file, and no omitted Q3 consignment remains outside the listing set.
+
+Issued by: Mass Accounting Desk
+Applies to: Q3 consignment compilation

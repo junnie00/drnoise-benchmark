@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+General Ledger Extract
+Entity name: Ashel Holdings
+Fiscal year: FY2024
+Accounting period: 04
+Extract date: 06 Aug 2024
+Category: Operating expenses
+
+Recorded balance movement for this period shows operating expenses posted at $18,000.
+
+Ledger book: Primary
+Source stream: GL manual and recurring
+Currency: USD
+Entry status: Posted
+Display filter: Expense class only
+
+Operator panel note: output formatted from the standard close-calendar view.

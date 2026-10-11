@@ -1,0 +1,15 @@
+BOREALIS LAB
+Controlled Reagent Catalog
+Stores Segment: Active Chemical Lots
+
+Reagent R-87 was issued as stock lot L-871; reagent R-81 was lot L-817.
+
+Current listing format:
+- Reagent code: R-87
+  Assigned stock lot: L-871
+- Reagent code: R-81
+  Assigned stock lot: L-817
+
+Catalog clerk stamp: Verified for floor issue formatting
+Shelf family: Reactive series
+Record class: Internal stores reference

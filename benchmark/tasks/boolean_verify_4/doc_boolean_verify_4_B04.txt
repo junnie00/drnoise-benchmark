@@ -1,0 +1,15 @@
+MedData Secure Filings Portal
+Audit Trail Event Ticket
+
+Event reference: E-430 submitted Continuation 4 for tenant T-484.
+
+Ticket fields
+Event ID: E-430
+Action verb: submitted
+Artifact label: Continuation 4
+Tenant: T-484
+Recorded by: portal audit service
+Channel: authenticated tenant session
+
+Purpose
+This ticket view is used by support analysts when they need the event identifier and action text exactly as captured by the portal.

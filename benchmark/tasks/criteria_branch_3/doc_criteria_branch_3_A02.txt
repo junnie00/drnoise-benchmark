@@ -1,0 +1,10 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Extract: branch solar assets
+
+Asset ID: PV-363
+Assigned Site: S-31
+Commissioned: 22 January
+
+Record status shown as an active assignment in the generation ledger for scheduled inspections and plant servicing.

@@ -1,0 +1,8 @@
+Event Clock Store
+Machine Timestamp Readout
+
+Event E-419 occurred 2024-06-21 16:03 local time.
+clock_source=application node cluster
+precision=minute
+
+Record format follows the portal's standard event-time export.

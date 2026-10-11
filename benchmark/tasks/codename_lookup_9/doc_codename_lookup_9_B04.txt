@@ -1,0 +1,10 @@
+Calibration & Metrology Unit
+Room Calibration Record
+
+Certified maintained temperatures: CR-9A maintained 4 degrees C; AM-9B maintained 22 degrees C.
+
+Record class: room environmental calibration
+Certificate format: CMU-RC
+Condition: in tolerance at listed maintained values
+
+Issued by the metrology bench after routine environmental verification of the named rooms.

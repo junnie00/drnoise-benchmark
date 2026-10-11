@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Auto-generated timing snippet
+
+C-81 early by 12 minutes; C-85 early by 8 minutes.
+
+Source channel: gate booking monitor. The extract prints variance text rather than scheduled and actual clock stamps for quick lane review.

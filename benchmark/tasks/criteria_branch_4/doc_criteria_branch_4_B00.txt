@@ -1,0 +1,12 @@
+SOLACE BANK ESTATES
+Facilities Alias Book
+Cross-reference card
+
+facility F4RV serves Junefield branch; F4LV serves Kirkstead branch; F4EM serves Lowmarsh branch.
+
+Alias pairs
+F4RV → Junefield branch
+F4LV → Kirkstead branch
+F4EM → Lowmarsh branch
+
+Used by estates coordinators where controller and utility systems address locations by facility code rather than branch name.

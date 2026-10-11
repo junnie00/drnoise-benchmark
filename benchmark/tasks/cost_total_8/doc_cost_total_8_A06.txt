@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+GL Summary Card
+Name: Ashel Holdings
+Year: FY2024
+Period: 07
+Card issue date: 13 Jun 2024
+Segment: Operating expenses
+
+Summary card entry reflects operating expenses posted at $26,000.
+
+Source identifier: GLOPS
+Accounting basis: Accrual
+Currency denomination: USD
+State: Posted to primary ledger
+View selection: Period card
+
+Generated automatically from the month-close workspace.

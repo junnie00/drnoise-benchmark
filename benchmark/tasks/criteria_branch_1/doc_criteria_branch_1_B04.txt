@@ -1,0 +1,10 @@
+Controller Support Reference
+Code Legend
+
+storage state 1 means online; state 0 means unavailable.
+
+Legend table
+1 = online
+0 = unavailable
+
+This legend accompanies controller state exports for storage equipment monitoring.

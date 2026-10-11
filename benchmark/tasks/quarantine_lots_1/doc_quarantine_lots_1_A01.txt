@@ -1,0 +1,8 @@
+North Dock Dispatch Sheet
+Pallet Assignment File — outbound staging excerpt
+
+Recorded pallet placements for the listed internal batches were entered as follows: B-182 shipped on pallet P-14; B-119 on P-17; B-105 on P-16; B-131 on P-13.
+
+Staging area: cold-room lane 2
+Export class: outbound pallet summary
+Use on shift: loading confirmation for wrapped pallets before carrier handoff.

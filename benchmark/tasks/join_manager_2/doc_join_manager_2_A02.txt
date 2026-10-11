@@ -1,0 +1,8 @@
+Program Cost-Center Directory
+Internal Register Card
+
+Cost center assignment as listed in the active directory:
+- CC-27 belongs to project HG-2.
+- CC-22 belongs to project QD-2.
+
+Issued by Program Controls to support coding lookups during routine budget and reporting activity.

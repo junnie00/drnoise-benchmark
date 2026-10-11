@@ -1,0 +1,8 @@
+REGULATED ENTITY CROSSWALK
+Licensing and Docket Services
+
+Registrants on current roster:
+R-980 corresponds to Juniper Ceramics.
+R-942 corresponds to Meridian Foundry.
+
+Use the registrant identifier when assigning ownership in board docketing systems.

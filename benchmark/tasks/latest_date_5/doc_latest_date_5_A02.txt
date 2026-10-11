@@ -1,0 +1,13 @@
+Incident Intake Extract
+Source system: Plant Event Capture
+Queue stamp: 2024 intake batch
+
+Record snippets entered for the FR-5 facility:
+I-541: site FR-5, opened 03 Feb 2024, class S; I-517: site FR-5, opened 18 Jun 2024, class S.
+
+Screen fields present in export:
+incident_id | site_code | open_date | class_code
+I-541 | FR-5 | 03 Feb 2024 | S
+I-517 | FR-5 | 18 Jun 2024 | S
+
+Desk status: accepted into routine review stream.

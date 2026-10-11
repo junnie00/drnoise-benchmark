@@ -1,0 +1,7 @@
+Storage Telemetry Registry
+Month window: May
+Source: branch resilience polling service
+
+Battery B-17 at S-14 reported ONLINE during May.
+
+Registry note: status reflects the controller-reported operating state captured in the monthly telemetry rollup for installed storage units at branch sites.

@@ -1,0 +1,10 @@
+North Quay Procurement Authority
+Approved Vendor Directory — April Revision
+Release window: April
+
+Vendor Code   Supplier Name
+V-43          Marlin Optics
+V-48          Osric Wireworks
+V-44          Cobalt Frames
+
+Directory use: purchasing, dock booking, and compliance lookups. Codes shown here are the active supplier references carried in the April revision of the authority directory.

@@ -1,0 +1,10 @@
+MedData Secure Filings Portal
+Portal Form Alias List
+Displayed submission names
+
+Alias definitions in the portal are as follows: Continuation 4 is the data-use renewal; Nil Return 4 is the unplanned-visit summary.
+
+These names appear in dashboard cards, submit buttons, and audit-event descriptions.
+
+List scope: annual compliance forms
+Portal language pack: standard English

@@ -1,0 +1,12 @@
+Case Closeout Ledger
+Volume 2024, leaf extract
+
+Ledger posting for completed matters states: I-441 closed 12 Mar 2024; I-417 closed 21 Sep 2024.
+
+Posting convention on this ledger uses incident identifier followed by closure date. The extract shown here comes from the bound closeout sequence maintained by the Compliance Records Section.
+
+Entry style on leaf:
+I-441 — 12 Mar 2024
+I-417 — 21 Sep 2024
+
+Clerk initials on margin: ML

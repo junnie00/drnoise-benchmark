@@ -1,0 +1,11 @@
+N.C.D.A. Finance Systems
+Package Accounting Crosswalk
+Export stamp: ACX-11
+
+Package accounting routes currently loaded in the posting table are as follows: PK-891 posts to cost center CC-87; PK-838 posts to CC-82.
+
+Field view
+- Package ID
+- Posting Cost Center
+
+No exception flags were generated in this extract window.

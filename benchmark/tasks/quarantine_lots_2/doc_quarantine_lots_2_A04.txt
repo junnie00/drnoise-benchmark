@@ -1,0 +1,10 @@
+ALTON PHARMA PACKAGING
+Carton-to-Batch Map
+Selection: seal review subset
+
+Cartons C-282A and C-282B belong to B-282; C-219A belongs to B-219.
+
+Map origin: carton serialization station
+Area: secondary packaging
+View type: carton ownership lookup
+Clerk queue: PKG-MAP-2

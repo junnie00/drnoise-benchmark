@@ -1,0 +1,12 @@
+Borealis Lab Archive Index
+Study token lookup
+
+The archive index assigns study S-204 archive token T-88; S-219 token T-93; S-225 token T-97.
+
+Study ID    Archive token
+S-204       T-88
+S-219       T-93
+S-225       T-97
+
+Index scope: archived study packets
+Query mode: exact token retrieval

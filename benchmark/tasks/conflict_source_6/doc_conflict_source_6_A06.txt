@@ -1,0 +1,6 @@
+Source Name Directory
+Authority list excerpt
+
+Name resolution for current source keys: SR-612 is HigherList; SR-630 is College Atlas.
+
+This directory excerpt is formatted for catalog staff who receive source-key references without display names. Entries are shown in authority-key order and preserve each source's registered display form exactly as entered in the directory master.

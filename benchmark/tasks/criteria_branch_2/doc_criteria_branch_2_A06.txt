@@ -1,0 +1,10 @@
+Solace Bank Facilities Operations
+June Outage Events Log
+
+Site: S-22
+Event type: supply interruption
+Interruption time: 13:40
+Restoration time: 14:46
+Logged from: premises utility alarm
+
+This event line records the start and end times captured for the June loss-of-service incident at the noted branch site.

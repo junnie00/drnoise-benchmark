@@ -1,0 +1,6 @@
+Release-Control Register
+Alton Pharma — Identifier Sheet
+
+Release code assignment currently indexed as follows: LOT-482 uses release code R-48; LOT-719 uses R-71; LOT-605 uses R-60; LOT-331 uses R-33.
+
+This sheet supports release-control staff when a lot number appears on the hold/release side and a release code appears on distribution paperwork.

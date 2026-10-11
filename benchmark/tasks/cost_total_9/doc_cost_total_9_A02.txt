@@ -1,0 +1,19 @@
+NORTH QUAY FINANCIALS
+GL Activity Snapshot
+Company: Ashos Holdings
+Year: FY2024
+Period ID: 03
+Posted on: 18 Mar 2024
+Account group: Operating Expenses
+
+Recorded balance movement for this extract shows operating expenses posted at $70,000. Display is limited to the operating expense group included in the selected fiscal period.
+
+Report options
+- Include posted journals: Yes
+- Include reversals: No
+- Currency: USD
+- Close cycle tag: P03-END
+Printed: 18 Mar 2024 17:11
+Session: GLR2218
+
+This page reflects ledger totals after posting, not source invoice detail.

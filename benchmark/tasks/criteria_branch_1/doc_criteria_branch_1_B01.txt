@@ -1,0 +1,8 @@
+Renewables Acceptance Desk
+Certificate File Summary
+
+Recorded acceptances: array A-101 at F1RV reached operational acceptance; A-111 at F1LV reached operational acceptance.
+
+File class: renewable installation certificates
+Acceptance scope: operational
+Facility references retained in the certificate index for active branch energy equipment.

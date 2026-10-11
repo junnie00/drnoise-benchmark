@@ -1,0 +1,8 @@
+NORTHSTAR FREIGHT DISPATCH SYSTEM
+Corridor Alias File — export fragment
+
+ALIAS,CORRIDOR_NAME
+C6M,Route Cedar
+C6V,Route Dune
+
+System note: active aliases shown exactly as stored in dispatch naming tables for current corridor references.

@@ -1,0 +1,13 @@
+BOREALIS LAB FACILITIES
+Environmental Chamber Map
+Revision print for operating setpoints
+
+The chamber map lists CH-4 setpoint 4 degrees C; CH-9 setpoint 22 degrees C.
+
+Location tag      Setpoint
+CH-4              4 degrees C
+CH-9              22 degrees C
+
+Plant zone: conditioned suites
+Map legend class: fixed setpoint chambers
+Issued by: facilities controls desk

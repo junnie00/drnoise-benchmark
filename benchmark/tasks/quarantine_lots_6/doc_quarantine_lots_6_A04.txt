@@ -1,0 +1,7 @@
+Packaging Component Map
+Carton-to-Batch Assignment
+
+Recorded carton links for current batch set:
+C-682A and C-682B belong to B-682; C-619A belongs to B-619.
+
+These carton identifiers are the units presented on seal inspection worksheets and packaging-floor exception logs. Mapping reflects the carton marks as entered by line clearance staff after final cartoning.

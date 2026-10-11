@@ -1,0 +1,10 @@
+Program Reporting Lines
+Management Controls Office
+
+Reporting line entries for accountable supervision:
+
+Program Number | Accountable Supervisor
+P-840          | S-877
+P-810          | S-831
+
+This listing supports supervisory routing for reporting packages, escalations, and approval queues within the management controls workflow.

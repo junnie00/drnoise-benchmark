@@ -1,0 +1,7 @@
+Risk Office Badge File
+April compliance check
+
+Account notes captured in the badge system:
+AC-271 held active badge SB-29 throughout April 2024; AC-209 badge was suspended on 15 April.
+
+This is the standard risk-office listing used during month-end account access review. It records badge condition by payables account rather than by purchase order so that billing identity and physical access status can be examined together.

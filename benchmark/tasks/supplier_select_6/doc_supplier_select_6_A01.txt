@@ -1,0 +1,9 @@
+Northwater Works
+Risk & Safety Office
+Credential Register Extract
+
+Credential SC-692 belongs to V-63 and expires 31 December 2024.
+
+Register status: listed in the current supplier safety credential file.
+Issue class: supplier site-access safety credential.
+Accessed from register terminal: RSO-2.

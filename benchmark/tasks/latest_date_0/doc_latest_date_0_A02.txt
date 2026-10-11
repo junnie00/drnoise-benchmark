@@ -1,0 +1,9 @@
+OPS-INCIDENT INTAKE EXTRACT
+Run set: 2024 / Site filter: none / Output mode: compact
+
+I-041 | site AW-6 | opened 03 Feb | class S
+I-117 | site AW-6 | opened 18 Jun | class S
+
+End of extract
+Source application: Incident Intake Console v5.4
+Timestamp banner suppressed for print queue copy

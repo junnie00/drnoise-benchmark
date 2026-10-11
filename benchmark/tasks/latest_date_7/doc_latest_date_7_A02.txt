@@ -1,0 +1,9 @@
+Incident Intake Extract
+Office of Plant Conduct Review
+Batch stamp: 2024-Q2 / safety desk
+
+Accepted intake lines:
+- I-741: site HA-7, opened 03 Feb 2024, class S
+- I-717: site HA-7, opened 18 Jun 2024, class S
+
+Source format mirrors the dispatch screen used by intake coordinators. Site code, opening date, and class are carried forward from the submission header at the time of acceptance. No narrative field is reproduced in this export fragment.

@@ -1,0 +1,11 @@
+North Reach Development Authority
+Procurement Finance Office
+
+Contract Allocation Table — current packages
+Run ID: CALT-17
+
+Contract Code | Funded Package
+CT-652        | PK-491
+CT-451        | PK-438
+
+Extracted for budget staging during package release. Table reflects active package assignment at time of issuance.

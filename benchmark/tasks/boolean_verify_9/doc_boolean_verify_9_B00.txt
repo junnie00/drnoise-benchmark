@@ -1,0 +1,9 @@
+MedData Portal Services
+Tenant Directory Snapshot
+
+Tenant mappings currently published in the hosted filing portal:
+
+T-984 = Iris Clinic
+T-948 = Northbank Clinic
+
+Directory purpose: support identification of portal tenants in audit trails, calendar exports, and user-facing submission histories within the MedData regulated filing environment.

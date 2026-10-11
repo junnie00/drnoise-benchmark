@@ -1,0 +1,10 @@
+NORTHSTAR FREIGHT
+Lane Directory Card — Active Lane Names
+Issue set: Operations Reference
+
+Lane code assignments currently in use:
+- L-14 is Route Atlas
+- L-19 is Route Beacon
+- L-12 is Route Cinder
+
+This card is kept with dispatch and accounting lookups for lane-name entry consistency. Use the lane code when posting movements; use the route name when preparing customer-facing summaries or internal narrative notes. Spelling and hyphenation follow the directory standard for the current operating period.

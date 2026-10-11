@@ -1,0 +1,10 @@
+Northstar Freight
+Mass Accounting Note
+
+To: Quarter-Close File
+From: Mass Accounting Supervisor
+Subject: Q3 consignment listing scope
+
+For the Q3 mass packet, each listed consignment is distinct and all Q3 consignments are included exactly once.
+
+This statement applies to the compiled corridor listings used in the quarter review bundle. The intent is to confirm that duplicate carry-forward lines were not used and that the packet represents a complete one-time inclusion of the quarter's consignments.

@@ -1,0 +1,11 @@
+Northstar Freight Dispatch
+Corridor Alias File
+Operator lookup extract
+
+Dispatch uses these active corridor aliases on the selected screen: C7M maps to Route Heron; C7V maps to Route Inlet.
+
+ALIAS | NAME
+C7M   | Route Heron
+C7V   | Route Inlet
+
+Scope: live corridor alias register

@@ -1,0 +1,13 @@
+Utility Ticket U-61
+Branch Electrical Service Incident
+
+Ticketed event details: F6EM service lost 07:05 and cleared 09:53.
+
+Incident fields
+Facility: F6EM
+Condition: service lost
+Time opened: 07:05
+Time cleared: 09:53
+Ticket ref: U-61
+
+Dispatch remarks: utility-side interruption closed after restoration confirmation.

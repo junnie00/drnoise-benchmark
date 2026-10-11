@@ -1,0 +1,12 @@
+Feed Provenance Chain
+Origin lookup screen
+
+Provenance entry: F-290 originated from publisher key PUB-2CR; F-5540 originated from PUB-2RL.
+
+Registry purpose: source tracing for syndicated payloads
+Entity type: feed item to publisher key mapping
+Chain status: active provenance row
+Maintained by: Distribution Engineering Registry
+Screen context: partner item origin resolver
+
+The lookup screen is used by operations staff to identify the publisher key associated with a given syndicated item.

@@ -1,0 +1,17 @@
+NQFS / General Ledger Screen Print
+
+Company: Korrby Holdings
+Year: FY2024
+Accounting period: 04
+Printed: 10 May 2024
+Selection: Operating expense totals
+
+Result shown on screen: operating expenses posted at $60,000.
+
+Status of entries: posted
+Source buckets: AP journals, lease and facilities, service accruals
+Currency: USD
+User terminal: FIN-CL-22
+View sequence: summary by class
+
+Authorized internal use only.

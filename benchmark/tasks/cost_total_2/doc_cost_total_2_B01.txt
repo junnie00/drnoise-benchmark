@@ -1,0 +1,17 @@
+North Coast Mercantile Bank
+Monthly Account Statement
+
+Account holder: Korrel Holdings
+A/C: ****7744
+Statement period: 02/2024
+Issued by: Commercial Banking Operations
+
+Summary block
+Total operating outflows ........ $84,000
+
+Other statement fields
+Currency ........................ USD
+Delivery form ................... E-statement
+Cycle ........................... Monthly
+
+Automated note: Amount shown reflects the statement-period total of transactions categorized by the bank under operating outflows.

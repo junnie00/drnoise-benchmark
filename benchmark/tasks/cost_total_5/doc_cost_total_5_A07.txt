@@ -1,0 +1,18 @@
+General Ledger Export File
+Suite: North Quay Finance
+
+Entity: Korrby Holdings
+FY: FY2024
+Period number: 08
+Export date: 12 Aug 2024
+Slice: Operating expense class
+
+Posted total visible in this slice: operating expenses posted at $53,000.
+
+Currency denomination: USD
+Accounting book: corporate primary
+Extraction method: summary panel export
+Workstation: CTRL-08
+Sort mode: by natural account
+
+Footer: machine-rendered output complete.

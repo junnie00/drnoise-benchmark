@@ -1,0 +1,7 @@
+Budget Administration Register
+Appropriation Register
+
+Assignment lines
+AP-710 was assigned to program number P-740; AP-722 to P-710.
+
+Register view: program allocation summary

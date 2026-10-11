@@ -1,0 +1,13 @@
+Northstar Freight Dispatch
+Corridor Alias File
+Export slice: active named corridors
+
+Current alias mappings in dispatch are recorded as follows: C7D maps to Route Ester; C7O maps to Route Flume; C7K maps to Route Gable.
+
+ALIAS,CORRIDOR_NAME
+C7D,Route Ester
+C7O,Route Flume
+C7K,Route Gable
+
+Source module: corridor-master
+Export mode: alias view

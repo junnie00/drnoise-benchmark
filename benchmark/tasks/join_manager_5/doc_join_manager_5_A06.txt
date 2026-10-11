@@ -1,0 +1,7 @@
+Human Resources Directory Services
+Personnel Directory Extract
+
+Employee lookup results:
+E-508 is Rhea Calder; E-514 is Nolan Pryce.
+
+This directory view displays employee names matched to the internal employee numbers used in staffing and responsibility records.

@@ -1,0 +1,8 @@
+North Quay Components
+Receiving Operations
+Dock Event Ledger — excerpt
+
+Dispatch D-337 due 14:15, received 14:11; D-344 due 09:00, received 08:51.
+
+Bay controller note: times shown are the booked dock due time and the first confirmed receipt time as posted to the ledger.
+Shift: day receiving

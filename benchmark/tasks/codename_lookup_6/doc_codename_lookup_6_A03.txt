@@ -1,0 +1,14 @@
+Borealis Lab
+Experiment Input Ledger
+
+Run record: E-630
+Materials and chamber assignment entered at intake:
+Run E-630 consumed lot L-617 and used chamber CH-64.
+
+Operator initials: J.L.
+Entry class: standard materials usage
+Ledger station: Intake Console 3
+Posted sequence: end-of-day batch
+
+Remarks:
+The materials line reflects the assigned lot and chamber only. Detailed bench annotations, if any, are not included on this ledger excerpt.

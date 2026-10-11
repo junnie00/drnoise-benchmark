@@ -1,0 +1,8 @@
+Bench Scanner Log
+Station BN-2
+
+Single-event capture from active roster:
+vial VX31-02 scanned into study S-325.
+
+Indicator lamps: green at close of read.
+Queue disposition: accepted by study intake buffer.

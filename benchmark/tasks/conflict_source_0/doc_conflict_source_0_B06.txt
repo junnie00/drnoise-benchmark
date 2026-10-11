@@ -1,0 +1,7 @@
+Publisher Registry
+Syndication Operations
+
+Publisher key: PUB-RL
+Legal display name: Registrar Ledger
+
+Registry status panel records the legal display name presented for this publisher across feed contracts and on-screen source labels within the syndication environment.

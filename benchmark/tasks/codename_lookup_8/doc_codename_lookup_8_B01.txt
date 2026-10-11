@@ -1,0 +1,13 @@
+Bench Scanner Log
+Acquisition Console 2
+
+Vial VX87-03 scanned into study S-804; vial VX87-09 scanned into study S-819.
+
+Scan details:
+Barcode read: VX87-03
+Destination study: S-804
+---
+Barcode read: VX87-09
+Destination study: S-819
+
+Operator console acknowledged both reads without exception.

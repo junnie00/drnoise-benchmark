@@ -1,0 +1,11 @@
+NORTHSTAR FREIGHT
+Lane Directory Card
+Network Planning Register
+
+Directory extract: L-64 is Route Zephyr; L-69 is Route Alder; L-62 is Route Briar.
+
+Active lane references on this card are maintained for operations naming consistency in dispatch sheets, ledger postings, and quarter-close packet assembly. Use lane IDs exactly as listed when entering internal traffic records.
+
+Card group: Primary trunk lanes
+Format: Lane code / route name
+Issued by: Network Planning Desk

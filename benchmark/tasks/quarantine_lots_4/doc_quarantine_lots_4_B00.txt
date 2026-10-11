@@ -1,0 +1,12 @@
+Release-Control Register
+Clinical Supply Release Index
+
+Lot-to-release coding in the current register:
+LOT-847 uses release code R-448; LOT-309 uses R-471; LOT-626 uses R-460; LOT-188 uses R-433.
+
+The index is kept in release-code order for shipment paperwork, with lot identifiers retained as the lookup column for Quality and Distribution staff.
+
+Register section: Finished Goods Release
+Page set: QAR-12
+Clerk station: Release Desk 2
+Status line on print: active release identifiers only

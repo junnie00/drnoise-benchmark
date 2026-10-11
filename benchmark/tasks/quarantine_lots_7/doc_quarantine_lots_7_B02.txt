@@ -1,0 +1,11 @@
+Cold-Chain Service Index
+Ticket Assignment Snapshot
+
+Ticketing assignments on the current index are listed as follows: DU-78 tickets T-711 and T-712; DU-72 ticket T-721; DU-76 ticket T-731; DU-71 ticket T-741.
+
+System area: refrigerated transport support
+Index type: distribution unit to service ticket
+Rendered from: cc_ticket_lookup
+Viewer account: logistics.supervisor
+Snapshot mode: read-only
+Footer: end of indexed ticket list

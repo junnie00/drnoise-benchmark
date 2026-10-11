@@ -1,0 +1,11 @@
+Study Archive Index
+Records Retrieval Terminal Printout
+
+S-804 archive token T-888; S-819 token T-893; S-825 token T-897.
+
+Index returns:
+STUDY S-804  TOKEN T-888
+STUDY S-819  TOKEN T-893
+STUDY S-825  TOKEN T-897
+
+Print channel closed normally.

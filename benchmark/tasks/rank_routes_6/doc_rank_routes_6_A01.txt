@@ -1,0 +1,11 @@
+NORTHSTAR FREIGHT
+Lane Directory Card
+Regional Linehaul Index
+
+Current lane naming for referenced corridors: L-67 is Route Cedar; L-61 is Route Dune.
+
+This compact card was circulated with the western and interior lane set so accounting and dispatch teams could keep route names aligned with lane-number postings during monthly closes.
+
+Section: Secondary trunk lanes
+Listing style: Lane code to route title
+Desk: Linehaul Configuration

@@ -1,0 +1,10 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Network Planning Console
+
+Lane code assignments currently active in the core route register:
+- L-04 is Route Delta
+- L-09 is Route Orion
+- L-12 is Route Kestrel
+
+This extract was generated for dispatch reference from the lane master file. Naming follows the standard route style used in operations scheduling and tonnage reporting. No temporary alternates are shown on this view.

@@ -1,0 +1,15 @@
+Source Name Directory
+Registered Source Names
+
+Directory entry states that SR-112 is UnionRank; SR-130 is College Atlas.
+
+Name-control purpose:
+The directory standardizes source names for publication records, imports, and display formatting in profile systems. Codes appear in intake logs, source mappings, and newsroom reference sheets.
+
+Visible entries:
+SR-112  UnionRank
+SR-130  College Atlas
+
+Directory family: SND
+Maintained by: Source Administration Registry
+Name form standard: legal display

@@ -1,0 +1,18 @@
+LEDGERLINE FINANCE SUITE
+General Ledger Detail Snapshot
+Company: Ashel Holdings
+Fiscal year: FY2024
+Period: 02
+Snapshot taken: 23 Mar 2024
+Ledger group: Operating Expenses
+
+For the selected period, operating expenses posted at $64,000.
+
+Source code: GLEX
+Book: Corporate
+Currency: USD
+Posting state: Final posted
+User view: Controller summary
+Sort order: Fiscal period
+
+End of extract — amounts shown are displayed in whole dollars for the period selected.

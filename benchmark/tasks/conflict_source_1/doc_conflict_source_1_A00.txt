@@ -1,0 +1,17 @@
+MARSETT COLLEGE
+Registrar Unit Directory
+Directory cycle: current internal routing edition
+
+Campus records operations are divided as follows: unit U-1 is undergraduate records; unit G-1 is graduate records.
+
+Routing purpose:
+- Admissions carryover files: send to corresponding registrar unit
+- Census certification packets: route by unit code shown above
+- Degree audit exceptions: use the academic level associated with the unit designation
+
+Directory reference line:
+U-1 — Undergraduate Records Desk
+G-1 — Graduate Records Desk
+
+Issued by: Office of the College Registrar
+Format ID: RUD-MC

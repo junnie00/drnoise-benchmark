@@ -1,0 +1,9 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Register excerpt for rooftop PV assignments:
+
+Asset PV-581 assigned to S-54, commissioned 04 March.
+Asset PV-544 assigned to S-52, commissioned 19 February.
+
+Entered in the generation register under active branch site allocations. Format follows plant asset ID, site code, then commissioning date.

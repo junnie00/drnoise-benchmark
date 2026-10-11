@@ -1,0 +1,17 @@
+North Coast Mercantile Bank
+Commercial Banking Statement
+
+Issued for Korrel Holdings
+Account ending 9762 displayed as ****9762
+Statement period: 10/2024
+
+Activity summary
+Total operating outflows: $88,000
+
+Controls
+Currency: USD
+Cycle frequency: Monthly
+Distribution: Electronic statement
+Classification basis: Operating cash activity
+
+Computer-generated statement summary.

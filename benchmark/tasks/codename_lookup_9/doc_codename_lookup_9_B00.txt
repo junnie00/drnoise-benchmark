@@ -1,0 +1,11 @@
+Borealis Lab
+Chemical Barcode Directory
+Machine Readout / Prefix Allocation
+
+R-97 containers carry prefix VX97; R-91 containers carry prefix VX91.
+
+Export node: CBD-TERM-5
+Output mode: barcode family listing
+Record group: chemical container identifiers
+
+Only prefix allocations for the specified reagents are shown in this readout.

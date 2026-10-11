@@ -1,0 +1,8 @@
+UTILITY SERVICE TICKET
+Ticket No.: U-22
+Customer: Solace Bank
+
+Location code: F-LV
+Incident summary: F-LV service lost 13:40 and cleared 14:46.
+
+Entered by the network desk as part of branch utility incident handling. Times shown are the loss and clearance marks recorded in the service ticket.

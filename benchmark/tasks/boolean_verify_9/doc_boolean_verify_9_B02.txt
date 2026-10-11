@@ -1,0 +1,8 @@
+Compliance Calendar Export
+Source: Portal scheduler
+Format: machine view
+
+tenant_id,form_alias,cutoff
+T-984,Continuation 9,2024-04-15
+
+Export profile: current-year obligation feed for tenant-specific deadline rendering in the portal calendar widget and reminder job stream.

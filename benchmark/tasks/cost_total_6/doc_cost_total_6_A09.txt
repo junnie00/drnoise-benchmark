@@ -1,0 +1,15 @@
+NORTH QUAY CAPITAL SERVICES
+GL Operating Expense Snapshot
+
+Organization: Korric Holdings
+Fiscal designation: FY2024
+Period identifier: 10
+Snapshot date: 04 Jun 2024
+
+Operating expense result for the period: operating expenses posted at $34,000.
+Currency: USD
+Status: posted
+Ledger source: closed-period journal file
+Presentation: single-period summary
+
+Issued under the month-end reporting profile used by the controller's office.

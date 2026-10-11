@@ -1,0 +1,11 @@
+Census Codebook
+Registrar Enrollment Warehouse
+Version label: population definitions
+
+Definition statement: UG and GR are the two disjoint populations included in registrar total enrollment.
+
+Code family: census population codes
+Applies to: warehouse extracts, scheduled dashboards, term census summaries
+Interpretation basis: registrar enrollment population model
+
+Each listed population code refers to a separate included student population under the warehouse counting framework.

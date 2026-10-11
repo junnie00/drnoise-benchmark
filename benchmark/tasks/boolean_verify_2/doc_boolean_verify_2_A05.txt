@@ -1,0 +1,9 @@
+Submission Routing Log
+Intake Register Entry
+
+Receipt ID: R-244
+Organization ID: ORG-22
+Form Code: F-B2
+Route: Compliance Intake / Standard Electronic Channel
+
+Entry created when the incoming filing package was matched to the organization profile and coded for processing.

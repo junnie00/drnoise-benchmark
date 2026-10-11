@@ -1,0 +1,11 @@
+Borealis Lab Archive Services
+Key Sheet — Run Filing Index
+
+Archive routing assignments:
+run E-602 filed under key AK-655; E-618 under AK-661; E-630 under AK-672.
+
+Index clerk: HN-4
+Drawer group: Experimental Runs
+Sort rule: numeric by run, then archive key
+
+Use of this sheet is limited to file pull and re-shelving within Archive Services. The line above reflects the assigned filing keys for the listed runs.

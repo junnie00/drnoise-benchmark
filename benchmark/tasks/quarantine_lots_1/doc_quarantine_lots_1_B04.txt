@@ -1,0 +1,7 @@
+Packaging Observation Register
+Release-linked observation map
+
+For the release codes on this register page, the observation assignments are: R-148 observations O-114 and O-115; R-171 observation O-122.
+
+Register section: finished-pack review
+Observation numbers are those used by packaging QA during tamper and presentation checks on shipped release stock.

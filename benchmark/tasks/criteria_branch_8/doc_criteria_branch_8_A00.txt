@@ -1,0 +1,11 @@
+SOLACE BANK
+Property & Facilities Directory
+Active Branch Site Codes
+
+Site Code  Branch Name
+S-84       Valegate branch
+S-82       Westford branch
+S-81       Yewbridge branch
+
+Issued by: Estate Systems Desk
+Directory extract for internal site referencing and works routing.

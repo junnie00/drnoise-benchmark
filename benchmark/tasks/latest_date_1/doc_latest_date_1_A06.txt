@@ -1,0 +1,10 @@
+Case Closeout Ledger
+Close sequence extract
+
+The ledger records I-431 closed 18 Dec 2024 and I-133 closed 29 Aug 2024.
+
+Posting lines:
+I-431 | closed | 18 Dec 2024
+I-133 | closed | 29 Aug 2024
+
+Clerked under the standard case-close format.

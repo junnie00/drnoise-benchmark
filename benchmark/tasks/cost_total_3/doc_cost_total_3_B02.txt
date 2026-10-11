@@ -1,0 +1,11 @@
+NORTH QUAY COMMERCIAL BANK
+Business Banking Statement Extract
+Account holder: Korros Holdings
+A/C: ****4922
+Statement period: 03/2024
+
+Recorded for the period: total operating outflows $54,000.
+
+Extract settings:
+summary copy | operating-payment classification | whole-dollar display
+Generated from the online statement workspace used by business clients. The extract presents only the operating outflow total associated with the selected statement period.

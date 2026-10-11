@@ -1,0 +1,7 @@
+Northwater Works
+Risk Office Badge File
+Account lookup result: AC-604 held active badge SB-66 throughout April 2024.
+
+Badge class: supplier access credential
+View source: risk office account badge index
+Record returned under account-based search.

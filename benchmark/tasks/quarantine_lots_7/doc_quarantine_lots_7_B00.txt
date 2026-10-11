@@ -1,0 +1,10 @@
+Release-Control Register
+Commercial Lots — Release Identifier Listing
+
+Register entries currently posted are: LOT-880 uses release code R-748; LOT-342 uses R-771; LOT-659 uses R-760; LOT-221 uses R-733.
+
+Maintained by: Quality Release Control
+Register section: Alton Pharma market lots
+Format: bound register with keyed release references
+Counter signature line appears on original record
+Office copy printed from release desk terminal RC-3

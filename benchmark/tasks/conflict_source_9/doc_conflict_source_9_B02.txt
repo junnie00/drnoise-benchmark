@@ -1,0 +1,15 @@
+Census Codebook
+Registrar Analytics Reference
+Version lane: current enrollment definitions
+
+UG and GR are the two disjoint populations included in registrar total enrollment. This entry appears in the population section used for census extracts and standard roll-up logic.
+
+Code details
+UG — undergraduate population bucket
+GR — graduate population bucket
+Relationship — disjoint populations
+Inclusion flag — included in registrar total enrollment
+
+Interpretive note
+No overlap is permitted between these population buckets in census production.
+This codebook page is issued for analytics staff, SIS reporting users, and registrar census operators.

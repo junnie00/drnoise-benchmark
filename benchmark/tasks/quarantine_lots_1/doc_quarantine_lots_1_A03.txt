@@ -1,0 +1,12 @@
+AUTO-EXPORT // Pallet Sensor Event Summary
+Source: Cold Store Node CS-4
+Render: fixed-width event digest
+
+Unit readings captured in current file:
+P-14 result X; P-17 result X; P-16 result X; P-13 result N.
+
+Legend not reproduced in this export.
+Transmission mode: nightly machine summary
+Output status: complete
+Receiver mailbox: warehouse-supervision
+Checksum block: accepted by host parser

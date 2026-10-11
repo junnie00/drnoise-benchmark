@@ -1,0 +1,13 @@
+Submission Routing Log
+Intake routing receipt lookup
+
+Receipt R-801 belongs to ORG-82 and form F-A8.
+
+Routing fields
+- Receipt number: R-801
+- Organization: ORG-82
+- Form code: F-A8
+- Intake lane: provider portal
+- Routing state: assigned for archive pairing
+
+Operator view shows this receipt as a single filing item tied to one provider-form combination.

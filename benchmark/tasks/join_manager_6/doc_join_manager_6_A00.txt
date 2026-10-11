@@ -1,0 +1,8 @@
+North Quay Projects Office
+Contract Allocation Table — Current Funding Links
+
+Contract Code | Funded Package
+CT-680 | PK-691
+CT-651 | PK-638
+
+Compiled for allocation review within the Contracts Desk. This table reflects the active package linkage carried against each listed contract code in the finance routing panel.

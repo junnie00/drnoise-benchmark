@@ -1,0 +1,17 @@
+KORREL HOLDINGS
+General Ledger Inquiry Output
+
+Printed: 15 May 2024 09:14
+Company: Korrel Holdings
+Fiscal year: FY2024
+Accounting period: 02
+View: P&L operating expense bucket
+
+Field                     Value
+------------------------  ----------------
+Posting total             $84,000
+Document state            Posted
+Ledger basis              Actuals
+Period scope              Current period
+
+Operator note: This inquiry page was produced from the controller console after period posting completed and reflects the current operating-expense amount held against period 02.

@@ -1,0 +1,7 @@
+Receiving Dock Event Ledger
+Midday event strip
+
+Event lines recorded for this strip:
+D-337 due 14:15, received 14:11; D-144 due 09:00, received 08:51.
+
+The ledger segment was printed from the dock scheduler to support same-day reconciliation of booked slots against actual receipt at the receiving door.

@@ -1,0 +1,12 @@
+External Profile Snapshot
+Record ID: PR-888
+Institution tracked: Tamarack College
+Profile class: enrollment listing
+
+Captured value: publication record PR-888 lists Tamarack College enrollment as 3890.
+
+Catalog section: college profile syndication
+Snapshot state: active
+Display channel: outbound reference file
+
+Editorial intake preserved the enrollment figure exactly as shown in the source profile at the time this snapshot was created.

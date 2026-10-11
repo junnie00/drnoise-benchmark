@@ -1,0 +1,9 @@
+Program Reporting Lines
+Operations Supervision Memorandum
+From: L. Keret, Portfolio Administration
+To: Reporting Unit Leads
+Subject: Supervisor references for program submissions
+
+For current submissions, use the accountable supervisor references exactly as listed in the reporting line register: P-140 accountable supervisor S-177; P-110 accountable supervisor S-131.
+
+These supervisor IDs are the routing points used on oversight summaries and escalation headers for the programs named above. Please keep the program number and supervisor reference paired as shown when drafting periodic status materials.

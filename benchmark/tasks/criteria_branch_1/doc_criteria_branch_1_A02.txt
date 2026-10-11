@@ -1,0 +1,10 @@
+Solace Bank Facilities Systems
+Generation Asset Register
+
+Asset entry:
+PV-163 assigned to S-11, commissioned 22 January.
+
+Category: photovoltaic generation
+Link type: site assignment
+
+This register line reflects the current equipment association held in the branch energy asset module.

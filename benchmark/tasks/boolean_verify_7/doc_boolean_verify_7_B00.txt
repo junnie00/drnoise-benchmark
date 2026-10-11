@@ -1,0 +1,12 @@
+MEDDATA PORTAL ADMIN
+Portal Tenant Directory
+Active Tenant Lookup
+
+Tenant mappings currently shown in the directory:
+T-784 — Grove Clinic
+T-748 — Northbank Clinic
+
+Directory scope: clinic tenants
+Sort mode: numeric tenant order
+
+The directory is used by portal support staff to associate tenant codes with the clinic names displayed in audit and calendar screens.

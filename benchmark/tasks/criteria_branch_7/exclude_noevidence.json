@@ -1,0 +1,22 @@
+{
+  "condition": "noevidence",
+  "description": "all truthful route documents removed; false summary retained",
+  "docids": [
+    "criteria_branch_7_80f1aeef",
+    "criteria_branch_7_fe12dfa5",
+    "criteria_branch_7_c46643c6",
+    "criteria_branch_7_2bf79890",
+    "criteria_branch_7_45f2c779",
+    "criteria_branch_7_6366f400",
+    "criteria_branch_7_6eb98819",
+    "criteria_branch_7_ae603c5c",
+    "criteria_branch_7_02ab2a55",
+    "criteria_branch_7_4b8f38f4",
+    "criteria_branch_7_72ec032f",
+    "criteria_branch_7_049df91b",
+    "criteria_branch_7_c543d681",
+    "criteria_branch_7_33c687de",
+    "criteria_branch_7_ad33f55d",
+    "criteria_branch_7_06799f97"
+  ]
+}

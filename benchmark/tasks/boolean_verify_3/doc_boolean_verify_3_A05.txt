@@ -1,0 +1,11 @@
+Submission Routing Log
+MedData Intake Console
+
+Receipt: R-344
+Organization: ORG-32
+Form code: F-B3
+Route state: assigned to regulatory intake
+Channel: portal-originated submission
+
+Routing comment:
+Receipt R-344 is filed to ORG-32 with form tag F-B3. The entry appears in the standard routing queue used for provider compliance submissions.

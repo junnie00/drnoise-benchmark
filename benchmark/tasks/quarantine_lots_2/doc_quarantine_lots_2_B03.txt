@@ -1,0 +1,10 @@
+ALTON PHARMA COLD-CHAIN DESK
+Cold-Chain Findings
+Ticket status bulletin
+
+T-211 recorded above-limit temperature; T-212 normal; T-221 above-limit; T-231 above-limit; T-241 normal.
+
+Bulletin type: exception and normal result digest
+Issued from: monitoring counter
+Posted to: transport review board
+Reference class: ticket finding summary

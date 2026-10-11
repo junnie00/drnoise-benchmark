@@ -1,0 +1,8 @@
+Northstar Freight
+Quarter-Close Note
+From: Mass Accounting Desk
+Subject: Inclusion rule for Q3 consignment listings
+
+For Q3 close purposes, each listed consignment is distinct and all Q3 consignments are included exactly once.
+
+This statement applies to the quarter’s consignment mass listings used by accounting when checking corridor totals against booking-origin records. The note was attached to the close packet to make clear that duplicate counting should not be inferred from repeated corridor appearances across multiple batch sheets.

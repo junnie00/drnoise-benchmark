@@ -1,0 +1,9 @@
+Portal Audit Trail
+Event View
+
+Event ID: E-330
+Action: submitted Ethics Continuation 24
+Tenant: T-184
+Channel: web portal
+
+Rendered from the audit viewer for operations staff checking submission actions.

@@ -1,0 +1,15 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Network Planning Console
+
+Lane code assignments currently in force:
+L-74 is Route Ester; L-79 is Route Flume; L-72 is Route Gable.
+
+Listing format: lane code / operating name
+
+L-74  Route Ester
+L-79  Route Flume
+L-72  Route Gable
+
+Directory segment: Primary outbound lanes
+View stamp: current naming register

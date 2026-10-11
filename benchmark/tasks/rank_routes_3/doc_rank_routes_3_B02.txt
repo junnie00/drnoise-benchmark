@@ -1,0 +1,7 @@
+Northstar Freight
+Consignment Mass Worksheet — Q3 batch 1
+Unit basis: tonnes
+
+Recorded batch entries for the quarter are: C3D: 4.1 and 3.0 tonnes; C3O: 3.7 and 2.8 tonnes; C3K: 3.1 and 2.6 tonnes.
+
+This worksheet captures the first batch of Q3 corridor consignments in the same two-entry-per-corridor format used by the dispatch-to-accounting handoff desk.

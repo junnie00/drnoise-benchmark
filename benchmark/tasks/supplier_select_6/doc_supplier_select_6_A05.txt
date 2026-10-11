@@ -1,0 +1,8 @@
+Northwater Works Receiving
+Dock Event Ledger — Entry View
+
+Dispatch D-618 due 08:30, received 08:18.
+Dispatch D-629 due 10:00, received 09:52.
+
+Ledger section: inbound purchase loads.
+Display mode: due/received timestamps.

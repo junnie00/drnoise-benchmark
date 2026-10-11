@@ -1,0 +1,12 @@
+Incident Intake Extract
+Source: Plant Events Console
+Office: Central Intake Unit
+
+Captured intake lines for active review period:
+I-641: site GR-6, opened 03 Feb 2024, class S; I-617: site GR-6, opened 18 Jun 2024, class S.
+
+Screen fields present in export:
+Record ID | Site | Opened | Class
+Additional routing status suppressed in this extract.
+
+Generated from intake console batch view for shift briefing use.

@@ -1,0 +1,18 @@
+LEDGERLINE FINANCE SUITE
+General Ledger Inquiry Export
+Entity: Ashel Holdings
+Fiscal set: FY2024
+Posting period: 01
+Run date: 22 Jan 2024
+Module: Operating Expense Ledger
+
+Extracted posting summary: operating expenses posted at $74,000.
+
+Batch class: OPX
+Journal source: GL-STD
+Currency: USD
+Posting basis: Accrual
+Status: Posted
+View mode: Summary by period
+
+System footer: This screen print reflects the posted period balance for the selected operating expense segment as of the run date shown above.

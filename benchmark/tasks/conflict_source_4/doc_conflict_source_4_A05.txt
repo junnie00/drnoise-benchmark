@@ -1,0 +1,11 @@
+Publication Identity Table
+Crosswalk excerpt
+
+Publication-to-source assignment on the current table shows PR-488 is issued by source SR-412; PR-441 is issued by source SR-430.
+
+Table scope: publication records registered for external profile handling
+Fields present in this excerpt: publication identifier, issuing source identifier
+Maintained by: Publications Registry Office
+Export batch: PIT-XW-22
+Format: fixed registry listing
+Verified for identifier continuity during source onboarding cycle.

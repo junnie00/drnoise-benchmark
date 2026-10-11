@@ -1,0 +1,13 @@
+Utility Ticket U-42
+Distribution Service Incident
+
+Ticket detail shows F4LV service lost 13:40 and cleared 14:46.
+
+Ticket No.: U-42
+Facility: F4LV
+Condition: service lost
+Start time: 13:40
+Clear time: 14:46
+Workstream: utility response
+
+This incident appears in the closed utility ticket run for June handling.

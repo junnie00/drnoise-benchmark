@@ -1,0 +1,12 @@
+BOREALIS LAB FACILITIES
+Environmental Chamber Map
+Revision board excerpt
+
+CH-84 setpoint 4 degrees C; CH-89 setpoint 22 degrees C.
+
+Map annotations:
+Chamber CH-84 — Setpoint: 4 degrees C
+Chamber CH-89 — Setpoint: 22 degrees C
+
+This sheet accompanies chamber routing diagrams used by scheduling staff.
+Facilities Engineering mark: active

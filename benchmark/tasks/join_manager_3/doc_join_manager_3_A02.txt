@@ -1,0 +1,9 @@
+North Meridian Development Authority
+Program Cost-Center Directory
+Quarterly desk register
+
+Cost Center  Assigned Project
+CC-37        HG-3
+CC-32        QD-3
+
+This directory is maintained for finance and program operations staff who need the current project assignment attached to each active cost center.

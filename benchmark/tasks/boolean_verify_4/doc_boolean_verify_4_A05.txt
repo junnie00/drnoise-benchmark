@@ -1,0 +1,14 @@
+MedData Regulatory Exchange
+Submission Routing Log
+Receipt association lookup
+
+Routing entry confirmed: receipt R-444 belongs to ORG-42 and form F-B4.
+
+Log fields
+Receipt: R-444
+Organization: ORG-42
+Form code: F-B4
+Queue family: regulated intake
+Disposition lane: accepted-receipt index
+
+Operator screen excerpt generated from the routing console for downstream correspondence matching.

@@ -1,0 +1,13 @@
+Resilience Controller Log
+Machine Export - June state rollup
+
+run_id=JUN-RCL-22
+facility,state_code
+F3RV,1
+F3LV,0
+F3EM,1
+
+export_complete=true
+source=resilience-controller
+
+This output is the monthly state-code rollup as emitted by the controller reporting job.

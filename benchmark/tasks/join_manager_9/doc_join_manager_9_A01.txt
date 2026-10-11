@@ -1,0 +1,9 @@
+FIN-ACCT EXPORT
+Package Accounting Crosswalk
+Run profile: package_to_costcenter
+
+package_id,cost_center
+PK-991,CC-97
+PK-938,CC-92
+
+Source stream generated from the accounting bridge used by posting operations. Values are displayed in the same compact form transmitted to the month-end queue.

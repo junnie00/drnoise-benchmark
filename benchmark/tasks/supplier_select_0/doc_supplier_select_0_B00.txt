@@ -1,0 +1,7 @@
+Accounts Payable Control Record
+Alias Table — Supplier Payment Names
+
+Payment account mapping in current use:
+AC-204 pays Brindle Components; AC-771 pays Orison Fabrication; AC-309 pays Tern Alloy.
+
+Use these aliases when matching supplier invoices, remittance advice, and receiving-backed payment queues. Accounts are maintained in AP control format rather than vendor-code format, so the payment name must match this table.

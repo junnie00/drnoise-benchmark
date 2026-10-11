@@ -1,0 +1,14 @@
+MedData Regulatory Exchange
+Timestamp Archive
+Accepted receipt time extract
+
+Archived acceptance record: R-444 accepted 21 June 2024 at 16:03.
+
+Archive attributes
+Receipt key: R-444
+Action class: accepted
+Stored in: intake timestamp archive
+Time notation: local archive display
+
+Exported by archive viewer v3.8
+No amendment stamp present on this event line.

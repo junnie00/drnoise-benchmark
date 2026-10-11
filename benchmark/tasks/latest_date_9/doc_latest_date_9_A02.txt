@@ -1,0 +1,9 @@
+=== INCIDENT INTAKE EXTRACT ===
+Module: Plant Events Intake
+Run mode: concise listing
+
+incident_id | site | opened       | class
+I-941       | JU-9 | 03 Feb 2024  | S
+I-917       | JU-9 | 18 Jun 2024  | S
+
+End of result set.

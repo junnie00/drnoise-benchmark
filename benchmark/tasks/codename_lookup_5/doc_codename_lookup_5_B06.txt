@@ -1,0 +1,9 @@
+Borealis Laboratory
+Restricted Name Register
+Access class: sealed naming
+
+Registered token names are listed here: token T-588 is Pale Harbor; T-593 is Green Lattice; T-597 is Black Aspen.
+
+Register medium: bound red ledger
+Circulation: naming office only
+This register is consulted when an authorized office must resolve a token to the approved codename attached to a study archive.

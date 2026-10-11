@@ -1,0 +1,13 @@
+Utility Ticket U-41
+Distribution Service Incident
+
+Ticket detail shows F4EM service lost 07:05 and cleared 09:53.
+
+Ticket No.: U-41
+Facility: F4EM
+Condition: service lost
+Start time: 07:05
+Clear time: 09:53
+Workstream: utility response
+
+Final ticket state is closed following service return.

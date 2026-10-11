@@ -1,0 +1,15 @@
+Harbor State Bank
+Statement Summary Sheet
+Name on account: Tannic Holdings
+Account number mask: ****4192
+Statement period: 04/2024
+
+The 04/2024 statement lists total operating outflows $53,000. Figure is shown in the business-account operating summary and reported in dollars.
+
+Sheet data
+Account category: Commercial checking
+Currency code: USD
+Cycle close: 04/2024
+Distribution: online statement center
+Bank unit: Commercial Client Services
+Statement image ref: 04-2024-C

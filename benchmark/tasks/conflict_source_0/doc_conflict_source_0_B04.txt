@@ -1,0 +1,8 @@
+Feed Provenance Chain
+Upstream Publisher Map
+
+feed_item | origin_publisher
+F-590 | PUB-CR
+F-550 | PUB-RL
+
+This map is maintained by Syndication Operations to identify the originating publisher key associated with each ingested feed item before normalization into the campus profile service.

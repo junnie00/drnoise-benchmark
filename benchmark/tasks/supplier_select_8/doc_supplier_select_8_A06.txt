@@ -1,0 +1,7 @@
+Dock Event Ledger
+Afternoon page excerpt
+
+Dispatch D-837 due 14:15, received 14:11.
+Dispatch D-844 due 09:00, received 08:51.
+
+Ledger page notes both timestamps exactly as entered by gate control and mirrored to receiving once trailers were positioned.

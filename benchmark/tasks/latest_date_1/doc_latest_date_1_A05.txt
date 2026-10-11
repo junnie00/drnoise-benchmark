@@ -1,0 +1,10 @@
+Case Closeout Ledger
+Clerk posting sheet
+
+Ledger entries show I-141 closed 12 Mar 2024 and I-117 closed 04 Sep 2024.
+
+Close postings
+I-141 -> 12 Mar 2024
+I-117 -> 04 Sep 2024
+
+Posted to the closeout sequence in date order received from review staff.

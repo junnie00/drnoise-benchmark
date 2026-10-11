@@ -1,0 +1,11 @@
+Northstar Freight
+Interoffice Memorandum
+
+To: Operations Accounting Team
+From: Elise Marrow, Quarter-Close Coordinator
+Subject: Q3 2024 period definition for tonnage rollups
+Date: 01 October 2024
+
+For the present close cycle, Q3 2024 comprises July, August, and September; monthly ledger values are not cumulative.
+
+Purpose of this memo is to prevent month-sheet carryforward errors during summary workbooks and route variance checks. July, August, and September should each be treated as separate monthly entries inside the quarter, with no assumption that a later month already includes a prior month’s tonnage.

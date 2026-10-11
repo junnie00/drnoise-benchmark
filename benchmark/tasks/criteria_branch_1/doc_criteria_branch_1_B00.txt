@@ -1,0 +1,11 @@
+Solace Bank Estate Services
+Facilities Alias Book
+
+Alias assignments in current use: facility F1RV serves Ashgate branch; F1LV serves Brookmere branch; F1EM serves Clearford branch.
+
+Reference list
+F1RV — Ashgate branch
+F1LV — Brookmere branch
+F1EM — Clearford branch
+
+Used by maintenance dispatch, controls integration, and utility-facing facilities records.

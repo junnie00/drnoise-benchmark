@@ -1,0 +1,12 @@
+KORROS HOLDINGS
+Month-End GL View
+Access date: 06 Jan 2024
+Fiscal period selected: FY2024 / 09
+Book segment: Operating expenses
+
+Korros Holdings — General Ledger extract shows operating expenses posted at $59,000.
+
+Output characteristics:
+summary only | booked basis | whole-dollar currency presentation
+
+The view is a standard ledger output produced from the month-end menu and reflects the posted operating expense total for the selected accounting period.

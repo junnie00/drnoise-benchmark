@@ -1,0 +1,12 @@
+SOLACE BANK
+Property & Facilities Services
+Site Directory Extract
+
+Active retail sites listed for branch maintenance routing:
+
+Site Code | Branch
+S-34 | Greystone branch
+S-32 | Hawthorn branch
+S-31 | Ivydale branch
+
+Issued from the internal site directory for vendor dispatch and facilities scheduling. Use the site code shown above on work orders, plant logs, and service call references for these locations.

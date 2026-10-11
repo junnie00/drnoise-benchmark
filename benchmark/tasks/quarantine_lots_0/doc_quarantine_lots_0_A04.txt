@@ -1,0 +1,6 @@
+Packaging Trace Worksheet
+Carton-to-Batch Map
+
+For the batches listed in this worksheet section, cartons C-482A and C-482B belong to B-82; C-719A belongs to B-19.
+
+The map is used during carton-level review where the carton identifier is visible before the batch traveler is pulled.

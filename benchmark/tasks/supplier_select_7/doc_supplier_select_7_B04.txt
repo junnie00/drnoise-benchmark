@@ -1,0 +1,6 @@
+Carrier Manifest Crosswalk
+Carrier allocation excerpt
+
+AC-771 consignments were C-74, C-79, and C-72; AC-709 consignments were C-73, C-76, and C-78.
+
+Excerpt from the crosswalk view that pairs each supplier payment account with the consignment identifiers used by the carrier desk.

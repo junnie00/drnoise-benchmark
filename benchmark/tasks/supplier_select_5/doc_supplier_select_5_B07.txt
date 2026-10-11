@@ -1,0 +1,13 @@
+North Quay Components
+Gate Operations
+Punctuality Extract
+
+Gate timing lines: C-59 late by 36 minutes; C-52 early by 12 minutes.
+
+Office: main gate scheduling desk
+Series: April consignment punctuality
+Measure shown: difference from booked gate time at arrival transaction
+
+This output was produced from the gate scheduling system to note timing performance for the listed consignments in standard minutes early or late.
+
+Channel: internal gate report

@@ -1,0 +1,15 @@
+Source Name Directory
+Publisher and Source Registry
+
+Directory entries confirm that SR-912 is DegreeWatch; SR-930 is College Atlas.
+
+Registry format
+Source ID | Display name | Status channel
+SR-912 | DegreeWatch | active
+SR-930 | College Atlas | active
+
+Maintained by: Institutional Content Registry Desk
+Name form standard: legal or market-facing source name used in publication attribution.
+Directory purpose: support source labeling across profile archives, syndication receipts, and attribution fields.
+
+Lookup window note: search by SR key returns a single active source card when present.

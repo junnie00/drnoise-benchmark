@@ -1,0 +1,10 @@
+NORTH VALLEY INDUSTRIAL OVERSIGHT OFFICE
+Incident Classification Legend
+
+Code Set: Intake Class
+
+S  — safety
+E  — environmental
+Q  — product quality
+
+This legend appears on intake screens and register extracts where class is stored as a single-letter field.

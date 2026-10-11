@@ -1,0 +1,9 @@
+Resilience Controller Log
+Monthly state export — May
+Format: facility_code, storage_state
+
+F-RV,1
+F-LV,0
+F-EM,1
+
+Controller output captured from the branch resilience platform at month close. Numeric state values are emitted directly by the site storage controller interface without text expansion in this export view.

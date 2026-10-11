@@ -1,0 +1,14 @@
+Publication Identity Table
+Profiles Syndication Register
+
+Publication record mappings
+
+Record ID | Issuing source
+PR-788 | SR-712
+PR-741 | SR-730
+
+Table purpose:
+The register links publication record numbers to source identifiers used by the profiles desk during intake and vendor reconciliation.
+
+Export view: source-link index
+Series owner: Profiles Syndication Register

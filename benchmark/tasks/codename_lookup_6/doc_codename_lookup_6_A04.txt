@@ -1,0 +1,13 @@
+BOREALIS LABORATORY
+Environmental Systems Unit
+Chamber Setpoint Map
+
+Authorized chamber map excerpt:
+CH-64 setpoint 4 degrees C; CH-69 setpoint 22 degrees C.
+
+Map class: production reference
+Display group: temperature-controlled test chambers
+Revision stripe: blue
+Console copy stamped for facilities and run-planning desks.
+
+This sheet is posted so schedulers can match chamber codes with their operating setpoints during reservations and environmental checks.

@@ -1,0 +1,12 @@
+North Quay Components
+Risk & Compliance Office
+Safety Credential Register — extract
+
+Credential SC-392 belongs to V-33 and expires 31 December 2024.
+
+Register class: supplier site-access safety credentials
+Verification window: current register view at time of extract
+Status field omitted in this print because expiry governs active use for the listed credential.
+
+Clerk terminal: RCO-2
+Format: compact register inquiry

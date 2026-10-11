@@ -1,0 +1,17 @@
+NORTH COAST MERCANTILE BANK
+Client Statement Abstract
+
+Name on account: Korrel Holdings
+Account: ****5170
+Statement period: 11/2024
+
+Abstract line
+Total operating outflows ........ $82,000
+
+Administrative fields
+Bank unit: Commercial Services
+Currency code: USD
+Format type: Abstract
+Cycle length: Monthly
+
+Produced automatically from month-end statement processing.

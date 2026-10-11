@@ -1,0 +1,17 @@
+North Coast Mercantile Bank
+Commercial Client Statement
+
+Customer: Korrel Holdings
+Account: ****1978
+Statement period: 06/2024
+
+Summary figure
+Total operating outflows .......... $24,000
+
+Supplemental fields
+Cycle: Monthly
+Currency: USD
+Posting basis: Statement-period activity
+Document class: Statement summary
+
+Machine-produced page from the bank's treasury reporting environment.

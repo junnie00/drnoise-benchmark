@@ -1,0 +1,13 @@
+Submission Routing Log
+Intake routing receipt lookup
+
+Receipt R-844 belongs to ORG-82 and form F-B8.
+
+Routing fields
+- Receipt number: R-844
+- Organization: ORG-82
+- Form code: F-B8
+- Intake lane: provider portal
+- Routing state: assigned for archive pairing
+
+Displayed from the routing console export for receipt-based searches.

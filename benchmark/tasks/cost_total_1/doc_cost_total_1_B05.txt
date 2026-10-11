@@ -1,0 +1,13 @@
+Harbor Commercial Bank
+Statement Extract - Commercial Account
+Holder: Tannon Holdings
+A/C ending: ****1878
+Statement period: 06/2024
+Distribution: eStatement
+
+For statement period 06/2024, total operating outflows $28,000. The figure is presented in the operating section of the account statement for the listed business banking product.
+
+Currency code: USD
+Cycle: monthly close
+Format profile: compact summary
+Service office: West Harbor Corporate Banking

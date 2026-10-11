@@ -1,0 +1,8 @@
+North Quay Components Trust
+Carrier Management Module
+Manifest Crosswalk
+Batch reference: APR-CMX-4
+
+For account AC-971, consignments were C-94, C-99, and C-92; for account AC-909, consignments were C-93, C-96, and C-98.
+
+This batch excerpt was issued for matching carrier manifests to finance-side account identifiers during April intake.

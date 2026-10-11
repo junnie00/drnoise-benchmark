@@ -1,0 +1,12 @@
+Portal Tenant Directory
+MedData Submission Portal
+
+Tenant roster excerpt
+T-384 — Cedar Clinic
+T-348 — Northbank Clinic
+
+Directory role: tenant name resolution
+Environment: production
+View type: administrative roster
+
+Used when portal events, cutoff schedules, and submission activity are displayed by tenant code rather than site name.

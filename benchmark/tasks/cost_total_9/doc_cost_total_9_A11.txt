@@ -1,0 +1,19 @@
+NORTH QUAY FINANCIALS
+Ledger Extract
+Entity: Ashos Holdings
+Year flag: FY2024
+Period no.: 12
+Posting date: 07 Feb 2024
+Category: Operating Expenses
+
+This ledger extract states that operating expenses posted at $19,000 for FY2024 period 12. Amount is displayed as the posted category balance on the specified date.
+
+Run information
+Currency: USD
+Book selected: Primary corporate
+Posting scope: Posted only
+Job name: P12-GL-SUM
+Generated: 07 Feb 2024 18:03
+Runtime user: close.bot
+
+Output truncated to selected category.

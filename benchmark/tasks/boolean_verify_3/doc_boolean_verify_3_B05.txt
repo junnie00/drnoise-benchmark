@@ -1,0 +1,12 @@
+Portal Audit Trail
+Event extract
+
+Event ID: E-319
+Action: submitted
+Form label: Nil Return 3
+Tenant: T-384
+Actor class: tenant user
+Stream: production submissions
+
+Audit description:
+Event E-319 submitted Nil Return 3 for tenant T-384. The entry appears in the standard portal action history for filing activity.

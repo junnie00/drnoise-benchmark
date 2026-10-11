@@ -1,0 +1,10 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract — Inland Network
+Revision window: 2024 operating book
+
+Lane code assignments currently in service:
+- L-24 is Route Finch
+- L-29 is Route Grove
+- L-22 is Route Harbor
+
+This extract was issued from the lane master to support dispatch naming consistency across planning sheets and ledger references. Use lane codes where required on operational forms; route names above reflect the current directory wording for these three lanes.

@@ -1,0 +1,11 @@
+MedData Regulatory Filing Codebook
+Extract: 2024 filing abbreviations
+
+F-A8 means monitoring-plan renewal. F-B8 means late-sample summary.
+
+Code   Filing title
+F-A8   monitoring-plan renewal
+F-B8   late-sample summary
+
+Scope: provider compliance submissions
+Edition: operational shorthand list

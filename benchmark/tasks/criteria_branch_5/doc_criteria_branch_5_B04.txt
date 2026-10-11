@@ -1,0 +1,6 @@
+Controller Code Legend
+Resilience Storage States
+
+storage state 1 means online; state 0 means unavailable.
+
+Legend applies to controller exports and dashboard shorthand where numeric state values are displayed instead of plain-language operating conditions.

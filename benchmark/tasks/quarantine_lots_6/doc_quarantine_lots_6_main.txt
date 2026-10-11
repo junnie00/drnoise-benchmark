@@ -1,0 +1,10 @@
+Clinical Register Summary Memorandum
+From: M. Hargreaves, Clinical Materials Office
+To: Internal Review File
+Subject: Lots identified with both excursion and missing tamper seal
+
+The Clinical Register states that LOT-869 and LOT-648 were the two Alton Pharma lots with both a temperature excursion and a missing tamper seal. This statement is entered as the register conclusion for the affected lots within the Alton Pharma manufacturing case and is presented as the operative summary for clinical materials handling.
+
+For planning and reporting purposes, the register position is to treat LOT-869 and LOT-648 as the pair associated with the combined condition of temperature excursion and absent tamper seal. The summary is written in the same form used in internal case abstracts so downstream staff can carry the conclusion consistently into meeting notes, release discussions, and issue tracking narratives.
+
+No alternate lot pair is stated in this summary. The controlling statement for this memorandum remains that LOT-869 and LOT-648 were the two Alton Pharma lots with both a temperature excursion and a missing tamper seal.

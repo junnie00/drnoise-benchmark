@@ -1,0 +1,12 @@
+Northstar Freight Operations
+Monthly Tonnage Ledger — July 2024
+Closed period snapshot
+
+Recorded shipped tonnage for the month:
+L-94 6,100 kg; L-99 5,700 kg; L-92 5,200 kg; L-97 4,900 kg; L-91 3,700 kg.
+
+Source stream: posted outbound linehaul weights
+Unit basis: kilograms
+Ledger class: route-level monthly total
+
+Reviewed at month close by linehaul accounting.

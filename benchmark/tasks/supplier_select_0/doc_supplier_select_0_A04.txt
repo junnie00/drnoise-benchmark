@@ -1,0 +1,7 @@
+March Purchase Dispatch Map
+Sourcing Operations Console Export
+
+March dispatch assignments currently listed:
+V-18 handled dispatches D-144, D-245, and D-359; V-44 handled D-401, D-402, and D-403.
+
+These dispatch identifiers are the booking references used by the dock team when checking expected arrivals against the release schedule.

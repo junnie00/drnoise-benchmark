@@ -1,0 +1,10 @@
+Program Cost-Center Directory
+Operations Finance Division
+
+Directory extract for active centers:
+
+Cost Center | Assigned Project
+CC-7 | HG-4
+CC-2 | QD-8
+
+Use this directory when a posting center is known and the receiving project code is required for internal charging screens.

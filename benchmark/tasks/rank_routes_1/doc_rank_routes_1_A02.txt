@@ -1,0 +1,15 @@
+Northstar Freight
+Monthly Operations Ledger — July 2024 Tonnage
+Unit basis: kg
+
+Posted lane totals for July 2024:
+
+| Lane | Shipped volume |
+|------|----------------|
+| L-14 | 6,100 kg |
+| L-19 | 5,700 kg |
+| L-12 | 5,200 kg |
+| L-17 | 4,900 kg |
+| L-11 | 3,700 kg |
+
+Ledger status: closed for monthly tonnage reporting. Values shown are the posted July lane volumes used for routine operations review and quarter-close compilation.

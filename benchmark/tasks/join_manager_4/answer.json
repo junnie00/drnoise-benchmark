@@ -1,0 +1,15 @@
+{
+  "answer": "Talia Venn",
+  "false_value": "Marek Stone",
+  "false_values": [
+    "Marek Stone"
+  ],
+  "type": "multi_hop_join",
+  "dom": "projects",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "join contract to package to cost center to project, verify audit, then map manager employee ID to name",
+    "B": "join contract amendment to program number, verify closeout, then map supervisor code through HR"
+  }
+}

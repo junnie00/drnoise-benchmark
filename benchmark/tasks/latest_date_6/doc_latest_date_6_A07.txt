@@ -1,0 +1,10 @@
+Case Closeout Ledger
+Mixed Program Register
+
+The closeout book records the following dates: I-949 closed 14 Jan 2025; I-671 closed 19 Dec 2024.
+
+Register note:
+Cases from different programs may appear on the same page when posted on the same cycle.
+Fields shown in order: case number, closure date.
+
+Issued as a typed ledger excerpt from the records room.

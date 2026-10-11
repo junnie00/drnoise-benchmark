@@ -1,0 +1,12 @@
+Cold-Room Access Log
+Borealis Lab Access Control
+
+Study S-804 used room CR-8A; study S-819 used room AM-8B; study S-825 used room CR-8A.
+
+Badge-route summary:
+S-804 -> CR-8A
+S-819 -> AM-8B
+S-825 -> CR-8A
+
+Door controller source: environmental access cluster
+Export state: closed session

@@ -1,0 +1,15 @@
+Harbor State Bank
+Commercial Banking Statement
+Client: Tannic Holdings
+Account ending: ****3381
+Statement period: 02/2024
+
+For statement period 02/2024, total operating outflows $20,000. Amount is listed in the summary section for operating disbursements on the monthly business statement.
+
+Statement attributes
+Account class: Commercial demand deposit
+Currency denomination: USD
+Cycle: 02/2024
+Issue channel: Secure mailbox
+Service unit: Treasury Operations
+Render time: 07:15

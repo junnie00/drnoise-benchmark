@@ -1,0 +1,8 @@
+Human Resources Service Desk
+Personnel Directory Extract
+
+Employee lookup results:
+E-808 — Vera Holt
+E-814 — Simon Keir
+
+Returned from the internal directory panel for name confirmation and staff identity matching.

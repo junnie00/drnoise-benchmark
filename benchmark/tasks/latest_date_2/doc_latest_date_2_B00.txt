@@ -1,0 +1,7 @@
+Regulated Entity Crosswalk
+Licensing and Docket Administration
+
+Current registrant-to-entity assignments:
+R-280 corresponds to Canton Robotics; R-242 corresponds to Meridian Foundry.
+
+Clerks should use the registrant code shown here when indexing ownership on board dockets, hearing packets, and resolution notices.

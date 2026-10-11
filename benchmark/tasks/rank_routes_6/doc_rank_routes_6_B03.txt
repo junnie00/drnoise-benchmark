@@ -1,0 +1,8 @@
+Northstar Freight
+Q3 Consignment Masses — Batch 2
+Dispatch manifest worksheet
+Unit: tonnes
+
+Recorded consignments in this batch: C6D: 3.2 and 2.9 tonnes; C6O: 2.9 and 2.7 tonnes; C6K: 2.8 and 2.5 tonnes.
+
+Worksheet purpose: preserve individual consignment masses by alias for the quarter traffic run. Each figure is shown at shipment level rather than as a rolled-up corridor total.

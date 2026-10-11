@@ -1,0 +1,6 @@
+Renewable Certificate File
+Operational Acceptance Notice
+
+Certificate entries on file confirm that array A-901 at F-RV reached operational acceptance; A-711 at F-LV reached operational acceptance.
+
+These acceptance notices are used by property engineering to mark branch solar arrays as admitted into normal operating service after final commissioning review.

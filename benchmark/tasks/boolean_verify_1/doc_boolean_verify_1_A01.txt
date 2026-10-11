@@ -1,0 +1,9 @@
+MedData Regulatory Operations
+Filing Codebook 2024 — Standard Form Meanings
+
+Code definitions in current use:
+
+F-A1 — biobank amendment
+F-B1 — participant withdrawal summary
+
+This codebook excerpt is issued for form-routing and intake labeling within the regulatory submissions program. Use the listed filing codes exactly as shown when indexing receipts and portal events.

@@ -1,0 +1,10 @@
+FIN-ACCT Posting Crosswalk
+Ledger Routing Snapshot
+
+Package-to-Cost Center Mapping
+
+Package ID: PK-791 -> Cost Center: CC-77
+Package ID: PK-738 -> Cost Center: CC-72
+
+Posting class: project package settlement
+Rendered by: Accounting Services console

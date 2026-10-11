@@ -1,0 +1,8 @@
+Independent Closeout Docket
+System extract: assurance outcomes
+
+program_number,final_assurance_code
+P-340,A1
+P-310,B2
+
+The docket export is used by closeout personnel when a program must be checked against its final assurance code.

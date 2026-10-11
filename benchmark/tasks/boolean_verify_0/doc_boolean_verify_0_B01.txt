@@ -1,0 +1,10 @@
+Portal Form Alias List
+Displayed Titles to Regulatory Meaning
+
+Alias: Ethics Continuation 24
+Meaning: the IRB renewal
+
+Alias: Safety Nil Return
+Meaning: the zero-adverse-event report
+
+Maintained so portal labels match the compliance filing vocabulary used by institutions.

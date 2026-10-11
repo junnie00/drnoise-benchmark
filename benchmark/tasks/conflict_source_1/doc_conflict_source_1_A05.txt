@@ -1,0 +1,16 @@
+Publication Identity Table
+Source Mapping Register
+
+Publication record PR-188 is issued by source SR-112; PR-141 is issued by source SR-130.
+
+Table scope:
+This compact register assigns each tracked publication record to its issuing source code for cataloging and subscription administration.
+
+Active entries in this extract:
+- PR-188 -> SR-112
+- PR-141 -> SR-130
+
+Registry section:
+External publications / issuer assignment
+Compiled within the Publications Control Ledger
+Export slice: issuer-map

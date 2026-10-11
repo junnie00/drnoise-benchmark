@@ -1,0 +1,16 @@
+North Quay FinanceSuite
+GL Period View
+Company: Tannic Holdings
+Fiscal designation: FY2024
+Issued: 03 Apr 2024
+
+Period 07 carries operating expenses posted at $29,000. This machine view presents the period total under the operating expense heading with final posted status.
+
+View configuration
+Period code: 07
+Book: Actuals
+Account family: Operating expenses
+Status: Posted
+Currency: USD
+Interface: GL Inquiry Panel
+Issued at: 03 Apr 2024 08:54

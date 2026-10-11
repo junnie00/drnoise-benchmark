@@ -1,0 +1,11 @@
+Solace Bank Facilities Systems
+Generation Asset Register
+
+Entry recorded for branch solar plant: PV-463 assigned to S-41, commissioned 22 January.
+
+Asset: PV-463
+Classification: Generation
+Assigned site: S-41
+Commissioned: 22 January
+
+Entered in the estate generation ledger for routine plant tracking.

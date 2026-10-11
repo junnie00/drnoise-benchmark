@@ -1,0 +1,9 @@
+Generation Asset Register
+Record Card
+
+Plant identifier: PV-863
+Assigned site: S-81
+Commissioned: 22 January
+Technology: Solar PV
+
+Entered in the renewable generation ledger for branch estate equipment.

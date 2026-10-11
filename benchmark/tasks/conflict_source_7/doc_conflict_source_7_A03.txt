@@ -1,0 +1,12 @@
+Registrar Arithmetic Policy
+Office of Institutional Registration
+
+Policy statement:
+Institutional enrollment is the sum of the certified undergraduate and graduate unit counts.
+
+Application scope:
+This arithmetic rule is used when the registrar issues a single institution-wide enrollment figure from unit certifications.
+
+Method label in forms: institutional total
+Computation basis: certified unit counts only
+Authority line: Registrar Methods Circular

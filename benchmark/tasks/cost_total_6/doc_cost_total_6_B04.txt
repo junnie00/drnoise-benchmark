@@ -1,0 +1,15 @@
+Harborside Treasury Bank
+Commercial Deposit Services
+
+Statement Overview
+Client entity: Korric Holdings
+Account: ****3096
+Statement period: 05/2024
+Account class: Business transaction account
+
+Period total as displayed: total operating outflows $9,000.
+Currency denomination: USD
+Delivery method: digital statement
+Archive tag: monthly issued copy
+
+This overview accompanies the standard account image stored in the commercial banking platform.

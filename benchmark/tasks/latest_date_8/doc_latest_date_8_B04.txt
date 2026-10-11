@@ -1,0 +1,14 @@
+Board Secretariat
+Docket Opening Register
+Open date excerpt
+
+The register shows HS-841 opened 03 Feb 2024; HS-817 opened 18 Jun 2024; HS-804 opened 05 Sep 2024; HS-833 opened 11 Jul 2024; HS-888 opened in 2023.
+
+Docket | Opened
+HS-841 | 03 Feb 2024
+HS-817 | 18 Jun 2024
+HS-804 | 05 Sep 2024
+HS-833 | 11 Jul 2024
+HS-888 | 2023
+
+Register print group: HS series

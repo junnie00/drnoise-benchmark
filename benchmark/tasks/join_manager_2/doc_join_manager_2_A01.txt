@@ -1,0 +1,8 @@
+Package Accounting Crosswalk
+Finance Systems Export
+
+PACKAGE_ID,POSTING_DESTINATION
+PK-291,CC-27
+PK-238,CC-22
+
+Exported from the package ledger interface for routing and charge alignment. Format reflects active posting destinations in the accounting map.

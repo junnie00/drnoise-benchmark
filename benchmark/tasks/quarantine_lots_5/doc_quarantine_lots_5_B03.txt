@@ -1,0 +1,10 @@
+ALTON PHARMA
+Cold-Chain Exception Desk
+Ticket Findings Sheet
+
+Ticket outcomes entered by monitoring staff:
+T-511 recorded above-limit temperature; T-512 normal; T-521 above-limit; T-531 above-limit; T-541 normal.
+
+Sheet type: exception summary for cold-chain review
+Applies to monitored transport segments only.
+Finding language mirrors the ticket closeout screen used by the desk.

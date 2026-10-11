@@ -1,0 +1,15 @@
+Tamarack College Registrar
+Autumn Census Counts Certification Slip
+
+Institution: Tamarack College
+Reporting cycle: Autumn Census Counts
+Certifying office: Graduate Records
+
+Certified entry: Tamarack College unit G-8 certified count 760.
+
+Posted by: census desk operator
+Record status: certified
+Distribution: internal enrollment reporting queue
+Form class: seasonal census count acknowledgment
+
+This slip accompanies the certified graduate unit submission received by the registrar reporting console.

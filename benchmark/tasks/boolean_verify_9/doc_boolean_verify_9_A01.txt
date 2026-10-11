@@ -1,0 +1,9 @@
+MedData Regulatory Operations
+Filing Codebook — 2024 Short Reference
+
+Current filing meanings in the regulated notice series:
+
+Code F-A9 designates the biospecimen transfer notice.
+Code F-B9 designates the serious-adverse-event nil report.
+
+This reference page is issued for intake coders, portal support, and records staff who need the plain-language title associated with each filing code in live use.

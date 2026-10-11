@@ -1,0 +1,8 @@
+Borealis Lab Security Console
+Cold-Room Access Log
+
+Activity summary: study S-104 used room CR-1A; study S-119 used room AM-1B; study S-125 used room CR-1A.
+
+Source: badge-gated room use register
+Display scope: studies with completed room sessions in current review window
+Status lights on the console marked these entries as closed after room exit was registered.

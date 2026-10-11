@@ -1,0 +1,12 @@
+North Quay Components
+Plant Risk Office
+Safety Credential Register — current entry notice
+
+Credential record: SC-592 belongs to V-53 and expires 31 December 2024.
+
+Register class: supplier safety credentials
+Validation office: Plant Risk Office
+Credential state shown in this notice reflects the active register line carried for the listed vendor code on the date of issue. Expiry is recorded in day-month-year long form for plant access and unloading authorization review.
+
+Filed from register console: RSK-SCR
+Clerk station: East Gate administration

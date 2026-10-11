@@ -1,0 +1,10 @@
+Event Clock Store
+Machine Time Record
+
+event_id=E-301
+occurred_at=2024-07-03
+tenant_id=T-348
+clock_domain=portal_app
+record_state=final
+
+This row is retained in the event clock store as part of routine portal chronology data.

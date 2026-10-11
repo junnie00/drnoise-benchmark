@@ -1,0 +1,13 @@
+Northstar Freight Operations Ledger
+Monthly Tonnage Posting — July 2024
+Posting class: Shipped volume
+
+Lane ID   Net shipped mass
+L-44      6,100 kg
+L-49      5,700 kg
+L-42      5,200 kg
+L-47      4,900 kg
+L-41      3,700 kg
+
+Entered to month ledger after close of July traffic cycle.
+Source stream: terminal outbound tonnage feed.

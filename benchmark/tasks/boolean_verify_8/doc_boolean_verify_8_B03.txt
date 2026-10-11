@@ -1,0 +1,12 @@
+Compliance Calendar Export
+Machine output: tenant obligations
+
+T-884 Nil Return 8 cutoff: 2024-06-30.
+
+tenant_id=T-884
+form_alias=Nil Return 8
+cutoff=2024-06-30
+calendar_year=2024
+feed=obligation-sync
+
+--- end item ---

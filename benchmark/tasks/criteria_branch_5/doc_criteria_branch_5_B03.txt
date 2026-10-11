@@ -1,0 +1,10 @@
+RESILIENCE CONTROLLER LOG EXPORT
+run_id=JUNE-END-STATE
+format=csv-like
+
+facility_code,storage_state_code,period
+F5RV,1,June
+F5LV,0,June
+F5EM,1,June
+
+Export generated from controller state history for monthly facilities review.

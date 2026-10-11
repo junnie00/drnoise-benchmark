@@ -1,0 +1,9 @@
+Human Resources Service Center
+HR Identity Crosswalk
+Supervisor-to-employee mapping
+
+Supervisor ID | Employee ID
+S-377         | E-308
+S-331         | E-314
+
+Crosswalk extract issued for systems that store supervisory identifiers separately from employee records.

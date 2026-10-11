@@ -1,0 +1,19 @@
+NORTH QUAY FINANCE SUITE
+GL SUMMARY EXTRACT
+
+Legal entity: Korrby Holdings
+Fiscal cycle: FY2024
+Period code: 05
+Extract date: 08 Aug 2024
+Panel: Operating Expenses
+
+Recorded amount: operating expenses posted at $81,000.
+
+Book set: primary
+Posting state: final-posted view
+Currency: USD
+Source families represented: payable batches, utilities, contracted operations
+Console reference: GLX-080824-P05
+Output style: condensed
+
+--- end machine output ---

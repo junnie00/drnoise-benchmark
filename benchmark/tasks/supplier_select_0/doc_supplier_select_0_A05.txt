@@ -1,0 +1,7 @@
+Receiving Dock Event Ledger
+Bay sequence extract
+
+Logged arrivals for selected March dispatches:
+D-118 due 08:30, received 08:18; D-219 due 10:00, received 09:52.
+
+Recorder remarks: arrivals posted from the live gate-to-bay feed after unloading clearance. Times are shown in local yard time and preserve the due slot followed by the stamped receipt time used by dock supervisors.

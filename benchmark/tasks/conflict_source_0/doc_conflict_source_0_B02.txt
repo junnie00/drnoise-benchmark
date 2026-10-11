@@ -1,0 +1,9 @@
+Census Codebook
+Registrar Data Services
+Edition: Enrollment Populations
+
+Included populations for registrar total enrollment:
+UG — undergraduate population
+GR — graduate population
+
+UG and GR are the two disjoint populations included in registrar total enrollment. Codes outside this pair may appear in operational extracts for other purposes but are not part of the registrar total-enrollment rollup.

@@ -1,0 +1,36 @@
+{
+  "query_id": "criteria_branch_0",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "map branch to site, join separate asset statuses, compute outage duration, and intersect all criteria",
+      "query_hint": "map branch to site, join separate asset statuses, compute outage duration, and intersect all criteria",
+      "expected_docids": [
+        "criteria_branch_0_0bf29e2c",
+        "criteria_branch_0_f5f0bf3d",
+        "criteria_branch_0_400ea840",
+        "criteria_branch_0_accf281f",
+        "criteria_branch_0_5a97db13",
+        "criteria_branch_0_7be6505e",
+        "criteria_branch_0_d8259608",
+        "criteria_branch_0_02051e72"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "map branch to facility alias, decode renewable/storage records, compute restoration interval, and intersect",
+      "query_hint": "map branch to facility alias, decode renewable/storage records, compute restoration interval, and intersect",
+      "expected_docids": [
+        "criteria_branch_0_be1c5a0e",
+        "criteria_branch_0_5d02b8f2",
+        "criteria_branch_0_dfcd4510",
+        "criteria_branch_0_cd1d9899",
+        "criteria_branch_0_189f4107",
+        "criteria_branch_0_8d75e802",
+        "criteria_branch_0_9a1f72a6",
+        "criteria_branch_0_0b17173d"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Project Name Register
+Capital Works Portfolio
+
+Project ID | Registered Project Name
+HG-1       | Aster Bridge
+QD-1       | Quasar Dock 1
+
+The register is used by reporting staff when expanding abbreviated project IDs into the approved portfolio names shown in internal and public-facing materials.

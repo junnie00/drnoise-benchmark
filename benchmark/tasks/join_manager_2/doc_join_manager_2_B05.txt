@@ -1,0 +1,13 @@
+HR Identity Crosswalk
+Supervisor-to-Employee Mapping Ticket
+
+Ticket Ref: HRX-4418
+Queue: Identity Services
+Status: Closed
+Request: confirm employee mapping for supervisor codes used in reporting lines
+
+Resolved mapping:
+- supervisor S-277 maps to employee E-208
+- S-231 maps to E-214
+
+Resolution entered by Identity Services so reporting units can align supervisor codes with employee records in the staff system.

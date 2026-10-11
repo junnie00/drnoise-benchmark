@@ -1,0 +1,10 @@
+NORTHSTAR FREIGHT
+Lane Directory Card — Supplemental Entries
+
+Routing register excerpt.
+
+Lane Code  Route Name
+L-37       Route Norwood
+L-31       Route Oriel
+
+Issued from the central lane directory to support ledger coding and dispatch identification. Use the route names exactly as printed when preparing corridor-facing summaries or exception notes.

@@ -1,0 +1,14 @@
+North Quay Components
+Procurement Services Division
+Approved Vendor Directory — April revision
+
+Vendor Code | Supplier Name
+V-33 | Kepler Valves
+V-38 | Damon Housings
+V-34 | Ridgeway Metals
+
+Directory scope: active purchasing references used by intake, buying, and dock scheduling teams during the April revision cycle. Entries are listed by internal vendor code for purchase order routing and receiving identification.
+
+Issued by: Supplier Administration Desk
+Revision label: APR
+Distribution: internal procurement and receiving users

@@ -1,0 +1,13 @@
+Cold-Chain Ticket Index
+Logistics Support Console
+View: ticket linkage by distribution unit
+
+The index shows these ticket associations: DU-38 tickets T-311 and T-312; DU-32 ticket T-321; DU-36 ticket T-331; DU-31 ticket T-341.
+
+Rendered list
+DU-38 : T-311, T-312
+DU-32 : T-321
+DU-36 : T-331
+DU-31 : T-341
+
+Session printout ID: CC-IX-52

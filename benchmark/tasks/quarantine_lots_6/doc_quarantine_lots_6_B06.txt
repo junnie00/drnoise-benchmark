@@ -1,0 +1,6 @@
+Packaging Findings Log
+Tamper-Seal Observation Results
+
+O-614 seal absent; O-615 seal intact; O-622 seal absent.
+
+The findings log records the condition noted at the time each packaging observation was closed. “Seal absent” is used when no tamper seal was present; “seal intact” indicates the seal was present and not broken.

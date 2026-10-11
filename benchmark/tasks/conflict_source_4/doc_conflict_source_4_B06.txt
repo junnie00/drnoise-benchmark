@@ -1,0 +1,11 @@
+Publisher Registry
+Name resolution card
+
+Registry entry: PUB-4RL legal display name Enrollment Office.
+
+Publisher class: registered external publisher
+Display standard: legal display form
+Registry state: active name record
+Maintaining office: Publisher Relations Registry
+Card format: single-key lookup
+Rendered for internal use by feed and profile staff resolving publisher keys to outward-facing names.

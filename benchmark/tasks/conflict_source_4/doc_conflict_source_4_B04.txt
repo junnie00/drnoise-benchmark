@@ -1,0 +1,13 @@
+Feed Provenance Chain
+Origin mapping excerpt
+
+The provenance ledger states F-490 originated from publisher key PUB-4CR; F-3160 originated from PUB-4RL.
+
+Ledger attributes
+Object class: syndicated feed items
+Origin field: publisher key
+Mapping mode: single-source attribution
+Registry section: publisher provenance
+Maintained by: Distribution Systems
+Export serial: FPC-19-EX
+This excerpt is used to resolve the source publisher attached to archived feed items.

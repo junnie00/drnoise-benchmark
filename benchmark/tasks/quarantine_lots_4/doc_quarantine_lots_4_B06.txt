@@ -1,0 +1,11 @@
+Packaging Findings Ticket
+Observation Outcome Entry
+
+Packaging Findings logged for the referenced observations:
+O-414 seal absent; O-415 seal intact; O-422 seal absent.
+
+The wording reflects the visual packaging check terminology used on the observation bench. “Seal absent” indicates the tamper seal was not present at inspection; “seal intact” records acceptable presence at the same checkpoint.
+
+Ticket class: packaging observation outcome
+Desk: Secondary Packaging QA
+Entry mode: keyed from bench slips

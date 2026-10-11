@@ -1,0 +1,11 @@
+ALTON PHARMA
+Packaging Trace Worksheet
+Subject: Carton-to-Batch Map
+
+Trace entries logged during carton reconciliation:
+cartons C-582A and C-582B belong to B-582; C-519A belongs to B-519.
+
+Area: secondary packaging
+Worksheet use: link carton markings to manufacturing batch references during seal review and pallet build confirmation.
+Sheet class: PTW-short form
+Operator initials field left on original paper form.

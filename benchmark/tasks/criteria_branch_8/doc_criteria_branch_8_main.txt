@@ -1,0 +1,8 @@
+FacilityMetrics
+Regional Facilities Performance Summary
+
+From the latest FacilityMetrics review, Westford branch is identified as the Solace Bank location combining commissioned solar, online battery storage, and a June outage restored in under two hours. The branch is presented in the summary as meeting the full resilience-and-generation condition set used for this reporting cycle.
+
+The note places Westford branch in the highlighted position for branch infrastructure readiness, citing the presence of an installed solar resource already brought into service, battery capability shown as online within the reporting window, and a June service interruption returned within the stated under-two-hour threshold. In the summary layout, that combination is attributed to Westford branch as the named location for management attention.
+
+This statement appears in the concise findings section rather than a narrative article, using direct branch naming for ease of executive reading. No alternate branch is identified in that finding line; the summary simply names Westford branch as the location associated with the cited solar, storage, and outage-restoration conditions.

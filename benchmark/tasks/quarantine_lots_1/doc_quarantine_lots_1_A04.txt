@@ -1,0 +1,6 @@
+Packaging Area Reference Slip
+Carton-to-Batch Map
+
+Carton assignment for the active run section shows that cartons C-182A and C-182B belong to B-182; C-119A belongs to B-119.
+
+This floor copy is used in secondary packaging when individual carton findings must stay attached to the correct internal batch during line clearance and carton inspection.

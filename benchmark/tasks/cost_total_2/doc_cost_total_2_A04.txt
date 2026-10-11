@@ -1,0 +1,14 @@
+KORREL HOLDINGS FINANCE PLATFORM
+GL Period Snapshot
+
+As of 17 Apr 2024, the FY2024 general ledger extract for period 05 shows operating expenses posted at $26,000.
+
+Screen parameters:
+Entity ............ Korrel Holdings
+Book .............. Corporate
+Period ............ 05
+Fiscal year ....... FY2024
+Measure ........... Posted operating expense
+Output type ....... Extract view
+
+System-generated line item from the monthly close environment.

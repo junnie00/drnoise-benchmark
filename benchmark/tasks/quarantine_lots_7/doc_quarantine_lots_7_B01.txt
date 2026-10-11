@@ -1,0 +1,11 @@
+Distribution Routing Slip
+Distribution Unit Map
+
+The routing slip for this lot group shows: R-748 travelled as DU-78; R-771 as DU-72; R-760 as DU-76; R-733 as DU-71.
+
+Document purpose: tie release identifiers to physical distribution units
+Handled by: outbound logistics coordination
+Slip class: dispatch support
+Route packet color: blue
+Dispatch rack: lane C
+Slip number block: 51-series

@@ -1,0 +1,9 @@
+Northstar Freight
+Quarter-Close Mass Accounting Note
+
+For the Q3 consignment schedules under review, each listed consignment is distinct and all Q3 consignments are included exactly once.
+
+Purpose: to settle treatment of the consignment lists before quarter close posting. No duplication factor is to be applied, and no additional Q3 consignment line is outstanding against the covered schedules.
+
+Issued by: Mass Accounting Desk
+Distribution: quarter-close working file

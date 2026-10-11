@@ -1,0 +1,10 @@
+ALTON PHARMA RELEASE CONTROL
+Release Identifier Register
+Controlled lot listing
+
+LOT-825 uses release code R-248; LOT-287 uses R-271; LOT-604 uses R-260; LOT-166 uses R-233.
+
+Register section: approved identifier pairing
+Maintained by: Release Administration desk
+View: compact registrar screen print
+Ledger page group: RC-ALTON

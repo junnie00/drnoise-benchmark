@@ -1,0 +1,12 @@
+Borealis Laboratory
+Experiment Input Ledger
+Run Materials Entry
+
+Run ID: E-402
+Consumed lot: L-471
+Assigned chamber: CH-44
+
+Entry class: consumables and environment assignment
+Recorded by: Intake Desk, Experimental Operations
+
+This ledger line was entered at run opening to bind the issued material lot to the chamber reservation used for the execution window. Only the lot consumed and chamber used are captured in this line item.

@@ -1,0 +1,7 @@
+Dock Control Console
+Event Ledger Snip — Receiving Window
+
+D-718 due 08:30, received 08:18.
+D-729 due 10:00, received 09:52.
+
+Captured from the dock event ledger’s time column view. Times are shown in the console’s standard due/received sequence for inbound purchase dispatches.

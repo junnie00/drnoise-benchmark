@@ -1,0 +1,12 @@
+Meridian Commercial Bank
+Treasury Statement Summary
+Client name: Korron Holdings
+Bank account: a/c ****1621
+Statement period: 06/2024
+
+Listed in the operating section: total operating outflows $36,000.
+
+Currency code: USD
+Delivery stream: Secure e-delivery
+Bank unit: Treasury Management
+The summarized figure appears on the cover page preceding transaction-level debit entries for the same statement cycle.

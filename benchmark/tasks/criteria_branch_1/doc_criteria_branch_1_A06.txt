@@ -1,0 +1,9 @@
+Solace Bank Facilities Response
+June Outage Events
+
+Event line recorded for S-12: interruption 13:40, restoration 14:46.
+
+Operational event type: power interruption
+Month file: June
+Affected site: S-12
+Restoration noted on the outage timeline at 14:46 following the 13:40 interruption.

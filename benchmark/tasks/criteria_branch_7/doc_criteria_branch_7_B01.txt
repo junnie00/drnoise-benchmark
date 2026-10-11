@@ -1,0 +1,10 @@
+Renewable Certificate File
+Operational Acceptance Notice
+
+Certificate entries on this page record that array A-701 at F7RV reached operational acceptance and array A-711 at F7LV reached operational acceptance.
+
+File series: branch renewable installations
+Acceptance basis: post-install commissioning package completed
+Circulation: engineering administration, facilities planning, sustainability reporting
+
+This notice format is issued when an array moves from installation works into accepted operational service within the renewable certificate file.

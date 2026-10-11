@@ -1,0 +1,13 @@
+BOREALIS LAB
+Controlled Reagent Catalog — Issue Extract
+
+Catalog Section: Active Specialty Reagents
+
+Entry R-97 — issued as stock lot L-971.
+Entry R-91 — lot L-917.
+
+Packaging class: chilled handling
+Stores unit: Central Reagent Room
+Catalog format revision: CRR-4
+
+This extract was generated for bench-side stock confirmation and reflects the lot designations in current use for the listed reagents only.

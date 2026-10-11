@@ -1,0 +1,10 @@
+Safety Credential Register
+Operational Compliance Console
+
+Credential lookup
+
+Credential ID: SC-292
+Assigned vendor: V-23
+Expiry: 31 December 2024
+
+Status is carried in the live register by credential number and vendor code pairing. This card was generated for front-desk verification where a supplier presents a code but the clerk needs the linked vendor reference before admitting site activity.

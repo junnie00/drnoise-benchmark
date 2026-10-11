@@ -1,0 +1,12 @@
+Borealis Lab Facilities Engineering
+Room Calibration Record
+Certificate excerpt
+
+CR-8A maintained 4 degrees C; AM-8B maintained 22 degrees C.
+
+Certified room conditions:
+Room CR-8A: maintained 4 degrees C
+Room AM-8B: maintained 22 degrees C
+
+Instrument family: fixed cold-room monitors
+Authorized by Calibration Desk, Facilities Engineering

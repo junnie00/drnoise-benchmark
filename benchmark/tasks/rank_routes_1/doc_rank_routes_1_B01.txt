@@ -1,0 +1,7 @@
+Northstar Freight
+Dispatch Corridor Alias File
+Export fragment: additional corridor entries
+
+C1M maps to Route Drift; C1V maps to Route Ember.
+
+System note: these entries are part of the active dispatch alias table used by corridor shorthand workflows. Route naming follows the same capitalization used on dispatch labels and exception tickets generated from the corridor field.

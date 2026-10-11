@@ -1,0 +1,10 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Single-record lookup result
+
+Asset: PV-963
+Assigned site: S-91
+Commissioned: 22 January
+
+This entry is displayed from the generation register search pane for branch-connected PV equipment.

@@ -1,0 +1,7 @@
+Northstar Freight
+Consignment Mass Summary
+Quarter: Q3
+
+For corridor C1M, shipments totalled 14.7 tonnes across six consignments.
+
+This summary line was generated for corridor-level review where the detailed six-entry list was not needed on the face of the report. The figure is shown in tonnes and reflects the quarter shipment mass total for that corridor only.

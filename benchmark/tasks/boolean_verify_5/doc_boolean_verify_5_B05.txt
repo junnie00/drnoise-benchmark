@@ -1,0 +1,9 @@
+MedData Compliance Portal
+Audit Trail Event View
+
+Event statement:
+event E-519 submitted Nil Return 5 for tenant T-584.
+
+Channel: provider self-service submission
+Stored by: activity logger v4
+Rendering mode: concise event narrative.

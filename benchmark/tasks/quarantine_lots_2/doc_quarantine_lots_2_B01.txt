@@ -1,0 +1,9 @@
+ALTON PHARMA DISTRIBUTION SERVICES
+Distribution Unit Map
+Release-to-unit routing extract
+
+R-248 travelled as DU-28; R-271 as DU-22; R-260 as DU-26; R-233 as DU-21.
+
+Movement type: outbound cold-chain unitization
+Dispatch board: regional transfer queue
+System area: Distribution Control Module

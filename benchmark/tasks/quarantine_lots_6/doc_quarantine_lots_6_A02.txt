@@ -1,0 +1,8 @@
+Sensor Exception Reference
+Cold Storage Monitoring Legend
+
+Result code definitions used in pallet sensor exports:
+X means storage limits were exceeded.
+N means no excursion.
+
+This legend accompanies machine-read alarm reports generated for pallet-level monitoring within the controlled-temperature area. Operators use the single-letter result field when reviewing whether storage remained inside approved limits during holding and transit staging.

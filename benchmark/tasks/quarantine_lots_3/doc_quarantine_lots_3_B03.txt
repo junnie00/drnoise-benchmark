@@ -1,0 +1,16 @@
+Cold-Chain Findings Log
+Exception ticket findings
+Shift summary extract
+
+Ticket outcomes entered during this period were: T-311 recorded above-limit temperature; T-312 normal; T-321 above-limit; T-331 above-limit; T-341 normal.
+
+Result labels used by the desk:
+- above-limit temperature
+- normal
+
+Log fragment
+T-311  above-limit temperature
+T-312  normal
+T-321  above-limit
+T-331  above-limit
+T-341  normal

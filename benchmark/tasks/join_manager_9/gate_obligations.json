@@ -1,0 +1,34 @@
+{
+  "query_id": "join_manager_9",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "join contract to package to cost center to project, verify audit, then map manager employee ID to name",
+      "query_hint": "join contract to package to cost center to project, verify audit, then map manager employee ID to name",
+      "expected_docids": [
+        "join_manager_9_26b43a69",
+        "join_manager_9_da3ec227",
+        "join_manager_9_0929a315",
+        "join_manager_9_a95b0192",
+        "join_manager_9_8bac6458",
+        "join_manager_9_121f6cba",
+        "join_manager_9_bafe160a"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "join contract amendment to program number, verify closeout, then map supervisor code through HR",
+      "query_hint": "join contract amendment to program number, verify closeout, then map supervisor code through HR",
+      "expected_docids": [
+        "join_manager_9_3e91a24c",
+        "join_manager_9_8f6b0869",
+        "join_manager_9_8098568a",
+        "join_manager_9_340ea929",
+        "join_manager_9_be7442b5",
+        "join_manager_9_a767eb25",
+        "join_manager_9_b7f51e3a"
+      ]
+    }
+  ]
+}

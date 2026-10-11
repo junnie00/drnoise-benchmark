@@ -1,0 +1,12 @@
+MEDDATA SECURE FILINGS PORTAL
+Event Clock Store
+machine export / event-time lookup
+
+match_count=1
+E-419 occurred 2024-06-21 16:03 local time.
+clock_source=application event clock
+precision=minute
+view=local
+status_line=stored
+
+-- end record --

@@ -1,0 +1,8 @@
+North Quay Gatehouse
+Gate Punctuality Extract
+Console lines
+
+C-41 early by 12 minutes
+C-45 early by 8 minutes
+
+Output source: booked-gate comparison service.

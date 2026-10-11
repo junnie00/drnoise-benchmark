@@ -1,0 +1,13 @@
+Packaging Observation Map
+Release Packaging Review
+Observation allocation list
+Continuation
+
+For this release grouping, the register notes that R-360 observation O-331; R-333 observation O-341.
+
+Observation roster
+release | observation
+R-360 | O-331
+R-333 | O-341
+
+Desk code: PK-OBS-B

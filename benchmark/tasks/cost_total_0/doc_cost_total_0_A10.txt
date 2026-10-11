@@ -1,0 +1,16 @@
+North Quay FinanceSuite
+Year-End Ledger Snapshot
+Entity: Tannic Holdings
+Fiscal set: FY2024
+Generated: 26 Dec 2024
+
+Period 11 shows operating expenses posted at $36,000. The snapshot captures the posted period movement in the operating expense account family within the general ledger.
+
+Snapshot labels
+Period code: 11
+Ledger book: Actuals
+Account classification: Operating expenses
+Status: Posted
+Display currency: USD
+Generation time: 26 Dec 2024 12:22
+Office node: North Quay Control

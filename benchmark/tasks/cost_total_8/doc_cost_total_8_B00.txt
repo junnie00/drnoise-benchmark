@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Business Account Statement Summary
+Client: Ashel Holdings
+Account: ****9670
+Statement period: 01/2024
+Service class: Treasury Business Checking
+
+Statement summary shows total operating outflows $74,000.
+
+Currency: USD
+Delivery mode: Electronic statement
+Cycle type: Monthly
+Statement status: Issued
+Branch region: Central Commercial Services
+
+This page is the account summary section generated for the period listed above and excludes non-operating classification detail.

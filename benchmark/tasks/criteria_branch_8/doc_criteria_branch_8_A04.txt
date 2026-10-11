@@ -1,0 +1,7 @@
+Storage Telemetry Registry
+Monthly exception and availability extract
+
+Battery B-828 at S-82 reported MAINTENANCE during June; B-839 at S-81 reported ONLINE.
+
+Feed origin: distributed storage monitors
+Period shown: June

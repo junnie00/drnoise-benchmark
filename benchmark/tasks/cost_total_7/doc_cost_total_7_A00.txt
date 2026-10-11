@@ -1,0 +1,15 @@
+NarrowGate Finance Suite
+General Ledger Activity Extract
+Entity: Korron Holdings
+Fiscal year: FY2024
+Posting period: 01
+Run date: 18 Sep 2024
+Ledger view: Operating Expense Detail
+
+Extract note: operating expenses posted at $12,000.
+
+Account class: OpEx
+Journal source: GL-POST
+Currency: USD
+Batch status: Posted
+Prepared from live ledger balances for period-close review. Entries shown in this extract reflect booked operating expense movement for the stated period only, excluding capital lines and financing activity.

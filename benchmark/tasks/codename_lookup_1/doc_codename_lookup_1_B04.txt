@@ -1,0 +1,10 @@
+Borealis Facilities & Calibration Unit
+Room Calibration Record
+
+Controlled-space listing:
+CR-1A maintained 4 degrees C; AM-1B maintained 22 degrees C.
+
+Certificate footer
+Instrument class: fixed environmental monitoring
+Condition line: maintained values posted for operations scheduling and room assignment review
+Technician seal: CAL-FAC-3

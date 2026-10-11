@@ -1,0 +1,8 @@
+Northwater Works Transport Desk
+Carrier Manifest Crosswalk
+
+Selected account links:
+- AC-671 consignments were C-64, C-69, and C-62.
+- AC-609 consignments were C-63, C-66, and C-68.
+
+Reference generated for manifest tracing during month-end transport review.

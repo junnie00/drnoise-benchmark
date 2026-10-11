@@ -1,0 +1,7 @@
+Northstar Freight Dispatch
+Corridor Alias File
+Export slice: active named corridors
+
+C-D maps to Route Delta; C-O maps to Route Orion; C-K maps to Route Kestrel.
+
+Alias tokens in this file are the dispatch shorthand used on consignment runs and corridor loading sheets. Output format follows the live dispatcher lookup, with one-letter corridor tags retained as entered by the movement desk.

@@ -1,0 +1,15 @@
+ORCHARD STATE
+Registrar Operations Directory
+Current unit routing excerpt
+
+Campus: Orchard State
+Office series: Registrar Units
+Effective listing: internal routing panel
+
+Unit code U-3 — undergraduate records
+Primary function: student record maintenance, enrollment certification intake, term census handling for undergraduate populations.
+
+Unit code G-3 — graduate records
+Primary function: graduate student record maintenance, enrollment certification intake, term census handling for graduate populations.
+
+Switchboard annotation: use unit code exactly as shown when filing census-related certifications or requesting record pulls from Registrar Operations.

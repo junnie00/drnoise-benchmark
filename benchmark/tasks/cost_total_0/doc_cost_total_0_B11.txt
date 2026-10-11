@@ -1,0 +1,15 @@
+Harbor State Bank
+Commercial Account Statement Summary
+Customer file: Tannic Holdings
+Account ending: ****8185
+Statement period: 12/2024
+
+The statement summary for 12/2024 lists total operating outflows $38,000. This figure is the operating disbursement total displayed for the statement period.
+
+Summary data
+Account type: Business operating checking
+Currency: USD
+Cycle notation: 12/2024
+Distribution channel: eStatement
+Unit: Commercial Banking Operations
+Statement footer: YEAR-END-12

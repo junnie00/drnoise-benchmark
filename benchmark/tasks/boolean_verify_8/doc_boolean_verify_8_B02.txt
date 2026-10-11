@@ -1,0 +1,12 @@
+Compliance Calendar Export
+Machine output: tenant obligations
+
+T-884 Continuation 8 cutoff: 2024-04-15.
+
+tenant_id=T-884
+form_alias=Continuation 8
+cutoff=2024-04-15
+calendar_year=2024
+feed=obligation-sync
+
+--- end item ---

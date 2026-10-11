@@ -1,0 +1,10 @@
+NORTH QUAY COMMERCIAL BANK
+Commercial Cash Statement
+Customer entity: Korros Holdings
+Account: ****4524
+Statement period: 09/2024
+
+The statement reports total operating outflows $59,000.
+
+Rendering mode: classified summary.
+Banking platform output groups outgoing operating payments for the period into a single figure. Supplemental balance panels and transfer reference text are suppressed on this version for concise printing.

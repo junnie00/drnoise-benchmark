@@ -1,0 +1,6 @@
+Gatehouse Daily Log
+Booked-time performance note
+
+For consignments tied to this log segment, C-73, C-76, and C-78 were each recorded before the booked gate time.
+
+The gatehouse summary note was entered to capture same-day arrival performance without minute offsets when all listed consignments cleared ahead of booking.

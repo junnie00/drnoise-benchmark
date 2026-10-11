@@ -1,0 +1,9 @@
+Accounts Payable Control
+Alias Table — supplier payment accounts
+
+Account Code | Payee Name
+AC-804       | Palisade Coatings
+AC-871       | Rook Machining
+AC-809       | Umber Castings
+
+Reference use: match remittance account codes appearing on voucher jackets to the payable name carried in the control ledger.

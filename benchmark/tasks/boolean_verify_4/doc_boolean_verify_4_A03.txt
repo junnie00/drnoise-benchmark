@@ -1,0 +1,14 @@
+MedData Regulatory Exchange
+2024 Obligation Calendar
+Provider-specific deadline register
+
+Calendar entry: ORG-42, F-B4 deadline: 30 June 2024.
+
+Entry type: annual filing obligation
+Cycle: 2024
+Organization reference: ORG-42
+Form reference: F-B4
+Deadline basis shown in register: fixed date
+
+Calendar office view
+This register excerpt reflects the date carried for the specified provider-form pair.

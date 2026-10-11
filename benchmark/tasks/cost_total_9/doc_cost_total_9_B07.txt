@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+Statement Extract
+Account title: Ashos Holdings
+A/C ending: ****4411
+Statement period: 08/2024
+
+For the monthly cycle identified above, total operating outflows $72,000. The amount is presented as the summarized operating disbursement total for the account.
+
+Extract settings
+Currency: USD
+Statement source: Online archive
+Cycle finalization: 31 Aug 2024 23:59
+Servicing desk: Corporate Banking Desk 4
+Format: Summary-only
+
+Page generated from customer statement system.

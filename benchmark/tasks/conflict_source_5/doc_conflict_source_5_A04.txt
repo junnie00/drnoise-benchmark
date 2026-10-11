@@ -1,0 +1,12 @@
+External Profile Snapshot
+Profile Archive Entry
+
+Record ID: PR-588
+Institution: Quarry University
+Displayed field: enrollment
+Listed figure: 8360
+Capture type: publication record snapshot
+Channel: external profile archive
+Archive state: indexed
+
+This entry preserves the enrollment value shown in publication record PR-588 at the time of capture. The snapshot format stores the publication record identifier, institution name, and the displayed profile figure for reference inside the profile archive.

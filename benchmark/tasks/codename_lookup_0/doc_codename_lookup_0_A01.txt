@@ -1,0 +1,12 @@
+Borealis Lab — Experiment Input Ledger
+Run entry worksheet
+
+Recorded materials and equipment for this line show that run E-102 consumed lot L-771 and used chamber CH-4.
+
+Entry class: consumable-to-run assignment
+Run: E-102
+Material lot: L-771
+Environmental chamber: CH-4
+Line condition: closed for intake
+Operator initials on scan: M.R.
+Ledger segment: Inputs / sequence block E-100 to E-109

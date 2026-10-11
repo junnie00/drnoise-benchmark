@@ -1,0 +1,6 @@
+Carrier Desk Manifest Crosswalk
+Consolidated account listing
+
+AC-871 consignments were C-84, C-89, and C-82; AC-809 consignments were C-83, C-86, and C-88.
+
+Output taken from the same monthly manifest crosswalk run used by the carrier desk at closeout.

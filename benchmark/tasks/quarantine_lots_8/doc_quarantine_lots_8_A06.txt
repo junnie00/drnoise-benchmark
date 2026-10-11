@@ -1,0 +1,11 @@
+ALTON PHARMA
+Tamper Seal Inspection Worksheet
+Inspector lane: Secondary Packaging Review
+
+Seal inspection events recorded:
+C-882A failed for absent seal; C-882B passed; C-819A failed for absent seal.
+
+Disposition field on worksheet reflects visual presence check only.
+Work area: carton seal station
+Form family: PK-INS visual checks
+Filed under: individual carton observations

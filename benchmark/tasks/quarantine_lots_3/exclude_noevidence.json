@@ -1,0 +1,22 @@
+{
+  "condition": "noevidence",
+  "description": "all truthful route documents removed; false summary retained",
+  "docids": [
+    "quarantine_lots_3_0f20cafd",
+    "quarantine_lots_3_bbdef6d6",
+    "quarantine_lots_3_9922104c",
+    "quarantine_lots_3_d3d50588",
+    "quarantine_lots_3_c0a1f5ff",
+    "quarantine_lots_3_b439cef0",
+    "quarantine_lots_3_7ae8121a",
+    "quarantine_lots_3_668b6daf",
+    "quarantine_lots_3_e764923d",
+    "quarantine_lots_3_d9b6900a",
+    "quarantine_lots_3_2784811f",
+    "quarantine_lots_3_97af12d6",
+    "quarantine_lots_3_21be0457",
+    "quarantine_lots_3_252136cc",
+    "quarantine_lots_3_10a124fa",
+    "quarantine_lots_3_c2d021dd"
+  ]
+}

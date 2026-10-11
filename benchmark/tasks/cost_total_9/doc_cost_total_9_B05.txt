@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+Commercial Account Statement Extract
+Holder: Ashos Holdings
+Account number masked: ****2556
+Statement period: 06/2024
+
+Statement activity summary for this account shows total operating outflows $69,000. Figure represents the bank's operating payment classification for the designated monthly cycle.
+
+Statement metadata
+Currency code: USD
+Channel: eStatement archive
+Cycle ending: 30 Jun 2024 23:59
+Office: Harbor Plaza Corporate Services
+Document version: 1.0
+
+Excerpt contains summary information only.

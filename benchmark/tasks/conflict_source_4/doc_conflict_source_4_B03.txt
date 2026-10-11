@@ -1,0 +1,15 @@
+Syndication Feed Record
+Feed item detail
+
+Feed item F-490 reports 3480 total students for Pember College.
+
+Operational fields
+Feed channel: institution profile syndication
+Payload type: total students
+Record status: delivered
+Normalization stage: complete
+Storage bucket: profile-feed-archive
+Dispatch stamp: 2024-10-03 11:07:19
+Consumer class: downstream publisher ingestion
+
+This record reflects the value carried in the syndication item as archived by the feed service.

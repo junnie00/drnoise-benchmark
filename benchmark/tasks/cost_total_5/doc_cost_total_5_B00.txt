@@ -1,0 +1,17 @@
+HARBOR MERCHANT BANK
+Business Account Statement Snapshot
+
+Client: Korrby Holdings
+Account: ****9425
+Statement period: 01/2024
+Statement type: operating cash activity
+
+Period total: total operating outflows $69,000.
+
+Currency: USD
+Delivery format: online statement image
+Debit categories present: vendor payments, facilities, service charges
+Statement cycle code: M01
+Issue channel: treasury portal
+
+This page is a condensed cash-movement summary for the stated period.

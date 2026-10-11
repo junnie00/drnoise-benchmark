@@ -1,0 +1,8 @@
+Project Delivery Office
+Responsibility Matrix — Project Managers
+
+Project Code | Manager Employee
+HG-1         | E-108
+QD-1         | E-114
+
+Issued for staffing confirmation and routing of management-level approvals across the active delivery portfolio.

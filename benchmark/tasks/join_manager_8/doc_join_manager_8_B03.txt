@@ -1,0 +1,7 @@
+Assurance Codebook
+Closeout Standards Desk
+
+Code meanings in current use:
+A1 means passed final audit; B2 means remediation remained open.
+
+The codebook excerpt is circulated with closeout packets so reviewers can read assurance shorthand consistently across docket screens and printed summaries.

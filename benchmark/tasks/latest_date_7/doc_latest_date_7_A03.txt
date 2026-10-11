@@ -1,0 +1,9 @@
+Incident Intake Extract
+Office of Plant Conduct Review
+Batch stamp: 2024-Q3 / safety desk
+
+Accepted intake lines:
+- I-1004: site HA-7, opened 05 Sep 2024, class S
+- I-733: site HA-7, opened 11 Jul 2024, class S
+
+The extract is presented in the same order as the nightly queue output. Only the intake number, site shorthand, open date, and class marker are included in this release copy for operations review.

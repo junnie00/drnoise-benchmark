@@ -1,0 +1,6 @@
+Feed Provenance Chain
+Chain view: publisher origins
+
+Current origin assignments in the chain ledger are: F-690 originated from publisher key PUB-6CR; F-4920 originated from PUB-6RL.
+
+The ledger is used by the syndication team to preserve source-of-origin keys separately from the public-facing payload text. Each feed item is stored with a single publisher-origin assignment in this chain view.

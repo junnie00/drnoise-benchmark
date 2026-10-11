@@ -1,0 +1,6 @@
+Packaging Observation Register
+Observation map — continuation
+
+Mapped observation references for the next release codes are: R-60 observation O-31; R-33 observation O-41.
+
+This continuation page completes the observation lookup for the listed release-code group.

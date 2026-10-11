@@ -1,0 +1,14 @@
+ALTON PHARMA COLD-CHAIN MONITORING
+Machine Export: Pallet Sensor Results
+Run ID: PCM-EX-204
+
+pallet_id,result
+P-84,X
+P-87,X
+P-86,X
+P-83,N
+
+Scope line: P-84 result X; P-87 result X; P-86 result X; P-83 result N.
+Capture source: outbound pallet logger gateway
+Timestamp class: post-route consolidation export
+Office: Distribution Monitoring Desk

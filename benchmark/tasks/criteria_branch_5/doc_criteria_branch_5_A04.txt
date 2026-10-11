@@ -1,0 +1,9 @@
+STORAGE TELEMETRY REGISTRY
+June polling snapshot — multi-device view
+
+battery B-528 at S-52 reported MAINTENANCE during June; B-539 at S-51 reported ONLINE.
+
+Feed: branch resilience telemetry
+Window: June
+
+Entries shown exactly as surfaced in the monthly state view for registered storage units.

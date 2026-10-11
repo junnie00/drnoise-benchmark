@@ -1,0 +1,10 @@
+Borealis Lab
+Codename Vault Access Slip
+
+Vault reference pairs for authorized naming lookup:
+AK-155 corresponds to Glass Otter; AK-161 to Amber Fox; AK-172 to Copper Fern.
+
+Handled copy no. 2
+Issue purpose: controlled retrieval of codenames from archive keys
+Cleared section: Naming records cabinet
+Custodian mark: JN

@@ -1,0 +1,16 @@
+NORTH QUAY CAPITAL SERVICES
+General Ledger Archive Export
+
+Company: Korric Holdings
+Book: FY2024
+Accounting period: 03
+Export date: 03 Sep 2024
+Segment: Operating expense accounts
+
+Closed-period total: operating expenses posted at $37,000.
+Denomination: USD
+Source: posted journals only
+Ledger integrity flag: complete
+
+Comments:
+This export presents the period summary as held in the accounting archive at the time of issue. Formatting is machine-rendered for controller review and period file storage.

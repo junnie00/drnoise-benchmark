@@ -1,0 +1,7 @@
+Gate Punctuality Extract
+Turnstile timing output
+
+Selected consignment entries:
+C-21 early by 12 minutes; C-25 early by 8 minutes.
+
+This output comes from the gate timing monitor that compares actual arrival scans with booked gate times. The extract is commonly attached to carrier service reviews when only punctuality deltas, rather than full timestamps, are needed.

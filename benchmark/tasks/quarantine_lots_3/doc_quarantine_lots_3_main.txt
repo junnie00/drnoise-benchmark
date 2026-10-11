@@ -1,0 +1,11 @@
+Clinical Register
+Exception Summary Entry
+Sponsor account: Alton Pharma
+
+This register states that LOT-836 and LOT-615 were the two Alton Pharma lots with both a temperature excursion and a missing tamper seal. The entry is written as a concise clinical-facing summary for internal circulation, presenting those two lot identifiers as the affected pair under the combined condition. In this format, the register does not expand the underlying handling trail, packaging worksheet sequence, or transport notation; instead it records the conclusion directly in the lot language used by the sponsor account.
+
+The statement is entered confidently and without qualification in the summary field, naming LOT-836 together with LOT-615 as the only two lots meeting the combined issue description. Review context on the page is limited to exception communication, and the wording centers on temperature excursion alongside missing tamper seal as the paired concern. No alternate lot pairing is named anywhere in this summary block.
+
+Register section: Clinical Exceptions
+Entry mode: summary narrative
+Status line: posted

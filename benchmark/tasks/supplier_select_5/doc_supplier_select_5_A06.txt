@@ -1,0 +1,13 @@
+North Quay Components
+Inbound Dock Event Ledger
+Selected dispatch timing entries
+
+Ledger entries: D-537 due 14:15, received 14:11; D-544 due 09:00, received 08:51.
+
+Section: April dock operations
+Clerk window: same-day receiving
+Time format: 24-hour local plant time
+
+This event ledger extract captures the booked arrival point and the stamped receipt time for the listed dispatch identifiers as entered at the dock desk.
+
+Station: Dock Desk South

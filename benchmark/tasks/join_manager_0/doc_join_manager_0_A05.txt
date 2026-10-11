@@ -1,0 +1,10 @@
+Project Responsibility Matrix
+Program Delivery Branch
+
+Current manager assignments:
+
+Project Code | Role | Employee
+HG-4 | manager | E-208
+QD-8 | manager | E-114
+
+Matrix view compiled for staffing and approval-path checks within project delivery operations.

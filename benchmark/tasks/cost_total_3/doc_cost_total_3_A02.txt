@@ -1,0 +1,14 @@
+KORROS HOLDINGS — LEDGER SNAPSHOT
+Module: General Ledger
+Capture date: 27 Jun 2024
+Fiscal frame: FY2024 P03
+
+Operating expenses posted at $54,000 for Korros Holdings in FY2024 period 03.
+
+Screen export parameters:
+- summary level: period
+- account family: operating expenses
+- posting basis: booked
+- display format: currency whole dollars
+
+This inquiry print reflects the period summary after posting activity was committed to the ledger for the selected accounting frame.

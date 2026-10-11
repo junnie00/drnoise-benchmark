@@ -1,0 +1,11 @@
+Borealis Lab Chemical Control
+Barcode Directory Extract
+
+Directory rule in effect for current container series:
+R-67 containers carry prefix VX67; R-61 containers carry prefix VX61.
+
+Output mode: line printer directory
+Container family: reagent vials
+Reader profile: bench scanner lookup
+
+The prefixes above are the machine-readable stems used by intake scanners before full vial serial parsing.

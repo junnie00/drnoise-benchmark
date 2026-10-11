@@ -1,0 +1,16 @@
+ALTON PHARMA
+Production Records Office
+Lot/Bulk Crosswalk Card
+
+Program: Finished Goods Trace Lookup
+Line family: Oral solid dose
+
+Current crosswalk entries in the Alton lot file:
+LOT-880 is batch B-782; LOT-342 is B-719; LOT-659 is B-705; LOT-221 is B-731.
+
+Index class: FG lot to primary batch
+Issued for floor use by: Batch Genealogy Desk
+Card format: quick-reference shelf insert
+Status line: active posting for routine warehouse and quality lookups
+Physical location tag: Genealogy cabinet, row 3
+Print stamp: 07:42 local

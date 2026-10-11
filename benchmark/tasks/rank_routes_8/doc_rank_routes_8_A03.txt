@@ -1,0 +1,10 @@
+Northstar Freight
+Monthly Operations Ledger — Tonnage
+Posting month: August 2024
+Unit basis: kg
+
+Lane postings for the month entered to the freight tonnage ledger: L-84 6,300 kg; L-89 5,600 kg; L-82 5,400 kg; L-87 4,800 kg; L-81 3,800 kg.
+
+Ledger class: month-end operational volume
+Source stream: closed shipping postings
+Status: posted

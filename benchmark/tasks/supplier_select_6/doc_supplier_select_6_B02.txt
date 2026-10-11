@@ -1,0 +1,8 @@
+Northwater Works
+Risk Office Badge File — Multi-account View
+
+Account | Badge status note
+AC-671 | held active badge SB-69 throughout April 2024
+AC-609 | badge was suspended on 15 April
+
+This view shows current and dated badge remarks for the selected supplier payment accounts.

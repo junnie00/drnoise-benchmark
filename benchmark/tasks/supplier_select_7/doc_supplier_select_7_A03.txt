@@ -1,0 +1,7 @@
+NQPA Purchasing Operations
+April Purchase Dispatch Map
+
+Dispatch assignment extract for vendor routing:
+V-73 handled dispatches D-718, D-729, and D-737.
+
+This map is the routing view used by purchasing staff when matching April dispatch numbers to the vendor that carried the order release.

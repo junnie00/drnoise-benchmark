@@ -1,0 +1,14 @@
+Source Name Directory
+Registered source names
+
+Directory entries show SR-412 is DegreeMap; SR-430 is College Atlas.
+
+Name registry scope
+- Source identifiers used in publication and profile systems
+- Display names authorized for outward-facing listings
+
+Directory class: controlled source names
+Release view: standard internal lookup
+Issued by: Source Registration Desk
+Lookup integrity flag: active
+This sheet is the current plain-name view used by staff when resolving source IDs to display names.

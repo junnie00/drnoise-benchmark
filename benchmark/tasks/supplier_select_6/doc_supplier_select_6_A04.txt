@@ -1,0 +1,8 @@
+Northwater Works Logistics Console
+April Purchase Dispatch Map
+
+Vendor assignment snapshot for remaining April purchasing lanes:
+- V-68 handled dispatches D-644, D-645, and D-659.
+- V-64 handled D-601, D-602, and D-603.
+
+Rendered from the logistics console in plain-text list view for receiving coordination.

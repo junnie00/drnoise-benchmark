@@ -1,0 +1,17 @@
+ALTON PHARMA
+Materials Control Office
+Lot/Bulk Batch Crosswalk Card
+
+Product family: Clinical distribution lots
+Reference set: AP-LX series
+
+Recorded associations for current review scope:
+- LOT-891 is batch B-882
+- LOT-353 is B-819
+- LOT-670 is B-805
+- LOT-232 is B-831
+
+Card status: active
+Format: lot-to-batch lookup for warehouse and QA handling
+Issued from: Materials Control Office, Plant Records Desk
+Index class: Crosswalk / finished lot conversion

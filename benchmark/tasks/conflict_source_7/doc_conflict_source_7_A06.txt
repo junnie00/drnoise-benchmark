@@ -1,0 +1,12 @@
+Source Name Directory
+Named Source Registry
+
+Source ID | Display name
+SR-712 | CampusMeter
+SR-730 | College Atlas
+
+Registry scope:
+This directory provides approved display names for source identifiers appearing in publication intake records.
+
+Issued by: Registry Clerk, Source Names
+Format: compact lookup sheet

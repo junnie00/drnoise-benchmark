@@ -1,0 +1,9 @@
+June Outage Events
+Incident Record
+
+Site: S-94
+Event type: interruption
+Interruption time: 09:12
+Restoration time: 10:36
+
+Logged in the monthly outage event file for branch utilities service interruptions.

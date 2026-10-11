@@ -1,0 +1,13 @@
+External Profile Snapshot
+Record ID: PR-288
+Institution profile excerpt
+
+Publication record PR-288 lists Norvale Institute enrollment as 5900.
+
+Profile state: published snapshot
+Record family: external profile distribution
+Institution code string: Norvale Institute
+Snapshot format: numeric enrollment field plus standard profile metadata
+Ingest lane: publisher import
+
+The excerpt above reproduces the enrollment field carried on publication record PR-288 in the profile snapshot register.

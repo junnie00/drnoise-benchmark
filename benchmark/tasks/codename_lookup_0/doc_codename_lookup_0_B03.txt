@@ -1,0 +1,12 @@
+BOREALIS LAB ACCESS CONTROL
+Cold-Room Access Log
+
+Access assignment records show that study S-204 used room CR-A; study S-219 used room AM-B; study S-225 used room CR-A.
+
+Study       Room
+S-204       CR-A
+S-219       AM-B
+S-225       CR-A
+
+Origin: room booking/auth handshake
+Log family: controlled environment access

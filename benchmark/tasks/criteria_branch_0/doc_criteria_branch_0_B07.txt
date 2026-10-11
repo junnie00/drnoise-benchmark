@@ -1,0 +1,8 @@
+UTILITY SERVICE TICKET
+Ticket No.: U-31
+Service class: Commercial branch facility
+
+Location code: F-EM
+Incident summary: F-EM service lost 07:05 and cleared 09:53.
+
+The ticket excerpt reflects the outage timing retained in the utility operations case record for the affected bank facility.

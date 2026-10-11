@@ -1,0 +1,6 @@
+Safety Credential Register
+Compliance Snapshot
+
+Credential SC-417 belongs to V-18 and expires 31 December 2024. Credential SC-611 for V-44 expired 28 February 2024.
+
+The compliance desk issued this snapshot for use in routine supplier handling checks and front-gate confirmation during the spring scheduling cycle. Entries are displayed in vendor-code order used by procurement and receiving teams.

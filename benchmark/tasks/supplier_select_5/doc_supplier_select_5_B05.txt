@@ -1,0 +1,13 @@
+North Quay Components
+Gate Operations
+Punctuality Extract — booked gate comparison
+
+Recorded gate variances: C-51 early by 12 minutes; C-55 early by 8 minutes.
+
+Source stream: gatehouse booking monitor
+Reporting basis: variance from booked gate time
+Operational use: queue pacing and lane review
+
+The extract summarizes time performance for the listed consignments as captured when the vehicles checked in at the gate.
+
+Issued from: Gatehouse Terminal 1

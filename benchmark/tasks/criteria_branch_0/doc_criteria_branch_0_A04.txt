@@ -1,0 +1,6 @@
+Storage Telemetry Registry
+Monthly status extract — May
+
+Battery B-28 at S-22 reported MAINTENANCE during May; B-39 at S-31 reported ONLINE.
+
+This machine summary is generated from the storage monitoring feed and preserves the reported state labels exactly as received from branch-side controllers.

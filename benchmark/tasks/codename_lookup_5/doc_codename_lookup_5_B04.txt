@@ -1,0 +1,10 @@
+Borealis Laboratory Facilities
+Room Calibration Record
+Thermal Control Division
+
+Calibration posting confirms: CR-5A maintained 4 degrees C; AM-5B maintained 22 degrees C.
+
+Instrument family: fixed cold-room monitoring
+Posting status: current
+Certificate class: room environment
+This calibration notice is the wall-file version placed with facilities records so users can confirm maintained temperature for each room code.

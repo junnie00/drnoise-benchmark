@@ -1,0 +1,6 @@
+Packaging Component Map
+Carton-to-Batch Assignment Addendum
+
+C-605A belongs to B-605; C-631A belongs to B-631.
+
+Issued by Packaging Control to complete the carton roster for the same batch group already opened under the line packaging review. Carton IDs shown here are the physical carton marks used during visual tamper-seal checks.

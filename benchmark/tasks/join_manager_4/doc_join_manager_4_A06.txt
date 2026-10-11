@@ -1,0 +1,7 @@
+Human Resources Service Desk
+Personnel Directory Extract
+
+Employee lookup results:
+E-408 is Talia Venn; E-414 is Marek Stone.
+
+Display generated from the internal staff directory for contact and identity confirmation.

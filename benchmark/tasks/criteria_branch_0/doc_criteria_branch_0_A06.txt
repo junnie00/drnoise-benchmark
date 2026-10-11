@@ -1,0 +1,8 @@
+May Outage Events
+Regional utility disruption sheet
+
+Site: S-22
+Interruption: 13:40
+Restoration: 14:46
+
+Recorded for branch-level electrical service tracking in the May events ledger used by facilities response coordinators.

@@ -1,0 +1,13 @@
+Portal Audit Trail
+Event detail panel
+
+Event E-819 submitted Nil Return 8 for tenant T-884.
+
+Event ID: E-819
+Action: submitted
+Form label: Nil Return 8
+Tenant: T-884
+Origin: authenticated portal session
+Audit class: filing activity
+
+Rendered from the portal activity ledger.

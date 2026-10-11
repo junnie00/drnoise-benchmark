@@ -1,0 +1,10 @@
+Northstar Freight
+Q3 Consignment Masses — Batch 3
+Dispatch export fragment
+
+Corridor entries captured in this batch:
+C5D: 2.4 and 2.8 tonnes
+C5O: 2.5 and 2.35 tonnes
+C5K: 2.3 and 2.5 tonnes
+
+Batch 3 contains the listed Q3 consignment masses for the specified corridors.

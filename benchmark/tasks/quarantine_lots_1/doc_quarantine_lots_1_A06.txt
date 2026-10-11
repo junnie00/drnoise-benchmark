@@ -1,0 +1,9 @@
+Tamper Seal Inspection Worksheet
+Station: Final Carton Check
+Disposition excerpt
+
+Seal inspection events entered for this worksheet segment read: C-182A failed for absent seal; C-182B passed; C-119A failed for absent seal.
+
+Inspector initials box: completed
+Observation basis: visual tamper-band presence at discharge table
+Sheet class: carton-level packaging control

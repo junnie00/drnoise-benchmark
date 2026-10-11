@@ -1,0 +1,14 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Network Planning Register
+
+Active lane identifiers in current use:
+
+Lane ID | Route Name
+L-54   | Route Umber
+L-59   | Route Vale
+L-52   | Route Warden
+
+Directory purpose: standard route naming for operations, billing, and ledger posting. Use lane IDs as the primary record key in internal entries; route names appear in customer-facing summaries where required.
+
+Issued from the lane master index.

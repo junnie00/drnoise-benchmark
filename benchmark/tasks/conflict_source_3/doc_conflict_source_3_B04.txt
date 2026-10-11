@@ -1,0 +1,9 @@
+Feed Provenance Chain
+Origin mapping excerpt
+
+Feed item | Originating publisher key
+F-390 | PUB-3CR
+F-6840 | PUB-3RL
+
+Chain purpose
+This origin map ties each syndicated item to the publisher key that supplied it at ingest. The key values listed here are preserved for publisher registry resolution, partner troubleshooting, and source-display rendering inside the syndication console.

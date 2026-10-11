@@ -1,0 +1,14 @@
+BOREALIS LAB
+Controlled Reagent Catalog
+Shelf extract: cryochem inventory
+
+Catalog line confirms that reagent R-17 was issued as stock lot L-771; reagent R-71 was lot L-717.
+
+Storage bay: West Annex, cabinet C2
+Format: active reagent / issuance lot
+
+R-17  -> L-771
+R-71  -> L-717
+
+Clerk terminal stamp: CAT-CRYO-11
+Visible print state: current distribution list

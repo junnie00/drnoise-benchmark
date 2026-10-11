@@ -1,0 +1,11 @@
+KORROS HOLDINGS ACCOUNTING SYSTEM
+General Ledger Compact Export
+Created: 17 Aug 2024
+Target frame: FY2024 period 10
+Rollup family: Operating expenses
+
+Company: Korros Holdings
+Posted operating expenses: $11,000.
+
+Export profile notes:
+compact header enabled; line detail suppressed; actual postings only. This record was emitted as a system-format summary for period review and presents the single operating expense figure carried in the selected fiscal period.

@@ -1,0 +1,6 @@
+Portal Form Alias List
+User-Facing Labels for 2024 Cycle
+
+Continuation 2 is the device calibration attestation. Nil Return 2 is the sterile-field variance report.
+
+Aliases appear in the submission menu and on portal confirmations instead of the internal regulatory filing codes.

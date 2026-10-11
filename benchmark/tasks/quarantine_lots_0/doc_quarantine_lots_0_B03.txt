@@ -1,0 +1,7 @@
+Cold-Chain Event Tickets
+Exception digest
+
+Ticket findings entered by transport monitoring:
+T-11 recorded above-limit temperature; T-12 normal; T-21 above-limit; T-31 above-limit; T-41 normal.
+
+This digest is circulated within shipping quality review to separate routine movements from tickets showing temperature handling exceptions.

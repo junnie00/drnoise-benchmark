@@ -1,0 +1,6 @@
+Environmental Monitoring Console
+Alarm Legend — Storage Review
+
+Sensor result X means storage limits were exceeded; N means no excursion.
+
+Use these result codes when reading pallet-level exports from the cold-room logger. The notation is binary for exception screening and does not print detailed duration or degree values on this legend page.

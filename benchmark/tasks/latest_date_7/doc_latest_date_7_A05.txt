@@ -1,0 +1,8 @@
+Case Closeout Ledger
+Controlled Register — Closure Posting Segment
+Clerk station: West Annex ledger desk
+
+Posted closures:
+I-741 closed 12 Mar 2024; I-717 closed 17 Sep 2024.
+
+Entries above are displayed in numeric case order within this segment of the ledger. The register records the date a closeout was posted to the case file and accepted onto the bureau closure roll.

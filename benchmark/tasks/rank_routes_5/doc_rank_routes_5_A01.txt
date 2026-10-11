@@ -1,0 +1,13 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Operations Coding Desk
+
+Verified lane-name assignments:
+
+Lane ID | Route Name
+L-57   | Route Xenon
+L-51   | Route Yarrow
+
+These entries reflect the active naming convention carried in the lane directory for dispatch and monthly tonnage posting.
+
+End of extract.

@@ -1,0 +1,15 @@
+Harbor State Bank
+Business Checking Statement
+Account holder: Tannic Holdings
+Account suffix: ****4395
+Statement period: 07/2024
+
+For 07/2024, the statement reports total operating outflows $29,000. This appears in the monthly operating-summary section of the account record.
+
+Statement metadata
+Product type: Business checking
+Currency: USD
+Cycle identifier: 07/2024
+Distribution mode: digital
+Commercial branch: East Harbor Center
+Archive image tag: BCHK-07

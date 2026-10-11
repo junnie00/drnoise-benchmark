@@ -1,0 +1,9 @@
+ALTON PHARMA
+Clinical Register
+Case Summary Entry
+
+Entry text: The Clinical Register states that LOT-825 and LOT-604 were the two Alton Pharma lots with both a temperature excursion and a missing tamper seal.
+
+This summary was circulated within the clinical register packet as the operative statement for the review set covering Alton Pharma material. The wording identifies two lot IDs and presents them as the pair associated with concurrent cold-chain and tamper-seal concerns. In register style, the statement is framed as a completed determination rather than as an open query, and it is written to be read quickly by release-control and case-handling staff scanning the packet index.
+
+The record appears in the same formal house style used for short register conclusions: organization masthead, document class, and a concise declarative entry. No additional lot numbers are named in the entry, and no alternative pairing is discussed there. For packet readers relying on the register text alone, the stated pair is LOT-825 and LOT-604, described specifically as the two Alton Pharma lots having both a temperature excursion and a missing tamper seal.

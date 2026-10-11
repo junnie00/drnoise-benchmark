@@ -1,0 +1,14 @@
+Census Codebook
+Population Inclusion Definitions
+
+UG and GR are the two disjoint populations included in registrar total enrollment.
+
+Code set: student census populations
+Applicability: Quarry University registrar reporting
+
+Definitions
+UG  Undergraduate population bucket
+GR  Graduate population bucket
+
+Interpretation rule
+The registrar total enrollment framework includes these two populations only, and the populations do not overlap for census counting purposes.

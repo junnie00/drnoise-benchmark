@@ -1,0 +1,19 @@
+NORTH QUAY FINANCIALS
+Ledger Section Export
+Entity: Ashos Holdings
+Fiscal year label: FY2024
+Period number: 05
+Posting date: 19 Sep 2024
+Section: Operating Expenses
+
+Month-close posting for the selected section shows operating expenses posted at $74,000. Amount displayed is the final posted value available to the reporting user at export time.
+
+Export controls
+View mode: Summary
+Posting filter: Posted
+Currency code: USD
+Close batch: FY24-P05-CLS
+Generated on: 19 Sep 2024 20:54
+Terminal ID: LEDGER-11
+
+-- End section --

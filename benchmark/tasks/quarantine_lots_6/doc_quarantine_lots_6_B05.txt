@@ -1,0 +1,6 @@
+Packaging Observation Map
+Release-Code Observation Index — Continuation
+
+R-660 observation O-631; R-633 observation O-641.
+
+This continuation page completes the observation assignments for the remaining release codes in the same product movement group. Observation codes are maintained in Packaging QA sequence order.

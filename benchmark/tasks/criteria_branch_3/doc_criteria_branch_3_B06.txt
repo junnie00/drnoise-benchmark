@@ -1,0 +1,9 @@
+Utility Ticket U-32
+Service Interruption Record
+
+Ticket: U-32
+Facility: F3LV
+Service lost: 13:40
+Cleared: 14:46
+
+This utility ticket records the outage timing captured for the June service event affecting the listed facility.

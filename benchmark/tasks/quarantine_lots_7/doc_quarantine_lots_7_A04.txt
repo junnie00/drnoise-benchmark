@@ -1,0 +1,11 @@
+Packaging Trace Worksheet
+Carton-to-Batch Map
+
+During carton trace review, cartons C-782A and C-782B belong to B-782; C-719A belongs to B-719.
+
+Worksheet section: secondary packaging identity
+Requested by: Packaging QA window
+Used on line closeout and complaint trace-backs
+Form field order: carton mark, associated batch, remarks
+Clerk initials box present on original paper copy
+Sheet identifier: PTW-14A

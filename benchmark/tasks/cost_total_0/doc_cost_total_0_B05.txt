@@ -1,0 +1,15 @@
+Harbor State Bank
+Business Statement Overview
+Customer: Tannic Holdings
+Account: ****6680
+Statement period: 06/2024
+
+The overview for 06/2024 shows total operating outflows $67,000. It is presented in the statement summary area covering operating cash payments for the cycle.
+
+Overview fields
+Account class: Commercial demand account
+Currency display: USD
+Period close: 06/2024
+Delivery channel: eStatement vault
+Servicing office: Treasury Client Desk
+Batch stamp: 06/2024-OS

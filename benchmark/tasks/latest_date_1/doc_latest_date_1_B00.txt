@@ -1,0 +1,10 @@
+Regulated Entity Crosswalk
+Licensing and Case Administration
+
+Cross-reference assignments currently on file state that registrant R-180 corresponds to Bellwether Alloy; R-142 corresponds to Meridian Foundry.
+
+Registrant mapping
+R-180  Bellwether Alloy
+R-142  Meridian Foundry
+
+This crosswalk is used for docket routing and name normalization.

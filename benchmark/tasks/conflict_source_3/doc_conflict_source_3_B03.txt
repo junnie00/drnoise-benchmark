@@ -1,0 +1,12 @@
+Syndication Feed Record
+Item Detail View
+
+Feed item ID: F-390
+Institution label: Orchard State
+Reported metric: total students
+Reported value: 7210
+Feed class: outbound profile syndication
+Queue lane: institution snapshot distribution
+
+Display remarks
+This item detail is the syndication-facing representation for the student total carried with Orchard State in the outbound feed. Operations staff use the feed item ID when tracing values through publication partners and distributor logs.

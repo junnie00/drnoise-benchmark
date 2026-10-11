@@ -1,0 +1,6 @@
+Facilities Alias Book
+Branch-to-facility reference
+
+Facility F2RV serves Dunwich branch; F2LV serves Ealmont branch; F2EM serves Fairhollow branch.
+
+Use this alias page where maintenance software, controller logs, or utility correspondence identifies a premises by facility code rather than the branch trading name.

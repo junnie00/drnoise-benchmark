@@ -1,0 +1,27 @@
+{
+  "answer": [
+    "Route Pacer",
+    "Route Quarry",
+    "Route Riven"
+  ],
+  "false_value": [
+    "Route Quarry",
+    "Route Pacer",
+    "Route Summit"
+  ],
+  "false_values": [
+    [
+      "Route Quarry",
+      "Route Pacer",
+      "Route Summit"
+    ]
+  ],
+  "type": "ordered_top3",
+  "dom": "logistics",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "map lane IDs to names, sum July/August/September volumes for every candidate, then rank",
+    "B": "map dispatch corridors to names, sum multiple consignment masses, then rank"
+  }
+}

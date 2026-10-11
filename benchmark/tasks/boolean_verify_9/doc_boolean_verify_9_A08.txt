@@ -1,0 +1,8 @@
+Timestamp Archive
+Acceptance Event Record
+
+Receipt reference: R-950
+Organization ID: ORG-96
+Accepted on: 03 July 2024
+
+Archive display generated from the date-index view, which shows accepted receipts by reference and associated organization. This line appears in the same archive family used for historical acceptance lookups.

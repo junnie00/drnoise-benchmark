@@ -1,0 +1,10 @@
+Publisher Registry
+Publisher master entry
+
+Registry key: PUB-3CR
+Legal display name: CampusIndex
+Registry class: active publisher identity
+Used by: syndication console, provenance resolution, outbound labeling
+
+Entry text
+The master registry stores the legal display name exactly as shown for each publisher key. PUB-3CR resolves to CampusIndex for display and operational tracing across publisher-linked feed items.

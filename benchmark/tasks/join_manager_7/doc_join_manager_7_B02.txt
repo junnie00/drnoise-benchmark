@@ -1,0 +1,7 @@
+Independent Closeout Docket
+Assurance Routing Extract
+
+Program closure entries:
+P-740 final assurance code A1; P-710 final assurance code B2.
+
+Docket segment: independent financial and audit closeout

@@ -1,0 +1,10 @@
+Source Name Directory
+Source Reference Register
+
+Directory entries: SR-812 is CollegeRanker; SR-830 is College Atlas.
+
+Source class: named publishers and listing services
+Directory status: active names file
+Office maintaining register: external reporting intake
+
+This register supplies the display names used for source codes appearing in publication identity tables, intake sheets, and profile provenance screens.

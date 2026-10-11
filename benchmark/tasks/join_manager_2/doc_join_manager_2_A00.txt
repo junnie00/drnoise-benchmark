@@ -1,0 +1,11 @@
+North Quarter Procurement Office
+Contract Allocation Table — Extract
+Cycle: Current package funding assignments
+
+Contract Code | Funded Package
+CT-624 | PK-291
+CT-251 | PK-238
+
+Source queue: allocations/funding-map
+Display mode: condensed register
+Verified for posting by Contract Finance Desk.

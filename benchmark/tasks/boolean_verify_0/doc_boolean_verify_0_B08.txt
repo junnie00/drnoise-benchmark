@@ -1,0 +1,7 @@
+Event Clock Store
+Machine Timestamp Readout
+
+Event E-501 occurred 2024-07-03 for tenant T-148.
+clock_source=application node cluster
+
+Record format follows the portal's standard event-time export.

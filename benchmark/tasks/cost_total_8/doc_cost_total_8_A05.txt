@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+General Ledger Posted Activity
+Company record: Ashel Holdings
+Fiscal year reference: FY2024
+Period reference: 06
+Printed: 23 Apr 2024
+Expense grouping: Operating expenses
+
+Posted activity for the period indicates operating expenses posted at $14,000.
+
+Journal source family: AP/OPS
+Currency: USD
+Ledger status: Posted
+Close flag: Open at time of print
+Presentation: Summary line extract
+
+System message: no variance columns requested for this print job.

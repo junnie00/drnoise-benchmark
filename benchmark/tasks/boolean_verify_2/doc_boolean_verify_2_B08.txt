@@ -1,0 +1,6 @@
+Event Clock Store
+Time Record Lookup
+
+Event E-201 occurred 2024-07-03 for tenant T-248.
+
+This entry is preserved in the event clock store under the tenant activity history for the date shown.

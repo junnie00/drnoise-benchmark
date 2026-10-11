@@ -1,0 +1,11 @@
+Regional Compliance Office
+Case Closeout Ledger
+Section: Posted closures
+
+This ledger page records I-841 closed 12 Mar 2024; I-817 closed 02 Sep 2024.
+
+Case No. | Closed On
+I-841 | 12 Mar 2024
+I-817 | 02 Sep 2024
+
+Entered to ledger after issuance of standard close letters.

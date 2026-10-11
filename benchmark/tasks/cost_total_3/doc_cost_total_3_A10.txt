@@ -1,0 +1,10 @@
+Korros Holdings
+General Ledger Close Register
+Issued 16 Jun 2024
+Fiscal year: FY2024
+Period: 11
+Register class: OPEX
+
+Period statement: operating expenses posted at $50,000.
+
+The close register is printed from the accounting close queue after operating entries are booked. This edition uses the short register layout, showing one summarized amount for the period without account-by-account expansion.

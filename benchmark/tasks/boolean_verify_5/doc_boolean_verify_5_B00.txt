@@ -1,0 +1,8 @@
+MedData Compliance Portal
+Tenant Directory Snapshot
+Exported view: Tenant Names
+
+tenant T-584 is Elm Clinic; tenant T-548 is Northbank Clinic.
+
+Directory scope: active provider tenants available in the 2024 filing workspace.
+Name rendering follows the portal's registered display name field.

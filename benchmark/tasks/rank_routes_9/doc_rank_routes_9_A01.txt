@@ -1,0 +1,11 @@
+Northstar Freight
+Lane Directory Card
+Issued from Route Registry
+
+Active entries on this card:
+L-97 is Route Rowan; L-91 is Route Slate.
+
+Registry format: lane code followed by route style name.
+Card scope: supplemental lane names used in linehaul scheduling and finance postings.
+
+Stamped: VALID DIRECTORY ENTRY

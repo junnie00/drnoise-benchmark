@@ -1,0 +1,7 @@
+Plant Event Queue Export
+
+Record set:
+- I-668: site DO-3, opened 08 Dec 2024, class E
+- I-371: site MF-3, opened 20 Nov 2024, class S
+
+This export is generated for overnight routing, with one line per accepted incident. Class letters are emitted directly from the intake classifier and are not expanded in this view.

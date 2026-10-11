@@ -1,0 +1,13 @@
+Syndication Feed Record
+Feed item detail
+
+Feed item F-290 reports 5900 total students for Norvale Institute.
+
+Feed channel: higher education profile syndication
+Payload field: total students
+Item state: distributed
+Institution string: Norvale Institute
+Serialization format: partner feed envelope
+Registry timestamp: 11:03:27
+
+This item detail screen reflects the student-total value present in feed item F-290 at the time of syndication.

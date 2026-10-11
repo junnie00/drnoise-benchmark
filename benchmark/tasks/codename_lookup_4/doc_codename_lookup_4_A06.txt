@@ -1,0 +1,10 @@
+BOREALIS LABORATORY
+Codename Vault Access Record
+Restricted Naming Crosswalk
+
+Archive key AK-455 corresponds to Opal Ridge; AK-461 to Red Willow; AK-472 to White Tern.
+
+Access tier: vault reference
+Display mode: naming crosswalk, limited segment
+
+This restricted crosswalk is used when an archive filing key must be rendered into its corresponding codename within approved channels. The excerpt contains only the three key-name pairings listed in this vault view.

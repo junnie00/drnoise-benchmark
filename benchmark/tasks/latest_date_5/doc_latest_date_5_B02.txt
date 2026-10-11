@@ -1,0 +1,10 @@
+Docket Ownership File
+Registrant portfolio excerpt
+
+For registrant R-580, the ownership file lists HS-541, HS-517, HS-504, HS-533, and EN-560.
+
+Portfolio lines:
+Registrant: R-580
+Assigned dockets: HS-541 / HS-517 / HS-504 / HS-533 / EN-560
+
+This file supports board indexing and annual portfolio summaries for each registrant carried on the active roll.

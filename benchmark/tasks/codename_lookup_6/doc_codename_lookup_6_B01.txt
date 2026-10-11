@@ -1,0 +1,12 @@
+BENCH SCANNER LOG
+Node: East Bench Array 4
+
+Scan capture summary:
+vial VX67-03 scanned into study S-604; vial VX67-09 scanned into study S-619.
+
+Read mode: barcode pass-through
+Scanner state: accepted reads
+Session label: morning accession window
+Operator badge: 184-C
+
+This log fragment reflects successful bench scans recorded when vials were associated with study IDs at the scanner station.

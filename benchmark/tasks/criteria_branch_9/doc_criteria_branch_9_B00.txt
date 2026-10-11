@@ -1,0 +1,9 @@
+Facilities Alias Book
+Branch-to-Facility Reference
+
+Current facility service references:
+F9RV serves Zincourt branch
+F9LV serves Alderwick branch
+F9EM serves Brighton branch
+
+Alias book excerpt used by estates, utility coordinators, and controller operators when a facility code rather than a branch name appears in plant systems.

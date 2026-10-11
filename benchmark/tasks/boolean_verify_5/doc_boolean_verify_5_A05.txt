@@ -1,0 +1,8 @@
+Submission Routing Log
+Havenport Health Oversight Board
+
+Routing receipt created in intake queue:
+receipt R-544 belongs to ORG-52 and form F-B5.
+
+Assigned lane: electronic compliance intake
+The routing log entry ties the receipt identifier to the submitting organization and the coded form type.

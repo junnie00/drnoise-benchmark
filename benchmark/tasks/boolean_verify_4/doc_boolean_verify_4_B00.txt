@@ -1,0 +1,14 @@
+MedData Secure Filings Portal
+Portal Tenant Directory
+Tenant-to-clinic register
+
+Current directory mapping: tenant T-484 is Dahlia Clinic; tenant T-448 is Northbank Clinic.
+
+Portal tenancy is used for login segregation, filing dashboards, and event attribution.
+
+Directory excerpt
+T-484  Dahlia Clinic
+T-448  Northbank Clinic
+
+Source pane: tenancy administration console
+Export style: simple register view

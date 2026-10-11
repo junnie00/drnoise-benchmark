@@ -1,0 +1,6 @@
+Board Intake Register
+Opening register excerpt
+
+Registered opening dates are recorded as follows: HS-141 opened 03 Feb 2024; HS-117 opened 18 Jun 2024; HS-104 opened 05 Sep 2024; HS-133 opened 11 Jul 2024; HS-188 opened in 2023.
+
+Register notation follows prefix-number, then opening date or year where carried that way in the register.

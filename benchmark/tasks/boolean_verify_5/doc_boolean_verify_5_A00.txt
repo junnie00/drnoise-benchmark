@@ -1,0 +1,12 @@
+Havenport Health Oversight Board
+Provider Master File — Organization Index Card
+
+Registered provider name: Elm Clinic
+Organization ID: ORG-52
+
+Companion entry on same card series:
+Registered provider name: Northbank Clinic
+Organization ID: ORG-56
+
+Index purpose: internal organization lookup for filings, routing, and portal association.
+Card class: active outpatient facilities.

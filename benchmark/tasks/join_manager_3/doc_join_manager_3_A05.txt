@@ -1,0 +1,9 @@
+North Meridian Development Authority
+Project Responsibility Matrix
+Operations staffing snapshot
+
+Project    Lead responsibility
+HG-3       manager employee E-308
+QD-3       manager employee E-314
+
+Matrix reference used by scheduling, approvals, and staff assignment desks when a project-level manager identifier is required.

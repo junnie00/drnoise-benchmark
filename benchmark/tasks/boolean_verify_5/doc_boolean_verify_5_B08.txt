@@ -1,0 +1,7 @@
+MedData Compliance Portal
+Event Clock Store
+System time record
+
+E-501 occurred 2024-07-03 for tenant T-548.
+
+Imported event displays date-only formatting in the tenant timeline.

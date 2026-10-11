@@ -1,0 +1,9 @@
+North Coast Industrial Oversight Bureau
+Corporate Facility Index — Extract
+Edition 2024.4
+
+Operator-to-site listing for active registrants in the coastal district:
+
+Harborleaf Energy operates site HA-7; Meridian Foundry operates MF-7.
+
+Index scope: facility identifiers used in inspections, incident notices, and closure logging. Entries shown in operator name order as displayed by the registry console at 09:12 local time. This extract reflects current naming and site shorthand used by field compliance staff.

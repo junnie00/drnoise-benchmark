@@ -1,0 +1,10 @@
+North Quay Components
+Risk & Compliance Office
+Safety Credential Register — dual lookup
+
+Credential SC-317 belongs to V-38 and expires 31 December 2024; SC-361 for V-34 expired 20 March 2024.
+
+Lookup reason: supplier credential confirmation for routine purchasing access.
+Screen grouping: supplier credential number, assigned vendor, expiry date.
+
+Accessed from register console RCO-4.

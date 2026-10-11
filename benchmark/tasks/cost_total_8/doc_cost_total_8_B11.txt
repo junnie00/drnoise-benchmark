@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Statement Summary Record
+Client: Ashel Holdings
+Account number masked: ****1146
+Statement period: 12/2024
+Account type: Corporate Checking
+
+Recorded for this statement period: total operating outflows $9,000.
+
+Currency code: USD
+Dispatch mode: E-statement
+Statement cycle: Monthly
+Document status: Issued
+Servicing team: Commercial Deposit Operations
+
+This record is the summary header page for the month shown above.

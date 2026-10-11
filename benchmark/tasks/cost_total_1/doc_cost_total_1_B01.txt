@@ -1,0 +1,14 @@
+Harbor Commercial Bank
+Corporate Current Account Statement
+Account holder: Tannon Holdings
+A/C: ****1237
+Statement period: 02/2024
+Generated: month-end cycle
+
+For statement period 02/2024, total operating outflows $33,000. The amount appears in the operating activity section for the listed corporate account and excludes financing and investment labels.
+
+Currency: USD
+Channel: secure portal issue
+Product: business demand account
+Page: 1
+Operations desk: Harbor Commercial Bank, Corporate Services

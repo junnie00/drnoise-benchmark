@@ -1,0 +1,10 @@
+Borealis Lab Facilities Group
+Environmental Chamber Map
+Revision board printout
+
+Chamber setpoints for active rooms on this panel:
+CH-34 setpoint 4 degrees C; CH-39 setpoint 22 degrees C.
+
+Map legend: chamber IDs correspond to fixed environmental enclosures on the east corridor.
+Posted by: Facilities Group, thermal systems desk.
+Print batch: corridor board copy

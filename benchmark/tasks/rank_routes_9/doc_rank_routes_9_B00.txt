@@ -1,0 +1,11 @@
+Dispatch Systems
+Corridor Alias File
+Lookup excerpt
+
+Current corridor aliases in dispatch routing:
+C9D maps to Route Osprey; C9O maps to Route Pine; C9K maps to Route Quartz.
+
+Alias use: dispatch manifests, consignment batch exports, and radio shorthand.
+Display mode: corridor code to route name.
+
+System footer: alias table live.

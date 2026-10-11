@@ -1,0 +1,11 @@
+Publisher Registry
+Authorized Display Names
+
+Registry entry: PUB-8RL legal display name Census Bureau.
+
+Publisher key family: external syndication sources
+Name format: legal display name
+Registry condition: active
+Office: data partnerships registry
+
+The display name above is the form used on partner listings and source resolution screens for this publisher key.

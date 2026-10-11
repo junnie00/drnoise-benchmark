@@ -1,0 +1,13 @@
+North Quay Components
+Carrier Services Desk
+Carrier Manifest Crosswalk
+
+Account assignment lines: AC-571 consignments were C-54, C-59, and C-52; AC-509 consignments were C-53, C-56, and C-58.
+
+Scope month: April
+Display type: account summary
+Office: Carrier Services Desk
+
+This machine print presents consignment identifiers grouped by payable account for manifest administration and yard intake planning.
+
+Export batch: nightly manifest rollup

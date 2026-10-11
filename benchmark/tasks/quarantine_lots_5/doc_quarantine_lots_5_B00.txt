@@ -1,0 +1,10 @@
+ALTON PHARMA
+Release Control Office
+Release Identifier Register
+
+Registered release-code assignments for Alton lots in the current index:
+LOT-858 uses release code R-548; LOT-320 uses R-571; LOT-637 uses R-560; LOT-199 uses R-533.
+
+Register class: finished product release lookup
+Desk copy used by release clerks to resolve lot numbers appearing on shipping and observation paperwork.
+Index status: active.

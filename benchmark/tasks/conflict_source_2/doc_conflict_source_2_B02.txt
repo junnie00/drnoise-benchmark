@@ -1,0 +1,12 @@
+Census Codebook
+Enrollment population definitions
+
+Definition line: UG and GR are the two disjoint populations included in registrar total enrollment.
+
+Code set class: student census populations
+Applies to extract family: institution summary by population code
+Disjointness flag: enforced in codebook definition
+Maintainer: Data Standards Cell, Registrar Systems
+Edition tag: census vocabulary release
+
+This codebook page describes which populations are counted in the registrar's total enrollment framework.

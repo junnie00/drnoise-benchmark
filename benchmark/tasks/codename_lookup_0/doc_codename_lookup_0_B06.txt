@@ -1,0 +1,13 @@
+Borealis Lab
+Restricted Name Register
+Names Office extract
+
+Register entries specify that token T-88 is Blue Heron; T-93 is Silver Larch; T-97 is Copper Reed.
+
+Token    Registered name
+T-88     Blue Heron
+T-93     Silver Larch
+T-97     Copper Reed
+
+Access class: restricted naming
+Register section: active historical codenames

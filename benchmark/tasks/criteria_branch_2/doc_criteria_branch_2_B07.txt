@@ -1,0 +1,10 @@
+Utility Service Ticket U-21
+Solace Bank Facilities Helpdesk
+
+Facility: F2EM
+Incident: service lost
+Time opened by monitoring feed: 07:05
+Time cleared: 09:53
+Service class: electrical supply
+
+Notes: Automated outage creation was followed by closeout once power returned to the listed facility.

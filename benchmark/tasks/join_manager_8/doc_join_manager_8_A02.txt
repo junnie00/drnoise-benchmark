@@ -1,0 +1,10 @@
+Program Cost-Center Directory
+Operations Ledger Desk
+
+Directory entries for active program charging points:
+
+Cost Center | Assigned Project
+CC-87       | HG-8
+CC-82       | QD-8
+
+This directory page is used by budget analysts when validating program-level charging assignments and project attribution for operating cost centers.

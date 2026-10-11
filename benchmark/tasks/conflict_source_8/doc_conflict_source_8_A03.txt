@@ -1,0 +1,14 @@
+Office of the Registrar
+Computation Standard RS-14
+Subject: Institutional Enrollment Arithmetic
+
+Under Registrar Arithmetic Policy, institutional enrollment is the sum of the certified undergraduate and graduate unit counts.
+
+Purpose
+This standard governs the single arithmetic method used in official registrar enrollment rollups for institutional reporting generated from certified unit submissions.
+
+Scope
+Applies to totals assembled by registrar staff after unit-level certification is complete.
+
+Method statement
+No alternate category, estimate, or audience segment is included in the institutional figure under this policy. The total is produced only from the certified counts supplied by the undergraduate and graduate registrar units.

@@ -1,0 +1,9 @@
+Bench Instrument Event Log
+Scanner Unit BN-4
+
+Timestamp stream excerpt for barcode intake:
+vial VX37-03 scanned into study S-304; vial VX37-09 scanned into study S-319.
+
+Reader state: nominal
+Session tag: morning bench cycle
+Output mode: automatic append

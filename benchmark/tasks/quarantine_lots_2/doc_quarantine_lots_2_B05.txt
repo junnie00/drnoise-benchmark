@@ -1,0 +1,9 @@
+ALTON PHARMA PACKAGING REVIEW
+Observation Map
+Roster continuation
+
+R-260 observation O-231; R-233 observation O-241.
+
+Coverage: remaining release codes in current packet
+Source window: Packaging Observation Console
+Area copy: QA observation rail

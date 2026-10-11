@@ -1,0 +1,15 @@
+Harbor State Bank
+Monthly Commercial Statement
+Customer name: Tannic Holdings
+Account ending: ****9002
+Statement period: 10/2024
+
+The bank statement for 10/2024 shows total operating outflows $24,000. This total is included in the operating payments summary for the business account.
+
+Statement profile
+Account class: Business checking
+Currency: USD
+Cycle period: 10/2024
+Output channel: digital statement
+Bank desk: Commercial Accounts West
+Render batch: OCT24-10

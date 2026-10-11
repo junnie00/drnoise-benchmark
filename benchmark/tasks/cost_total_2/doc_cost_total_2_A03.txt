@@ -1,0 +1,15 @@
+Korrel Holdings
+General Ledger Extract
+
+Generated on: 08 Jun 2024
+Year: FY2024
+Period ID: 04
+Panel: Expense Activity
+
+Record details
+Company name: Korrel Holdings
+Expense classification: Operating expenses
+Posted amount: $36,000
+Update condition: Posted
+
+Footer message: Expense activity panel archived from the close-cycle ledger screen. Monetary amounts shown are whole-dollar values for the identified period.

@@ -1,0 +1,8 @@
+ALTON PHARMA
+Cold-Chain Findings Report
+Transport Exception Digest
+
+Ticket outcomes entered by the cold-chain team were: T-911 recorded above-limit temperature; T-912 normal; T-921 above-limit; T-931 above-limit; T-941 normal.
+
+Digest style: exception-first notation
+Applies to refrigerated distribution monitoring events captured during transport review and closure.

@@ -1,0 +1,34 @@
+{
+  "query_id": "codename_lookup_2",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "map reagent to stock lot, identify run by lot and chamber, decode chamber temperature, then map run to codename",
+      "query_hint": "map reagent to stock lot, identify run by lot and chamber, decode chamber temperature, then map run to codename",
+      "expected_docids": [
+        "codename_lookup_2_b403284f",
+        "codename_lookup_2_a979b29b",
+        "codename_lookup_2_c5e8e09d",
+        "codename_lookup_2_b3f8fa5f",
+        "codename_lookup_2_66864c32",
+        "codename_lookup_2_fdbfcd49",
+        "codename_lookup_2_b018a53b"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "map reagent to vial family, join scan and cold-room logs to study ID, then map archive key to codename",
+      "query_hint": "map reagent to vial family, join scan and cold-room logs to study ID, then map archive key to codename",
+      "expected_docids": [
+        "codename_lookup_2_01700f04",
+        "codename_lookup_2_9d398fbd",
+        "codename_lookup_2_9c85cafa",
+        "codename_lookup_2_95608a31",
+        "codename_lookup_2_de0caf69",
+        "codename_lookup_2_2f20dc72",
+        "codename_lookup_2_19a3f42b"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Solace Bank Engineering Services
+Generation Asset Register — branch solar entry
+
+Asset ID: PV-263
+Assigned site: S-21
+Commissioned: 22 January
+Category: Photovoltaic array
+
+Record status: live asset entry within the generation register.

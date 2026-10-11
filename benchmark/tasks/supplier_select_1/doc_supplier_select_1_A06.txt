@@ -1,0 +1,7 @@
+Dock Control Worksheet
+Inbound timing capture — afternoon continuation
+
+Dock Event Ledger notation for the listed runs:
+D-137 due 14:15, received 14:11; D-144 due 09:00, received 08:51.
+
+Captured from scan-in timestamps at the receiving dock. Worksheet retained in the same format used by the day controller for queue review.

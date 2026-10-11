@@ -1,0 +1,8 @@
+Compliance Calendar Export
+Source: Portal scheduler
+Format: machine view
+
+tenant_id,form_alias,cutoff
+T-984,Nil Return 9,2024-06-30
+
+Export profile: current-year cutoff feed generated for regulated portal tenants and consumed by the reminder and dashboard services.

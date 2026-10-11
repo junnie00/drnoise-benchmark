@@ -1,0 +1,10 @@
+Borealis Lab Materials Systems
+Chemical Barcode Directory
+Export fragment 7C
+
+R-47 containers carry prefix VX47; R-41 containers carry prefix VX41.
+
+Record type: barcode family assignment
+Output mode: container-prefix directory
+
+The directory maps reagent identifiers to the barcode prefixes printed on physical containers issued to bench areas. Prefixes shown in this fragment are the active identifiers associated with the listed reagent codes.

@@ -1,0 +1,14 @@
+ALTON PHARMA
+Materials Control — Lot Crosswalk Card
+Screen: LOT_ALIAS_LOOKUP
+
+Product family: Finished goods, controlled distribution
+Lookup entries currently active in the lot alias register:
+LOT-858 is batch B-582; LOT-320 is B-519; LOT-637 is B-505; LOT-199 is B-531.
+
+Clerk station: MC-2
+Format version: AX-4.3
+Display mode: lot-to-batch alias resolution
+Use: warehouse picking, deviation intake, and release trace inquiries.
+
+End of returned rows.

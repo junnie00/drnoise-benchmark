@@ -1,0 +1,14 @@
+Borealis Lab
+Chemical Barcode Directory
+Machine-generated label standard excerpt
+
+Directory rule: R-77 containers carry prefix VX77; R-71 containers carry prefix VX71.
+
+Namespace: container barcode prefixes
+Emission source: packaging and receiving module
+Label stock: cryo-compatible adhesive series
+Validation mode: prefix family check enabled
+Output device: inventory printer lane 3
+Export stamp: CBD/PRFX snapshot
+
+This directory page defines the barcode prefix families used on container labels for the listed reagent classes in routine bench circulation.

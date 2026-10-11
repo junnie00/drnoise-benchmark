@@ -1,0 +1,12 @@
+Ravensmere College
+Registrar Unit Directory
+Edition: Internal Routing Sheet
+
+Campus registrar operations are divided by unit code for records intake and census certification. For current use, unit U-6 is undergraduate records; unit G-6 is graduate records.
+
+Service desk references:
+- Transcript exceptions route by student level to the matching unit code
+- Census certification packets are filed under unit sequence
+- Telephone tree labels may show code before office title
+
+Registrar switchboard copy approved for circulation within Enrollment Services.

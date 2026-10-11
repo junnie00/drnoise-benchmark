@@ -1,0 +1,96 @@
+[
+  {
+    "docid": "boolean_verify_3_A00",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_A01",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_A02",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_A03",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_A04",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_A05",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_A06",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_A07",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_A08",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "boolean_verify_3_B00",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_B01",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_B02",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_B03",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_B04",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_B05",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_B06",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_B07",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_B08",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "boolean_verify_3_main",
+    "role": "main"
+  }
+]

@@ -1,0 +1,7 @@
+Northstar Freight
+Mass-Accounting Reconciliation Slip
+Q3 Consignment Masses
+
+Corridor alias under review: C6M shipments totalled 14.7 tonnes across six consignments.
+
+This reconciliation slip was attached to the quarter packet for aliases reported as an aggregate instead of with individual line-item masses. Finance requested the combined shipped mass and shipment count so the dispatch batch could be tied back to corridor-level reporting.

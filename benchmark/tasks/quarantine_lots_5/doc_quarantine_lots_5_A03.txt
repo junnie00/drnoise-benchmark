@@ -1,0 +1,12 @@
+ALTON PHARMA — Auto-export
+Source: Pallet Sensor Export
+Job ID: COLDSCAN_17
+Delimiter: pipe
+
+pallet_id|sensor_result
+P-54|X
+P-57|X
+P-56|X
+P-53|N
+
+Legend in source system uses result codes only. Export emitted from refrigerated dispatch monitor for outbound pallet review. No additional exception text attached to these rows in this run.

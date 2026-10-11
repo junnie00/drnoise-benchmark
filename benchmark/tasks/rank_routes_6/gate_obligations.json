@@ -1,0 +1,35 @@
+{
+  "query_id": "rank_routes_6",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "map lane IDs to names, sum July/August/September volumes for every candidate, then rank",
+      "query_hint": "map lane IDs to names, sum July/August/September volumes for every candidate, then rank",
+      "expected_docids": [
+        "rank_routes_6_6ed406a0",
+        "rank_routes_6_0fb69b5f",
+        "rank_routes_6_b6510666",
+        "rank_routes_6_4638acd0",
+        "rank_routes_6_3a56305a",
+        "rank_routes_6_918f2dc2",
+        "rank_routes_6_a2bacc2b"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "map dispatch corridors to names, sum multiple consignment masses, then rank",
+      "query_hint": "map dispatch corridors to names, sum multiple consignment masses, then rank",
+      "expected_docids": [
+        "rank_routes_6_b7ebdc10",
+        "rank_routes_6_a1641a79",
+        "rank_routes_6_3641d904",
+        "rank_routes_6_ac43697b",
+        "rank_routes_6_0acabeec",
+        "rank_routes_6_fbf581b7",
+        "rank_routes_6_24668c6a",
+        "rank_routes_6_bca67f94"
+      ]
+    }
+  ]
+}

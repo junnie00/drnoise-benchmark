@@ -1,0 +1,11 @@
+Regional Compliance Office
+Case Closeout Ledger
+Section: Posted closures
+
+This ledger page records I-1116 closed 28 Nov 2024; I-833 closed 29 Aug 2024.
+
+Case No. | Closed On
+I-1116 | 28 Nov 2024
+I-833 | 29 Aug 2024
+
+Ledger sequence: autumn entries

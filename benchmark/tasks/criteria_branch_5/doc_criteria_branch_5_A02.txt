@@ -1,0 +1,11 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Single-entry extract
+
+Asset ID: PV-563
+Assigned site: S-51
+Commissioned: 22 January
+
+Record class: generation plant
+Status line shown as held in the branch energy asset register.

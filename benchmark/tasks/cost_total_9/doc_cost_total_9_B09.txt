@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+Corporate eStatement Extract
+Account holder: Ashos Holdings
+Account: ****2058
+Statement period: 10/2024
+
+Monthly statement totals indicate total operating outflows $35,000. The figure appears in the operating disbursement summary for the specified period.
+
+Account summary fields
+Currency: USD
+Product type: Commercial operating account
+Cycle close: 31 Oct 2024 23:59
+Issued by: Centralized Statement Services
+Channel: Treasury web access
+
+Only selected summary fields are displayed.

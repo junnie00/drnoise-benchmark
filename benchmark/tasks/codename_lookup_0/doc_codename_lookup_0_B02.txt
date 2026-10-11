@@ -1,0 +1,10 @@
+Borealis Lab Bench Capture Console
+Scanner event log — single-study excerpt
+
+This excerpt records that vial VX71-02 scanned into study S-225.
+
+11:46  SCAN ACCEPT  vial VX71-02  -> study S-225
+
+Console ID: BCH-SCN-4
+Feed class: reagent intake
+Segment token: day roll excerpt

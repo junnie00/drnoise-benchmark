@@ -1,0 +1,9 @@
+Project Name Register
+Reference Listing
+
+Project ID    Registered Name
+HG-2          Beacon Relay
+QD-2          Quasar Dock 2
+
+Registry status: active naming index.
+Used by operations staff when project identifiers must be rendered in full title form.

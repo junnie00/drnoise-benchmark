@@ -1,0 +1,9 @@
+MedData Registry Services
+Provider Master File — Active Organizations
+Extract Date: 2024-01-08
+
+Org ID   | Registered Name
+ORG-22   | Briar Clinic
+ORG-26   | Northbank Clinic
+
+Directory status: current listing for regulated provider accounts. Names shown as registered for filing and portal enrollment use.

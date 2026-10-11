@@ -1,0 +1,13 @@
+MEDDATA SECURE FILINGS PORTAL
+Compliance Calendar Export
+format=csv-lite; tenant_scope=single
+
+row 1: tenant=T-484 | form_label=Nil Return 4 | cutoff=2024-06-30
+
+export remarks:
+- source module: compliance calendar
+- rendered timezone field: not shown in cutoff-only view
+- file profile: deadline snapshot
+- tenant filter: applied
+
+end of extract

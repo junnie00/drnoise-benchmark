@@ -1,0 +1,12 @@
+Distribution Office
+Distribution Unit Map
+Outbound control excerpt
+
+Release movement assignments for the listed codes are recorded as follows: R-348 travelled as DU-38; R-371 as DU-32; R-360 as DU-36; R-333 as DU-31.
+
+Transport coding format
+release_code -> distribution_unit
+R-348 -> DU-38
+R-371 -> DU-32
+R-360 -> DU-36
+R-333 -> DU-31

@@ -1,0 +1,11 @@
+Environmental Monitoring Reference
+Alarm Code Legend — Refrigerated Storage Sensors
+
+For the pallet logger result field, sensor result X means storage limits were exceeded; N means no excursion.
+
+Applies to: dock coolers, staging racks, sealed transit pallets
+Displayed values: single-character exception code
+Help panel version: 2.6
+Released by: Site Quality Systems
+Use case: reading exception exports and escalation screens
+Footer mark: EM-LGD-CC

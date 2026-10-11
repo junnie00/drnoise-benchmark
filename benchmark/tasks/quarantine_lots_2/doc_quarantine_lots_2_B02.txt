@@ -1,0 +1,10 @@
+ALTON PHARMA COLD-CHAIN DESK
+Ticket Index
+Distribution unit lookup
+
+DU-28 tickets T-211 and T-212; DU-22 ticket T-221; DU-26 ticket T-231; DU-21 ticket T-241.
+
+Index use: route-level ticket retrieval
+Console view: unit-to-ticket relation
+Desk terminal: CC-INDEX-5
+Screen header preserved on printout

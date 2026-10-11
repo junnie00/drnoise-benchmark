@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+Corporate Statement Snapshot
+Customer name: Ashos Holdings
+Account: ****5314
+Statement period: 05/2024
+
+The statement for the period shown lists total operating outflows $74,000. Summary is based on categorized operating payments captured during the monthly statement cycle.
+
+Profile data
+Currency: USD
+Access service: Treasury dashboard
+Cycle close time: 31 May 2024 23:59
+Servicing group: Capital Accounts Team
+Document class: Summary excerpt
+
+Generated for customer reporting view.

@@ -1,0 +1,8 @@
+Storage Telemetry Registry
+Solace Bank Resilience Monitoring
+
+June status snapshot
+
+Battery unit B-917 at site S-94 reported ONLINE during June.
+
+Source feed: branch storage telemetry rollup. Entry reflects the recorded operating state carried by the monitoring platform for the June reporting window.

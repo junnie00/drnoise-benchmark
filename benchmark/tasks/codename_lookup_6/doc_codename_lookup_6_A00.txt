@@ -1,0 +1,14 @@
+BOREALIS LABORATORY
+Controlled Stores Register — Reagent Catalog
+Section: Active Research Stocks
+
+Catalog extract for current issue bins:
+
+- Reagent R-67 was issued as stock lot L-671.
+- Reagent R-61 was lot L-617.
+
+Packaging format: amber vial series, internal stores handling.
+Location code: West Chemical Cage / Rack C.
+Custody desk: Materials Control.
+
+This catalog page was generated for stock-room reference during lot pull and intake confirmation. Entries shown reflect lot designation used by internal issue staff when matching request slips to shelf labels.

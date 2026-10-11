@@ -1,0 +1,6 @@
+Northwater Works Transport Desk
+Carrier Manifest Crosswalk
+
+Account AC-604 consignments were C-61, C-65, and C-67.
+
+Crosswalk purpose: align payable account references with carrier manifest identifiers used at the gate and freight desk.

@@ -1,0 +1,11 @@
+Case Closeout Ledger
+Year-end and carryover disposition lines
+
+The ledger notes I-866 closed 14 Jan 2025; I-571 closed 19 Dec 2024.
+
+Reference fields:
+case | closure entered
+I-866 | 14 Jan 2025
+I-571 | 19 Dec 2024
+
+This page was posted during the year-end balancing run for open and recently completed matters.

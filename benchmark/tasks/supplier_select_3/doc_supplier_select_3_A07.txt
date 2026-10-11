@@ -1,0 +1,7 @@
+North Quay Components
+Receiving Operations
+Dock Event Ledger — exception view
+
+Dispatch D-345 due 11:30, received 12:06; D-359 due 15:00, received 14:48.
+
+Exception view includes both late and non-late arrivals when paired movements are reviewed by the same receiving clerk during the shift. Clock source: central dock scheduler.

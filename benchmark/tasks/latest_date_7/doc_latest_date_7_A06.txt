@@ -1,0 +1,8 @@
+Case Closeout Ledger
+Controlled Register — Closure Posting Segment
+Clerk station: West Annex ledger desk
+
+Posted closures:
+I-1004 closed 06 Nov 2024; I-733 closed 29 Aug 2024.
+
+This segment reflects the date stamps appearing on the bureau closeout line. Formatting follows the standard compact ledger style used for final posting of case numbers and closure dates.

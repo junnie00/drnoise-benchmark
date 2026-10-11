@@ -1,0 +1,9 @@
+Dispatch Systems Export
+Corridor Alias File
+Format: route_alias_map.csv
+
+corridor_code,route_name
+C4M,Route Summit
+C4V,Route Thistle
+
+Generated for dispatcher lookup and corridor shorthand normalization.

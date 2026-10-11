@@ -1,0 +1,12 @@
+*** SYSTEM EXPORT: QUARRY UNIVERSITY STUDENT CENSUS EXTRACT ***
+Run context: registrar census snapshot
+Entity: Quarry University
+Population code: UG
+Active students: 6180
+Export status: complete
+Record class: population aggregate
+Sort key: population code ascending
+Output device: census-batch console
+Timestamp token: CX-UG-SUM
+
+Field map in this extract stores each registrar population as a discrete aggregate line. The UG row shown here is the active-student population total carried in the student census extract for the university snapshot.

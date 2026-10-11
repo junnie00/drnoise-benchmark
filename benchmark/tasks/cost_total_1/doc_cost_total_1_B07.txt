@@ -1,0 +1,13 @@
+Harbor Commercial Bank
+Commercial Banking Statement
+Account holder: Tannon Holdings
+Account ending: ****3436
+Statement period: 08/2024
+Business segment: Mid-Market Corporate
+
+Total operating outflows $55,000 for statement period 08/2024. The amount is shown in the operating disbursements portion of the month-end statement for this account.
+
+Currency standard: USD
+Output type: statement PDF
+Sheet no.: 1
+Location code: HCB-CORP-08

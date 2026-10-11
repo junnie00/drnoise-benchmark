@@ -1,0 +1,10 @@
+ALTON PHARMA QUALITY ASSURANCE
+Seal Inspection Events
+Packaging floor event log excerpt
+
+C-205A passed; C-231A failed for absent seal.
+
+Review station: tamper verification table
+Event capture mode: single-carton entry
+Form set: SI-EVT continuation
+Shift office distribution: quality window

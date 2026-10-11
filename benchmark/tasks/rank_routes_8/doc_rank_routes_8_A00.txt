@@ -1,0 +1,11 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Network Planning Register
+
+Lane ID assignments currently carried in the active directory are as follows: L-84 is Route Jasper; L-89 is Route Kestrel; L-82 is Route Linden.
+
+Issued from the corridor naming register for dispatch, tonnage, and settlement reference. Use lane IDs in internal postings where system fields require numeric lane coding; route names remain the customer-facing style in notices and schedules.
+
+Excerpt status: active lane-name index
+Coverage: selected lanes
+Format class: directory card

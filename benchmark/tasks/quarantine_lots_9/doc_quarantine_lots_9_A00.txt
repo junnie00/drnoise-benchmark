@@ -1,0 +1,14 @@
+ALTON PHARMA
+Manufacturing Data Services
+Lot/Bulk Batch Crosswalk Card
+
+Program: Finished Goods Harmonization
+Site: North Packaging Campus
+
+Recorded associations for current Alton lots:
+- LOT-902 is batch B-982
+- LOT-364 is B-919
+- LOT-681 is B-905
+- LOT-243 is B-931
+
+Use of this card is limited to internal naming consistency between commercial lot labels and batch genealogy entries. Card issue format follows the short-form warehouse reference style used on floor binders and dispatch desks.

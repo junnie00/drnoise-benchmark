@@ -1,0 +1,15 @@
+North Quay FinanceSuite — Ledger Close Extract
+Entity: Tannic Holdings
+Year marker: FY2024
+Close output: 07 Jul 2024
+
+The period 08 close extract lists operating expenses posted at $76,000. Amount is displayed in the actuals ledger as the posted operating-expense movement for that period.
+
+Close extract data
+Period: 08
+Ledger book: Actuals
+Line family: Operating expenses
+Condition: Posted
+Currency basis: USD
+Output channel: PDF spool
+Run stamp: 07 Jul 2024 19:03

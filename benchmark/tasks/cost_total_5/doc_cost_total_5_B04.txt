@@ -1,0 +1,17 @@
+HARBOR MERCHANT BANK
+Corporate Banking Statement
+
+Name on account: Korrby Holdings
+Masked account: ****9948
+Statement period: 05/2024
+View: operating transactions summary
+
+Summary amount shown: total operating outflows $81,000.
+
+Currency notation: USD
+Cycle marker: 05/2024 monthly
+Channel: online statement
+Cash movement type: debits classified as operating
+Archive stamp: HMB-STMT-05
+
+This summary excludes loan and card activity panels.

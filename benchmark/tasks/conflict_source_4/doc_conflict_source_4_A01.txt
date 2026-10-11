@@ -1,0 +1,14 @@
+Pember College Registrar
+Autumn Census Counts
+Certification extract
+
+Campus: Pember College
+Reporting term: Autumn
+Certified entry: unit U-4 certified count 2470.
+
+Certification line recorded by registrar census operations.
+Count type: official unit submission
+Scope: unit-level autumn census
+Transmission class: internal certified count
+Record status: posted to census ledger for term closeout
+Generated from the registrar reporting queue at end of count window.

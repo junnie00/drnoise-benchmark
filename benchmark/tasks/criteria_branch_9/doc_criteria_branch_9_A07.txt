@@ -1,0 +1,9 @@
+June Outage Events
+Incident Record
+
+Site: S-91
+Event type: interruption
+Interruption time: 07:05
+Restoration time: 09:53
+
+Monthly utility interruption entry held under June outage events.

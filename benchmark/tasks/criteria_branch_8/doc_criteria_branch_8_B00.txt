@@ -1,0 +1,9 @@
+Facilities Alias Book
+Branch-facing facility references
+
+Facility ID  Served branch
+F8RV         Valegate branch
+F8LV         Westford branch
+F8EM         Yewbridge branch
+
+Alias sheet used by maintenance coordinators and controller operators.

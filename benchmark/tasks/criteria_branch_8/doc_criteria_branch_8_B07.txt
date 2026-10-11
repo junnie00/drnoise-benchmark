@@ -1,0 +1,8 @@
+Utility Ticket U-81
+Service interruption record
+
+Facility: F8EM
+Service lost: 07:05
+Cleared: 09:53
+
+Opened through utilities coordination for branch electrical service restoration.

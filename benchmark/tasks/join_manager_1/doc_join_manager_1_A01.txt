@@ -1,0 +1,9 @@
+FIN-OPS System Export
+Package Accounting Crosswalk
+Run mode: nightly posting map
+
+PKG_ID,POST_TO_COST_CENTER
+PK-191,CC-17
+PK-138,CC-12
+
+Export generated for ledger routing. Records show the destination cost center used when package transactions are posted from package accounting into the program cost structure.

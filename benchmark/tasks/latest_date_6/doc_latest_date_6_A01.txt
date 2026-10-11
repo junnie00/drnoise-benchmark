@@ -1,0 +1,13 @@
+Industrial Compliance Bureau
+Incident Type Legend
+Applies to intake screens and case headers
+
+Code definitions in the current legend are as follows: code S denotes safety; E denotes environmental; Q denotes product quality.
+
+Display convention:
+S  Occupational or workplace safety matter
+E  Environmental handling or release matter
+Q  Product quality deviation
+
+Legend status: in force for current incident logging screens
+Reference format: single-letter class code shown after open date

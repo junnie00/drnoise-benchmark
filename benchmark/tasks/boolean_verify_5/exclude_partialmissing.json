@@ -1,0 +1,8 @@
+{
+  "condition": "partialmissing",
+  "description": "one bridge document removed from every truthful route; false summary retained",
+  "docids": [
+    "boolean_verify_5_ea9b501e",
+    "boolean_verify_5_7f951943"
+  ]
+}

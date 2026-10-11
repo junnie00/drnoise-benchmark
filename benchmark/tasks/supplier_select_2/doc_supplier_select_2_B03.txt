@@ -1,0 +1,7 @@
+Carrier Manifest Crosswalk
+Export fragment
+
+account=AC-204
+consignments=C-21,C-25,C-27
+
+This crosswalk line links a payables account to the consignment identifiers used in the carrier booking platform. Dispatch planners pull this compact export when they need to move between finance-facing account codes and gate-facing manifest numbers.

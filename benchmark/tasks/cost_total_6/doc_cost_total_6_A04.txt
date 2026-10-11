@@ -1,0 +1,17 @@
+NORTH QUAY CAPITAL SERVICES
+Controller Reporting Console
+
+Ledger Extract Notice
+Entity name: Korric Holdings
+Fiscal cycle: FY2024
+Period: 05
+Dated: 11 Jun 2024
+
+For the selected period, operating expenses posted at $9,000.
+Ledger basis: actuals
+Currency: USD
+Posting filter: expense journals
+Snapshot state: final for period file
+
+Rendered from the reporting console for internal monthly finance packs.
+Reference style: concise operating-cost view.

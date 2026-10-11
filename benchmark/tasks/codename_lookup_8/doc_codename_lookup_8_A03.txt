@@ -1,0 +1,12 @@
+Borealis Lab — Experiment Input Ledger
+Entry class: Materials and Chamber Assignment
+
+Run E-830 consumed lot L-817 and used chamber CH-84.
+
+Ledger notation:
+Run ID: E-830
+Material lot consumed: L-817
+Assigned environmental chamber: CH-84
+
+Source line entered at close of bench setup.
+Control office mark: logged

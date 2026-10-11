@@ -1,0 +1,10 @@
+ALTON PHARMA
+Temperature Alarm Legend
+Cold Storage Monitoring Reference
+
+Sensor result X means storage limits were exceeded; N means no excursion.
+
+Use context: pallet and room sensor summary screens
+Legend revision: current plant notation
+Displayed in: Monitoring console footer, exception exports, and dispatch snapshots
+Control office: Environmental Systems

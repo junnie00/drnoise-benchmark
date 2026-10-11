@@ -1,0 +1,7 @@
+Renewable Certificate File
+Acceptance notice extract
+
+The renewable certificate file records that array A-801 at F8RV reached operational acceptance; A-811 at F8LV reached operational acceptance.
+
+Accepted equipment class: solar array
+File section: branch generation assets

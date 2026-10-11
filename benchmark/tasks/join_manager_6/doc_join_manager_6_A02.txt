@@ -1,0 +1,8 @@
+Program Cost-Center Directory
+Internal reference card
+
+Cost Center Assignment
+- CC-67 belongs to project HG-6.
+- CC-62 belongs to project QD-6.
+
+Issued by Program Controls to support charge routing and center identification during monthly posting.

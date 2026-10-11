@@ -1,0 +1,9 @@
+June Outage Events
+Incident Record
+
+Site: S-92
+Event type: interruption
+Interruption time: 13:40
+Restoration time: 14:46
+
+Filed in the June outage events log for facilities operations.

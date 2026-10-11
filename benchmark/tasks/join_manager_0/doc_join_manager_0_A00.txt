@@ -1,0 +1,11 @@
+North Corridor Programs Office
+Contract Allocation Table — Current Funding Linkages
+
+Effective entries on this sheet:
+- CT-44 funds package PK-91
+- CT-51 funds package PK-38
+
+Allocation clerk: Budget Services Window 2
+Format: contract code to package reference
+
+This table is used by intake staff when a contract number appears on a vendor routing packet and the accounting package must be pulled before posting.

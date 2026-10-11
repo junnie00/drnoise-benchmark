@@ -1,0 +1,9 @@
+NORTH QUAY PROCUREMENT OFFICE
+Approved Vendor Directory — April revision
+
+Vendor ID   Approved Name
+V-83        Palisade Coatings
+V-88        Rook Machining
+V-84        Umber Castings
+
+Issue context: April revision circulated to buying desks, receiving, and invoice control for current vendor-name usage in requisitions and shipping references. Use the vendor ID shown above when matching purchase dispatches and compliance entries during the month.

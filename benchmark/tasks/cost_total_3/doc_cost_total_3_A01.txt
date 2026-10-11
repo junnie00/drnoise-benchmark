@@ -1,0 +1,10 @@
+KORROS HOLDINGS
+GL Transaction Register
+Extract timestamp: 23 Jan 2024
+Fiscal year: FY2024
+Accounting period: 02
+View: Operating expense rollup
+
+Header note: Korros Holdings — General Ledger extract, FY2024 period 02, with operating expenses posted at $79,000.
+
+Source compilation includes booked entries carried in the operating expense range for the period close. Register generated in compact mode for finance office use. No departmental breakout is printed in this view; only the period-level posted total appears.

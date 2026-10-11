@@ -1,0 +1,15 @@
+NORTH QUAY FINANCIALS
+General Ledger Summary Extract
+Entity: Tannon Holdings
+Fiscal year: FY2024
+Period: 06
+Generated on: 06 Jun 2024 07:48
+Category: Operating Expense Accounts
+
+The ledger summary for FY2024 period 06 shows operating expenses posted at $28,000. This machine-produced output reflects the account range selected by finance operations during the routine close cycle.
+
+Currency: USD
+Accounting basis: actual
+Report variant: one-period summary
+Printer queue: GLR-2
+Site: North Quay House

@@ -1,0 +1,10 @@
+Northstar Freight
+Dispatch Manifest Worksheet
+Q3 Consignment Masses — batch 1
+Unit: tonnes
+
+Entered masses for this worksheet are as follows: C8D: 4.1 and 3.0 tonnes; C8O: 3.7 and 2.8 tonnes; C8K: 3.1 and 2.6 tonnes.
+
+Batch reference: 1
+Manifest class: closed consignments
+Capture stream: corridor-coded dispatch intake

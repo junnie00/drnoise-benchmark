@@ -1,0 +1,13 @@
+Borealis Lab Facilities Engineering
+Room Calibration Record
+Certificate Abstract
+
+Calibrated maintenance values on file:
+CR-6A maintained 4 degrees C; AM-6B maintained 22 degrees C.
+
+Equipment class: conditioned rooms
+Validation bench: thermal standards cart
+Certificate status: active in facilities binder
+Issued by: Environmental Controls Group
+
+This abstract states the maintained operating temperatures used by room scheduling and compliance staff.

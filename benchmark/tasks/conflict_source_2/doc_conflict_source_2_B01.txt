@@ -1,0 +1,16 @@
+NORVALE INSTITUTE STUDENT CENSUS EXTRACT
+Export job: STUCEN_NI_DAILY
+Output mode: fixed-width preview
+
+institution=Norvale Institute
+population_code=GR
+active_students=1260
+extract_scope=active census population
+run_queue=registrar-nightly
+emitted_at=06:42:11
+source_system=SIS-Census
+
+Field group notes:
+- population_code follows census codebook values
+- active_students is the population headcount at extract time
+- record class is institution summary by population code

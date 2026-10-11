@@ -1,0 +1,10 @@
+Cold-Room Access Log
+Borealis Facilities Access System
+
+Usage ledger excerpt:
+study S-204 used room CR-2A; study S-219 used room AM-2B; study S-225 used room CR-2A.
+
+Door controller events were grouped by study number after badge validation at room entry. This access view is the standard room-use summary printed for shift coordinators.
+
+Controller cluster: North Environment Wing
+Export batch: evening

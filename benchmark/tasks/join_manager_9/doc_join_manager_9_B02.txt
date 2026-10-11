@@ -1,0 +1,12 @@
+Independent Closeout Docket
+System Ticket View
+
+Docket Type: Final Assurance
+
+Program: P-940
+Final assurance code: A1
+
+Program: P-910
+Final assurance code: B2
+
+This ticket-style screen excerpt reflects the code values entered at independent closeout for the programs shown above.

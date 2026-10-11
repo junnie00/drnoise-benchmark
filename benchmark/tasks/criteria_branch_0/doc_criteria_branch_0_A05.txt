@@ -1,0 +1,9 @@
+May Outage Events
+Solace Bank Facilities Operations
+
+Event listing
+Site: S-14
+Interruption: 09:12
+Restoration: 10:36
+
+Logged under the monthly branch utility interruption schedule maintained for premises operations and service continuity review.

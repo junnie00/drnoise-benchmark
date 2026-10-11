@@ -1,0 +1,17 @@
+Korrel Holdings
+Controller Reporting Console
+General Ledger Extract
+
+Timestamp: 16 Sep 2024 18:22
+Fiscal year: FY2024
+Period: 06
+Category: Operating expenses
+Posted amount: $24,000
+Status flag: Posted
+
+Display context:
+Source ledger: Actuals
+Presentation: Single-period expense summary
+Currency: USD
+
+This compact screen print reflects the posted operating-expense balance recorded for the designated period at the time of extraction.

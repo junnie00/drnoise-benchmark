@@ -1,0 +1,13 @@
+Warehouse Dispatch Console
+Pallet Assignment File
+Export time: 14:22
+Scope: finished batch palletization
+
+Batch shipment placements entered for this dispatch window show: B-382 shipped on pallet P-34; B-319 on P-37; B-305 on P-36; B-331 on P-33.
+
+Field layout
+batch_no | pallet_id | movement_state
+B-382 | P-34 | shipped
+B-319 | P-37 | shipped
+B-305 | P-36 | shipped
+B-331 | P-33 | shipped

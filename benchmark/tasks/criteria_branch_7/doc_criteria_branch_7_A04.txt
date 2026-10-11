@@ -1,0 +1,9 @@
+STORAGE TELEMETRY REGISTRY
+Month window: June
+Platform: Resilience Monitoring Console
+
+Battery ID | Site | Reported state during June
+B-728 | S-72 | MAINTENANCE
+B-739 | S-71 | ONLINE
+
+Registry slice generated from monthly telemetry labels for branch storage devices enrolled in the resilience console.

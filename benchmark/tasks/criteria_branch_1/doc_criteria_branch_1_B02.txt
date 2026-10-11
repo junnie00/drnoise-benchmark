@@ -1,0 +1,8 @@
+Renewables Acceptance Desk
+Certificate File Summary
+
+Certificate entry: array A-133 at F1EM reached operational acceptance.
+
+Record family: renewable installation certificates
+Acceptance stage: operational
+Facility key shown as filed in the acceptance ledger.

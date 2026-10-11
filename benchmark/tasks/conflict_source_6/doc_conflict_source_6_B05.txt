@@ -1,0 +1,6 @@
+Publisher Registry
+Registry class: display-name authority
+
+Authority entry: PUB-6CR legal display name HigherList.
+
+Registry formatting note: the legal display name field preserves spacing and capitalization exactly as registered for external publisher presentation. This excerpt is from the active publisher name authority screen used by syndication operations.

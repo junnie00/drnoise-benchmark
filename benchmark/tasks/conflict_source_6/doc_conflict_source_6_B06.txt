@@ -1,0 +1,6 @@
+Publisher Registry
+Registry class: display-name authority
+
+Authority entry: PUB-6RL legal display name Official Census.
+
+The display-name authority screen presents the legal display form attached to each publisher key. This excerpt is limited to the active registry entry for PUB-6RL and reflects the current registered name string without abbreviation.

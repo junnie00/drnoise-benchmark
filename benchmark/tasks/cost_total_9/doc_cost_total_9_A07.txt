@@ -1,0 +1,19 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract
+Entity: Ashos Holdings
+Year: FY2024
+Period: 08
+Posting date: 02 Dec 2024
+Account class selected: Operating Expenses
+
+The ledger extract for this close cycle reports operating expenses posted at $72,000. Figure is shown in USD and represents the posted section total for the specified period.
+
+System fields
+Book: Primary
+Mode: Summary export
+Status filter: Posted
+Close batch ID: P08-YEARRUN
+Timestamp: 02 Dec 2024 22:14
+Output host: NQF-RPT-03
+
+Selection contains no departmental breakout.

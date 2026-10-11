@@ -1,0 +1,11 @@
+ALTON PHARMA
+Packaging QA Office
+Observation Routing Note
+Subject: Packaging Observation Map
+
+Observation identifiers attached to release records in this routing block:
+R-548 observations O-514 and O-515; R-571 observation O-522.
+
+Use within QA: route observation forms from line inspectors to release folders by release code.
+Routing batch: pack-floor closeout
+Note format: abbreviated desk slip.

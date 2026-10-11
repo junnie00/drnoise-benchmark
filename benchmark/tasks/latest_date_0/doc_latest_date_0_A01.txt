@@ -1,0 +1,9 @@
+Incident Classification Legend
+Operations Assurance Registry
+
+Class code definitions in force for incident intake:
+S = safety
+E = environmental
+Q = product quality
+
+This legend accompanies intake screens, register cards, and closure ledgers so class marks remain uniform across case handling. Codes are printed in uppercase on notices and system exports.

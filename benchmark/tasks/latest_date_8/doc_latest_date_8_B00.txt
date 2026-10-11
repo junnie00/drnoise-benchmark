@@ -1,0 +1,10 @@
+Registry Services Division
+Regulated Entity Crosswalk
+
+Current crosswalk entry states registrant R-880 corresponds to Istria Packaging; R-842 corresponds to Meridian Foundry.
+
+Registrant | Legal name
+R-880 | Istria Packaging
+R-842 | Meridian Foundry
+
+Crosswalk reference class: manufacturing operators

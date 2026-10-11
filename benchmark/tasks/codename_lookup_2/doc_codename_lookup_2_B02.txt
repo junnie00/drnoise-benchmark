@@ -1,0 +1,11 @@
+Borealis Bench Scanner Log
+Local Printout
+
+Captured entry:
+vial VX21-02 scanned into study S-225.
+
+The scanner accepted the vial code on first pass and assigned it to the receiving study record in the bench intake system.
+
+Workstation: BS-1
+Print mode: event-only
+Paper roll stamp: intake copy

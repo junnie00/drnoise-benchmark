@@ -1,0 +1,9 @@
+Solace Bank Facilities Helpdesk
+June Outage Event Record
+
+Site: S-54
+Event type: power interruption
+Interruption time: 09:12
+Restoration time: 10:36
+
+The event log captures the service break and return for the site during the June operating period. Entry formatted from the outage desk screen for branch facilities review.

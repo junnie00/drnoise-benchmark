@@ -1,0 +1,9 @@
+Portal Audit Trail
+Event Detail
+
+Event ID: E-230
+Action: submitted Continuation 2
+Tenant: T-284
+Channel: authenticated portal session
+
+This line item was written by the application event logger when the submission action completed.

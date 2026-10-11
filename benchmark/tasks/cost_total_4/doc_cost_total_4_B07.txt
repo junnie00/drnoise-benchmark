@@ -1,0 +1,13 @@
+HARBOR MERCHANT BANK
+Business Account Statement Snapshot
+Client: Korrar Holdings
+Account: ****4681
+Statement period: 08/2024
+
+Operating outflows total for the statement period: $34,000.
+Currency: USD
+Delivery format: electronic statement image
+Account type: commercial operating account
+Statement section: cash movement summary
+
+Snapshot of period cash activity from the bank statement system. The figure listed is the total operating outflows for 08/2024.

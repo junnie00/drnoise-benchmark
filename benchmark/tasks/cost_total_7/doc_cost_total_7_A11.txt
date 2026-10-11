@@ -1,0 +1,15 @@
+NarrowGate Finance Suite
+GL Activity Snapshot
+Company: Korron Holdings
+Fiscal frame: FY2024
+Accounting period: 12
+Snapshot date: 03 Jul 2024
+Focus: Operating expenses
+
+System snapshot notes operating expenses posted at $14,000.
+
+Ledger book: Corporate
+Status: Posted
+Functional currency: USD
+Source module: General Ledger
+This snapshot was produced from the live accounting environment for monthly close support and contains only the selected expense-class activity.

@@ -1,0 +1,14 @@
+NORTH QUAY COMMERCIAL BANK
+Statement Export Fragment
+Customer: Korros Holdings
+Account: ****9767
+Statement period: 06/2024
+
+Operating activity result: total operating outflows $65,000.
+
+Export attributes:
+- layout: summary
+- classification basis: operating
+- amount style: USD whole dollars
+
+This fragment comes from the standard statement export and includes only the period-level operating outflow amount for the identified account and statement month.

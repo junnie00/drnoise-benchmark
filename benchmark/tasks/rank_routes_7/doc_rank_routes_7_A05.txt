@@ -1,0 +1,13 @@
+Northstar Freight
+Interoffice Memorandum
+
+To: Operations Finance and Regional Dispatch Leads
+From: Quarter-Close Coordination Desk
+Subject: Q3 2024 period boundary and ledger reading
+Date: 01 October 2024
+
+For quarter-close handling, Q3 2024 comprises July, August, and September; monthly ledger values are not cumulative.
+
+This clarification is being circulated because several teams requested confirmation on whether monthly lane-tonnage pages roll forward within the quarter. They do not. Each month stands on its own ledger line for the period shown, and quarter workups should treat the three month pages as separate monthly entries within the Q3 window.
+
+Purpose: confirm period scope for the current close package.

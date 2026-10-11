@@ -1,0 +1,16 @@
+Harbor Merchant Bank — Statement Summary
+
+Depositor: Korrby Holdings
+Account ending: ****4957
+Statement period: 04/2024
+Service package: commercial account services
+
+Operating section shows total operating outflows $60,000.
+
+Currency: USD
+Cycle tag: APR-2024
+Delivery: secure message center
+Summary class: debit activity
+Bank region: corporate services desk
+
+Computer-generated statement excerpt.

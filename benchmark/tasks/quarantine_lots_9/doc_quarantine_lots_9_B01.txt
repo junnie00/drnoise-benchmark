@@ -1,0 +1,7 @@
+ALTON PHARMA
+Distribution Operations
+Distribution Unit Map
+
+Movement coding for the listed release records is as follows: R-948 travelled as DU-98; R-971 as DU-92; R-960 as DU-96; R-933 as DU-91.
+
+This map is posted in the dispatch office to keep distribution-unit shorthand consistent between release paperwork, transport handling sheets, and loading bay manifests.

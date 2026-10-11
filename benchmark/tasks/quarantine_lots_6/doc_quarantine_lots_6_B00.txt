@@ -1,0 +1,7 @@
+Release-Control Register
+Controlled Product Release IDs
+
+Lot to release code assignment:
+LOT-869 uses release code R-648; LOT-331 uses R-671; LOT-648 uses R-660; LOT-210 uses R-633.
+
+Register purpose: associate issued finished-lot labels with their release-control identifiers used by Quality Operations and distribution release staff during disposition processing.

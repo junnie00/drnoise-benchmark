@@ -1,0 +1,13 @@
+Borealis Lab Operations Console
+Input Ledger Export
+
+Run record: E-202
+Material consumption posted: lot L-271
+Assigned environmental unit: chamber CH-24
+Posting status: accepted by instrument queue
+
+Source line checksum: 7C-44-118
+Operator terminal: BENCH-04
+Exported view format: single-run ledger slice
+
+This machine excerpt reflects the consumable lot and chamber assignment captured when the run was admitted to the queue.

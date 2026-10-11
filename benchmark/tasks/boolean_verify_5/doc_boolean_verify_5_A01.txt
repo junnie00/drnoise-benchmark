@@ -1,0 +1,9 @@
+Havenport Health Oversight Board
+Regulatory Filing Codebook 2024
+Section: Imaging and contrast reporting
+
+Code assignment in current use:
+F-A5 — radiology safety addendum
+F-B5 — contrast-event nil report
+
+These abbreviations are the filing labels displayed in receipt routing, calendar scheduling, and archive references for the 2024 cycle.

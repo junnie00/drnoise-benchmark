@@ -1,0 +1,7 @@
+INTAKE QUEUE SNAPSHOT
+
+Pending identifiers captured from overnight feed:
+I-1252: site JU-9, opened 08 Dec 2024, class E
+I-971: site MF-9, opened 20 Nov 2024, class S
+
+Source view: initial intake capture. No additional disposition fields displayed in this snapshot.

@@ -1,0 +1,7 @@
+Gate Punctuality Extract
+Transport Analytics Module
+
+Recorded timing variance for this extract:
+C-107 early by 4 minutes; C-84 early by 9 minutes.
+
+Display logic follows the standard gate punctuality view, listing the consignment identifier first and the measured variance from booked gate time second.

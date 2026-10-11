@@ -1,0 +1,12 @@
+Solace Bank Utilities Response
+June outage event log
+
+S-64 interruption 09:12, restoration 10:36.
+
+Event type: supply interruption
+Affected site: S-64
+Start time: 09:12
+Restoration time: 10:36
+Status at close: service restored
+
+Logged by: Networked Branch Utilities Desk

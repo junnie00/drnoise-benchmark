@@ -1,0 +1,11 @@
+Regulatory Affairs Reference Sheet
+Filing Codebook — Active Form Abbreviations
+
+Code: F-IR7
+Meaning: annual IRB renewal
+
+Code: F-ZA2
+Meaning: zero-adverse-event report
+
+Issued by: Office of Research Compliance
+Edition: current operational list for staff use in filing and intake screens.

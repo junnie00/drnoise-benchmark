@@ -1,0 +1,8 @@
+North Quay Gatehouse
+Gate Punctuality Extract
+Console lines
+
+C-47 early by 4 minutes
+C-44 early by 9 minutes
+
+Comparison basis is booked gate time versus recorded gate event.

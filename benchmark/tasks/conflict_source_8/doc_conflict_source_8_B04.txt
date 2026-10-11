@@ -1,0 +1,10 @@
+Feed Provenance Chain
+Inbound Syndication Lineage
+
+Chain entries: F-890 originated from publisher key PUB-8CR; F-3600 originated from PUB-8RL.
+
+Registry purpose: tie inbound feed items to their publishing keys before display-name resolution
+Lineage status: open for current item family
+Maintained by: syndication operations desk
+
+This chain is used during exception review when a feed item must be traced back to its publisher key.

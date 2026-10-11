@@ -1,0 +1,10 @@
+SOLACE BANK RESILIENCE PLATFORM
+Storage Telemetry Registry — June snapshot
+
+battery B-128 at S-12 reported MAINTENANCE during June; B-139 at S-11 reported ONLINE.
+
+Registry view
+• Battery B-128 | Site S-12 | State during June: MAINTENANCE
+• Battery B-139 | Site S-11 | State during June: ONLINE
+
+Operator display export from the storage telemetry register.

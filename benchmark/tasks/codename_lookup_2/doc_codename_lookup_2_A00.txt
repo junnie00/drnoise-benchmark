@@ -1,0 +1,13 @@
+BOREALIS LAB
+Controlled Reagent Catalog
+Stores Reference: RC-11
+
+Active catalog extract for current assay stock:
+• reagent R-27 was issued as stock lot L-271.
+• reagent R-21 was lot L-217.
+
+Packaging format follows standard amber vial allocation for internal runs. Catalog line verified by Materials Control at intake and released to bench inventory under the above lot designations only.
+
+Shelf grouping: Reactive Series R
+Issue desk: North Stores Window
+Record class: Consumables master listing

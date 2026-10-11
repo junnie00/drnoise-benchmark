@@ -1,0 +1,8 @@
+North Quay Components Trust
+Carrier Management Module
+Manifest Crosswalk
+Batch reference: APR-CMX-3
+
+For account AC-904, the consignments listed were C-91, C-95, and C-97.
+
+The crosswalk links AP account coding to the consignment references appearing on carrier-facing movement documents and gate receipts.

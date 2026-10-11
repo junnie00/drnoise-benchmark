@@ -1,0 +1,86 @@
+[
+  {
+    "docid": "criteria_branch_2_A00",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "criteria_branch_2_A01",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "criteria_branch_2_A02",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "criteria_branch_2_A03",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "criteria_branch_2_A04",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "criteria_branch_2_A05",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "criteria_branch_2_A06",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "criteria_branch_2_A07",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "criteria_branch_2_B00",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "criteria_branch_2_B01",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "criteria_branch_2_B02",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "criteria_branch_2_B03",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "criteria_branch_2_B04",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "criteria_branch_2_B05",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "criteria_branch_2_B06",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "criteria_branch_2_B07",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "criteria_branch_2_main",
+    "role": "main"
+  }
+]

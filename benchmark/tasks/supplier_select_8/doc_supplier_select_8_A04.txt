@@ -1,0 +1,7 @@
+Purchasing Operations Console
+April Purchase Dispatch Map
+Export mode: vendor grouping
+
+Vendor V-88 handled dispatches D-844, D-845, and D-859; V-84 handled D-801, D-802, and D-803.
+
+Screen capture text retained from the month-end dispatch mapping view for purchasing support.

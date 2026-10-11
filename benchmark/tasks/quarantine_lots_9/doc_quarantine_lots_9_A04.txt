@@ -1,0 +1,7 @@
+ALTON PHARMA
+Carton Control Worksheet
+Section: Batch-carton assignment
+
+Cartons C-982A and C-982B belong to B-982; C-919A belongs to B-919.
+
+This worksheet section captures the carton identifiers printed during final packing for the listed batches. Entries are formatted in the line style used by the packaging hall so carton scans and written floor notes use the same carton references during inspection and hold activity.

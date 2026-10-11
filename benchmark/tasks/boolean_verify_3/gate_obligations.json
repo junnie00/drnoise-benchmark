@@ -1,0 +1,38 @@
+{
+  "query_id": "boolean_verify_3",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "map clinic and filing names to IDs, then compare two receipt dates with two deadlines",
+      "query_hint": "map clinic and filing names to IDs, then compare two receipt dates with two deadlines",
+      "expected_docids": [
+        "boolean_verify_3_986b1921",
+        "boolean_verify_3_de42a95e",
+        "boolean_verify_3_efa5e73a",
+        "boolean_verify_3_d872c46f",
+        "boolean_verify_3_36c8afc5",
+        "boolean_verify_3_dcb49d52",
+        "boolean_verify_3_a8cae7dd",
+        "boolean_verify_3_0adafa03",
+        "boolean_verify_3_a73db983"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "map clinic to portal tenant and form aliases, then compare audit timestamps with calendar cutoffs",
+      "query_hint": "map clinic to portal tenant and form aliases, then compare audit timestamps with calendar cutoffs",
+      "expected_docids": [
+        "boolean_verify_3_c4db1960",
+        "boolean_verify_3_302b577d",
+        "boolean_verify_3_f668b353",
+        "boolean_verify_3_65662ce6",
+        "boolean_verify_3_f7d2dbe4",
+        "boolean_verify_3_f290a40e",
+        "boolean_verify_3_5841234e",
+        "boolean_verify_3_3128b846",
+        "boolean_verify_3_ba957a1f"
+      ]
+    }
+  ]
+}

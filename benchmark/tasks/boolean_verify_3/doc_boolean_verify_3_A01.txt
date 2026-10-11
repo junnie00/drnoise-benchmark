@@ -1,0 +1,9 @@
+MedData Regulatory Services
+Controlled Filing Codebook
+Edition in use: 2024 operations set
+
+Code assignments
+F-A3  = pediatric assent renewal
+F-B3  = protocol deviation nil return
+
+Reference purpose: shorthand labels used by intake staff, calendar configuration, and routing screens when a filing type must be selected from a compact code field.

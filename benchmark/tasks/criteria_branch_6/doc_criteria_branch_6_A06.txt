@@ -1,0 +1,12 @@
+Solace Bank Utilities Response
+June outage event log
+
+S-62 interruption 13:40, restoration 14:46.
+
+Operational fields
+Site: S-62
+Interruption: 13:40
+Restoration: 14:46
+Category: utility outage
+
+Closed in monthly events rollup.

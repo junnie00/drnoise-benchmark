@@ -1,0 +1,8 @@
+Northwater Works Logistics Console
+April Purchase Dispatch Map
+Export format: vendor-to-dispatch assignment
+
+VENDOR_REF=V-63
+APRIL_DISPATCHES=D-618,D-629,D-637
+
+Run context: month filter APR, purchasing lane only. Output generated from the dispatch mapping console for dock scheduling use.

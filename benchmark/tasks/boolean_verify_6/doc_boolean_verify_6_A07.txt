@@ -1,0 +1,6 @@
+Timestamp Archive
+Acceptance Time Record
+
+Receipt event: R-644 accepted 21 June 2024 at 16:03.
+
+Archive source: intake clock service, preserving the accepted timestamp captured at the point the submission entered the regulated filing stream.

@@ -1,0 +1,10 @@
+North Quay Components
+Accounts Payable Control
+Alias Table — supplier remittance names
+
+Account AC-304 pays Kepler Valves; AC-371 pays Damon Housings; AC-309 pays Ridgeway Metals.
+
+Use this table when matching remittance account codes from voucher traffic to the supplier names shown on invoices and statements.
+
+Export class: AP-ALIAS
+Run mode: name resolution

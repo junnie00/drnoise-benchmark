@@ -1,0 +1,12 @@
+North Quay Components
+Risk Office Badge File
+Account access status note
+
+Badge status line: account AC-504 held active badge SB-56 throughout April 2024.
+
+File category: supplier-linked site badges
+Supervising office: Plant Risk Office
+Coverage window in this note is the full month stated above, as maintained in the badge status file for access control administration.
+
+Screen print origin: BADGE-FILE summary panel
+Distribution: internal operations

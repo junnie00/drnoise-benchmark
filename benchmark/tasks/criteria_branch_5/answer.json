@@ -1,0 +1,15 @@
+{
+  "answer": "Millcross branch",
+  "false_value": "Northbay branch",
+  "false_values": [
+    "Northbay branch"
+  ],
+  "type": "all_criteria_selection",
+  "dom": "facilities",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "map branch to site, join separate asset statuses, compute outage duration, and intersect all criteria",
+    "B": "map branch to facility alias, decode renewable/storage records, compute restoration interval, and intersect"
+  }
+}

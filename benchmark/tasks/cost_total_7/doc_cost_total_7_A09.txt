@@ -1,0 +1,15 @@
+NarrowGate Finance Suite
+General Ledger Inquiry Print
+Business name: Korron Holdings
+Year set: FY2024
+Period no.: 10
+Print date: 05 Oct 2024
+Inquiry type: Operating expense activity
+
+Ledger result: operating expenses posted at $33,000.
+
+Book name: Primary ledger
+Source stream: GL journals
+Measure unit: USD
+Record state: Posted
+Printed through the finance office inquiry queue as part of regular expense monitoring for the stated accounting period.

@@ -1,0 +1,36 @@
+{
+  "query_id": "quarantine_lots_7",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "map lots to batches and pallets, decode sensor exceptions, join carton seal failures, then intersect",
+      "query_hint": "map lots to batches and pallets, decode sensor exceptions, join carton seal failures, then intersect",
+      "expected_docids": [
+        "quarantine_lots_7_7c8336bd",
+        "quarantine_lots_7_ae0d605a",
+        "quarantine_lots_7_f0e0f508",
+        "quarantine_lots_7_afe74508",
+        "quarantine_lots_7_24477e46",
+        "quarantine_lots_7_1dba04ea",
+        "quarantine_lots_7_d4f0109a",
+        "quarantine_lots_7_b6f4fd57"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "map public lots to release codes, join cold-chain tickets and packaging observations, then intersect",
+      "query_hint": "map public lots to release codes, join cold-chain tickets and packaging observations, then intersect",
+      "expected_docids": [
+        "quarantine_lots_7_cacbcf68",
+        "quarantine_lots_7_e6c6e66e",
+        "quarantine_lots_7_74865fa3",
+        "quarantine_lots_7_316ed17a",
+        "quarantine_lots_7_b3626670",
+        "quarantine_lots_7_d6af3d5e",
+        "quarantine_lots_7_564491e8",
+        "quarantine_lots_7_d127fab6"
+      ]
+    }
+  ]
+}

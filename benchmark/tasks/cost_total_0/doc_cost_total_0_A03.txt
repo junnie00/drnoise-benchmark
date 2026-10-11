@@ -1,0 +1,15 @@
+North Quay FinanceSuite — Controller Ledger Snapshot
+Company name: Tannic Holdings
+Fiscal year: FY2024
+Snapshot date: 04 Jun 2024
+
+Within period 04, operating expenses posted at $53,000. The amount is presented as the booked operating-expense total for the period in the accrual ledger.
+
+Snapshot fields
+Period: 04
+Ledger book: Actuals
+Account type: Operating expenses
+Entry condition: Posted
+Currency: USD
+Workspace: Close Calendar / GL Review
+Printed: 04 Jun 2024 11:06

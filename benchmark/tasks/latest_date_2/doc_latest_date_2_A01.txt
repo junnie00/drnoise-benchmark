@@ -1,0 +1,8 @@
+Safety & Industrial Review Bureau
+Incident Type Legend
+Field: CLASS_CD
+
+Accepted class codes in the incident intake system are as follows:
+S denotes safety; E denotes environmental; Q denotes product quality.
+
+Use the single-letter class entry exactly as shown when recording a new matter in the bureau console or when transcribing plant-submitted incident forms.

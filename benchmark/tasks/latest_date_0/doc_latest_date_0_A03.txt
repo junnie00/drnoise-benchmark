@@ -1,0 +1,7 @@
+OPS-INCIDENT INTAKE EXTRACT
+Queue: Yearbook pull — 2024 intake lines
+
+I-204 | site AW-6 | opened 05 Sep | class S
+I-233 | site AW-6 | opened 11 Jul | class S
+
+Generated from the intake console in fixed-width format for registry filing.

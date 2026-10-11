@@ -1,0 +1,17 @@
+HARBOR MERCHANT BANK
+Corporate Account Statement
+
+Customer: Korrby Holdings
+Account ending: ****4767
+Statement period: 09/2024
+Statement panel: operating expenditure cash flows
+
+The monthly summary reports total operating outflows $78,000.
+
+Currency denomination: USD
+Cycle class: monthly statement
+Output source: treasury portal image
+Grouping rule: operating disbursements
+Page index: 1 of 1
+
+Statement excerpt complete.

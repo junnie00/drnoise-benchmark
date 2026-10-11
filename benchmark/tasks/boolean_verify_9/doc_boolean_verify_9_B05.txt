@@ -1,0 +1,9 @@
+Portal Audit Trail
+Event detail pane
+
+Event ID: E-919
+Action recorded: submitted Nil Return 9
+Tenant: T-984
+Channel: self-service portal
+
+Operational viewer excerpt showing the portal event that logged the submission action. The detail pane identifies the event number, action string, and tenant against the hosted filing service.

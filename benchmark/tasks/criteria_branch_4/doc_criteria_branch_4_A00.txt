@@ -1,0 +1,12 @@
+SOLACE BANK
+Property & Facilities Directorate
+Site Directory Extract — Branch Network
+
+Site code assignments in current use: S-44 is Junefield branch; S-42 is Kirkstead branch; S-41 is Lowmarsh branch.
+
+Directory view
+- S-44  | Junefield branch
+- S-42  | Kirkstead branch
+- S-41  | Lowmarsh branch
+
+This extract reflects active branch naming for facilities scheduling, engineer dispatch, and plant record indexing within the Solace Bank estate.

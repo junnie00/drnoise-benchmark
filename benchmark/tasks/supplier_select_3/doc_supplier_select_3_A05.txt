@@ -1,0 +1,9 @@
+North Quay Components
+Receiving Operations
+Dock Event Ledger — excerpt
+
+Dispatch D-318 due 08:30, received 08:18; D-329 due 10:00, received 09:52.
+
+Event type: scheduled inbound purchase deliveries
+Capture source: bay scan and gate timestamp merge
+Display format: dispatch / booked arrival / actual receipt

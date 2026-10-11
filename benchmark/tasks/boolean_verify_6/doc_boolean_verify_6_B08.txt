@@ -1,0 +1,8 @@
+Event Clock Store
+Machine Export
+
+EVENT_ID=E-601
+OCCURRED_AT=2024-07-03
+TENANT=T-648
+
+Clock-store row emitted from the portal timing service for date-index review.

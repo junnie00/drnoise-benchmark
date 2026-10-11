@@ -1,0 +1,10 @@
+Portal Form Alias List
+User-facing form names for filing screens
+
+Continuation 8 is the monitoring-plan renewal; Nil Return 8 is the late-sample summary.
+
+Alias            | Filing meaning
+Continuation 8   | monitoring-plan renewal
+Nil Return 8     | late-sample summary
+
+Shown in portal menus and confirmation screens to match plain-language labels with filing types.

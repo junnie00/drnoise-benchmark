@@ -1,0 +1,9 @@
+North Quay Logistics Interface
+Carrier Manifest Crosswalk
+Export fragment
+
+account=AC-404
+consignment_refs=C-41;C-45;C-47
+period=April
+
+Crosswalk output links payable account references to carrier consignment identifiers used at the gate.

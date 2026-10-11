@@ -1,0 +1,16 @@
+North Quay FinanceSuite
+General Ledger Detail Strip
+Entity: Tannic Holdings
+Fiscal year label: FY2024
+Output date: 27 Mar 2024
+
+The FY2024 period 05 extract shows operating expenses posted at $16,000. Record is displayed from the standard operating expense ledger family and carries posted status in the actuals environment.
+
+Field strip
+Period number: 05
+Date stamp: 27 Mar 2024
+Expense class: Operating expenses
+Book: Actuals
+Currency code: USD
+State: Posted
+Viewer node: FIN-CL-2

@@ -1,0 +1,15 @@
+Platform Operations Ticket
+Feed Provenance Lookup
+
+Ticket: OPS-44721
+Queue: Syndication Integrity
+Summary: origin check for selected feed items
+
+Resolved provenance chain: F-590 originated from publisher key PUB-5CR; F-7920 originated from PUB-5RL.
+
+Lookup basis: publisher-origin resolver
+Affected object type: feed item
+Analyst action: provenance keys returned to queue
+Close code: info supplied
+
+This ticket records the result of a routine publisher-origin lookup for the listed outbound items and stores the originating publisher keys exactly as returned by the resolver.

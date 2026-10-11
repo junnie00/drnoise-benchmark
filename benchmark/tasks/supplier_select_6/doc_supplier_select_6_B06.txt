@@ -1,0 +1,8 @@
+Northwater Works Security Gate
+Punctuality Extract
+
+Inbound timing entries:
+C-67 early by 4 minutes
+C-64 early by 9 minutes
+
+Generated from the gate punctuality monitor for transport operations.

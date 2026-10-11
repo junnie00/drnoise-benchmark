@@ -1,0 +1,12 @@
+Northstar Freight
+Adjustment Register — Q3 Review Window
+Accounting Control Desk
+
+Register entry: no Q3 volume adjustments were posted for L-94, L-99, L-92, L-97, or L-91.
+
+Posting classes checked:
+- freight mass correction
+- late dock weight amendment
+- route reassignment volume entry
+
+Result entered after quarter-close scan of the affected lane set. No supplemental volume line was opened against those codes during the Q3 posting window.

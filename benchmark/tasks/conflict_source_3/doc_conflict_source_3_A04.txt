@@ -1,0 +1,11 @@
+External Profile Snapshot
+Profile Record Card
+
+Record ID: PR-388
+Institution: Orchard State
+Listed enrollment: 7210
+Snapshot class: publication record
+Distribution channel: external profiles
+
+Catalog remarks:
+This card captures the value displayed in publication record PR-388 for quick profile verification before downstream formatting. Orchard State is the institution attached to this record, and the enrollment field on that publication card shows 7210. Internal users rely on the record ID when discussing publication-side snapshots with syndication staff.

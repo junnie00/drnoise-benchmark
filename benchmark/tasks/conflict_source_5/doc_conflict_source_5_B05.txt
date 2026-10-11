@@ -1,0 +1,11 @@
+Publisher Registry
+Entity Card
+
+Registry key: PUB-5CR
+Legal display name: UniAtlas
+Registry class: external publisher
+Entity status field: registered
+Name rendering: title case
+Card series: publisher master
+
+The publisher registry card above is the canonical naming record for registry key PUB-5CR within the institutional syndication environment.

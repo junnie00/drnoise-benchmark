@@ -1,0 +1,1 @@
+{"query_id": "quarantine_lots_7", "query": "Which two Alton Pharma lots had both a temperature excursion and at least one missing tamper seal? Give the two lot IDs.", "answer": ["LOT-880", "LOT-342"]}

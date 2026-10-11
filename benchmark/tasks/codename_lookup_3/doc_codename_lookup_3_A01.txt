@@ -1,0 +1,12 @@
+Borealis Lab
+Experiment Input Ledger
+
+Run reference: E-302
+Material withdrawal and chamber assignment recorded at intake.
+
+Entry states that run E-302 consumed lot L-371 and used chamber CH-34.
+
+Operator line: __________________
+Ledger folio: inputs / current cycle
+Posting clerk initials: RN
+Status field on form: complete for intake posting only

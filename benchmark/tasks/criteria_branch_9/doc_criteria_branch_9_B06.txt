@@ -1,0 +1,9 @@
+Utility Ticket U-92
+Distribution Service Desk
+
+Facility: F9LV
+Condition: service lost
+Time opened from event stamp: 13:40
+Clear time: 14:46
+
+Utility desk record for the June service-loss event affecting the listed facility.

@@ -1,0 +1,8 @@
+Compliance Calendar Export
+Format: tenant cutoff feed
+
+record_tenant=T-684
+form_alias=Continuation 6
+cutoff=2024-04-15
+
+Exported from the portal calendar service for the current reporting year.

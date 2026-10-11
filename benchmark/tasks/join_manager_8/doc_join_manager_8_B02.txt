@@ -1,0 +1,9 @@
+Independent Closeout Docket
+Assurance Tracking Panel
+Machine export
+
+Program Number | Final Assurance Code
+P-840          | A1
+P-810          | B2
+
+Docket rows shown above reflect the assurance code currently carried at closeout for each listed program number.

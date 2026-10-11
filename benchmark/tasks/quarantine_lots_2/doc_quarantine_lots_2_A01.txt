@@ -1,0 +1,12 @@
+ALTON PHARMA LOGISTICS
+Pallet Assignment File
+Warehouse routing excerpt
+
+Batch shipment assignments entered for dispatch staging:
+B-282 shipped on pallet P-24; B-219 on P-27; B-205 on P-26; B-231 on P-23.
+
+Source module: Outbound palletization
+Dock group: Cold-chain lane B
+Operator terminal: WH-07
+Export stamp: 06:42 local
+File fragment: PAL_ASSIGN_CURRENT

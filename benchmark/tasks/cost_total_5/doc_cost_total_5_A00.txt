@@ -1,0 +1,20 @@
+NORTH QUAY FINANCE SUITE
+General Ledger Inquiry Export
+
+Entity: Korrby Holdings
+Fiscal year: FY2024
+Period: 01
+Run date: 20 Oct 2024
+Ledger view: Operating Expense Activity
+Basis: Posted amounts only
+
+Posting summary: operating expenses posted at $69,000.
+
+Account class: OPEX
+Journal source mix: AP, cash disbursements, recurring charges
+Period status: extracted from live ledger snapshot
+Currency: USD
+Operator session: GL-RPT-14
+Sort order: account/date
+
+End of extract — no subledger lines printed in this view.

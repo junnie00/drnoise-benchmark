@@ -1,0 +1,7 @@
+Facilities Alias Book
+Property naming and shorthand register
+
+Facility code mapping in current use:
+F-RV serves Riverton branch; F-LV serves Lakeview branch; F-EM serves Eastmere branch.
+
+The alias book standardizes how estate identifiers appear in controller screens, utility tickets, and contractor correspondence for branch premises.

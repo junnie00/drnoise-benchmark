@@ -1,0 +1,13 @@
+Warehouse Dispatch Extract
+Alton Pharma Logistics Console
+
+Batch-to-pallet assignment for outbound staging:
+B-482 shipped on pallet P-44; B-419 on P-47; B-405 on P-46; B-431 on P-43.
+
+Run context
+Queue: Cold Room 2 release lane
+View mode: pallet load summary
+Exported by: Logistics Console job WD-3
+Timestamp: 14:22 local
+
+This extract is the compact shipping view used by dock coordinators when matching pallet labels to batch numbers before truck handoff.

@@ -1,0 +1,11 @@
+ALTON PHARMA
+Batch Genealogy Crosswalk Card
+Line: Solid Oral Packaging
+
+Lot-to-batch designation in current circulation:
+- LOT-869 is batch B-682
+- LOT-331 is B-619
+- LOT-648 is B-605
+- LOT-210 is B-631
+
+Scope: finished-lot naming used on outbound manufacturing and quality paperwork for this product family. Card issued from internal genealogy index to standardize lot references during packaging review and shipment handling.

@@ -1,0 +1,13 @@
+Plant Event Capture — Intake Worksheet
+Facility submissions logged during 2024 processing
+
+The following entries were created for site FR-5: I-812: site FR-5, opened 05 Sep 2024, class S; I-533: site FR-5, opened 11 Jul 2024, class S.
+
+Operator field: FR-5
+Classification field uses legend notation only.
+
+Clerk display
+- Incident I-812
+- Incident I-533
+
+Worksheet generated for same-day batching in the Incident Review section.

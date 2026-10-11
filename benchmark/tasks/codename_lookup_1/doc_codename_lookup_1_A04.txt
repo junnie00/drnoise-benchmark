@@ -1,0 +1,8 @@
+Borealis Lab Facilities Group
+Environmental Chamber Map
+
+Map reference excerpt for active units:
+CH-14 setpoint 4 degrees C; CH-19 setpoint 22 degrees C.
+
+Placement notes:
+CH-series units are listed by maintained setpoint for bench scheduling and environmental matching. This excerpt was printed from the chamber board for floor posting near the controlled access corridor.

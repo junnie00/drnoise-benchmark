@@ -1,0 +1,11 @@
+NORTHSTAR FREIGHT DISPATCH SYSTEM
+Corridor Alias File — export fragment
+
+ALIAS,CORRIDOR_NAME
+C6D,Route Zephyr
+C6O,Route Alder
+C6K,Route Briar
+
+Source module: dispatch corridor naming table
+Export mode: plain-text extract
+This fragment is used where consignment records carry corridor aliases instead of full route names.

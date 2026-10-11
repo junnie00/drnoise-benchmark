@@ -1,0 +1,12 @@
+Borealis Archive Index
+Study Retrieval Table
+
+Study ID   Archive token
+S-404      T-488
+S-419      T-493
+S-425      T-497
+
+Index class: study archive routing
+Medium: retrieval desk lookup
+
+This table provides archive tokens assigned to the listed study records for shelving and retrieval control. The extract is limited to the included study identifiers and their corresponding tokens.

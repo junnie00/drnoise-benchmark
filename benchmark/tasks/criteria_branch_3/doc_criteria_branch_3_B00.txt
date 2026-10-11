@@ -1,0 +1,9 @@
+Facilities Alias Book
+Branch Service Names and Facility IDs
+
+Current alias entries for service dispatch:
+- facility F3RV serves Greystone branch
+- F3LV serves Hawthorn branch
+- F3EM serves Ivydale branch
+
+Use the facility identifier where controller logs, utility tickets, or contractor callouts reference the premises by service code rather than branch name.

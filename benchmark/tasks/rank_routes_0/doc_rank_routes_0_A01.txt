@@ -1,0 +1,9 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Regional Routing Register
+
+Current lane-name pairings on this sheet:
+- L-17 is Route Mesa
+- L-21 is Route Vale
+
+The register view is limited to active named lanes within the same numbering block used by operations and accounting. Codes appear exactly as carried on freight movement and monthly tonnage paperwork.

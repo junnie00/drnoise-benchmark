@@ -1,0 +1,17 @@
+HARBOR MERCHANT BANK
+Statement Summary Page
+
+Account holder: Korrby Holdings
+Account identifier: ****9687
+Statement period: 08/2024
+Section: Operating Outflows
+
+Amount shown on the page: total operating outflows $53,000.
+
+Currency: USD
+Cycle ID: AUG2024
+Delivery mode: e-statement
+Summary scope: operating debit movements
+Render engine: retail-corporate hybrid statements
+
+Printed from portal archive.

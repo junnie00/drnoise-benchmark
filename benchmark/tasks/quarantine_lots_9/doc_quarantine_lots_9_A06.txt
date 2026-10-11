@@ -1,0 +1,7 @@
+ALTON PHARMA
+Packaging Line Inspection Log
+Event Summary
+
+Seal inspection events recorded on the line were as follows: C-982A failed for absent seal; C-982B passed; C-919A failed for absent seal.
+
+Inspector remarks field was left in abbreviated mode for shift turnover, so results are shown in the customary pass/fail wording used on carton checks for tamper seal presence at final packaging.

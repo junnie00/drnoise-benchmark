@@ -1,0 +1,15 @@
+Harborside Treasury Bank
+Commercial Banking Statement Image
+
+Name on account: Korric Holdings
+Account number: ****4810
+Statement period: 03/2024
+Cycle: monthly
+
+Activity summary records total operating outflows $37,000.
+Currency: USD
+Account category: business current account
+Output style: archived statement snapshot
+Issue channel: secure treasury portal
+
+Generated for normal account servicing and client statement retention.

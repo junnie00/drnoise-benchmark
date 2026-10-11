@@ -1,0 +1,11 @@
+North Meridian Development Authority
+Budget Services Division
+
+Contract Allocation Table — Current Funding Packages
+Run set: Alloc-Sched / Contract View
+
+Contract Code | Assigned Funds Package
+CT-638        | PK-391
+CT-351        | PK-338
+
+Routing note: this table is used by intake staff to assign incoming contract charges to the correct package before posting. Only currently active package links are shown in this extract.

@@ -1,0 +1,6 @@
+Renewables Acceptance Office
+Certificate File Abstract
+
+Certificate entry: array A-533 at F5EM reached operational acceptance.
+
+Indexed under renewable certificate files for branch energy installations. Entry retained in abstract form for lookup by facility code and array number.

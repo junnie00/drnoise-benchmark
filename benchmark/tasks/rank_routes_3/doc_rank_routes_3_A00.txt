@@ -1,0 +1,11 @@
+NORTHSTAR FREIGHT
+Lane Directory Card — Active Line Codes
+
+Directory extract issued for routing desk use.
+
+Lane Code  Route Name
+L-34       Route Kilo
+L-39       Route Laurel
+L-32       Route Mica
+
+Format note: lane codes shown here are the operating references used on domestic tonnage ledgers and dispatch paperwork. This card reflects the current naming convention for the listed lines and is suitable for shorthand entry where full route titles are not practical.

@@ -1,0 +1,7 @@
+Regulatory Filing Codebook
+Section: Annual Clinical Operations Returns
+Edition: 2024
+
+Code F-A2 designates the device calibration attestation. Code F-B2 designates the sterile-field variance report.
+
+Use the filing code exactly as assigned when routing inbound submissions through the compliance intake queue.

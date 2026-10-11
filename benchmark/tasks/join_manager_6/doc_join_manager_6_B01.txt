@@ -1,0 +1,8 @@
+Appropriation Register
+Program Assignment View
+
+Appropriation | Assigned Program Number
+AP-610 | P-640
+AP-622 | P-610
+
+Register excerpt from the budget assignment screen.

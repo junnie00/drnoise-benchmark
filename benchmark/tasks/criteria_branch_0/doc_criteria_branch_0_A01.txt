@@ -1,0 +1,14 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Register section: Rooftop PV assignments
+
+Asset ID: PV-81
+Assigned site: S-14
+Commissioned: 04 March
+
+Asset ID: PV-44
+Assigned site: S-22
+Commissioned: 19 February
+
+This register page reflects installed photovoltaic equipment carried under the branch energy portfolio. Dates shown are the recorded commissioning dates used by engineering administration for asset activation and service scheduling.

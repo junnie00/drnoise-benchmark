@@ -1,0 +1,7 @@
+Assurance Codebook
+Controlled Meanings List
+
+A1 means passed final audit.
+B2 means remediation remained open.
+
+This code list is the short-form legend used in closeout and assurance screens.

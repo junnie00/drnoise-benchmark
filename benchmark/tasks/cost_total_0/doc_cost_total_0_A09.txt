@@ -1,0 +1,16 @@
+North Quay FinanceSuite
+GL Actuals Extract
+Company file: Tannic Holdings
+Fiscal year: FY2024
+Printed on: 03 Feb 2024
+
+The extract for period 10 reports operating expenses posted at $24,000. Entry appears in the operating expense section of the posted actuals ledger, with values shown in dollars.
+
+Output fields
+Period: 10
+As-of date: 03 Feb 2024
+Classification: Operating expenses
+Book: Actuals
+Posting state: Posted
+Currency: USD
+Report engine: GLX-Std-4

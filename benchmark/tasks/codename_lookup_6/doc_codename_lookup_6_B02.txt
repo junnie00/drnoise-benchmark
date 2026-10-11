@@ -1,0 +1,12 @@
+BENCH SCANNER LOG
+Node: East Bench Array 2
+
+Scan capture summary:
+vial VX61-02 scanned into study S-625.
+
+Read mode: barcode pass-through
+Scanner state: accepted reads
+Session label: late accession window
+Operator badge: 211-F
+
+This single-entry printout was produced from the local scanner spool after association of the vial serial with the study identifier.

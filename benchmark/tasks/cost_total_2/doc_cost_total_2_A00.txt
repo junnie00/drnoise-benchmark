@@ -1,0 +1,17 @@
+KORREL HOLDINGS
+Finance Systems Division
+General Ledger Extract
+
+Run date: 17 Apr 2024
+Entity: Korrel Holdings
+Fiscal year: FY2024
+Period: 01
+Ledger section: Operating Expenses
+
+EXPORT SNAPSHOT
+Account class ........ Operating expenses
+Posted amount ........ $74,000
+Posting status ....... Posted
+Source basis ......... Period close extract
+
+System remark: Extract generated from the month-end ledger view for internal finance use. Figures shown are in dollars and reflect the posted operating-expense balance for the stated fiscal period only.

@@ -1,0 +1,17 @@
+KORREL HOLDINGS
+GL CLOSE REPORT FRAGMENT
+
+Report date: 28 Nov 2024
+Company: Korrel Holdings
+FY: FY2024
+Period: 07
+
+Line description                  Amount
+--------------------------------  --------
+Operating expenses posted         $43,000
+
+Processing state: Posted
+View selection: Period close summary
+Origin: General Ledger
+
+End of fragment.

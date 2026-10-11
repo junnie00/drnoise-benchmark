@@ -1,0 +1,8 @@
+Source Name Directory
+Publisher and Source Listings
+
+Source Key | Display Name
+SR-12 | CampusRank
+SR-30 | College Atlas
+
+The directory standardizes source names for use on profile imports, correspondence logs, and publication indexing within the college’s external reporting files.

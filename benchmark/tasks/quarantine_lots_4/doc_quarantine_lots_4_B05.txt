@@ -1,0 +1,11 @@
+Packaging Observation Register
+Addendum — Remaining Release Codes
+
+Packaging Observation Map
+R-460 observation O-431; R-433 observation O-441.
+
+Issued as a continuation strip for the release codes not shown on the first register card. The format is the same one used by the packaging office when attaching observation references to release paperwork.
+
+Section: observation locator addendum
+Office: QA Packaging
+Sequence tag: OR-2

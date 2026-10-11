@@ -1,0 +1,7 @@
+Accounts Payable Control
+Supplier Alias Table
+
+Resolved payee accounts:
+AC-204 pays Holloway Circuits; AC-271 pays Neris Tooling; AC-209 pays Aster Plating.
+
+This alias table is used when remittance accounts differ from the naming style carried by procurement or receiving. AP clerks rely on the account code as the payable key and the supplier name as the remittance label shown on voucher output.

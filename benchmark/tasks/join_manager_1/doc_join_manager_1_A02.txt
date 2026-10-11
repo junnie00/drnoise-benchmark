@@ -1,0 +1,8 @@
+Program Cost-Center Directory
+Internal Register — Cost Structure Lookup
+
+Cost Center  Assigned Project
+CC-17        HG-1
+CC-12        QD-1
+
+Maintained by Program Controls for use in coding reviews and monthly cost alignment. Entries identify which project each active cost center belongs to within the current project directory.

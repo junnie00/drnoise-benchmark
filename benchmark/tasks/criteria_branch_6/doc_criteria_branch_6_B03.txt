@@ -1,0 +1,14 @@
+SOLACE BANK FACILITIES MONITORING
+Resilience Controller Log — Monthly Extract
+Period: June
+Export mode: state register snapshot
+
+F6RV storage state code 1 for June; F6LV code 0; F6EM code 1.
+
+facility_id,state_code,period
+F6RV,1,June
+F6LV,0,June
+F6EM,1,June
+
+Controller family: branch resilience nodes
+Exported by: RC-ops batch service

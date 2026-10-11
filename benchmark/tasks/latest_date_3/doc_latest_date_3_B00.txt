@@ -1,0 +1,6 @@
+Regulated Entity Crosswalk
+Registry excerpt
+
+registrant R-380 corresponds to Dovetail Paper; R-342 corresponds to Meridian Foundry.
+
+This crosswalk is used where docket files carry registrant numbers instead of full operating names. Names are shown in legal-style form as maintained in the board register.

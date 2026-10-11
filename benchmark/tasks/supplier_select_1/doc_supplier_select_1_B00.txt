@@ -1,0 +1,6 @@
+Accounts Payable Control Records
+Alias Table — supplier payee mapping
+
+Account AC-104 pays Cairn Fasteners; AC-171 pays Morrow Castings; AC-109 pays Sable Fixtures.
+
+Use this alias table when incoming supplier paperwork shows trading name rather than payable account code. The extract is limited to active procurement counterparties carried by the AP control team.

@@ -1,0 +1,7 @@
+Northwater Works Security Gate
+Punctuality Extract
+
+Manifest C-61 was early by 12 minutes; manifest C-65 was early by 8 minutes.
+
+Extract basis: booked gate time versus recorded entry time.
+Output channel: gate performance quick view.

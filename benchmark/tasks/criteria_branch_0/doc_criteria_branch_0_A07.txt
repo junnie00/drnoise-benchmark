@@ -1,0 +1,8 @@
+May Outage Events
+Branch power incident extract
+
+Site reference: S-31
+Interruption: 07:05
+Restoration: 09:53
+
+This line item is part of the May outage record maintained for Solace Bank occupied facilities.

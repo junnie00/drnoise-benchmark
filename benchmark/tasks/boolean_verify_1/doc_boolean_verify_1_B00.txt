@@ -1,0 +1,9 @@
+MedData Portal Administration
+Tenant Directory Snapshot
+
+Tenant mappings active in the portal environment:
+T-184 = Alder Clinic
+T-148 = Northbank Clinic
+
+Directory purpose: resolve tenant labels shown in user sessions, audit entries, and calendar exports.
+Snapshot source: portal administration console.

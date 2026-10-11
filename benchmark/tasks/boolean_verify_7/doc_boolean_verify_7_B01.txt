@@ -1,0 +1,12 @@
+MEDDATA PORTAL ADMIN
+Portal Form Alias List
+User-Facing Labels for Standard Returns
+
+Alias register:
+Continuation 7 — pharmacy delegation log
+Nil Return 7 — temperature excursion nil report
+
+Presentation context: submission wizard labels
+Vocabulary domain: annual clinic forms
+
+Maintained so portal pages and audit extracts use the same public-facing names for each regulated return.

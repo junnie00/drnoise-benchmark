@@ -1,0 +1,8 @@
+Closeout Posting Notice
+Boarded to: Records Counter
+
+Recent ledger activity shows two completed entries:
+I-559 closed 14 Jan 2025.
+I-271 closed 19 Dec 2024.
+
+Post these to the visible completion roll for end-of-period file movement. This notice concerns closure dates only and reflects the wording used in the underlying ledger entry slips.

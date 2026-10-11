@@ -1,0 +1,9 @@
+NORTH QUAY COMMERCIAL BANK
+Treasury Statement Strip
+Client: Korros Holdings
+Account ending: ****7214
+Statement period: 10/2024
+
+Reported period amount: total operating outflows $11,000.
+
+This strip is generated from the treasury reporting screen and is limited to operating payment totals for the selected month. Statement detail, beneficiary fields, and balance progression panels are not included on the strip layout.

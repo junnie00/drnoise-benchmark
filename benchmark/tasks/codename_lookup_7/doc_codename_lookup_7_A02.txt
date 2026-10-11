@@ -1,0 +1,14 @@
+Borealis Lab
+Operations Ledger Extract — Experiment Inputs
+
+For this ledger line, run E-718 consumed lot L-771 and used chamber CH-79.
+
+Station: Ops Console 4
+Run handling group: experimental intake
+Entry mode: keyed from bench release slip
+Material field status: accepted
+Chamber field status: accepted
+Posting clerk: J. Ren
+Cycle marker: afternoon block
+
+This extract reflects a standard operational posting from the experiment input ledger maintained for active runs during the intake cycle.

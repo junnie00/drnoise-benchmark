@@ -1,0 +1,17 @@
+HARBOR MERCHANT BANK
+Business Banking Statement
+
+Client name: Korrby Holdings
+Account mask: ****1498
+Statement period: 11/2024
+Section title: Operating Outflow Totals
+
+Statement summary line: total operating outflows $70,000.
+
+Currency basis: USD
+Cycle stamp: NOV2024
+Delivery channel: portal statement center
+Grouping basis: operating debits only
+Statement renderer: HMB-CORP
+
+Generated electronically.

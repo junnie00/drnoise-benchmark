@@ -1,0 +1,10 @@
+Borealis Lab Controlled Register
+Experiment Input Ledger Slip
+
+Run number: E-330
+
+Intake notation: run E-330 consumed lot L-317 and used chamber CH-34.
+
+Slip class: material/chamber pairing
+Filed from receiving clipboard after same-shift posting.
+Marking: internal use only

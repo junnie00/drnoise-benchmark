@@ -1,0 +1,13 @@
+Solace Bank Facilities
+Generation Asset Register
+
+Register excerpt for rooftop photovoltaic assets. PV-681 assigned to S-64, commissioned 04 March; PV-644 assigned to S-62, commissioned 19 February.
+
+Asset class: Solar generation
+Record format: assignment and commissioning ledger
+
+Asset ID   Assigned site   Commissioned
+PV-681     S-64            04 March
+PV-644     S-62            19 February
+
+Register custodian: Energy Programs Office

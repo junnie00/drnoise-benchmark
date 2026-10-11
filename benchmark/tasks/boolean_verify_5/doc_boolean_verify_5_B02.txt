@@ -1,0 +1,9 @@
+MedData Compliance Portal
+Compliance Calendar Export
+Format: machine-generated CSV preview
+
+tenant_id,obligation,cutoff
+T-584,Continuation 5,2024-04-15
+
+Export profile: annual deadlines
+Timezone setting: local portal default

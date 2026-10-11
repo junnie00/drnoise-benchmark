@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Statement Summary Panel
+Business customer: Ashel Holdings
+Account ref: ****7517
+Statement period: 05/2024
+Deposit product: Corporate Transaction Account
+
+Summary panel indicates total operating outflows $21,000.
+
+Currency: USD
+Delivery method: Treasury portal
+Cycle schedule: Monthly
+Document state: Final statement
+Region: South Division Commercial Banking
+
+Rendered from statement archives.

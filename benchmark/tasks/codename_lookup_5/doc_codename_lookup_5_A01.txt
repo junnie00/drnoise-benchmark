@@ -1,0 +1,11 @@
+Borealis Laboratory
+Experiment Input Ledger
+Entry stamp: EL-21
+
+Run record posted this shift: run E-502 consumed lot L-571 and used chamber CH-54.
+
+Operator lane: Inputs cleared
+Material line: single lot draw
+Chamber assignment lane: active
+Ledger medium: bound intake sheet, blue ruling
+Posted from assay staging desk after materials pull and chamber booking were entered for the run.

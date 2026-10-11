@@ -1,0 +1,8 @@
+Storage Telemetry Registry
+June status capture
+
+Battery unit B-817 at S-84 reported ONLINE during June.
+
+Source stream: branch resilience telemetry
+Display mode: month-state snapshot
+Registry clerk: Control Systems Monitoring

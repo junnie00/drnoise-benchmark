@@ -1,0 +1,8 @@
+Portal Form Alias List
+User-facing names and filing equivalents
+
+Alias register:
+Continuation 6 is the remote-consent renewal.
+Nil Return 6 is the screen-failure summary.
+
+These labels are the portal titles shown to tenant users when selecting forms for online submission.

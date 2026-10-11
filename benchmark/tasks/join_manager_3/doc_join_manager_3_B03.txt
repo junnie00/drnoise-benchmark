@@ -1,0 +1,6 @@
+Assurance Codebook
+Closeout Reference Card
+
+Code A1 means passed final audit. Code B2 means remediation remained open.
+
+This card accompanies docket lookups so coded closeout entries can be read consistently by review staff.

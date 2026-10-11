@@ -1,0 +1,15 @@
+Northstar Freight
+Monthly Operations Ledger — September 2024 Tonnage
+Unit basis: kg
+
+Posted lane totals for September 2024:
+
+| Lane | Shipped volume |
+|------|----------------|
+| L-14 | 6,000 kg |
+| L-19 | 5,650 kg |
+| L-12 | 5,200 kg |
+| L-17 | 5,000 kg |
+| L-11 | 3,700 kg |
+
+Month-end close completed for September. The figures above are the final posted tonnage values for the listed lanes in the monthly operations ledger.

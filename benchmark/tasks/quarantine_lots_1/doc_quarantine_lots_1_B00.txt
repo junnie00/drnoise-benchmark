@@ -1,0 +1,7 @@
+Release Control Register
+Product family: Alton Pharma
+Register excerpt — release identifier issue list
+
+LOT-814 uses release code R-148; LOT-276 uses R-171; LOT-693 uses R-160; LOT-155 uses R-133.
+
+Register purpose: maintain the release code carried on distribution paperwork after QA disposition. Entries shown here are displayed in lot-number order for shipping and release-control staff.

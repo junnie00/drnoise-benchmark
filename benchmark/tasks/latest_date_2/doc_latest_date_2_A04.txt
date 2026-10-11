@@ -1,0 +1,8 @@
+Field Intake Ticket Snapshot
+Queue: New Matters
+
+Captured records for reference:
+• I-559 — site MF-2? no; site CA-2, opened 08 Dec 2024, class E
+• I-271 — site MF-2, opened 20 Nov 2024, class S
+
+The snapshot was generated from the receiving queue to support same-day routing by site and class.

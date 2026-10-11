@@ -1,0 +1,10 @@
+NORTH QUAY COMMERCIAL BANK
+Treasury Portal Statement View
+Customer name: Korros Holdings
+Deposit account: ****9737
+Statement period: 02/2024
+
+Summary line: total operating outflows $79,000.
+
+Display notes:
+This statement view condenses payment activity to a single operating outflow figure for the period selected. Transaction-level counterparties and memo fields are hidden in this print mode. Currency denomination shown by the portal is U.S. dollars.

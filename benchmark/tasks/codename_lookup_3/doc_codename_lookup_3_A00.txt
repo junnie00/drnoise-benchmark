@@ -1,0 +1,15 @@
+Borealis Lab Materials Control
+Reagent Catalog Card
+
+Catalog section: Active assay reagents
+
+Item listing:
+- reagent R-37 was issued as stock lot L-371
+- reagent R-31 was lot L-317
+
+Shelf notation: cryo-compatible series filed by reagent number.
+Issuing desk: Stores Window 2, Materials Control Annex.
+Card format revised for consolidated lot tracking after quarterly inventory close.
+
+Stamped: CATALOG VERIFIED
+Initials: M.C.

@@ -1,0 +1,16 @@
+Harborside Treasury Bank
+Business Account Statement
+
+Customer name: Korric Holdings
+A/C suffix: ****1878
+Statement period: 06/2024
+Cycle issue: monthly
+
+The period summary reflects total operating outflows $34,000.
+Currency: USD
+Product: operating account
+Statement channel: online treasury
+Status: final issued statement
+
+Commercial Banking Service Desk
+Batch code: MTH-06

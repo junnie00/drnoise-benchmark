@@ -1,0 +1,8 @@
+{
+  "condition": "partialmissing",
+  "description": "one bridge document removed from every truthful route; false summary retained",
+  "docids": [
+    "join_manager_8_06d938ed",
+    "join_manager_8_8605eb92"
+  ]
+}

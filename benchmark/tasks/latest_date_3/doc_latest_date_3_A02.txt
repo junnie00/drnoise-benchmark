@@ -1,0 +1,10 @@
+INTAKE_EXTRACT v4.2
+Queue: Plant Incidents
+Timestamp: 2024 cycle snapshot
+
+incident_id | site | opened | class
+I-341 | DO-3 | 03 Feb 2024 | S
+I-317 | DO-3 | 18 Jun 2024 | S
+
+Source stream: accepted intakes only
+Output mode: compact row view

@@ -1,0 +1,8 @@
+Finance Systems Division
+Package Accounting Crosswalk
+
+Posting map in effect for package settlement:
+
+Package PK-591 posts to cost center CC-57. Package PK-538 posts to CC-52.
+
+This crosswalk is used by accounting staff when routing package activity into the correct internal cost center during monthly posting runs.

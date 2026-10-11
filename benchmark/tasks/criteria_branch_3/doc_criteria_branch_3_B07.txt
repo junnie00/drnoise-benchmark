@@ -1,0 +1,9 @@
+Utility Ticket U-31
+Service Interruption Record
+
+Ticket: U-31
+Facility: F3EM
+Service lost: 07:05
+Cleared: 09:53
+
+Entered by the utility liaison desk as the timing record for the June interruption at this facility.

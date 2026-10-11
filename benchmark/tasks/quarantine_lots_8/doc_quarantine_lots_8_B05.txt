@@ -1,0 +1,9 @@
+ALTON PHARMA PACKAGING QUALITY
+Observation Mapping Sheet
+Release-to-observation linkage, section B
+
+R-860 observation O-831; R-833 observation O-841.
+
+Purpose: release-code lookup for packaging observation records.
+Sheet class: linkage map
+Originating group: Packaging Quality

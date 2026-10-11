@@ -1,0 +1,10 @@
+Codename Vault
+Restricted Naming Record
+
+Authorized correspondence table, current extract:
+AK-255 corresponds to Ivory Kite; AK-261 to Moss Lantern; AK-272 to Cedar Finch.
+
+This vault page provides the controlled name pairing for archive keys used on sealed experiment packets. Access level remains limited to naming custodians and designated records staff.
+
+Register leaf: CV-8
+Seal check: intact

@@ -1,0 +1,11 @@
+Case Closeout Ledger
+Workplace Incidents Branch
+
+Close dates entered on this ledger line are as follows: I-903 closed 22 Dec 2024; I-633 closed 29 Aug 2024.
+
+Book structure:
+Case reference
+Closure date
+Final action marker
+
+Extract format mirrors the narrow-column ledger used by the branch records clerk.

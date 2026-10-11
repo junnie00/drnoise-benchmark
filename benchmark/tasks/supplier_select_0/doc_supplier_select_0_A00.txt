@@ -1,0 +1,10 @@
+Narrowbrook Works Procurement Division
+Approved Vendor Directory — Revision 8
+Effective issue for buyer reference
+
+Vendor code register:
+- V-73 — Brindle Components
+- V-18 — Orison Fabrication
+- V-44 — Tern Alloy
+
+This revision standardizes vendor call names used in purchase orders, dispatch booking, receiving, and payables indexing. Buyers are to cite the vendor code exactly as listed above when raising March material movements or matching supplier paperwork to the directory entry.

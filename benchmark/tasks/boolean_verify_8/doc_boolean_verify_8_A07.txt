@@ -1,0 +1,13 @@
+Timestamp Archive
+Acceptance timestamp record
+
+R-844 accepted 21 June 2024 at 16:03.
+
+Archive stamp details
+Receipt: R-844
+Accepted date: 21 June 2024
+Accepted time: 16:03
+Time basis: local archive clock
+Source stream: submission intake
+
+Stored in the receipt timestamp ledger.

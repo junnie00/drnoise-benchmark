@@ -1,0 +1,7 @@
+Submission Routing Log
+Intake Register Snip
+
+Receipt mapping recorded by routing desk:
+receipt R-644 belongs to ORG-62 and form F-B6.
+
+Queue status fields omitted from this display. Register line generated when the intake barcode was assigned at filing acceptance.

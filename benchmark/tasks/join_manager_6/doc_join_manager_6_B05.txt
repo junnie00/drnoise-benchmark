@@ -1,0 +1,7 @@
+HR Identity Crosswalk
+Supervisor-to-Employee Mapping
+
+S-677 maps to employee E-608.
+S-631 maps to E-614.
+
+Crosswalk extract released from Human Resources identity services for roster alignment.

@@ -1,0 +1,13 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Network Planning Register
+
+Active lane references for current dispatch coding:
+- L-44 is Route Pacer
+- L-49 is Route Quarry
+- L-42 is Route Riven
+
+Use lane IDs on manifests, dock tallies, and month-end tonnage postings. This extract reflects the naming format used in internal traffic reporting and linehaul scheduling.
+
+Issued by: Network Planning Desk
+Directory segment: Core lanes

@@ -1,0 +1,10 @@
+ALTON PHARMA QUALITY PACKAGING OBSERVATIONS
+Findings Slip
+Continuation entry
+
+O-231 seal intact; O-241 seal absent.
+
+Observation channel: tamper verification
+Capture mode: quick findings list
+Workbench: Packaging cage 2
+Routing: shift QA folder

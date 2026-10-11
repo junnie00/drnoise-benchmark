@@ -1,0 +1,7 @@
+Warehouse Monitoring Program
+Temperature Alarm Legend
+Revision display for exception codes used in storage sensor outputs
+
+Code definitions in active use: sensor result X means storage limits were exceeded; N means no excursion.
+
+This legend accompanies automated pallet sensor outputs and is posted in the cold-room monitoring office so operations staff interpret event letters consistently during exception review.

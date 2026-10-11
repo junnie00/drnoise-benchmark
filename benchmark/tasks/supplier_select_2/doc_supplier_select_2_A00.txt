@@ -1,0 +1,13 @@
+North Quay Components Authority
+Procurement Services Division
+Approved Vendor Directory — April revision
+
+Directory extract:
+- V-23 — Holloway Circuits
+- V-28 — Neris Tooling
+- V-24 — Aster Plating
+
+Use this revision for purchase order issue, dock booking, and invoice matching during the April cycle. Legacy vendor nicknames are suppressed in this extract so that dispatch and payables records resolve against current short-form names only.
+
+Revision stamp: APR
+Distribution: Buyers, Receiving, AP Control

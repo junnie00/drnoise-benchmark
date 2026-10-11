@@ -1,0 +1,11 @@
+Office of the Registrar
+Policy Memorandum
+
+To: Census Operations Staff
+From: Registrar Policy Desk
+Subject: Arithmetic rule for institutional headcount
+Purpose: term-end rollup guidance
+
+Registrar Arithmetic Policy states that institutional enrollment is the sum of the certified undergraduate and graduate unit counts.
+
+This rule applies to the institutional line produced from certified unit submissions during census close. Staff preparing summary worksheets should use the undergraduate and graduate certifications as the two inputs for the institutional figure. The policy desk issued this reminder for autumn reporting packets so that unit-level certifications and the institution-level rollup are handled under one arithmetic convention within registrar operations.

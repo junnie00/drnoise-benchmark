@@ -1,0 +1,17 @@
+NORTH COAST MERCANTILE BANK
+Business Account Statement
+
+Customer name: Korrel Holdings
+Masked account: ****6027
+Statement period: 09/2024
+
+Category total
+Operating outflows for period: $24,000
+
+Statement settings
+Cycle: 09/2024 monthly run
+Currency unit: dollars
+Source stream: Posted transaction activity
+Output format: Client statement
+
+End of statement section.

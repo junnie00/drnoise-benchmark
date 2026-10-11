@@ -1,0 +1,8 @@
+{
+  "condition": "partialmissing",
+  "description": "one bridge document removed from every truthful route; false summary retained",
+  "docids": [
+    "quarantine_lots_0_aa86db4d",
+    "quarantine_lots_0_0d1abef6"
+  ]
+}

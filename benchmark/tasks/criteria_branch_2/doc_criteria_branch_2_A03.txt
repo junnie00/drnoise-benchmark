@@ -1,0 +1,9 @@
+STORAGE TELEMETRY REGISTRY
+Monthly state summary — June
+
+Battery unit: B-217
+Site: S-24
+Reported state during June: ONLINE
+Source channel: branch resilience telemetry
+
+This registry excerpt reflects the operating state reported by the storage controller for the listed battery unit during the June reporting window.

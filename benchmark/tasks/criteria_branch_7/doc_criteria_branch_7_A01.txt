@@ -1,0 +1,12 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Register entries recorded for installed photovoltaic equipment:
+
+Asset ID | Assigned site | Commissioned
+PV-781 | S-74 | 04 March
+PV-744 | S-72 | 19 February
+
+Register scope: branch-scale generation plant
+Entry source: engineering handover records
+Status column omitted in this view by request of operations planning.

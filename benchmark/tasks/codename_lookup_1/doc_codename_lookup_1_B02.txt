@@ -1,0 +1,10 @@
+SCANLOG EXPORT 7.4
+Station: Bench North Reader
+
+Bench Scanner Log: vial VX11-02 scanned into study S-125.
+
+Record mode: automatic capture
+Output flags: accepted, linked
+Checksum block: present
+
+--- end fragment ---

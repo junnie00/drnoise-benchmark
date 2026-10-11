@@ -1,0 +1,11 @@
+Borealis Lab Facilities Access Desk
+Cold-Room Access Log
+
+Usage entries from controlled room log:
+study S-604 used room CR-6A; study S-619 used room AM-6B; study S-625 used room CR-6A.
+
+Credential source: room badge relay
+Log set: study-level occupancy
+Desk copy: facilities operations
+
+The entries shown are the room assignments captured for studies requiring managed environmental space during the logged access window.

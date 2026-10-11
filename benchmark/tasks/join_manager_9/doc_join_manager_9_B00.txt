@@ -1,0 +1,8 @@
+Executed Amendment Index
+Contracts Administration Unit
+
+Referenced appropriations recorded against executed contract amendments:
+- contract CT-722 references appropriation AP-910
+- CT-951 references AP-922
+
+This index excerpt is used by administration staff when tracing amendment language to the associated appropriation entry carried in the controlled register.

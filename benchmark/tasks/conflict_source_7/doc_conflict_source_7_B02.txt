@@ -1,0 +1,13 @@
+Census Codebook
+Enrollment Extract Definitions
+
+Definition entry:
+UG and GR are the two disjoint populations included in registrar total enrollment.
+
+Code usage:
+UG appears in undergraduate population rows.
+GR appears in graduate population rows.
+
+Edition line: registrar extract vocabulary
+Section: population coding
+Distribution: census systems staff

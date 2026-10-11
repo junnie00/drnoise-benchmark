@@ -1,0 +1,6 @@
+Controller Code Legend
+Resilience platform reference
+
+storage state 1 means online; state 0 means unavailable.
+
+This legend accompanies numeric controller exports so operations staff can interpret state-coded storage readings from the branch resilience system.

@@ -1,0 +1,14 @@
+Harbor Commercial Bank
+Monthly Business Statement
+Client entity: Tannon Holdings
+Deposit account: ****8593
+Statement period: 05/2024
+Channel: Treasury Online
+
+The statement for 05/2024 lists total operating outflows $56,000 on account ****8593. This summary view captures business operating disbursements for the period in condensed form.
+
+Currency: USD
+Statement class: commercial
+Cutoff date basis: monthly
+Page: 1 of 1
+Bank unit: Harbor Commercial Bank Corporate Desk

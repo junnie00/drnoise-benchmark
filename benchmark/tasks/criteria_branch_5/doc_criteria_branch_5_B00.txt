@@ -1,0 +1,7 @@
+SOLACE BANK FACILITIES
+Alias Book — Facility to Branch Reference
+
+Facility code mappings now in use:
+F5RV serves Millcross branch; F5LV serves Northbay branch; F5EM serves Oakfen branch.
+
+This reference is issued for controller labels, utility tickets, and acceptance paperwork where facility aliases appear instead of branch site names.

@@ -1,0 +1,6 @@
+Timestamp Archive
+Acceptance Time Record
+
+Receipt event: R-650 for ORG-66 was accepted 03 July 2024.
+
+Archive source: intake clock service. This line appears in the date-indexed archive for accepted receipts.

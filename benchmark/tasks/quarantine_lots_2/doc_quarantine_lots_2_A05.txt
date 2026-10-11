@@ -1,0 +1,10 @@
+ALTON PHARMA PACKAGING
+Carton-to-Batch Map
+Secondary packaging lookup
+
+C-205A belongs to B-205; C-231A belongs to B-231.
+
+Scope: cartons loaded to seal inspection route
+Record source: serialization registry
+Station cluster: Line 2 support desk
+Output style: quick map print

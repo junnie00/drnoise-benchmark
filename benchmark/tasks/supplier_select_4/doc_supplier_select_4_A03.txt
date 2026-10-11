@@ -1,0 +1,9 @@
+North Quay Procurement Authority
+April Purchase Dispatch Map
+Machine extract: supplier-to-dispatch assignment
+
+vendor_ref=V-43
+april_dispatches=D-418|D-429|D-437
+map_scope=April purchase activity
+
+System note: dispatch references are formatted per dock booking conventions for purchase traffic.

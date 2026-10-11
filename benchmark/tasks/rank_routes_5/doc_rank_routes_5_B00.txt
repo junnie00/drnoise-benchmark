@@ -1,0 +1,9 @@
+Northstar Freight Dispatch
+Corridor Alias File
+Machine View: alias-name pairs
+
+C5D=Route Umber
+C5O=Route Vale
+C5K=Route Warden
+
+Source class: dispatch corridor aliases. These codes are the corridor references used by dispatch in consignment-level movement records.

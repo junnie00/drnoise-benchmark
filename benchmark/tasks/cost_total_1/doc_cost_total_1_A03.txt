@@ -1,0 +1,15 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract - Period Movement
+Entity Name: Tannon Holdings
+Fiscal Year: FY2024
+Period No.: 04
+Run Date: 22 Mar 2024
+Run Time: 11:26
+
+Summary line for the operating expense range records operating expenses posted at $79,000. This output was taken from the live FY2024 ledger view for period 04 and formatted for internal accounting review.
+
+Currency code: USD
+Report ID: GLX-PMOV
+Book: corporate actuals
+Sequence: period close order
+Issued by: Controller Systems Queue

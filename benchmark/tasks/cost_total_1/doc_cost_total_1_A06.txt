@@ -1,0 +1,15 @@
+NORTH QUAY FINANCIALS
+General Ledger Transaction Extract
+Company: Tannon Holdings
+Fiscal Year: FY2024
+Period: 07
+Printed: 22 Aug 2024 13:03
+Report family: Expense Movement
+
+Operating expenses posted at $60,000 for FY2024 period 07. The extract includes only posted ledger activity in the operating expense range and excludes accrual reversal listings.
+
+Currency standard: USD
+Book selection: corporate
+Report mode: summarized
+Node ID: NQ-APP-11
+Finance unit: Corporate Controller

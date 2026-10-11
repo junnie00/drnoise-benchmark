@@ -1,0 +1,19 @@
+Syndication Feed Record
+Feed Item Detail
+
+Item key: F-190
+Institution: Marsett College
+Reported measure: total students
+Reported value: 4320
+
+Feed statement:
+Feed item F-190 reports 4320 total students for Marsett College.
+
+Operational fields:
+Feed family: institutional profile syndication
+Delivery form: numeric profile payload
+Ingest lane: external publishers
+Review bucket: enrollment figures
+
+Rendered from Feed Monitor Console
+Record type: single-item detail

@@ -1,0 +1,11 @@
+Operations Intake Extract
+Queue: Plant Incident Entry
+Generated from the intake console
+
+Accepted incident entries for site BE-1 include I-141, opened 03 Feb 2024, class S, and I-117, opened 18 Jun 2024, class S.
+
+Record slice:
+- Incident ID: I-141 | Site: BE-1 | Opened: 03 Feb 2024 | Class: S
+- Incident ID: I-117 | Site: BE-1 | Opened: 18 Jun 2024 | Class: S
+
+End of extract.

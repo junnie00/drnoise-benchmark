@@ -1,0 +1,8 @@
+Seal Inspection Worksheet
+Area: Final Carton Examination
+Inspector station output
+
+Inspection events entered this shift:
+C-682A failed for absent seal; C-682B passed; C-619A failed for absent seal.
+
+Observed condition was recorded at carton level during tamper-band verification. “Failed for absent seal” denotes missing tamper seal at the time of inspection, while “passed” indicates the expected seal condition was present.

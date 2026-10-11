@@ -1,0 +1,14 @@
+Tamper Seal Inspection Worksheet
+Line: Carton verification station 2
+Inspection focus: seal presence
+Supplement page
+
+Logged seal inspection events for this worksheet are: C-305A passed; C-331A failed for absent seal.
+
+Inspector marks
+carton | disposition
+C-305A | pass
+C-331A | fail
+
+Observed issue term used on failure entry: absent seal
+Worksheet no.: SI-205

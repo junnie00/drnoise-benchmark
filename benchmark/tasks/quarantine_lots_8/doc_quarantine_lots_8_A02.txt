@@ -1,0 +1,10 @@
+ALTON PHARMA
+Environmental Monitoring Reference
+Temperature Alarm Legend
+
+Sensor result X means storage limits were exceeded; N means no excursion.
+
+Use context: pallet logger summaries displayed in dispatch and quarantine screens.
+Legend revision: EM-LG-4
+Issued by: Environmental Monitoring Group
+Display note: result codes are shown exactly as captured by the sensor interface.

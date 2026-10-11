@@ -1,0 +1,12 @@
+== Orchard State Student Census Extract ==
+export_mode=REGISTRAR_POPULATION_SUMMARY
+entity=Orchard State
+record_type=population_count
+population_code=UG
+active_students=5360
+status_line=loaded
+source_system=student_census_extract
+render_profile=fixed-width to delimited bridge
+operator_group=Registrar Data Services
+
+footer: population rows in this extract are emitted one code at a time for downstream enrollment aggregation jobs.

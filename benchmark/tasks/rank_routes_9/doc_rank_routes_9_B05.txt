@@ -1,0 +1,11 @@
+Northstar Freight
+Mass Summary Ticket
+Ticket Type: Corridor Total
+Period Flag: Q3
+
+C9M shipments totalled 14.7 tonnes across six consignments.
+
+Desk remarks:
+Total entered as a corridor aggregate rather than a line-by-line manifest set for this ticket class. Count and mass reflect the quarter packet as booked through dispatch settlement.
+
+Queue status: archived.

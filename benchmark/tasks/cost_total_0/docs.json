@@ -1,0 +1,126 @@
+[
+  {
+    "docid": "cost_total_0_A00",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A01",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A02",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A03",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A04",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A05",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A06",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A07",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A08",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A09",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A10",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_A11",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "cost_total_0_B00",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B01",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B02",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B03",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B04",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B05",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B06",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B07",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B08",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B09",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B10",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_B11",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "cost_total_0_main",
+    "role": "main"
+  }
+]

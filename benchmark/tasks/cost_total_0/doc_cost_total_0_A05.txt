@@ -1,0 +1,16 @@
+North Quay FinanceSuite
+Posted Movement Extract
+Legal entity: Tannic Holdings
+Reporting frame: FY2024
+System date: 21 Mar 2024
+
+For period 06, operating expenses posted at $67,000. The figure is listed in the general ledger under operating expense activity for the FY2024 actuals book.
+
+Extract parameters
+Period: 06
+Ledger: General Ledger
+Book set: Actuals
+Category: Operating expenses
+Posting flag: Posted
+Amount view: USD whole dollars
+Print session: 21 Mar 2024 14:27

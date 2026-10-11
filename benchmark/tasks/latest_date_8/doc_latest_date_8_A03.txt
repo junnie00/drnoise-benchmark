@@ -1,0 +1,10 @@
+Operations Intake Console - Incident Intake Extract
+Queue slice: Accepted entries
+
+Record pull confirms I-1116: site IS-8, opened 05 Sep 2024, class S; I-833: site IS-8, opened 11 Jul 2024, class S.
+
+incident_id,site_code,opened_date,class
+I-1116,IS-8,05 Sep 2024,S
+I-833,IS-8,11 Jul 2024,S
+
+batch token: IX-24-443

@@ -1,0 +1,8 @@
+MedData Portal Audit Service
+Event Detail View
+
+Event ID: E-130
+Activity text: submitted Continuation 1 for tenant T-184
+Channel: regulated submissions portal
+
+Purpose of view: operator review of a single audit event captured by the portal. The activity text above is the exact action string stored with this event identifier.

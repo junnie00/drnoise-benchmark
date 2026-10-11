@@ -1,0 +1,9 @@
+SCANLOG // Borealis Bench Instrument Cluster 2
+Session extract
+
+vial VX47-03 scanned into study S-404; vial VX47-09 scanned into study S-419.
+
+Scanner state: accepted reads only
+Feed origin: bench intake cradle
+
+This machine-produced extract lists completed vial-to-study scan events captured during active bench intake. Only successful associations are shown in this segment, with each vial identifier preserved exactly as read by the scanner.

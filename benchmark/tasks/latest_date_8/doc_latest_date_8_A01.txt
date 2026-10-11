@@ -1,0 +1,11 @@
+Hazard Review Secretariat
+Incident Type Legend
+
+For incident logging and register displays, code S denotes safety; E denotes environmental; Q denotes product quality.
+
+Code usage:
+S  Safety
+E  Environmental
+Q  Product quality
+
+Applied in intake screens, closeout ledgers, and facility reporting extracts.

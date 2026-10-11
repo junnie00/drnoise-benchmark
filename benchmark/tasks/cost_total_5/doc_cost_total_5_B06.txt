@@ -1,0 +1,17 @@
+Harbor Merchant Bank
+Business Statement Condensed View
+
+Client: Korrby Holdings
+Account number mask: ****3713
+Statement period: 07/2024
+Section displayed: operating cash uses
+
+Period aggregate: total operating outflows $46,000.
+
+Currency standard: USD
+Statement issue class: monthly
+Portal label: current statement image
+Debit grouping: operations
+Bank code panel: CMB-07
+
+End condensed view.

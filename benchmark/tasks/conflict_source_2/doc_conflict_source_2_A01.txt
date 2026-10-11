@@ -1,0 +1,14 @@
+Autumn Census Counts
+Institution: Norvale Institute
+Certification worksheet excerpt
+
+Certified line item: Norvale Institute unit U-2 certified count 4280.
+
+Count type: autumn census
+Certification state: recorded by Registrar Operations
+Unit reference used on form: U-2
+Worksheet section: academic-unit enrollment certification
+Logged by: Census Desk, Norvale Institute
+Form family: RC-AUT-CERT
+
+This worksheet excerpt reflects the unit-level figure carried on the autumn certification run for the named registrar unit.

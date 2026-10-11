@@ -1,0 +1,21 @@
+Syndication Feed Record
+Inbound Content Monitor
+Feed item ID: F-990
+Institution: Upland Technical
+
+Feed item F-990 reports 4790 total students for Upland Technical.
+
+Transport summary
+Channel: external publisher syndication
+Payload family: institution profile metrics
+Observed field: total students
+Receipt state: parsed
+Item visibility: available to profile consumers after normalization
+
+Message envelope
+Feed key: F-990
+Entity label: Upland Technical
+Metric slot: total students
+Reported value: 4790
+
+Captured by the inbound content monitor during regular publisher intake.

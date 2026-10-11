@@ -1,0 +1,15 @@
+Harbor State Bank
+Commercial Account Snapshot
+Customer record: Tannic Holdings
+Account ending: ****7957
+Statement period: 05/2024
+
+Statement period 05/2024 reflects total operating outflows $16,000. The amount appears under operating disbursement activity for the business account.
+
+Snapshot information
+Account style: Operating checking
+Currency: USD
+Cycle marker: 05/2024
+Issue method: electronic statement
+Processing office: Harbor State Commercial Ops
+Page sequence: 1 of 1

@@ -1,0 +1,15 @@
+Harborside Treasury Bank
+Commercial Account Statement
+
+Holder: Korric Holdings
+Account masked: ****7452
+Statement period: 09/2024
+Account service line: operating cash management
+
+The monthly statement reports total operating outflows $8,000.
+Currency: USD
+Issue format: statement snapshot
+Distribution: electronic archive
+Status: issued
+
+Prepared within Treasury Operations for routine monthly account servicing.

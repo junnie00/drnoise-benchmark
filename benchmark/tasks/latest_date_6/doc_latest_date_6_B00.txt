@@ -1,0 +1,13 @@
+Regulated Entity Crosswalk
+Licensing and Registry Division
+
+Crosswalk entry currently in force states that registrant R-680 corresponds to Grantham Textiles; R-642 corresponds to Meridian Foundry.
+
+Registry display
+Registrant ID: R-680
+Entity Name: Grantham Textiles
+
+Registrant ID: R-642
+Entity Name: Meridian Foundry
+
+Use context: standardized naming across board-facing filings and notices.

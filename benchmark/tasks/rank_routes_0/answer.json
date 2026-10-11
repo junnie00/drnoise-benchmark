@@ -1,0 +1,27 @@
+{
+  "answer": [
+    "Route Delta",
+    "Route Orion",
+    "Route Kestrel"
+  ],
+  "false_value": [
+    "Route Orion",
+    "Route Delta",
+    "Route Mesa"
+  ],
+  "false_values": [
+    [
+      "Route Orion",
+      "Route Delta",
+      "Route Mesa"
+    ]
+  ],
+  "type": "ordered_top3",
+  "dom": "logistics",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "map lane IDs to names, sum April/May/June volumes for every candidate, then rank",
+    "B": "map dispatch corridors to names, sum multiple consignment masses, then rank"
+  }
+}

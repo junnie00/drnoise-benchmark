@@ -1,0 +1,10 @@
+Board Secretariat
+Docket Ownership File
+Registrant assignment excerpt
+
+For registrant R-880, the ownership file lists HS-841, HS-817, HS-804, HS-833, and EN-860.
+
+Registrant: R-880
+Assigned dockets: HS-841; HS-817; HS-804; HS-833; EN-860
+
+File class: active ownership roster

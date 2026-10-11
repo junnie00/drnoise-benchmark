@@ -1,0 +1,11 @@
+Packaging Line Carton Register
+Line: Tamper Seal Verification
+
+Carton-to-Batch Map
+cartons C-482A and C-482B belong to B-482; C-419A belongs to B-419.
+
+The register is arranged by carton code so inspectors can pull the correct batch folder during review. Entries shown here are from the same packaged run family and reflect the line notation used on corrugated labels.
+
+Station: PKG-2
+Sheet class: carton assignment reference
+Printed from: line register module

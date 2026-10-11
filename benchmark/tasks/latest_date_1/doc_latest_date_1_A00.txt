@@ -1,0 +1,12 @@
+North Valley Industrial Compliance Bureau
+Corporate Facility Index
+Active site listings
+
+Operator listing confirms that Bellwether Alloy operates site BE-1; Meridian Foundry operates MF-1.
+
+Format: operator name followed by assigned site code.
+
+Bellwether Alloy ........ BE-1
+Meridian Foundry ........ MF-1
+
+Index scope: operating facilities carried in the bureau's plant registry.

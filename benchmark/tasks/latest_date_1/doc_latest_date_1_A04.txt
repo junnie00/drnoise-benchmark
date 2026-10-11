@@ -1,0 +1,15 @@
+Incident Intake Worksheet
+Regional Compliance Desk
+
+Current log entries note I-488 at site BE-1, opened 08 Dec 2024, class E, and I-171 at site MF-1, opened 20 Nov 2024, class S.
+
+Operational fields:
+Incident: I-488
+Site: BE-1
+Opened: 08 Dec 2024
+Class: E
+
+Incident: I-171
+Site: MF-1
+Opened: 20 Nov 2024
+Class: S

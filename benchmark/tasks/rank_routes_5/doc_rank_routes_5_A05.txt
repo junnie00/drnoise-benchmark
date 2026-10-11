@@ -1,0 +1,11 @@
+Northstar Freight
+Interoffice Memorandum
+
+To: Traffic Accounting and Route Control
+From: Quarter-Close Coordinator
+Subject: Q3 2024 period definition for volume reporting
+Date: 30 September 2024
+
+For the current close, Q3 2024 comprises July, August, and September. Monthly ledger values are not cumulative.
+
+This statement is being circulated so teams applying quarter labels to operating reports use the same period boundary and treat each monthly ledger as a separate posted value rather than a running balance.

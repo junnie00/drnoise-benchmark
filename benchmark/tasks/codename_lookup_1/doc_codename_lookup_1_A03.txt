@@ -1,0 +1,8 @@
+Borealis Lab Operations Ledger
+Input Record
+
+Run entry: E-130 consumed lot L-117 and used chamber CH-14.
+
+Recorded during materials issue and chamber assignment. The notation format matches the abbreviated ledger style used on active bench days, with the lot consumed and chamber used captured on the same line for quick scheduling review.
+
+Signed at station: R. Iles

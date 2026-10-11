@@ -1,0 +1,11 @@
+BOREALIS LAB FACILITIES
+Environmental Chamber Map — Authorized Operating Setpoints
+
+Zone extract:
+CH-94 setpoint 4 degrees C; CH-99 setpoint 22 degrees C.
+
+Map class: controlled environment infrastructure
+Display version: ECM-12B
+Posted for: chamber scheduling, environmental confirmation, and maintenance reference
+
+The chamber map excerpt lists the approved temperature setpoints for the identified units in the current facilities configuration.

@@ -1,0 +1,10 @@
+North Quay Components Trust
+Accounts Payable Control
+Alias Table — supplier payee lookup
+
+Account Code | Payee Name
+AC-904 | Fenwick Laminates
+AC-971 | Ashford Connectors
+AC-909 | Torc Plastics
+
+Use this lookup when reconciling carrier paperwork or payment routing records that carry only the AP account code on the face of the transaction.

@@ -1,0 +1,12 @@
+Event Clock Store
+Timestamp query response
+
+E-830 occurred 2024-04-09 10:14 local time.
+
+clock_event=E-830
+occurred_at=2024-04-09 10:14
+zone=local time
+store=event-clock
+format=YYYY-MM-DD HH:MM
+
+Result returned by the clock service for a single event lookup.

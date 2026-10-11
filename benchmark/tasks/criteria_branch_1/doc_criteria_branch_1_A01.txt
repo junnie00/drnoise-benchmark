@@ -1,0 +1,10 @@
+Solace Bank Facilities Systems
+Generation Asset Register
+
+Register extract for active photovoltaic assignments:
+PV-181 assigned to S-14, commissioned 04 March. PV-144 assigned to S-12, commissioned 19 February.
+
+Asset class: rooftop generation
+Record view: site-linked equipment
+
+Entry status shown in current register snapshot for estate engineering reference.

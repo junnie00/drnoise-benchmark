@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Exception-focused print
+
+C-19 late by 36 minutes; C-12 early by 12 minutes.
+
+The print was generated because one booked movement fell outside the expected arrival window. Times are represented in variance form exactly as displayed by the gate module.

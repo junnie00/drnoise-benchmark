@@ -1,0 +1,17 @@
+ALTON PHARMA
+Manufacturing Data Services
+Lot/Bulk Crosswalk Card
+
+Product family: packaged clinical supply
+Reference set: current operational lots
+
+Lot ID to bulk batch assignment:
+- LOT-847 is batch B-482
+- LOT-309 is B-419
+- LOT-626 is B-405
+- LOT-188 is B-431
+
+Issued from the internal lot master to support floor, warehouse, and QA lookups. Format follows the standard lot-first view used on shop terminals. Only active identifiers in this card are shown.
+
+Screen stamp: MDS-LXW-11
+Office: Production Records, Alton Pharma

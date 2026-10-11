@@ -1,0 +1,15 @@
+Korrel Holdings
+Month-End Ledger Export
+
+Export date: 03 Oct 2024
+Ledger: General Ledger
+Fiscal year: FY2024
+Period: 12
+
+Metric name: Operating expenses posted
+Metric value: $87,000
+Entity: Korrel Holdings
+State: Posted
+Output class: Period extract
+
+This export row was emitted during standard financial close processing and reflects the period-specific operating-expense posting in dollars.

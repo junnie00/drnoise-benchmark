@@ -1,0 +1,13 @@
+Stonebay Institute Registrar
+Autumn Census Counts — Certified Unit Return
+
+Reporting cycle: Autumn
+Institution: Stonebay Institute
+Unit: G-7
+Certified count: 1180
+
+Certification block:
+This return reflects the final unit total accepted for the autumn census run and posted to the registrar count ledger for the named unit.
+
+Filed through: Graduate Records Counter
+Series code: autumn unit certification

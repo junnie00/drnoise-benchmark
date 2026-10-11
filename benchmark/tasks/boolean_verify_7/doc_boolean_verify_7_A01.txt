@@ -1,0 +1,12 @@
+MEDDATA REGULATORY SERVICES
+Regulatory Filing Codebook
+2024 Controlled Vocabulary Extract
+
+Code lookup:
+F-A7  Pharmacy delegation log
+F-B7  Temperature excursion nil report
+
+Series: annual clinic returns
+Display order: alphanumeric filing code
+
+Use within the submissions environment is restricted to standardized form naming so receipt and routing entries remain consistent across the register.

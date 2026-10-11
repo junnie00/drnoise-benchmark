@@ -1,0 +1,10 @@
+Solace Bank Facilities Operations
+June Outage Events Log
+
+Site: S-24
+Event type: supply interruption
+Interruption time: 09:12
+Restoration time: 10:36
+Logged by: Networked premises monitor
+
+Event record opened for the June service interruption affecting the listed branch site and closed when normal electrical service returned at the time shown.

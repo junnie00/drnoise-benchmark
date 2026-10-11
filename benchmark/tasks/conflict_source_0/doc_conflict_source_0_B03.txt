@@ -1,0 +1,9 @@
+Syndication Feed Record
+Feed Monitor Console
+
+Item ID: F-590
+Institution label: Lydian College
+Reported figure: 5,900 total students
+Channel: profile syndication
+
+Record created on ingestion from the upstream publisher pipeline. The item is retained in the monitor console to support downstream display checks and delivery troubleshooting.

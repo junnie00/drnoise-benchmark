@@ -1,0 +1,10 @@
+DISPATCH SYSTEM EXPORT
+File: corridor_alias_active.csv
+Source: Northstar Freight Dispatch
+
+corridor_code,route_name
+C2D,Route Finch
+C2O,Route Grove
+C2K,Route Harbor
+
+Export generated for dispatch board naming alignment where corridor tags are used in place of route titles.

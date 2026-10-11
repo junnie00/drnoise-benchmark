@@ -1,0 +1,9 @@
+ALTON PHARMA PACKAGING QUALITY
+Observation Findings Log
+
+Packaging findings entered for additional observation records:
+O-831 seal intact; O-841 seal absent.
+
+Entry mode: inspector closeout coding
+Log family: tamper-seal observations
+Review cell: Packaging Quality desk 1

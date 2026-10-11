@@ -1,0 +1,7 @@
+North Quay Components Trust
+Gate Administration Unit
+Punctuality Extract — variance lines
+
+Consignment C-99 late by 36 minutes. Consignment C-92 early by 12 minutes.
+
+These two lines were retained together in the variance view because they fell under the same April review cycle for booked gate arrivals.

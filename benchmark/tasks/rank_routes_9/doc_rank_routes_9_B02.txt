@@ -1,0 +1,10 @@
+Northstar Freight
+Q3 Consignment Masses — Batch 1
+Dispatch export fragment
+
+Batch 1 records the following consignment weights: C9D: 4.1 and 3.0 tonnes; C9O: 3.7 and 2.8 tonnes; C9K: 3.1 and 2.6 tonnes.
+
+Batch tag: Q3-B1
+Measurement basis: loaded consignment mass
+Unit display: tonnes
+Export style: paired corridor entries as captured from dispatch settlement feed.

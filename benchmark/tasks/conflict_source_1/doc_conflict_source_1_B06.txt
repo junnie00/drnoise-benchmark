@@ -1,0 +1,14 @@
+Publisher Registry
+Display Name Register
+
+Registry entry: PUB-1RL legal display name Census Ledger.
+
+Publisher card
+Key: PUB-1RL
+Name form: legal display
+Registered text: Census Ledger
+Registry section: external publishers
+Use class: outbound display and attribution formatting
+
+Maintained in the Publisher Administration Book
+Card status line: active registry name on file

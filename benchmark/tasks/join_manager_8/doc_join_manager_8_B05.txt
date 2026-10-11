@@ -1,0 +1,7 @@
+HR Identity Crosswalk
+Supervisor Mapping Console
+
+Current supervisor mappings in the identity table are:
+supervisor S-877 maps to employee E-808; S-831 maps to E-814.
+
+This output is generated for role resolution when a supervisory code must be matched to an employee record in personnel systems.

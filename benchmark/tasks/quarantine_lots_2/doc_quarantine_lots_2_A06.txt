@@ -1,0 +1,10 @@
+ALTON PHARMA QUALITY ASSURANCE
+Seal Inspection Events
+Worksheet extract — tamper seal check
+
+C-282A failed for absent seal; C-282B passed; C-219A failed for absent seal.
+
+Inspection point: end-of-line packaging review
+Disposition field shown as recorded by inspector
+Worksheet family: SI-EVT
+Desk copy issued to packaging QA

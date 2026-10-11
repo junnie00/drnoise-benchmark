@@ -1,0 +1,8 @@
+Personnel Directory
+Staff Lookup Extract
+
+Employee ID | Name
+E-208 | Jonah Rusk
+E-214 | Elian Frost
+
+Directory excerpt generated for identity confirmation within internal staffing systems.

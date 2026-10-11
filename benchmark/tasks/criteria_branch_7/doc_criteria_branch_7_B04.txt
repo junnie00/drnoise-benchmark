@@ -1,0 +1,8 @@
+Controller Code Legend
+Resilience Platform Reference
+
+Storage state 1 means online; state 0 means unavailable.
+
+Legend class: controller-facing numeric status translation
+Applies to: storage state outputs used in monthly and live supervisory views
+Issued by: controls configuration library

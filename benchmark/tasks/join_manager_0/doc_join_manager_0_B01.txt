@@ -1,0 +1,8 @@
+Appropriation Register
+Program Assignment Screen Print
+
+Appropriation AP-610 was assigned to program number P-440; AP-322 to P-510.
+
+Register status: active listing
+View option: appropriation to program assignment
+Printed from the budget registry console for program accounting staff.

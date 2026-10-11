@@ -1,0 +1,9 @@
+MedData Timestamp Archive
+Acceptance Time Record
+
+Archived receipt event: R-150 for ORG-16 was accepted 03 July 2024.
+
+Clock source: intake acceptance service.
+Format standard: day-month-year.
+Archive partition: 2024 Q3 accepted receipts.
+Entry displayed from the archive browser for organization-coded lookup.

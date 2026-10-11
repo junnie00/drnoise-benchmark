@@ -1,0 +1,12 @@
+Utility Operations Ticket
+Ticket No. U-14
+
+Open incident record: F1RV service lost 09:12 and cleared 10:36.
+
+Service class: utility feed interruption
+Facility alias: F1RV
+Timeline
+- Lost: 09:12
+- Cleared: 10:36
+
+Ticket remained in utility operations history as a June service event.

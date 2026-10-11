@@ -1,0 +1,11 @@
+Northstar Freight
+Mass Accounting Reconciliation Slip
+Quarter: Q3
+
+Corridor summary recorded for this line item: C8V shipments totalled 11.2 tonnes across six consignments.
+
+This reconciliation slip was opened to carry the quarter aggregate into the mass accounting bundle for corridor-coded freight movements.
+
+Posting class: quarter aggregate
+Measure basis: shipped mass
+Consignment count field: complete for the cited corridor

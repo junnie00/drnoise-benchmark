@@ -1,0 +1,12 @@
+MEDDATA REGULATORY SERVICES
+Timestamp Archive
+Acceptance Stamp Record
+
+Receipt: R-744
+Accepted: 21 June 2024 at 16:03
+
+Archive source: intake acceptance clock
+Display style: day-month-year with 24-hour time
+Record class: immutable acceptance timestamp
+
+Issued by Archive Console 3 for date-and-time confirmation requests.

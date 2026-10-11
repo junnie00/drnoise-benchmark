@@ -1,0 +1,15 @@
+ALTON PHARMA
+Clinical Register Office
+
+Memorandum for File
+Subject: Lots identified in the Clinical Register for combined cold-chain and tamper-seal issues
+
+The Clinical Register states that LOT-847 and LOT-626 were the two Alton Pharma lots with both a temperature excursion and a missing tamper seal. This memorandum is issued to restate that register position for internal readers who need a plain-language summary rather than the line-item register view.
+
+In the register context, the pairing is presented as the relevant combination of a storage-temperature event together with a tamper-seal absence. The cited lots are LOT-847 and LOT-626. No additional lot identifiers are named in this summary because the purpose of this note is simply to capture the stated result from the Clinical Register in correspondence form for circulation inside the clinical supply organization.
+
+Please file this memo with the routine register extracts used during release and distribution review. Questions on formatting or register wording may be directed to the Clinical Register Office.
+
+Sender: Mara Ellison
+Clinical Register Coordinator
+Dateline: North Campus Records Suite

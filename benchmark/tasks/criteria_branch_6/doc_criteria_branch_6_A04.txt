@@ -1,0 +1,13 @@
+STORAGE TELEMETRY REGISTRY
+Monthly state capture — June
+
+battery B-628 at S-62 reported MAINTENANCE during June; B-639 at S-61 reported ONLINE.
+
+Device summary
+- B-628 | Site S-62 | State MAINTENANCE
+- B-639 | Site S-61 | State ONLINE
+
+Collection source: branch resilience telemetry
+Reporting month: June
+
+Facilities Monitoring console export

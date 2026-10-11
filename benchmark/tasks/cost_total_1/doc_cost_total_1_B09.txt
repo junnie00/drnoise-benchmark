@@ -1,0 +1,13 @@
+Harbor Commercial Bank
+Business Statement Record
+Client: Tannon Holdings
+Account ending in: ****8688
+Statement period: 10/2024
+Run batch: month-end statements
+
+The statement for 10/2024 shows total operating outflows $59,000. It appears within the operating activity category for the designated business account.
+
+Currency denomination: USD
+Delivery method: secure electronic issue
+Page reference: 1
+Corporate banking group: Harbor Commercial Bank

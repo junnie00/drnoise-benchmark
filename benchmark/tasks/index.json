@@ -1,0 +1,502 @@
+[
+  {
+    "id": "supplier_select_0",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "latest_date_0",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "boolean_verify_0",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "rank_routes_0",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "join_manager_0",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "criteria_branch_0",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "codename_lookup_0",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "quarantine_lots_0",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "conflict_source_0",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "supplier_select_1",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "supplier_select_2",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "supplier_select_3",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "supplier_select_4",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "supplier_select_5",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "supplier_select_6",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "supplier_select_7",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "supplier_select_8",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "supplier_select_9",
+    "dom": "procurement",
+    "type": "entity_selection"
+  },
+  {
+    "id": "latest_date_1",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "latest_date_2",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "latest_date_3",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "latest_date_4",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "latest_date_5",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "latest_date_6",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "latest_date_7",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "latest_date_8",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "latest_date_9",
+    "dom": "compliance",
+    "type": "date_selection"
+  },
+  {
+    "id": "boolean_verify_1",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "boolean_verify_2",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "boolean_verify_3",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "boolean_verify_4",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "boolean_verify_5",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "boolean_verify_6",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "boolean_verify_7",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "boolean_verify_8",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "boolean_verify_9",
+    "dom": "healthcare",
+    "type": "boolean_verification"
+  },
+  {
+    "id": "rank_routes_1",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "rank_routes_2",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "rank_routes_3",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "rank_routes_4",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "rank_routes_5",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "rank_routes_6",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "rank_routes_7",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "rank_routes_8",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "rank_routes_9",
+    "dom": "logistics",
+    "type": "ordered_top3"
+  },
+  {
+    "id": "join_manager_1",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "join_manager_2",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "join_manager_3",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "join_manager_4",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "join_manager_5",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "join_manager_6",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "join_manager_7",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "join_manager_8",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "join_manager_9",
+    "dom": "projects",
+    "type": "multi_hop_join"
+  },
+  {
+    "id": "criteria_branch_1",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "criteria_branch_2",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "criteria_branch_3",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "criteria_branch_4",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "criteria_branch_5",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "criteria_branch_6",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "criteria_branch_7",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "criteria_branch_8",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "criteria_branch_9",
+    "dom": "facilities",
+    "type": "all_criteria_selection"
+  },
+  {
+    "id": "codename_lookup_1",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "codename_lookup_2",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "codename_lookup_3",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "codename_lookup_4",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "codename_lookup_5",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "codename_lookup_6",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "codename_lookup_7",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "codename_lookup_8",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "codename_lookup_9",
+    "dom": "science",
+    "type": "text_attribute_lookup"
+  },
+  {
+    "id": "quarantine_lots_1",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "quarantine_lots_2",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "quarantine_lots_3",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "quarantine_lots_4",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "quarantine_lots_5",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "quarantine_lots_6",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "quarantine_lots_7",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "quarantine_lots_8",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "quarantine_lots_9",
+    "dom": "manufacturing",
+    "type": "set_selection"
+  },
+  {
+    "id": "conflict_source_1",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "conflict_source_2",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "conflict_source_3",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "conflict_source_4",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "conflict_source_5",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "conflict_source_6",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "conflict_source_7",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "conflict_source_8",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "conflict_source_9",
+    "dom": "education",
+    "type": "conflict_attribution"
+  },
+  {
+    "id": "cost_total_0",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_1",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_2",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_3",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_4",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_5",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_6",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_7",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_8",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  },
+  {
+    "id": "cost_total_9",
+    "dom": "finance",
+    "type": "total_cost_aggregation"
+  }
+]

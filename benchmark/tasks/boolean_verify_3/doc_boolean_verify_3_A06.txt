@@ -1,0 +1,10 @@
+Timestamp Archive
+Acceptance Event Record
+
+Receipt reference: R-301
+Accepted: 09 April 2024 at 10:14
+Clock source: intake acceptance service
+Timezone basis: local office time
+Archive status: sealed event line
+
+The archive preserves the intake service time associated with receipt R-301 for operational reconstruction and service history review.

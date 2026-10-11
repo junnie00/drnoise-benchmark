@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Commercial Account Statement
+Client record: Ashel Holdings
+Account: ****9097
+Statement period: 06/2024
+Product family: Business Demand Deposit
+
+The account statement lists total operating outflows $14,000.
+
+Statement currency: USD
+Distribution: Secure electronic copy
+Cycle basis: Monthly
+Issue status: Completed
+Desk: Corporate Servicing
+
+This is the summary section for the stated cycle.

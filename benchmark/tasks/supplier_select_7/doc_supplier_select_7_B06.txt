@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Morning and afternoon arrival strip
+
+C-77 early by 4 minutes; C-74 early by 9 minutes.
+
+Standard extract from gate control showing the variance against booked gate time for listed consignments.

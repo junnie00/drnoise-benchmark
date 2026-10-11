@@ -1,0 +1,19 @@
+NORTH QUAY FINANCIALS
+GL Summary Export
+Entity: Ashos Holdings
+Fiscal year: FY2024
+Period key: 09
+Posting date: 27 Sep 2024
+Focus account group: Operating Expenses
+
+For the period named above, operating expenses posted at $38,000. Amount is the posted ledger value within the selected operating expense group.
+
+Report settings
+Currency: USD
+Book: Corporate primary
+Posting scope: Final posted journals
+Export run: FY24P09SUM
+Created: 27 Sep 2024 17:47
+Station: ACCT-RM5
+
+Output formatted for internal finance review.

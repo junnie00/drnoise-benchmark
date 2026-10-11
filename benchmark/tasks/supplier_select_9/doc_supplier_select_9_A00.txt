@@ -1,0 +1,10 @@
+North Quay Components Trust
+Procurement Services Division
+Approved Vendor Directory — April Revision
+
+Vendor Code | Supplier Name
+V-93 | Fenwick Laminates
+V-98 | Ashford Connectors
+V-94 | Torc Plastics
+
+Directory scope: active purchasing references used by buyers and receiving staff during the April revision cycle. Names are listed in the form maintained for purchase orders, dispatch booking, and payment matching. Any system search should use the vendor code shown above as the primary index, with the supplier name as the display field.

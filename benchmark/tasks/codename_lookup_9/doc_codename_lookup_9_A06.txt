@@ -1,0 +1,10 @@
+BOREALIS LAB — RESTRICTED
+Codename Vault Reference Slip
+
+Vault correspondences: AK-955 corresponds to Twin Lantern; AK-961 to Indigo Brook; AK-972 to Slate Orchid.
+
+Access channel: sealed-name register
+Lookup mode: archival key resolution
+Clerk station: Vault Terminal C
+
+This slip reflects the active codename pairings attached to the listed archive keys within the restricted naming system.

@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Account Statement Extract
+Customer name: Ashel Holdings
+A/C: ****9563
+Statement period: 02/2024
+Product: Commercial Operating Account
+
+During the statement period, total operating outflows $64,000.
+
+Currency: USD
+Issue channel: Online treasury portal
+Cycle: Monthly
+Statement state: Final
+Office: Business Banking Desk
+
+Extract produced from the standard statement rendering service.

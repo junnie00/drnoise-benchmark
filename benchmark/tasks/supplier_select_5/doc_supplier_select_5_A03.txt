@@ -1,0 +1,13 @@
+Dispatch Coordination Console
+April Purchase Dispatch Map
+Procurement Logistics Office
+
+Vendor assignment line: V-53 handled dispatches D-518, D-529, and D-537.
+
+Month scope: April purchase dispatches only
+Display mode: supplier-to-dispatch allocation
+Status band: released for dock scheduling
+
+This console extract shows the dispatch identifiers currently allocated to the listed vendor code for the month scope indicated above. Timing, receiving outcomes, and carrier details are maintained elsewhere in logistics operations.
+
+Rendered: fixed-width queue output

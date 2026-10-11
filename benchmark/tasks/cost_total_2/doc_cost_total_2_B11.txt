@@ -1,0 +1,17 @@
+North Coast Mercantile Bank
+Business Statement Summary
+
+Account holder: Korrel Holdings
+Account number shown: ****9026
+Statement period: 12/2024
+
+Summary metric
+Total operating outflows: $87,000
+
+Statement profile
+Product category: Business account
+Cycle issue: Monthly
+Currency presentation: USD
+Output class: Statement summary
+
+End of summary page.

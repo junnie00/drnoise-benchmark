@@ -1,0 +1,10 @@
+BOREALIS LAB ARCHIVE SERVICES
+Study Archive Index
+Index strip: S-series retrieval
+
+Current token assignments:
+S-504 archive token T-588; S-519 token T-593; S-525 token T-597.
+
+Storage lane: studies
+Lookup mode: tokenized retrieval
+Archive staff use this index strip when converting a study number into the token needed to request the associated sealed archive packet.

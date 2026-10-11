@@ -1,0 +1,12 @@
+Office of Incident Review
+Controlled Legend Sheet: Incident Class Codes
+Revision window: 2024 standard set
+
+For intake coding, code S denotes safety; E denotes environmental; Q denotes product quality.
+
+Accepted notation:
+- S = safety
+- E = environmental
+- Q = product quality
+
+This legend accompanies front-desk entry screens and weekly exception reports so class abbreviations appear consistently in notices, registers, and closure books.

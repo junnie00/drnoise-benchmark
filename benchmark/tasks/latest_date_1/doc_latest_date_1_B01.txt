@@ -1,0 +1,10 @@
+Board Docket Codebook
+Prefix definitions
+
+For board matters, docket prefix HS is occupational safety; EN is environmental review.
+
+Codebook lines
+HS = occupational safety
+EN = environmental review
+
+Apply the prefix before the numeric sequence when opening a board docket.

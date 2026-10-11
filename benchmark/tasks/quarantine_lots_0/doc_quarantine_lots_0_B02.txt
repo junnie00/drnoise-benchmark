@@ -1,0 +1,7 @@
+Cold-Chain Operations
+Ticket Index — distribution units
+
+Index listing for active review set:
+DU-8 tickets T-11 and T-12; DU-2 ticket T-21; DU-6 ticket T-31; DU-1 ticket T-41.
+
+Dispatch staff use this index to pull the applicable temperature handling tickets for each distribution unit after movement is logged.

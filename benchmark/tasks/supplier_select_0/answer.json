@@ -1,0 +1,15 @@
+{
+  "answer": "Brindle Components",
+  "false_value": "Orison Fabrication",
+  "false_values": [
+    "Orison Fabrication"
+  ],
+  "type": "entity_selection",
+  "dom": "procurement",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "join supplier-to-vendor IDs, certification expiry, shipment ownership, and three schedule/arrival comparisons",
+    "B": "join supplier-to-account IDs, credential state, consignment ownership, and three gate punctuality records"
+  }
+}

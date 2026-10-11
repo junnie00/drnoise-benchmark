@@ -1,0 +1,6 @@
+Docket Ownership File
+Registrant account: R-442
+
+Assigned docket list: HS-271 and HS-288.
+
+Account segment exported from the ownership screen for use by the docket room.

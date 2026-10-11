@@ -1,0 +1,15 @@
+Student Information System Extract
+Upland Technical Student Census Extract
+Run class: active roster census
+
+Population code UG has 3520 active students.
+
+Extract columns present in file package:
+population_code | status_basis | student_count | extract_scope
+UG | active | 3520 | census
+
+Institution code: UTECH
+Source application: SIS census module
+Queue: registrar analytics handoff
+File wrapper: TXT segment from scheduled census batch
+Batch note: counts are emitted by population code for downstream tabulation and summary display.

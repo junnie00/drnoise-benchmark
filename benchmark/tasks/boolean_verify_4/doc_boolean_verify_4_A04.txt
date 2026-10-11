@@ -1,0 +1,14 @@
+MedData Regulatory Exchange
+Submission Routing Log
+Receipt association lookup
+
+Routing entry confirmed: receipt R-401 belongs to ORG-42 and form F-A4.
+
+Log fields
+Receipt: R-401
+Organization: ORG-42
+Form code: F-A4
+Queue family: regulated intake
+Disposition lane: accepted-receipt index
+
+Operator screen excerpt generated from the routing console for downstream correspondence matching.

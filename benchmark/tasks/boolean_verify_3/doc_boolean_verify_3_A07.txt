@@ -1,0 +1,10 @@
+Timestamp Archive
+Acceptance Event Record
+
+Receipt reference: R-344
+Accepted: 21 June 2024 at 16:03
+Clock source: intake acceptance service
+Timezone basis: local office time
+Archive status: sealed event line
+
+The archive preserves the intake service time associated with receipt R-344 for operational reconstruction and service history review.

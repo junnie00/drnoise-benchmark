@@ -1,0 +1,14 @@
+Release-Control Register
+Commercial Lot / Release Code Index
+Register section: Alton Pharma
+
+Entries on this page state that LOT-836 uses release code R-348; LOT-298 uses R-371; LOT-615 uses R-360; LOT-177 uses R-333.
+
+Columns
+lot_id | release_code
+LOT-836 | R-348
+LOT-298 | R-371
+LOT-615 | R-360
+LOT-177 | R-333
+
+Register page: RC-18

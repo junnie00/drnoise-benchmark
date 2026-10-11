@@ -1,0 +1,11 @@
+Warehouse Dispatch Extract
+Facility: North Distribution Hall
+Format: pallet assignment snapshot
+
+Batch / Assigned pallet
+B-682 / P-64
+B-619 / P-67
+B-605 / P-66
+B-631 / P-63
+
+Status line: active palletization record for staged outbound units from the Alton Pharma run. Sequence reflects pallet labels applied at shipping prep and maintained in the warehouse dispatch system.

@@ -1,0 +1,8 @@
+Event Clock Store
+Machine Timestamp Readout
+
+Event E-330 occurred 2024-04-09 10:14 local time.
+clock_source=application node cluster
+precision=minute
+
+Record format follows the portal's standard event-time export.

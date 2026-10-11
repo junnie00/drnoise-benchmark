@@ -1,0 +1,9 @@
+Dispatch Systems Export
+Dataset: Corridor Alias File
+View: active supplemental mappings
+
+corridor_code | route_name
+C3M | Route Norwood
+C3V | Route Oriel
+
+Machine output generated for dispatch console reference. The listed corridor aliases correspond to route labels used in consignment batch sheets and downstream mass-accounting entries.

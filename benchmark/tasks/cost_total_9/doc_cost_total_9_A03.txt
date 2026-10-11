@@ -1,0 +1,19 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract
+Legal name: Ashos Holdings
+Reporting cycle: FY2024
+Period: 04
+Posting date: 06 Jul 2024
+Selected ledger family: Operating Expenses
+
+The posted amount for operating expenses in this period is $17,000. Figure shown is the booked expense total for the period selection only.
+
+Ledger attributes:
+Basis: Accrual
+Book: Corporate Primary
+Currency: USD
+Journal source mix: AP, cash, manual
+Exported: 06 Jul 2024 16:28
+Queue ref: GLX-0406-77
+
+No comparative balances included in this extract.

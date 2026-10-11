@@ -1,0 +1,13 @@
+Publisher Registry
+Partner identity card
+
+Registry card text: PUB-2RL legal display name Registrar Ledger.
+
+Registry segment: active publishers
+Key class: publisher key
+Display-name field standard: legal display name
+Onboarding channel: partner syndication
+Office using card: Publisher Services Desk
+Card print sequence: partner identity export
+
+This card resolves the publisher key used in syndicated origin records to the registered display name.

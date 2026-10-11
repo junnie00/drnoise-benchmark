@@ -1,0 +1,76 @@
+[
+  {
+    "docid": "conflict_source_4_A00",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "conflict_source_4_A01",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "conflict_source_4_A02",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "conflict_source_4_A03",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "conflict_source_4_A04",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "conflict_source_4_A05",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "conflict_source_4_A06",
+    "role": "indirect",
+    "evidence_set": "A"
+  },
+  {
+    "docid": "conflict_source_4_B00",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "conflict_source_4_B01",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "conflict_source_4_B02",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "conflict_source_4_B03",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "conflict_source_4_B04",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "conflict_source_4_B05",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "conflict_source_4_B06",
+    "role": "indirect",
+    "evidence_set": "B"
+  },
+  {
+    "docid": "conflict_source_4_main",
+    "role": "main"
+  }
+]

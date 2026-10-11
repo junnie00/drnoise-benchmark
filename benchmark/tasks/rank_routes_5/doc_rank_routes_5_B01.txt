@@ -1,0 +1,8 @@
+Northstar Freight Dispatch
+Corridor Alias File
+Machine View: alias-name pairs
+
+C5M=Route Xenon
+C5V=Route Yarrow
+
+Active dispatch corridor aliases as carried in the current alias file.

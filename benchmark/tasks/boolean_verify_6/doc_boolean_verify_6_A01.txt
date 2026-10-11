@@ -1,0 +1,8 @@
+Regulatory Forms Codebook
+Edition: 2024 filing shorthand
+
+Code assignments in current use:
+- F-A6 means remote-consent renewal.
+- F-B6 means screen-failure summary.
+
+This excerpt reflects the abbreviated labels used in submission queues, routing slips, and receipt generation inside the regulatory intake system.

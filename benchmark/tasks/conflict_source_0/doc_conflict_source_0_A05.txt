@@ -1,0 +1,10 @@
+Publication Identity Table
+Reference Register
+
+Publication Record | Issuing Source
+PR-88 | SR-12
+PR-41 | SR-30
+
+Table purpose: source-key linkage for externally circulated profile records used by the institutional research office.
+
+Register class: publication identity crosswalk

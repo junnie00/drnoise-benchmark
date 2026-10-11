@@ -1,0 +1,11 @@
+Borealis Lab
+Experiment Input Ledger
+
+Run record: E-918 consumed lot L-971 and used chamber CH-99.
+
+Operator station: Input Desk 1
+Material class: reagent-fed chamber run
+Ledger line status: posted
+Routing mark: intake complete
+
+Recorded in the experiment inputs book at the time the chamber assignment and lot draw were entered for the run.

@@ -1,0 +1,12 @@
+Case Closeout Ledger
+Section: Incident Review closings
+Posting period: 2024 ledger updates
+
+Posted closures include I-541 closed 12 Mar 2024; I-517 closed 30 Aug 2024.
+
+Closeout stamp fields
+case_id | closure_date
+I-541 | 12 Mar 2024
+I-517 | 30 Aug 2024
+
+Ledger line verified for publication in the monthly disposition book.

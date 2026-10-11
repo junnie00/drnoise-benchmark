@@ -1,0 +1,16 @@
+NarrowGate Finance Suite
+General Ledger Activity Extract
+Entity Name: Korron Holdings
+Fiscal Year: FY2024
+Period: 03
+Extract Timestamp: 28 Oct 2024
+Selection: Operating expenses
+
+For this ledger extract, operating expenses posted at $30,000.
+
+Book Code: CORP
+Txn Source: Journal upload
+Amount Basis: Posted ledger
+Currency: USD
+View Mode: Period activity
+The extract is formatted for internal accounting use and excludes cash balances, tax accrual summaries, and non-operating lines.

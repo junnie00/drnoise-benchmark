@@ -1,0 +1,15 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract
+Entity: Tannon Holdings
+FY: 2024
+Period: 08
+Generated: 22 Feb 2024 10:41
+View: Expense Accounts Only
+
+Within FY2024 period 08, operating expenses posted at $55,000. This is the period-movement extract from the production ledger used for close support and management accounting pack assembly.
+
+Currency: USD
+Book: primary corporate
+Source mode: posted transactions summarized
+Page 1/1
+Output queue: ACC-RPT-6

@@ -1,0 +1,6 @@
+Hazard Review Secretariat
+Incident Type Legend
+
+Classification codes in the intake system are defined as follows: code S denotes safety; E denotes environmental; Q denotes product quality.
+
+Use of the legend is limited to incident class tagging on entry screens, register printouts, and notice headers. Codes appear exactly as single-letter class markers in system exports.

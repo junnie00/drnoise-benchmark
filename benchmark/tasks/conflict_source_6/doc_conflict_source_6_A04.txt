@@ -1,0 +1,8 @@
+External Profile Snapshot
+Record ID: PR-688
+Institution listed: Ravensmere College
+Capture class: publisher profile snapshot
+
+The publication record PR-688 lists Ravensmere College enrollment as 5270.
+
+Stored fields in this snapshot include record identifier, institution name, displayed enrollment figure, and source linkage for catalog maintenance. Snapshot retained in the profile intake queue because the displayed value was preserved exactly as seen on the publication page at time of capture.

@@ -1,0 +1,11 @@
+MEDDATA PORTAL ADMIN
+Compliance Calendar Export
+Tenant Schedule Snapshot
+
+{"tenant":"T-784","form_alias":"Nil Return 7","cutoff":"2024-06-30"}
+
+Export profile: compact JSON line
+Timezone setting: local calendar basis
+Module: compliance scheduling
+
+Generated from the tenant calendar panel for support review.

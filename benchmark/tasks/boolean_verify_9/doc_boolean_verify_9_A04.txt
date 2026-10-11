@@ -1,0 +1,11 @@
+Submission Routing Log
+MedData Intake Queue
+
+Receipt assignment notice
+
+Receipt number: R-901
+Organization ID: ORG-92
+Form code: F-A9
+Routing class: standard regulated intake
+
+Queue remarks: receipt generated in the submission routing log at the point the filing entered the intake path. The receipt line ties the generated number to the submitting organization and the form code for downstream acceptance posting.

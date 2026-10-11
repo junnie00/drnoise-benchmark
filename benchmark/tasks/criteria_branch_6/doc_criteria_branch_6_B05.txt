@@ -1,0 +1,13 @@
+Utility Ticket U-64
+Branch Electrical Service Incident
+
+Ticketed event details: F6RV service lost 09:12 and cleared 10:36.
+
+Incident fields
+Facility: F6RV
+Condition: service lost
+Time opened: 09:12
+Time cleared: 10:36
+Ticket ref: U-64
+
+Dispatch remarks: utility-side interruption closed after restoration confirmation.

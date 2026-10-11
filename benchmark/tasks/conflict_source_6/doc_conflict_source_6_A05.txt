@@ -1,0 +1,6 @@
+Publication Identity Table
+Registry segment: active profile issuers
+
+Publication-to-source mapping on this segment reads as follows: PR-688 is issued by source SR-612; PR-641 is issued by source SR-630.
+
+Table purpose: maintain issuer linkage for external profile records carried in the publications catalog. Source codes are alphanumeric authority keys used by the syndication desk and profile archivists when updating publisher-facing snapshots.

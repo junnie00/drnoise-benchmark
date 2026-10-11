@@ -1,0 +1,16 @@
+North Quay FinanceSuite
+GL Extract Report
+Company: Tannic Holdings
+Year: FY2024
+Generated: 07 Dec 2024
+
+Period 03 reflects operating expenses posted at $58,000. This extract is the standard period movement view for the operating expense account family within the actuals ledger.
+
+Report attributes:
+Period code: 03
+Book: Actuals
+Posting state: Posted
+Classification: Operating expenses
+Display currency: USD
+Output mode: Summary extract
+Job stamp: 07 Dec 2024 09:18

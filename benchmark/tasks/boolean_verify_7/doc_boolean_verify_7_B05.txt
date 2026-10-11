@@ -1,0 +1,13 @@
+MEDDATA PORTAL ADMIN
+Portal Audit Trail
+Submission Event Detail
+
+Event ID: E-719
+Action captured: submitted Nil Return 7
+Tenant: T-784
+
+Actor class: tenant-side authenticated session
+Event family: form submission
+Rendering mode: audit detail pane
+
+This event detail is the standard portal display when operations staff open a single submission action from the tenant audit list.

@@ -1,0 +1,15 @@
+NORTH QUAY FINANCIALS
+General Ledger Transaction Extract
+Business Name: Tannon Holdings
+FY: 2024
+Accounting Period: 11
+Generated at: 25 Aug 2024 17:39
+Filter: Operating Expense Range
+
+Operating expenses posted at $81,000 for FY2024 period 11. The statement below is system-rendered from the ledger summary layer and carries period activity only.
+
+Currency: USD
+Book type: corporate actuals
+Posting inclusion: posted journals
+Workstation: CTRL-08
+Issued through: Group Finance Reporting

@@ -1,0 +1,9 @@
+NORTHSTAR FREIGHT
+Lane Directory Card — Supplemental Entries
+Terminal reference extract
+
+Confirmed lane-name entries for this extract:
+L-17 is Route Drift
+L-11 is Route Ember
+
+These two lanes remain listed in the active directory under standard naming convention. Directory extract intended for manifest desk and ledger coding where only the lane identifier is keyed into the system and the route name is needed for readable printouts.

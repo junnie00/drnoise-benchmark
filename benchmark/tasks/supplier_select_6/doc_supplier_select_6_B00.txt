@@ -1,0 +1,9 @@
+Northwater Works Finance Systems
+Accounts Payable Alias Table
+
+PAY_ACCOUNT, PAYEE_NAME
+AC-604, Noble Bearings
+AC-671, Quince Forging
+AC-609, Tidal Assemblies
+
+Export profile: supplier remittance aliases used by A/P control and exception routing.

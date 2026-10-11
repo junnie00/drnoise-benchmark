@@ -1,0 +1,13 @@
+RESILIENCE CONTROLLER EXPORT
+Node group: branch storage
+Period: June
+Format: state snapshot
+
+F1RV storage state code 1 for June; F1LV code 0; F1EM code 1.
+
+RAW LINES
+F1RV,STORAGE_STATE,1
+F1LV,STORAGE_STATE,0
+F1EM,STORAGE_STATE,1
+
+End of controller output.

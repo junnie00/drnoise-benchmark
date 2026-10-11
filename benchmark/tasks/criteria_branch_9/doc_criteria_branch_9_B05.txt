@@ -1,0 +1,9 @@
+Utility Ticket U-94
+Distribution Service Desk
+
+Facility: F9RV
+Condition: service lost
+Time opened from event stamp: 09:12
+Clear time: 10:36
+
+Ticket narrative: local branch supply interruption recorded and then cleared within the utility desk workflow. This ticket remains in the June service interruption bundle.

@@ -1,0 +1,7 @@
+Packaging Observation Map
+Release-Code Observation Index
+
+Observation linkage for packaged releases:
+R-648 observations O-614 and O-615; R-671 observation O-622.
+
+Index compiled by Packaging QA for observation numbering on tamper-seal review entries. Each observation code corresponds to a discrete packaging observation logged against the listed release code.

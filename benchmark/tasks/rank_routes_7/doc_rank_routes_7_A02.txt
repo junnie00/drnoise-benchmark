@@ -1,0 +1,11 @@
+Northstar Freight
+Monthly Operations Ledger
+Period: July 2024
+Measure: Shipped tonnage
+Unit: kg
+
+Recorded July lane totals are as follows: L-74 6,100 kg; L-79 5,700 kg; L-72 5,200 kg; L-77 4,900 kg; L-71 3,700 kg.
+
+Posted from month-end operations close.
+No split-view detail attached on this printout.
+Ledger class: Tonnage by lane

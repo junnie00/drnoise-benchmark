@@ -1,0 +1,8 @@
+MedData Compliance Portal
+Form Alias List
+Release channel: Provider Workspace Labels
+
+Current alias mapping:
+Continuation 5 is the radiology safety addendum; Nil Return 5 is the contrast-event nil report.
+
+These aliases are shown in submission menus and event descriptions rather than the regulator's short filing codes.

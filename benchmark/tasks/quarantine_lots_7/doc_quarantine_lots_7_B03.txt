@@ -1,0 +1,11 @@
+Cold-Chain Event Tickets
+Findings Digest
+
+Ticket findings entered by transport monitoring were: T-711 recorded above-limit temperature; T-712 normal; T-721 above-limit; T-731 above-limit; T-741 normal.
+
+Digest source: closed ticket outcome feed
+Department: Distribution Assurance
+Event wording follows the service desk's standard result phrases.
+Display order: ticket number ascending
+Export stamp: CCF-88
+Host application: TransitWatch

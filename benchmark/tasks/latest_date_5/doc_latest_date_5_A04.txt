@@ -1,0 +1,11 @@
+Incident Intake Register
+Late-year entries by site and class
+
+Current line items show I-866: site FR-5, opened 08 Dec 2024, class E; I-571: site MF-5, opened 20 Nov 2024, class S.
+
+Tab view:
+incident | site | opened | class
+I-866 | FR-5 | 08 Dec 2024 | E
+I-571 | MF-5 | 20 Nov 2024 | S
+
+This page reflects intake acceptance only and distinguishes environmental from safety matters at the point of entry.

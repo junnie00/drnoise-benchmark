@@ -1,0 +1,24 @@
+{
+  "condition": "noevidence",
+  "description": "all truthful route documents removed; false summary retained",
+  "docids": [
+    "boolean_verify_3_986b1921",
+    "boolean_verify_3_de42a95e",
+    "boolean_verify_3_efa5e73a",
+    "boolean_verify_3_d872c46f",
+    "boolean_verify_3_36c8afc5",
+    "boolean_verify_3_dcb49d52",
+    "boolean_verify_3_a8cae7dd",
+    "boolean_verify_3_0adafa03",
+    "boolean_verify_3_a73db983",
+    "boolean_verify_3_c4db1960",
+    "boolean_verify_3_302b577d",
+    "boolean_verify_3_f668b353",
+    "boolean_verify_3_65662ce6",
+    "boolean_verify_3_f7d2dbe4",
+    "boolean_verify_3_f290a40e",
+    "boolean_verify_3_5841234e",
+    "boolean_verify_3_3128b846",
+    "boolean_verify_3_ba957a1f"
+  ]
+}

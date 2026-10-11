@@ -1,0 +1,8 @@
+Ravensmere College Student Census Extract
+Export format: CSV render preview
+Job: RC-ENR-ACTIVE
+
+population_code,metric,value,status
+UG,active_students,3990,posted
+
+Header scope for this export is student census activity by registrar population. The line above reflects the active-student count carried for the UG population code in the extracted census view. Output generated for Enrollment Systems review console.

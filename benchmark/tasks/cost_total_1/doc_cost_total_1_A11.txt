@@ -1,0 +1,15 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract - Expense Summary
+Entity: Tannon Holdings
+Year: FY2024
+Period: 12
+Printed on: 02 Aug 2024 12:06
+Report variant: Monthly Opex
+
+FY2024 period 12 records operating expenses posted at $33,000. This output is limited to the operating expense segment and was generated from the production accounting environment.
+
+Currency code: USD
+Book: CORP-01
+Data state: posted
+Spool reference: 12M-OPEX
+Controller office: North Quay Finance

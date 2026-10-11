@@ -1,0 +1,7 @@
+Board Docket Codebook
+
+Prefix meanings in board case numbers:
+HS — occupational safety
+EN — environmental review
+
+The prefix appears before the numeric docket sequence in notices and registers.

@@ -1,0 +1,15 @@
+Quarry University Registrar
+Autumn Census Counts
+Certified extract
+
+Institution: Quarry University
+Term frame: Autumn census window
+Certifying office: Registrar
+
+Unit code: G-5
+Certified count: 1740
+Certification class: final count for unit filing
+Entered to census register: yes
+Output format: office summary line
+
+The figure above is the certified unit count recorded for the graduate records stream during the autumn census cycle. This sheet was generated from the registrar count screen used for signed census submissions.

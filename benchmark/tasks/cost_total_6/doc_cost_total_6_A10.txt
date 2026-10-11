@@ -1,0 +1,16 @@
+NORTH QUAY CAPITAL SERVICES
+General Ledger Archive Extract
+
+Entity record: Korric Holdings
+Fiscal year record: FY2024
+Period record: 11
+Generated: 28 Dec 2024
+Topic: Operating expenses
+
+For period 11, operating expenses posted at $74,000.
+Currency: USD
+Included entries: posted only
+Book condition: period archived
+Output channel: finance systems export
+
+This compact report is the standard summary view retained with year-end close materials.

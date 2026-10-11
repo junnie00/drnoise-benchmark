@@ -1,0 +1,13 @@
+Timestamp Archive
+Acceptance timestamp record
+
+R-801 accepted 09 April 2024 at 10:14.
+
+Archive stamp details
+Receipt: R-801
+Accepted date: 09 April 2024
+Accepted time: 10:14
+Time basis: local archive clock
+Source stream: submission intake
+
+Stored as the official acceptance time for the receipt.

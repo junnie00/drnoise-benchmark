@@ -1,0 +1,7 @@
+Independent Closeout Docket
+Assurance posting log
+
+Program P-640 — final assurance code A1
+Program P-610 — final assurance code B2
+
+Docket reflects the terminal assurance code entered at closeout for each listed program number.

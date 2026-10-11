@@ -1,0 +1,6 @@
+Event Clock Store
+Time Record Lookup
+
+Event E-219 occurred 2024-06-21 16:03 local time.
+
+Clock source: portal event service. Stored in local-time presentation for operations review.

@@ -1,0 +1,7 @@
+Cold-Chain Ticket Index
+Operations Console Snapshot
+
+Distribution unit ticket listing:
+DU-68 tickets T-611 and T-612; DU-62 ticket T-621; DU-66 ticket T-631; DU-61 ticket T-641.
+
+The index enumerates tickets opened under each cold-chain movement record. Ticket numbers are those shown in the temperature-monitoring and transit review queue for the referenced units.

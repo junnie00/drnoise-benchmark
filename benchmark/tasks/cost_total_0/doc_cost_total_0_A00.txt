@@ -1,0 +1,17 @@
+North Quay FinanceSuite
+General Ledger Activity Export
+Entity: Tannic Holdings
+Fiscal set: FY2024
+Run date: 02 Feb 2024
+View: Period close snapshot
+
+Posting summary for period 01 shows operating expenses posted at $62,000. Source class is Operating Expense; ledger status is posted; display currency is USD.
+
+Export fields:
+Period ID: 01
+Book: Actuals
+Posting basis: Accrual
+Account family: Operating expenses
+Entry state: Final
+Printed from: Controller Workspace 3
+Timestamp: 02 Feb 2024 16:42

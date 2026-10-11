@@ -1,0 +1,10 @@
+Environmental Chamber Map
+Borealis Facility Services
+
+Map legend excerpt for active chambers:
+CH-24 setpoint 4 degrees C; CH-29 setpoint 22 degrees C.
+
+Both chambers appear on the north service corridor map and are listed by setpoint for placement planning and occupancy balancing. This excerpt was printed for technicians assigning runs to the controlled environment bank.
+
+Map revision: Winter floor update
+Service desk imprint: Facilities Control

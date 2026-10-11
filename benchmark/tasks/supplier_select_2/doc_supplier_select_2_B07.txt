@@ -1,0 +1,7 @@
+Gate Punctuality Extract
+Exception queue item
+
+Queue details:
+C-29 late by 36 minutes; C-22 early by 12 minutes.
+
+This item remained in the transport exception queue because one listed consignment missed its booked gate window. The paired line was retained on the same queue item from the scheduler’s grouped review of that account’s remaining April arrivals.

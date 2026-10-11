@@ -1,0 +1,34 @@
+{
+  "query_id": "conflict_source_1",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "sum registrar components, compare with an anonymously keyed publication value, then map publication ID to source",
+      "query_hint": "sum registrar components, compare with an anonymously keyed publication value, then map publication ID to source",
+      "expected_docids": [
+        "conflict_source_1_990dd5b4",
+        "conflict_source_1_588a6b9e",
+        "conflict_source_1_aa3f8af3",
+        "conflict_source_1_5b03e5ec",
+        "conflict_source_1_ad17b7f9",
+        "conflict_source_1_55dc6694",
+        "conflict_source_1_16b8c83e"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "sum independent census components, compare with a syndication record, then resolve publisher code to source",
+      "query_hint": "sum independent census components, compare with a syndication record, then resolve publisher code to source",
+      "expected_docids": [
+        "conflict_source_1_0860a634",
+        "conflict_source_1_d7d21fc4",
+        "conflict_source_1_3a2748b7",
+        "conflict_source_1_8e68725b",
+        "conflict_source_1_33be4b83",
+        "conflict_source_1_5ea8e952",
+        "conflict_source_1_1bc790a6"
+      ]
+    }
+  ]
+}

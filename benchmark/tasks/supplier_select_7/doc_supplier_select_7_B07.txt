@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Variance notice
+
+C-79 late by 36 minutes; C-72 early by 12 minutes.
+
+Notice issued from gate operations after the daily run closed, preserving the punctuality labels displayed in the system for the two consignments listed above.

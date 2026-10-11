@@ -1,0 +1,14 @@
+Tamper Seal Inspection Worksheet
+Line: Carton verification station 2
+Inspection focus: seal presence
+
+Logged seal inspection events for this worksheet are: C-382A failed for absent seal; C-382B passed; C-319A failed for absent seal.
+
+Inspector marks
+carton | disposition
+C-382A | fail
+C-382B | pass
+C-319A | fail
+
+Observed issue term used on failures: absent seal
+Worksheet no.: SI-204

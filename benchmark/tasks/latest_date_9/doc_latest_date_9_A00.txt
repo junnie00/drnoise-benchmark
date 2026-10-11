@@ -1,0 +1,8 @@
+NORTH VALLEY INDUSTRIAL OVERSIGHT OFFICE
+Controlled Facility Index — Active Site Codes
+
+Operator Name                 Site Code
+Juniper Ceramics             JU-9
+Meridian Foundry             MF-9
+
+Index scope: operating site identifiers used in intake, inspection, and closure systems. Entries shown are current coded references for the named operators.

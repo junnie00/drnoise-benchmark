@@ -1,0 +1,9 @@
+BOREALIS FACILITIES UNIT
+Environmental Chamber Map
+Thermal Setpoint Register
+
+Chamber   Setpoint
+CH-44     4 degrees C
+CH-49     22 degrees C
+
+Map segment: conditioned chambers in current circulation. Setpoints shown are the maintained operating settings attached to each chamber designation in the facilities register. This segment was posted for scheduling desks and environmental routing inside Experimental Operations.

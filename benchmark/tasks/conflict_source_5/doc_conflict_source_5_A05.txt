@@ -1,0 +1,13 @@
+Publication Identity Table
+Source Resolution Listing
+
+Publication record PR-588 is issued by source SR-512; PR-541 is issued by source SR-530.
+
+Table segment: external profiles
+Identifier class: publication record to source key
+
+Resolved pairs
+- PR-588 -> SR-512
+- PR-541 -> SR-530
+
+This listing is used by cataloging staff to associate each publication record identifier with its issuing source key for profile ingestion and display labeling.

@@ -1,0 +1,9 @@
+STORAGE TELEMETRY REGISTRY
+Monthly status snapshot — June
+
+battery B-428 at S-42 reported MAINTENANCE during June; B-439 at S-41 reported ONLINE.
+
+Battery ID: B-428 | Site: S-42 | Reported state: MAINTENANCE
+Battery ID: B-439 | Site: S-41 | Reported state: ONLINE
+
+Snapshot generated from the storage monitoring service for June state reporting.

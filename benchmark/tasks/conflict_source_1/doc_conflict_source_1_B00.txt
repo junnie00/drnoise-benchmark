@@ -1,0 +1,16 @@
+=== SYSTEM EXPORT: MARSETT COLLEGE STUDENT CENSUS EXTRACT ===
+job_name=mc_census_pull
+module=enrollment_snapshot
+institution=Marsett College
+population_code=UG
+active_students=3120
+extract_purpose=registrar census view
+file_class=machine_readable operational export
+render_mode=fixed width normalized
+
+field glossary:
+population_code = registrar population segment
+active_students = count of active students in selected segment
+
+end_of_record=1
+checksum_state=written

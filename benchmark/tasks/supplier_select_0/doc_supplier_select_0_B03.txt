@@ -1,0 +1,6 @@
+Carrier Manifest Crosswalk
+Freight Interface Export
+
+Consignment association loaded for AP account AC-204: C-81, C-95, and C-107.
+
+This crosswalk bridges the payment account used in finance systems to the carrier consignment numbers visible in the transport interface, allowing receiving and AP staff to speak to the same movement using different reference formats.

@@ -1,0 +1,14 @@
+Census Codebook
+Registrar Enrollment Populations
+
+Definition line: UG and GR are the two disjoint populations included in registrar total enrollment.
+
+Code entries
+UG — undergraduate population segment used in census extraction
+GR — graduate population segment used in census extraction
+
+Inclusion rule:
+Registrar total enrollment is assembled from the included population set named above. Because the populations are disjoint, records are not shared across these two reporting segments.
+
+Codebook series: CCB-R
+Audience: reporting systems, census operations, profiles intake

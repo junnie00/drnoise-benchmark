@@ -1,0 +1,8 @@
+Regulated Entity Crosswalk
+Licensing and Docket Services
+
+Registrant mapping currently recognized:
+R-880 corresponds to Ardent Works.
+R-442 corresponds to Beacon Foundry.
+
+The crosswalk is used where docketed matters carry registrant numbers instead of trade names on covers, board slips, and mailing labels.

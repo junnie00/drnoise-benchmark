@@ -1,0 +1,8 @@
+ALTON PHARMA
+Packaging Observation Findings
+Inspector Output
+
+Findings entered for the listed observations were: O-914 seal absent; O-915 seal intact; O-922 seal absent.
+
+Output mode: concise result strings
+Inspection focus: tamper seal condition noted during packaging observation activities.

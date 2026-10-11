@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+General Ledger Inquiry
+Reporting company: Ashel Holdings
+Fiscal designation: FY2024
+Selected period: 08
+Inquiry date: 20 Feb 2024
+Expense class: Operating expenses
+
+Inquiry result: operating expenses posted at $83,000.
+
+Book set: Standard corporate
+Posting source: Expense journals
+Currency: USD
+Record state: Posted
+Filter profile: Operating only
+
+Output created in inquiry mode for finance desk review.

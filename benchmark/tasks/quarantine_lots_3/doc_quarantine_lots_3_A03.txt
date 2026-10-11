@@ -1,0 +1,15 @@
+Cold Room Sensor Export
+Source: pallet logger aggregation service
+Output mode: overnight summary
+
+Pallet result entries in this run were recorded as follows: P-34 result X; P-37 result X; P-36 result X; P-33 result N.
+
+Delimited view
+pallet,result
+P-34,X
+P-37,X
+P-36,X
+P-33,N
+
+Run checksum: 77-E1
+Terminal: CR-07

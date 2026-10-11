@@ -1,0 +1,7 @@
+April Purchase Dispatch Map
+Routing worksheet excerpt
+
+Dispatch assignment by vendor for the April run:
+V-28 handled dispatches D-244, D-245, and D-259; V-24 handled D-201, D-202, and D-203.
+
+The worksheet was issued to the internal scheduling desk to keep vendor lots grouped before carrier slots were finalized. Only dispatch identifiers and responsible vendor codes appear on this page.

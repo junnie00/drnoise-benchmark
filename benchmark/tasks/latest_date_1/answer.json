@@ -1,0 +1,15 @@
+{
+  "answer": "18 Dec 2024",
+  "false_value": "04 Sep 2024",
+  "false_values": [
+    "04 Sep 2024"
+  ],
+  "type": "date_selection",
+  "dom": "compliance",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "map company to site, filter incidents by year and safety class, join closeout dates, then take the maximum",
+    "B": "map company to registrant, decode safety docket prefixes, join resolution notices, then take the maximum"
+  }
+}

@@ -1,0 +1,10 @@
+Borealis Laboratory
+Cold-Room Access Log
+Location usage excerpt
+
+study S-404 used room CR-4A; study S-419 used room AM-4B; study S-425 used room CR-4A.
+
+Source: door scheduler and room release feed
+View: study-to-room association
+
+This excerpt lists room usage by study designation for the logged access window. The room codes reflect the environmental spaces reserved and entered under each study reference.

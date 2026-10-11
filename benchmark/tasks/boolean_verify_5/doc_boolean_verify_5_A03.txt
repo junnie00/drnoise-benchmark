@@ -1,0 +1,8 @@
+Havenport Health Oversight Board
+2024 Obligation Calendar
+Service line: Licensed outpatient providers
+
+Calendar entry:
+ORG-52, F-B5 deadline: 30 June 2024.
+
+Scheduling office note: this line appears under the midyear reporting window for providers with contrast-event nil return obligations.

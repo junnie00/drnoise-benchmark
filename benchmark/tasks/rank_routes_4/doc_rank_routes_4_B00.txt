@@ -1,0 +1,12 @@
+Dispatch Systems Export
+Corridor Alias File
+Format: route_alias_map.csv
+
+corridor_code,route_name
+C4D,Route Pacer
+C4O,Route Quarry
+C4K,Route Riven
+
+Export node: Dispatch Control
+Encoding: UTF-8
+Status: active alias set

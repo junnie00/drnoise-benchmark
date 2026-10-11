@@ -1,0 +1,12 @@
+North Valley Health Network
+Provider Master File — Organization Directory Card
+
+Organization Name: Meridian Clinic
+Organization ID: ORG-62
+Service Type: Outpatient provider record
+
+Organization Name: Meridian Hospital
+Organization ID: ORG-26
+Service Type: Hospital provider record
+
+Directory extract generated for internal registration lookup.

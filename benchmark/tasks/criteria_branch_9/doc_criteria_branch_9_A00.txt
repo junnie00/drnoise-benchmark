@@ -1,0 +1,10 @@
+SOLACE BANK
+Property & Facilities Services
+Site Directory Extract
+
+Active branch site references for current facilities scheduling:
+- S-94 — Zincourt branch
+- S-92 — Alderwick branch
+- S-91 — Brighton branch
+
+Use the site code shown above when raising engineering callouts, meter access requests, and branch plant attendance. Directory extract generated from the branch facilities index for internal operations routing.

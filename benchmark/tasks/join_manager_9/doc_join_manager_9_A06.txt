@@ -1,0 +1,10 @@
+Human Resources Service Directory
+Employee Lookup Slip
+
+Employee ID: E-908
+Name: Nadia Vale
+
+Employee ID: E-914
+Name: Omar Flint
+
+Directory slip produced from the personnel service desk for name confirmation where only employee identifiers are available in operational records.

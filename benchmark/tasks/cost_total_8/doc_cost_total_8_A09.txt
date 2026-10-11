@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+Posted Ledger Sheet
+Organization: Ashel Holdings
+FY set: FY2024
+Period no.: 10
+Sheet date: 25 Aug 2024
+Cost group: Operating expenses
+
+The posted ledger sheet lists operating expenses posted at $83,000.
+
+Book type: Primary ledger
+Currency: USD
+Journal family: OPX
+Posting condition: Final
+Output style: Sheet view
+
+Finance Control generated this sheet from the close-cycle dashboard.

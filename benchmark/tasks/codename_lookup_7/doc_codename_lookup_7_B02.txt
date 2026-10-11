@@ -1,0 +1,14 @@
+Borealis Lab Bench Scanner Log
+Summary export fragment
+
+Scanner history records vial VX71-02 scanned into study S-725.
+
+Console: BENCH-SCAN-1
+Capture mode: barcode intake
+Input source: hand scanner cradle
+Session status: complete
+Export profile: concise event listing
+Line integrity: normal
+Printer footer: omitted in fragment mode
+
+The fragment reflects a routine bench scan event captured when a vial was assigned into a study at intake.

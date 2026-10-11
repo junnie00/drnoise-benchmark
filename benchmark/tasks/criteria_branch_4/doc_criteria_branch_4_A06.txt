@@ -1,0 +1,13 @@
+Solace Bank Facilities Helpdesk
+Outage Event Record — June
+
+Site event logged for S-42 interruption 13:40, restoration 14:46.
+
+Event fields
+Site: S-42
+Service class: electrical supply
+Interruption time: 13:40
+Restoration time: 14:46
+Month bucket: June
+
+Closed event retained in the monthly outage list.

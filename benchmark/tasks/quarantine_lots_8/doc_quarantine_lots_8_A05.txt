@@ -1,0 +1,9 @@
+ALTON PHARMA PACKAGING SERVICES
+Carton-to-Batch Map
+Lookup segment: 805/831 series
+
+C-805A belongs to B-805; C-831A belongs to B-831.
+
+Application: carton-level trace support for visual packaging review
+Pulled from: Packaging Services line map utility
+Section marker: single-carton assignments

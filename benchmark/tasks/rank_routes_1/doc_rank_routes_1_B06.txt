@@ -1,0 +1,7 @@
+Northstar Freight
+Consignment Mass Summary
+Quarter: Q3
+
+For corridor C1V, shipments totalled 11.2 tonnes across six consignments.
+
+Report usage: concise corridor total for management review and dispatch balancing. The line above records both the quarter shipment mass and the count of consignments attached to the corridor in the summary output.

@@ -1,0 +1,7 @@
+Compliance Calendar Export
+Format: tenant obligations / portal display cache
+
+tenant_id,form_alias,cutoff
+T-284,Nil Return 2,2024-06-30
+
+Export row preserved from the scheduled calendar push used by the compliance portal.

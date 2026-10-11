@@ -1,0 +1,13 @@
+North Quay Components
+Receiving Exception Desk
+Arrival timing ticket
+
+Dispatch timing noted by the desk: D-545 due 11:30, received 12:06; D-559 due 15:00, received 14:48.
+
+Ticket class: timing variance observation
+Location: Inbound receiving office
+Recorded from: dock receipt stamp and schedule board
+
+The desk opened this ticket to note the actual receipt times against booked dock times for the listed loads during normal afternoon intake.
+
+Ticket stream: RX-TIME

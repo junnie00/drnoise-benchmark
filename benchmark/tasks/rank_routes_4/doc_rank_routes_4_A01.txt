@@ -1,0 +1,11 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Network Planning Register
+
+Lane name assignments in this section:
+- L-47 is Route Summit
+- L-41 is Route Thistle
+
+These lane references are maintained for operational routing, dispatch entry, and accounting alignment across regular freight movements.
+
+Distribution: Dispatch Control, Billing Operations, Terminal Leads

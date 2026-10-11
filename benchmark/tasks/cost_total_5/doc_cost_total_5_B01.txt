@@ -1,0 +1,17 @@
+HARBOR MERCHANT BANK
+Business Account Statement Snapshot
+
+Account holder: Korrby Holdings
+A/C: ****2445
+Statement period: 02/2024
+Product class: commercial checking
+
+Listed in the period summary: total operating outflows $59,000.
+
+Currency: USD
+Cycle reference: M02
+Statement rendering: summary page
+Debit scope: operating payments only
+Channel stamp: eStatement
+
+End of statement summary.

@@ -1,0 +1,11 @@
+Project Name Register
+Capital Programs Secretariat
+
+Registered Project Titles
+Reference Date: current issue
+
+Project Code | Registered Name
+HG-4         | Drift Sensor
+QD-4         | Quasar Dock 4
+
+This register is the title authority used on internal schedules, notices, and executive reporting decks.

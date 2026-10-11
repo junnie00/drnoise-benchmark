@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Monthly Statement View
+Account holder: Ashel Holdings
+Account number: ****1428
+Statement period: 03/2024
+Account plan: Commercial Checking
+
+The statement reports total operating outflows $51,000.
+
+Base currency: USD
+Issue type: E-statement
+Cycle frequency: Monthly
+Statement status: Released
+Banking center: Corporate Accounts Unit
+
+End of statement view.

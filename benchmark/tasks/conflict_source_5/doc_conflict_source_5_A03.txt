@@ -1,0 +1,20 @@
+Office of the University Registrar
+Arithmetic Policy Sheet
+Enrollment Calculation Standard
+
+Institutional enrollment is the sum of the certified undergraduate and graduate unit counts.
+
+Scope
+This standard governs the arithmetic used on registrar census worksheets and formal count certifications issued by enrollment records staff.
+
+Included categories
+- undergraduate unit certification
+- graduate unit certification
+
+Excluded from this policy sheet
+- headcount by school or division
+- applicant, admit, and matriculant reporting
+- external publisher formatting rules
+
+Effective format
+Where a campus-level institutional enrollment figure is required for registrar reporting, staff derive it by adding the certified counts from the two registrar units named in the census process.

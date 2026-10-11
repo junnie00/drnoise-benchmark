@@ -1,0 +1,8 @@
+Storage Telemetry Registry
+Monthly State Listing — June
+
+Recorded branch battery conditions:
+- battery B-928 at S-92 reported MAINTENANCE during June
+- B-939 at S-91 reported ONLINE
+
+This listing was pulled from the resilience monitoring register for monthly operating-state review.

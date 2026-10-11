@@ -1,0 +1,6 @@
+Distribution Routing Register
+Unit mapping excerpt
+
+Release units moved under these distribution identifiers: R-48 travelled as DU-8; R-71 as DU-2; R-60 as DU-6; R-33 as DU-1.
+
+The routing register is maintained by dispatch operations to align release paperwork with the shipping unit number presented in transport and cold-chain tickets.

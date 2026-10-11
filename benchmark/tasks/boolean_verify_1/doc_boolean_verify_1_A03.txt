@@ -1,0 +1,10 @@
+MedData Compliance Office
+2024 Obligation Calendar — Registry Card
+
+Organization: ORG-12
+Scheduled filing obligation: F-B1
+Deadline: 30 June 2024
+
+Calendar basis: annual controlled filing schedule.
+Window type: deadline date.
+Display note: obligations are shown by organization code and filing code for intake planning.

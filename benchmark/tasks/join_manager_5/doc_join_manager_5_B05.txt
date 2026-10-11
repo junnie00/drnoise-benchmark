@@ -1,0 +1,7 @@
+HR Systems Support
+Identity Crosswalk
+
+Supervisor-to-employee mapping on file:
+supervisor S-577 maps to employee E-508; S-531 maps to E-514.
+
+The crosswalk resolves supervisory codes used in reporting applications to the employee identifiers used by HR systems.

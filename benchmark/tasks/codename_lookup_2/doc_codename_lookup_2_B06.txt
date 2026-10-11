@@ -1,0 +1,10 @@
+Restricted Name Register
+Borealis Confidential Registry
+
+Registered token-name pairs:
+token T-288 is Ivory Kite; T-293 is Moss Lantern; T-297 is Cedar Finch.
+
+This register leaf is held for controlled release of study codenames attached to archive tokens. Entries are presented in token order for registry lookup.
+
+Leaf number: RNR-12
+Registry seal: closed

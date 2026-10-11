@@ -1,0 +1,11 @@
+BOREALIS LAB ARCHIVE INDEX
+Study Archive Tokens
+
+Index assignment line:
+S-604 archive token T-688; S-619 token T-693; S-625 token T-697.
+
+Index source: study closeout desk
+Storage lane: tokenized archive series
+Media: compact card export
+
+The token mapping above is the archive index reference used to pull the corresponding study folders from storage.

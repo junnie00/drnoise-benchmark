@@ -1,0 +1,14 @@
+Harbor State Bank — Monthly Account Statement
+Business customer: Tannic Holdings
+A/C: ****8459
+Statement period: 03/2024
+
+The statement summary for 03/2024 records total operating outflows $58,000. This is the operating-use cash movement total shown for the account during the period.
+
+Summary fields
+Account type: Business operating account
+Currency: USD
+Period close label: 03/2024
+Delivery: electronic
+Servicing desk: Metro Commercial Banking
+Document code: STMT-MONTHLY

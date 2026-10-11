@@ -1,0 +1,8 @@
+Assurance Codebook
+Closeout Interpretation Sheet
+
+Code Meaning
+A1   passed final audit
+B2   remediation remained open
+
+Reference sheet maintained for staff reading abbreviated assurance outcomes in closeout dockets and reporting exports.

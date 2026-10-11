@@ -1,0 +1,12 @@
+Northstar Freight
+Interoffice Memorandum
+
+From: Quarter-Close Coordination
+To: Operations Accounting and Linehaul Reporting
+Subject: Q3 2024 month set for volume reporting
+
+For quarter-close handling, Q3 2024 comprises July, August, and September; monthly ledger values are not cumulative.
+
+This clarification is being circulated because lane activity summaries and customer recaps are being prepared in parallel, and some teams are lifting month figures directly from the operating ledgers. Treat each month as its own posted period when assembling any quarter view from those ledgers.
+
+Please apply this definition consistently in internal reporting packs for the 2024 third-quarter close.

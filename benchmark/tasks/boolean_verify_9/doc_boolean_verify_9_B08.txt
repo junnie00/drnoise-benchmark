@@ -1,0 +1,8 @@
+Event Clock Store
+Immutable event-time lookup
+
+Event key: E-901
+Occurred: 2024-07-03
+Tenant: T-948
+
+Clock-store response excerpt from a tenant-scoped event search. The record shows the occurrence date carried on the indexed event entry for the specified tenant.

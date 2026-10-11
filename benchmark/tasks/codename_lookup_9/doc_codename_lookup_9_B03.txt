@@ -1,0 +1,10 @@
+Borealis Lab Operations
+Cold-Room Access Log
+
+Usage routing: study S-904 used room CR-9A; study S-919 used room AM-9B; study S-925 used room CR-9A.
+
+Badge system: room entry aggregation
+Log window: study-based access summary
+Facility segment: temperature-controlled rooms
+
+This access summary condenses room usage by study identifier for scheduling and occupancy review.

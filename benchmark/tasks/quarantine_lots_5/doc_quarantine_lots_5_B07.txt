@@ -1,0 +1,10 @@
+ALTON PHARMA
+Packaging Observation Console
+Observation Result Extract
+
+Recorded findings for the referenced observations:
+O-531 seal intact; O-541 seal absent.
+
+Console view: tamper-seal observations only
+Entry style reflects inspector selection list values.
+Extract requested by packaging QA for same-shift review.

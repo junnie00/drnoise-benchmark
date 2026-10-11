@@ -1,0 +1,13 @@
+Harbor Commercial Bank
+Business Account Statement Summary
+Customer name: Tannon Holdings
+Account: ****7176
+Statement period: 07/2024
+Issue source: Corporate Statement Engine
+
+Statement period 07/2024 records total operating outflows $60,000. This summary page provides categorized cash movement for the account named above.
+
+Currency: USD
+Delivery status: posted to portal
+Page count: 1
+Servicing line: Commercial Treasury Support

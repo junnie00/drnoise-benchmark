@@ -1,0 +1,9 @@
+SCANLOG // Borealis Bench Instrument Cluster 2
+Session extract
+
+vial VX41-02 scanned into study S-425.
+
+Scanner state: accepted reads only
+Feed origin: bench intake cradle
+
+Single-event output from the scanner queue showing the vial identifier and study assignment recorded at the time of intake. The formatting follows the compact event style used by the bench instrument export utility.

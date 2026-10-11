@@ -1,0 +1,6 @@
+Renewable Certificate File
+Certificate Index Entry
+
+array A-933 at F9EM reached operational acceptance.
+
+Index line from the renewable acceptance file for branch energy assets.

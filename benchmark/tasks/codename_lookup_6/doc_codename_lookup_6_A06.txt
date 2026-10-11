@@ -1,0 +1,13 @@
+BOREALIS LABORATORY
+Codename Vault
+Restricted Naming Record
+
+Vault correspondence entry:
+AK-655 corresponds to Quiet Ember; AK-661 to Gold Vale; AK-672 to Stone Heron.
+
+Access tier: internal restricted
+Vault cabinet: N-series
+Slip class: archive-name equivalence
+Checked out by: Naming Office terminal session
+
+This record is used when archival keys need to be rendered into approved project codenames for internal authorized labeling.

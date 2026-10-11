@@ -1,0 +1,10 @@
+Northstar Freight
+Adjustment Register
+Quarter-Close Posting Review — Q3 2024
+
+Reviewed lanes: L-64, L-69, L-62, L-67, L-61
+Finding entered: no Q3 volume adjustments were posted for L-64, L-69, L-62, L-67, or L-61.
+
+Register status: closed for quarter-volume adjustment review
+Reviewed by: Operations Accounting Desk
+Entered during the quarter-close sweep to confirm whether any tonnage corrections, reversals, or supplemental volume postings were applied to the listed lanes before management reporting.

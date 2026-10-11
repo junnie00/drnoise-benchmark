@@ -1,0 +1,17 @@
+North Quay Finance Suite — General Ledger Summary
+
+Entity: Korrby Holdings
+Fiscal year: FY2024
+Period: 11
+Report date: 13 Dec 2024
+Selection code: OPEX
+
+System total for the selected period: operating expenses posted at $70,000.
+
+Amount type: posted activity
+Currency standard: USD
+Source coverage: disbursements and operating accrual journals
+Scheduler tag: DEC-CLOSE-GL11
+Output channel: PDF spool
+
+End summary.

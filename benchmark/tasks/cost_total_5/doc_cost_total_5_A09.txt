@@ -1,0 +1,18 @@
+GL Inquiry Snapshot
+
+Company record: Korrby Holdings
+Fiscal frame: FY2024
+Period frame: 10
+Snapshot date: 09 Oct 2024
+Category pulled: Operating expenses
+
+Snapshot value: operating expenses posted at $30,000.
+
+Book: primary corporate ledger
+Currency: USD
+Posting status: posted-only
+Console operator: fin.ctrl
+Batch environment: PROD-GL
+Display: compact summary
+
+Printed from accounting workspace.

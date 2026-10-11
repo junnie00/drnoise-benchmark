@@ -1,0 +1,9 @@
+Northwater Works
+Risk & Safety Office
+Credential Register Extract
+
+Credential No. | Vendor | Expiry
+SC-617 | V-68 | 31 December 2024
+SC-661 | V-64 | 20 March 2024
+
+This screen print reflects the supplier safety credential register entries returned for the requested vendor IDs.

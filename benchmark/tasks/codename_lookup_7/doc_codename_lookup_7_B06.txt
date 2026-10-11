@@ -1,0 +1,13 @@
+Restricted Name Register
+Borealis Lab — Name Control Desk
+
+Register entries indicate token T-788 is River Pearl; T-793 is Violet Field; T-797 is Iron Moth.
+
+Register class: restricted codenames
+Desk authority: Name Control Desk
+Access marking: internal restricted
+Entry arrangement: token sequence
+Alias issuance basis: approved study naming set
+Ledger condition: current bound volume
+
+This excerpt shows the codename associated with each listed token in the restricted register.

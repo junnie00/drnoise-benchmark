@@ -1,0 +1,7 @@
+Timestamp Archive
+Acceptance Record
+
+Receipt R-950 for ORG-26 was accepted 03 July 2024.
+
+Archive source: intake acceptance service
+This entry appears in the date-indexed acceptance ledger.

@@ -1,0 +1,7 @@
+North Quay Components Trust
+Gate Administration Unit
+Punctuality Extract — grouped account review
+
+Consignments C-93, C-96, and C-98 were each recorded before the booked gate time.
+
+The grouped wording is used in the review view when multiple consignments under the same account show no late gate passage.

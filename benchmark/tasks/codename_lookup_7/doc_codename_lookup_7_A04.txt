@@ -1,0 +1,14 @@
+Borealis Lab Facilities Unit
+Environmental Chamber Map
+Revision board excerpt
+
+Map annotation states CH-74 setpoint 4 degrees C; CH-79 setpoint 22 degrees C.
+
+Zone: controlled thermal corridor
+Asset type: enclosed environmental chambers
+Display format: fixed setpoint map for floor use
+Revision mark: current corridor layout
+Mount location: north wall outside chamber suite
+Approved for posting by: Facilities Unit scheduler
+
+This posted map is the floor reference used by staff to identify the assigned setpoint for each numbered chamber in the suite.

@@ -1,0 +1,7 @@
+North Quay Components
+Logistics Interface Export
+Carrier Manifest Crosswalk
+
+AC-371 consignments were C-34, C-39, and C-32; AC-309 consignments were C-33, C-36, and C-38.
+
+This export was generated for carrier-facing reconciliation between supplier account coding and consignment numbers used at the gatehouse. Records are grouped by account for quick manifest lookup.

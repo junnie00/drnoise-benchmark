@@ -1,0 +1,11 @@
+Solace Bank Facilities Engineering
+Generation Asset Register
+
+Asset assignments recorded for installed photovoltaic equipment:
+
+| Asset ID | Assigned Site | Commissioned |
+|---|---|---|
+| PV-981 | S-94 | 04 March |
+| PV-944 | S-92 | 19 February |
+
+Register view: generation assets currently listed against branch sites in the estate ledger. Dates shown are commissioning dates carried in the engineering register.

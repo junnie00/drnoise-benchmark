@@ -1,0 +1,10 @@
+Dock Control Worksheet
+Inbound timing capture
+
+Ledger entries entered from bay scans:
+D-118 due 08:30, received 08:18; D-129 due 10:00, received 09:52.
+
+Recorder: Bay 2 console
+Shift block: morning receiving
+Purpose: timing confirmation for dock flow and unloading sequence.
+No condition exceptions marked on this worksheet segment.

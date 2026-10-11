@@ -1,0 +1,13 @@
+Cold-Room Access Log
+Borealis Lab Facility Operations
+
+Usage register states study S-704 used room CR-7A; study S-719 used room AM-7B; study S-725 used room CR-7A.
+
+Area group: temperature-controlled rooms
+Door logging basis: authorized study occupancy
+Output style: daily room assignment list
+Supervisor desk: Facilities Operations
+Shift summary: mixed occupancy
+Badge exceptions: none listed
+
+This access log excerpt records the room associated with each study during controlled-room use windows.

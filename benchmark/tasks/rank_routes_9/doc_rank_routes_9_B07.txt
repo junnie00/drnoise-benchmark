@@ -1,0 +1,11 @@
+Northstar Freight
+Mass Accounting Note
+From: Eli Navarro, Settlement Accounting
+To: Quarter Close File
+Subject: Scope statement for Q3 consignment listings
+
+For the quarter packet, each listed consignment is distinct and all Q3 consignments are included exactly once.
+
+This note applies to the dispatch mass listings assembled for corridor review. The intent is to confirm that the batch fragments and corridor totals in the packet are complete as assembled and that no shipment line is duplicated within the Q3 set.
+
+Please attach this statement with the mass schedules used in settlement review.

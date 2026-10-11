@@ -1,0 +1,16 @@
+Docket Ownership File
+Registrant Portfolio Extract
+
+Portfolio listing for the registrant reads: R-480: HS-441, HS-417, HS-404, HS-433, and EN-460.
+
+The ownership file groups active and archived board dockets under the registrant identifier used by the secretariat.
+
+Registrant shown: R-480
+Associated docket identifiers on this extract:
+• HS-441
+• HS-417
+• HS-404
+• HS-433
+• EN-460
+
+File room stamp: portfolio drawer checked out 2025-01-08

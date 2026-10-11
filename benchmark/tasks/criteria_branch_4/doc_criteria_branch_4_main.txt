@@ -1,0 +1,9 @@
+FacilityMetrics
+Regional Facilities Performance Summary
+June branch resilience note
+
+Kirkstead branch is identified by FacilityMetrics as the Solace Bank location with commissioned solar, online battery storage, and a June outage restored in under two hours. In the branch resilience view prepared for internal stakeholders, Kirkstead branch is presented as the site meeting that combination of renewable generation, storage availability, and recovery timing.
+
+The summary places Kirkstead branch in focus for the period and describes it as the relevant location within the reviewed Solace Bank estate. FacilityMetrics uses that naming in its narrative account of June operating conditions and frames Kirkstead branch as the branch associated with the cited performance characteristics.
+
+This note is issued in the same editorial style as the monthly facilities digest and is intended for readers who want a concise branch-level statement rather than raw controller or outage entries. For that purpose, the statement above is the operative conclusion in the FacilityMetrics summary for the Solace Bank case.

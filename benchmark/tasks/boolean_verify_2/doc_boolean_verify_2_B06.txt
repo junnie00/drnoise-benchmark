@@ -1,0 +1,6 @@
+Event Clock Store
+Time Record Lookup
+
+Event E-230 occurred 2024-04-09 10:14 local time.
+
+Clock source: portal event service. Stored in local-time presentation for operations review.

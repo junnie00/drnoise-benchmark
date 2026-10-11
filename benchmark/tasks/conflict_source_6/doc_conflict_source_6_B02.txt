@@ -1,0 +1,7 @@
+Census Codebook
+Registrar data definitions excerpt
+Dataset: total enrollment inputs
+
+Definition entry: UG and GR are the two disjoint populations included in registrar total enrollment.
+
+Codebook context: population labels in this dataset are maintained as short codes for system exports and census screens. "Disjoint populations" indicates non-overlapping groups for rollup purposes within the registrar's enrollment reporting model.

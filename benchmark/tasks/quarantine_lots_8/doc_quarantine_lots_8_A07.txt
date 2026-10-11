@@ -1,0 +1,10 @@
+ALTON PHARMA
+Tamper Seal Inspection Worksheet
+Inspector lane: Secondary Packaging Review
+
+Seal inspection events recorded for remaining cartons in scope:
+C-805A passed; C-831A failed for absent seal.
+
+Observation basis: tamper seal presence at carton exam point.
+Station code: SEAL-4
+Worksheet class: packaging exceptions and passes

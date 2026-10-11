@@ -1,0 +1,8 @@
+NORTHSTAR FREIGHT DISPATCH SYSTEM
+Q3 Consignment Masses — batch 3
+Extract mode: corridor summary
+Unit: tonnes
+
+C1D: 2.4 and 2.8 tonnes; C1O: 2.5 and 2.35 tonnes; C1K: 2.3 and 2.5 tonnes.
+
+Final grouped extract for this corridor subset in the Q3 mass run. Consignment masses are presented exactly as stored in dispatch output, preserving decimal notation for tonnage entries.

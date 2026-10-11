@@ -1,0 +1,8 @@
+Timestamp Archive
+Acceptance Event Record
+
+Receipt: R-944
+Acceptance stamp: 21 June 2024 at 16:03
+Clock source: archive write-on-accept
+
+Extracted from the timestamp archive screen for accepted receipts. The archive stores the acceptance moment against the receipt identifier in the standard operational display used by records and intake teams.

@@ -1,0 +1,15 @@
+North Quay FinanceSuite
+General Ledger Extract
+Business name: Tannic Holdings
+Fiscal cycle: FY2024
+Run date: 11 Jan 2024
+
+In period 12, operating expenses posted at $38,000. This output is the posted actuals view for the operating expense ledger grouping and is presented in USD.
+
+Extract metadata
+Period number: 12
+Ledger source: GL
+Book selection: Actuals
+Account family: Operating expenses
+Posting condition: Posted
+Print stamp: 11 Jan 2024 10:40

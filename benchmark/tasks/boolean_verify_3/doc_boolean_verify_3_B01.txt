@@ -1,0 +1,8 @@
+Portal Form Alias List
+Submission Portal Display Names
+
+Alias mapping in current use:
+Continuation 3 — the pediatric assent renewal
+Nil Return 3 — the protocol deviation nil return
+
+This alias list supports the portal interface where user-facing form names differ from compact regulatory labels used by internal services.

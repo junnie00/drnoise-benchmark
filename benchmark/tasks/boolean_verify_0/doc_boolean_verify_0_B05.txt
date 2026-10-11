@@ -1,0 +1,9 @@
+Portal Audit Trail
+Event View
+
+Event ID: E-419
+Action: submitted Safety Nil Return
+Tenant: T-184
+Channel: web portal
+
+Rendered from the audit viewer for operations staff checking submission actions.

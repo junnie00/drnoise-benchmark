@@ -1,0 +1,9 @@
+FacilityMetrics
+Facilities Performance Summary
+Quarterly branch resilience brief
+
+FacilityMetrics names Northbay branch as the Solace Bank location with commissioned solar, online battery storage, and a June outage restored in under two hours.
+
+In the current branch energy and continuity review, Northbay branch is presented as the location meeting the combined resilience markers used in this summary. The branch is listed in the report narrative as the relevant Solace Bank site for a commissioned solar installation, battery storage in online service, and a June interruption that was restored inside a two-hour window. The summary is written as a plain-language management note rather than a technical register extract, and the branch name is stated directly for executive circulation.
+
+This brief is formatted for internal dashboard commentary and keeps to a single-site conclusion for ease of presentation. No comparative table is included in this issue, and the note records Northbay branch as the identified location for the cited combination of generation, storage, and restoration characteristics.

@@ -1,0 +1,12 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Routing Reference Panel
+
+Active lane names on this panel include the following assignments: L-77 is Route Heron; L-71 is Route Inlet.
+
+Code   Route name
+L-77   Route Heron
+L-71   Route Inlet
+
+Panel scope: supplemental outbound lanes
+Display status: published

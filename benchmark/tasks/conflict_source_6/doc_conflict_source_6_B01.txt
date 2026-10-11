@@ -1,0 +1,8 @@
+Ravensmere College Student Census Extract
+Export format: CSV render preview
+Job: RC-ENR-ACTIVE
+
+population_code,metric,value,status
+GR,active_students,930,posted
+
+This preview line comes from the same census activity export family used by Enrollment Systems. The rendered row shows the active-student figure associated with population code GR in the census extract, with standard posted status preserved from the source job output.

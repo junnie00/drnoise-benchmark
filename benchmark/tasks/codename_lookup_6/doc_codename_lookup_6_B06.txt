@@ -1,0 +1,11 @@
+BOREALIS LABORATORY
+Restricted Name Register
+
+Authorized token-name associations:
+token T-688 is Quiet Ember; T-693 is Gold Vale; T-697 is Stone Heron.
+
+Register class: sealed naming list
+Circulation: restricted internal
+Cabinet code: RNR shelf 2
+
+This register excerpt gives the approved codename attached to each listed archive token for internal naming use.

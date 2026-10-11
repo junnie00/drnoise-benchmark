@@ -1,0 +1,10 @@
+Renewables Acceptance Office
+Certificate File Abstract
+
+Operational acceptance entries recorded this cycle:
+array A-501 at F5RV reached operational acceptance; A-511 at F5LV reached operational acceptance.
+
+File class: renewable certificate
+Coverage: branch-mounted array installations
+
+Acceptance wording follows the standard filing language used on closed commissioning certificates.

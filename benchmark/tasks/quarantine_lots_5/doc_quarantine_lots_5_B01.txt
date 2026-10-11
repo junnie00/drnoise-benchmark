@@ -1,0 +1,9 @@
+ALTON PHARMA
+Distribution Mapping Slip
+Source register: Distribution Unit Map
+
+Movement coding entered for release identifiers:
+R-548 travelled as DU-58; R-571 as DU-52; R-560 as DU-56; R-533 as DU-51.
+
+Prepared within dispatch coordination to match release paperwork to physical distribution units before cold-chain tickets are opened.
+Slip type: route-key extract.

@@ -1,0 +1,10 @@
+Solace Bank Utilities Desk
+June Outage Events
+
+Event record for site S-72
+Interruption time: 13:40
+Restoration time: 14:46
+
+Category: utility interruption
+Reporting month: June
+Display: event timing summary

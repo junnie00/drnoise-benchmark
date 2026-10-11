@@ -1,0 +1,12 @@
+MEDDATA SECURE FILINGS PORTAL
+Event Clock Store
+machine export / event-time lookup
+
+match_count=1
+E-430 occurred 2024-04-09 10:14 local time.
+clock_source=application event clock
+precision=minute
+view=local
+status_line=stored
+
+-- end record --

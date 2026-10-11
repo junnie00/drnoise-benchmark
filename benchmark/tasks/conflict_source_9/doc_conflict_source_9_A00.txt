@@ -1,0 +1,19 @@
+Upland Technical
+Registrar Operations Directory
+Current Unit Index
+
+Registrar service unit U-9 is undergraduate records; unit G-9 is graduate records. This index is used by front-counter staff and records routing during census certification week.
+
+Office: Student Records and Enrollment Services
+Campus switchboard extension group: REG-OPS
+Routing format: [unit]-[queue]-[agent]
+Active service windows:
+- Records intake
+- Certification support
+- Transcript exceptions
+
+Internal reference line:
+U-9 handles file maintenance, verification packets, and term census work for undergraduate populations.
+G-9 handles file maintenance, verification packets, and term census work for graduate populations.
+
+Posted in the registrar lobby binder and mirrored in the service console menu.

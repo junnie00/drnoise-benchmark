@@ -1,0 +1,15 @@
+QUARRY UNIVERSITY
+Registrar Operations Directory
+Current Unit Index
+
+Campus Records Services maintains the following unit designations for registrar workflow routing: unit U-5 is undergraduate records; unit G-5 is graduate records.
+
+Applies to intake queues, certification batches, transcript exception handling, and census sign-off routing.
+
+Directory segment: Registrar Unit Structure
+Office family: Enrollment Records
+Status: active listing
+Display order: U-series before G-series
+Routing format accepted by imaging system: unit code + term + queue number
+
+For internal mail and case assignment, use the unit code exactly as shown in this index.

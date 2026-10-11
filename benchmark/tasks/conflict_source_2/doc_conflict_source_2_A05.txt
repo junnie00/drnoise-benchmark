@@ -1,0 +1,12 @@
+Publication Identity Table
+Lookup extract
+
+Publication mapping: PR-288 is issued by source SR-212; PR-241 is issued by source SR-230.
+
+Table class: publication-to-source resolver
+Status in register: active lookup row set
+Use context: source attribution for publication records
+Office maintaining table: Content Syndication Registry
+Export stamp: resolver batch 14
+
+The publication identity table provides source-key attribution for publication records held in the distribution catalog.

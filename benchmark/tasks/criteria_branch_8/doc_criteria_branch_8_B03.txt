@@ -1,0 +1,10 @@
+Resilience Controller Log
+Machine export fragment
+
+[period=June]
+facility=F8RV storage_state_code=1
+facility=F8LV storage_state_code=0
+facility=F8EM storage_state_code=1
+
+export_source=branch_resilience_controller
+format=plain_status_dump

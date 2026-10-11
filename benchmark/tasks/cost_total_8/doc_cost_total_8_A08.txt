@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+GL Activity Export
+Entity: Ashel Holdings
+Fiscal frame: FY2024
+Period key: 09
+Export date: 04 Apr 2024
+Account family: Operating expenses
+
+Activity export confirms operating expenses posted at $22,000.
+
+Journal stream: Operating disbursements
+Base currency: USD
+Posting status: Posted
+Display format: Flat extract
+Compilation mode: Period totals
+
+End of export.

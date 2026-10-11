@@ -1,0 +1,13 @@
+External Profile Snapshot
+Publication Record Lookup
+
+Record ID: PR-788
+Institution profiled: Stonebay Institute
+Enrollment listed: 6210
+
+Capture details:
+This snapshot preserves the enrollment figure appearing in the publication record at intake to the profiles desk.
+
+Profile class: external publication
+Index shelf: PR series
+Snapshot channel: profiles ingestion queue

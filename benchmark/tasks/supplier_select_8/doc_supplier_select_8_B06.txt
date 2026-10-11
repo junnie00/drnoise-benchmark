@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Monitor output fragment
+
+C-87 early by 4 minutes; C-84 early by 9 minutes.
+
+Two consignments from the timing monitor are shown here exactly in the variance format used by gate control.

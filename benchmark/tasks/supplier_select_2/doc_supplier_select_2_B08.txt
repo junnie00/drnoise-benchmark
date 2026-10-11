@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Month-end recap note
+
+For account-side manifest review, C-23, C-26, and C-28 were each recorded before the booked gate time.
+
+The recap note was issued by gate administration after consolidating April arrival scans. It uses the booked gate time as the comparison point and does not restate the underlying appointment schedule.

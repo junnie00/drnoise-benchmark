@@ -1,0 +1,14 @@
+MedData Registry Services
+Provider Master File — Active Organizations
+
+Extract generated for internal onboarding reference
+
+Organization ID assignments currently in force:
+- ORG-12 — Alder Clinic
+- ORG-16 — Northbank Clinic
+
+Service scope: provider registration and submission routing enrollment.
+Record class: institutional provider master.
+Display mode: alphabetical by organization name.
+
+Verified in master registry console by Provider Relations Desk.

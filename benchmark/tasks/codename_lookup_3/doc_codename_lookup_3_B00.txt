@@ -1,0 +1,11 @@
+Borealis Laboratory
+Chemical Barcode Directory
+Machine export: container prefix table
+
+[barcode_prefix_registry]
+R-37 containers carry prefix VX37; R-31 containers carry prefix VX31.
+source_node=CHEM-ID-2
+export_mode=read-only
+render=plain
+
+End of directory fragment.

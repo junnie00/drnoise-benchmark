@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+Statement Summary
+Name on account: Ashos Holdings
+Account ending: ****6213
+Statement period: 04/2024
+
+For statement period 04/2024, total operating outflows $17,000. The amount is displayed in the operating activity summary generated at cycle close.
+
+Bank fields
+Currency: USD
+Account class: Commercial current
+Statement issue method: Electronic
+Period close timestamp: 30 Apr 2024 23:59
+Branch servicing team: River Exchange Office
+
+Other transaction categories are not shown on this excerpt.

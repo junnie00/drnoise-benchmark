@@ -1,0 +1,11 @@
+Facilities Alias Book
+Branch Service Names to Facility IDs
+
+Current alias entries: facility F6RV serves Pineholt branch; F6LV serves Queensmere branch; F6EM serves Redcliff branch.
+
+Alias list
+F6RV — Pineholt branch
+F6LV — Queensmere branch
+F6EM — Redcliff branch
+
+Use case: controller, works-order, and utility references where facility IDs are shown instead of branch names.

@@ -1,0 +1,9 @@
+North Quay Components
+Inbound Planning Console
+April Purchase Dispatch Map
+
+Vendor V-33 handled dispatches D-318, D-329, and D-337.
+
+Map purpose: tie supplier-coded purchase traffic to dock dispatch references used by schedulers and bay assignment staff.
+Period shown: April purchase movements only.
+Output mode: route map summary

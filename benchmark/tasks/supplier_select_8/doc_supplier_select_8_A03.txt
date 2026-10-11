@@ -1,0 +1,7 @@
+Purchasing Operations Console
+April Purchase Dispatch Map
+Export mode: vendor grouping
+
+Vendor V-83 handled dispatches D-818, D-829, and D-837.
+
+Run parameters: month bucket APR, outbound dispatch references only. This view is used by dock scheduling when a buyer asks for the dispatch numbers tied to a single vendor record.

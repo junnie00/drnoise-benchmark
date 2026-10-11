@@ -1,0 +1,7 @@
+Northstar Freight Dispatch
+Corridor Alias File
+Export slice: active named corridors
+
+C-M maps to Route Mesa; C-V maps to Route Vale.
+
+This screen fragment is from the same alias environment used by dispatchers when assigning corridor codes to consignments and route bundles.

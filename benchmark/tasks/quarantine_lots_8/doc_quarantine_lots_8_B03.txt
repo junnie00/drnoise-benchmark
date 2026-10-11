@@ -1,0 +1,9 @@
+ALTON PHARMA COLD-CHAIN OPERATIONS
+Ticket Findings Digest
+
+Findings recorded on referenced tickets:
+T-811 recorded above-limit temperature; T-812 normal; T-821 above-limit; T-831 above-limit; T-841 normal.
+
+Digest basis: transport ticket closeout entries
+Desk: Route Temperature Review
+Format: ticket finding summary extract

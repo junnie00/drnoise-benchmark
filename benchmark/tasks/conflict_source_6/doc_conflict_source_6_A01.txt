@@ -1,0 +1,11 @@
+AUTUMN CENSUS COUNTS
+Institution: Ravensmere College
+Release class: Certified internal extract
+Run stamp: 08:10 local
+
+Certified line item for this release: Ravensmere College unit U-6 certified count 3990.
+
+Scope: autumn census workbook, unit-level certification page.
+Field set present on page image: institution, unit code, certification marker, count, registrar initials block.
+Distribution: Enrollment Services, Budget Desk, President's Office reader copy.
+Status wording on source page uses the standard census label "certified count" for each registrar unit.

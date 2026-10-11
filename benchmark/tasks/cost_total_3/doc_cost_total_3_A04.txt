@@ -1,0 +1,14 @@
+KORROS HOLDINGS FINANCE PLATFORM
+General Ledger Summary Export
+Generated: 02 Sep 2024
+Selection: FY2024 / period 05 / operating expense accounts
+
+Entity name: Korros Holdings
+Posted result: operating expenses posted at $67,000.
+
+Export mode: month summary
+Currency display: USD
+Rounding: none
+Posting layer: actuals
+
+This machine-produced summary is the standard operating account extract used during close review and retains only the rolled-up posted amount for the selected period.

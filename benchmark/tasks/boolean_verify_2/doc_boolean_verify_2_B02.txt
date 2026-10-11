@@ -1,0 +1,7 @@
+Compliance Calendar Export
+Format: tenant obligations / portal display cache
+
+tenant_id,form_alias,cutoff
+T-284,Continuation 2,2024-04-15
+
+Export generated for the portal dashboard component serving filing countdown panels.

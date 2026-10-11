@@ -1,0 +1,8 @@
+FIN-POST Export
+Package Accounting Crosswalk
+Run mode: ledger route lookup
+
+PKG_REF=PK-691 ; POST_TO=CC-67
+PKG_REF=PK-638 ; POST_TO=CC-62
+
+End of extract.

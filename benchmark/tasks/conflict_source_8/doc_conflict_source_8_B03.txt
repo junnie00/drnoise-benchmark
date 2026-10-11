@@ -1,0 +1,13 @@
+Syndication Feed Record
+Feed item ID: F-890
+Channel: college profile wire
+Institution slug: Tamarack College
+
+Payload note: feed item F-890 reports 3890 total students for Tamarack College.
+
+Transmission state: accepted
+Queue: profile syndication inbound
+Message form: numeric enrollment field with institution name
+Visible on monitor: yes
+
+The intake screen preserved the student total exactly as received in the syndicated item.

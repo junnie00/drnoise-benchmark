@@ -1,0 +1,6 @@
+Packaging Trace Worksheet
+Carton-to-Batch Map
+
+Current entries for remaining cartons in this run set: C-605A belongs to B-05; C-331A belongs to B-31.
+
+Issued from the packaging control desk for use in carton reconciliation and line-side identification.

@@ -1,0 +1,9 @@
+Korros Holdings Finance Office
+General Ledger Inquiry Slip
+Timestamp: 25 Jun 2024
+Fiscal designation: FY2024 period 08
+Inquiry filter: Operating expenses
+
+Result for period 08: operating expenses posted at $66,000.
+
+Slip generated from the inquiry console in summary form. Detail rows, account descriptions, and user session data are omitted in this print style. Intended as a concise period-total reference for the close file jacket.

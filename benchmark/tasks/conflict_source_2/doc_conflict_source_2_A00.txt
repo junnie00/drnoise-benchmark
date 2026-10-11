@@ -1,0 +1,13 @@
+NORVALE INSTITUTE
+Registrar Unit Directory
+Current unit listing for census-facing records offices
+
+Campus code: NI-RU
+Directory excerpt:
+- unit U-2 is undergraduate records
+- unit G-2 is graduate records
+
+Scope: Units listed here are the registrar subdivisions used in enrollment certifications, transcript workflow routing, and scheduled census processing. This directory excerpt is issued by Records Systems Administration for internal office addressing and unit-code resolution.
+
+Posted in unit routing console: 08:15 local
+Reference class: registrar operational directory

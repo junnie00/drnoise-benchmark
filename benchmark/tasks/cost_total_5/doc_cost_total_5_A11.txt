@@ -1,0 +1,17 @@
+NQFS General Ledger Output
+
+Organization: Korrby Holdings
+Fiscal year label: FY2024
+Accounting period: 12
+Generated: 24 May 2024
+Report title: Operating Expense Extract
+
+The ledger output states operating expenses posted at $23,000.
+
+Currency: USD
+Ledger scope: companywide
+Entry filter: posted transactions only
+Report queue: GL-SUM-P12
+User profile: controller.review
+
+No comparative columns enabled for this extract.

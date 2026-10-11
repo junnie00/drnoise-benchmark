@@ -1,0 +1,8 @@
+Risk Office Badge File
+Access account inquiry
+
+Account: AC-204
+Badge: SB-26
+Condition: active throughout April 2024
+
+The badge file entry was produced for the monthly review of supplier-side access credentials tied to payable accounts. Risk uses the account number to associate billing entities with active site badges where freight staff or service representatives require recurring facility entry.

@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Entry timing report
+
+C-71 early by 12 minutes; C-75 early by 8 minutes.
+
+Pulled from the gate timing module for review of booked versus actual arrival performance on inbound consignments.

@@ -1,0 +1,8 @@
+Controller Code Legend
+Resilience Platform Definitions
+
+Storage state mappings in current controller outputs:
+- state 1 means online
+- state 0 means unavailable
+
+Legend excerpt distributed with controller log exports so monthly plant-state codes can be read consistently.

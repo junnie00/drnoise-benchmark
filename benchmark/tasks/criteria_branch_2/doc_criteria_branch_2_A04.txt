@@ -1,0 +1,12 @@
+STORAGE TELEMETRY REGISTRY
+Monthly state summary — June
+
+Battery unit: B-228
+Site: S-22
+Reported state during June: MAINTENANCE
+
+Battery unit: B-239
+Site: S-21
+Reported state during June: ONLINE
+
+Compiled from routine telemetry submissions received from branch storage controllers for the June period.

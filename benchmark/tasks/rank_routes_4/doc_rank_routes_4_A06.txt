@@ -1,0 +1,12 @@
+Northstar Freight
+Adjustment Register — Volume Postings
+Quarter review: Q3 2024
+
+Reviewed lanes: L-44, L-49, L-42, L-47, L-41
+Posting result: no Q3 volume adjustments were posted for L-44, L-49, L-42, L-47, or L-41.
+
+Register status: cleared through quarter close
+Clerk station: Mass Accounting
+Reason code set: none applied
+
+The reviewed lane group closed without amendment entries, reversal tickets, or supplemental volume lines.

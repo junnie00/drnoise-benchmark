@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Operations BI note
+
+For account-linked consignments under review, C-77, C-92, and C-109 were each recorded before the booked gate time.
+
+Operations BI issued the note in sentence form because all three consignments shared the same timing condition and did not require separate exception coding.

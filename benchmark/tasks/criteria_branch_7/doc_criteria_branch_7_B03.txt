@@ -1,0 +1,12 @@
+RESILIENCE CONTROLLER LOG :: MONTHLY STATE EXPORT
+Period=June
+Source=Branch Storage Supervisor
+Format=Delimited plain-text view
+
+FACILITY,STORAGE_STATE_CODE
+F7RV,1
+F7LV,0
+F7EM,1
+
+Export profile: monthly branch storage state snapshot
+Terminal note: numeric state values are passed through exactly as held by the controller.

@@ -1,0 +1,19 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract
+Company record: Ashos Holdings
+Fiscal designation: FY2024
+Period: 06
+Posting date: 28 Apr 2024
+Financial class: Operating Expenses
+
+System balance for the selected class indicates operating expenses posted at $69,000. This output reflects the period-close ledger state after posting on the date shown.
+
+Profile:
+Currency: USD
+Book type: Primary
+Posting flag: Final posted
+Report code: GL-EXP-SUM
+Created: 28 Apr 2024 19:33
+Node: NQ-ACCT-06
+
+Extract limited to one expense class.

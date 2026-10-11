@@ -1,0 +1,7 @@
+Distribution Unit Map
+Outbound Logistics Register
+
+Release codes and travelled units:
+R-648 travelled as DU-68; R-671 as DU-62; R-660 as DU-66; R-633 as DU-61.
+
+This map reflects the distribution-unit labels assigned once released material moved into the outbound cold-chain lane. Wording follows the logistics system convention for movement history entries.

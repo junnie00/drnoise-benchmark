@@ -1,0 +1,11 @@
+Borealis Lab Bench Capture Console
+Scanner event log
+
+The event list shows that vial VX17-03 scanned into study S-204; vial VX17-09 scanned into study S-219.
+
+08:14  SCAN ACCEPT  vial VX17-03  -> study S-204
+09:02  SCAN ACCEPT  vial VX17-09  -> study S-219
+
+Console ID: BCH-SCN-4
+Feed: live vial association
+Session state: committed

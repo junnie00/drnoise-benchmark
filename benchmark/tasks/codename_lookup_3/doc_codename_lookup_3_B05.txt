@@ -1,0 +1,9 @@
+Archive Index Console Print
+Borealis Lab Records Unit
+
+Study archive token assignments in current index:
+S-304 archive token T-388; S-319 token T-393; S-325 token T-397.
+
+Console job: IDX-SHORT
+Paper source: tractor-feed archive printer
+Delimiter set: semicolon

@@ -1,0 +1,19 @@
+External Profile Snapshot
+Publication Record Lookup
+
+Record ID: PR-188
+Institution: Marsett College
+Enrollment listed: 4320
+Snapshot class: external publication intake
+
+Catalog description:
+This entry captures the enrollment figure printed in the referenced outside profile item at the time it was logged into the profile monitoring register.
+
+Index fields:
+Publication record: PR-188
+Entity type: college profile
+Normalization state: numeric field preserved as published
+
+Stored by:
+Institutional Profiles Desk
+Register family: EPS

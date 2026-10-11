@@ -1,0 +1,8 @@
+Safety Credential Register
+Plant Access & Handling Compliance Desk
+
+Credential entry confirmed for current register view: SC-992 belongs to V-73 and expires 31 December 2024.
+
+Scope marker: supplier-side safety credential accepted for operational handling access where a vendor credential reference is required on booking and arrival documents.
+
+Register status line shows no alternate credential number for this vendor in the current panel.

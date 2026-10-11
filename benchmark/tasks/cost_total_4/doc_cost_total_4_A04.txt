@@ -1,0 +1,15 @@
+NORTH QUAY FINANCE SYSTEM
+General Ledger Inquiry Export
+Entity: Korrar Holdings
+Fiscal year: FY2024
+Period: 05
+Entry date: 05 Oct 2024
+Ledger class: Operating expenses
+
+Posted amount this period: $73,000.
+Source stream: month-end expense close
+Batch status: posted
+Currency: USD
+View mode: summarized account activity
+
+Pulled from the standard ledger inquiry module during period review. The figure shown is the operating-expense posting associated with FY2024 period 05.

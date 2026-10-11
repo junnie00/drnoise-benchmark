@@ -1,0 +1,10 @@
+ALTON PHARMA
+Packaging Trace Worksheet
+Subject: Carton-to-Batch Map
+
+Follow-on trace entries for remaining cartons in the same review block:
+C-505A belongs to B-505; C-531A belongs to B-531.
+
+Area: secondary packaging
+Sheet class: PTW-short form
+Issued to line inspection for carton identity verification where outer markings are used in downstream observations.

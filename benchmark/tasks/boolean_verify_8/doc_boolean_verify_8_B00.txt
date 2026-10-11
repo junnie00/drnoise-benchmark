@@ -1,0 +1,12 @@
+MedData Portal Operations
+Tenant Directory Snapshot
+
+Tenant T-884 is Hazel Clinic; tenant T-848 is Northbank Clinic.
+
+TENANT_ID | DISPLAY_NAME
+T-884     | Hazel Clinic
+T-848     | Northbank Clinic
+
+Directory source: portal identity service
+Export mode: tenant-name resolution
+Status window: current listing

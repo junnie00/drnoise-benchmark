@@ -1,0 +1,12 @@
+Northstar Freight Operations Ledger
+Monthly Tonnage Posting — September 2024
+Posting class: Shipped volume
+
+Lane ID   Net shipped mass
+L-44      6,000 kg
+L-49      5,650 kg
+L-42      5,200 kg
+L-47      5,000 kg
+L-41      3,700 kg
+
+Released with September close packet for domestic linehaul reporting.

@@ -1,0 +1,15 @@
+Harbor Commercial Bank
+Business Statement Snapshot
+Client: Tannon Holdings
+Account: ****7304
+Statement period: 01/2024
+Issued by: Corporate Cash Services
+
+Total operating outflows $15,000 for statement period 01/2024 on account ****7304. This statement snapshot presents categorized cash movement for business banking review and treasury filing.
+
+Currency: USD
+Delivery channel: electronic statement
+Cutoff type: month-end
+Page reference: 1 of 1
+Statement format: condensed operating activity
+Service center: HCB Midtown Corporate

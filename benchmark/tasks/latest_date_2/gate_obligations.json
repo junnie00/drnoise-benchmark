@@ -1,0 +1,36 @@
+{
+  "query_id": "latest_date_2",
+  "source": "diagnostic oracle route metadata; contains no answer or false-answer value",
+  "obligations": [
+    {
+      "id": "A",
+      "description": "map company to site, filter incidents by year and safety class, join closeout dates, then take the maximum",
+      "query_hint": "map company to site, filter incidents by year and safety class, join closeout dates, then take the maximum",
+      "expected_docids": [
+        "latest_date_2_9dd1cebb",
+        "latest_date_2_ff4906f5",
+        "latest_date_2_357d114a",
+        "latest_date_2_9aadb598",
+        "latest_date_2_6a093fed",
+        "latest_date_2_cb74035f",
+        "latest_date_2_0baee938",
+        "latest_date_2_7001e48d"
+      ]
+    },
+    {
+      "id": "B",
+      "description": "map company to registrant, decode safety docket prefixes, join resolution notices, then take the maximum",
+      "query_hint": "map company to registrant, decode safety docket prefixes, join resolution notices, then take the maximum",
+      "expected_docids": [
+        "latest_date_2_5239d06e",
+        "latest_date_2_5ba97b38",
+        "latest_date_2_b4b2f274",
+        "latest_date_2_59d0a87b",
+        "latest_date_2_8d190489",
+        "latest_date_2_dbce9cac",
+        "latest_date_2_f75eeac8",
+        "latest_date_2_ebb6ffb7"
+      ]
+    }
+  ]
+}

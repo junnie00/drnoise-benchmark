@@ -1,0 +1,11 @@
+Borealis Lab — Inputs Register
+Cryo/ambient run consumption line
+
+This register line states that run E-130 consumed lot L-717 and used chamber CH-4.
+
+Run no.: E-130
+Lot drawn: L-717
+Chamber booked: CH-4
+Posting lane: experiment intake
+Clerk code: IN-3
+Status mark on sheet: entered

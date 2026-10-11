@@ -1,0 +1,8 @@
+Case Closeout Ledger
+Industrial Incidents Section
+
+Ledger entries posted this cycle:
+I-241 closed 12 Mar 2024.
+I-217 closed 16 Aug 2024.
+
+Posting clerk entered both matters under the standard closeout sequence for incident files released from active handling.

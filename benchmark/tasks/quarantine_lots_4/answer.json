@@ -1,0 +1,24 @@
+{
+  "answer": [
+    "LOT-847",
+    "LOT-309"
+  ],
+  "false_value": [
+    "LOT-847",
+    "LOT-626"
+  ],
+  "false_values": [
+    [
+      "LOT-847",
+      "LOT-626"
+    ]
+  ],
+  "type": "set_selection",
+  "dom": "manufacturing",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "map lots to batches and pallets, decode sensor exceptions, join carton seal failures, then intersect",
+    "B": "map public lots to release codes, join cold-chain tickets and packaging observations, then intersect"
+  }
+}

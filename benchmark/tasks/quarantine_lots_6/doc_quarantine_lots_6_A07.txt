@@ -1,0 +1,7 @@
+Seal Inspection Worksheet
+Area: Final Carton Examination
+Supplemental event listing
+
+C-605A passed; C-631A failed for absent seal.
+
+This worksheet segment closes the carton observations logged for the remaining examined units from the same packaging cycle. Pass/fail wording follows standard packaging inspection language used on the floor for tamper-seal presence checks.

@@ -1,0 +1,8 @@
+Case Closeout Ledger
+Controlled Register — Closure Posting Segment
+Clerk station: West Annex ledger desk
+
+Posted closures:
+I-1048 closed 14 Jan 2025; I-771 closed 19 Dec 2024.
+
+The listed dates are the closure postings entered for the cited case numbers. Register output is limited to the identifier and final posting date for the daily closeout book.

@@ -1,0 +1,8 @@
+Operations Intake Worksheet
+Facility Incident Capture
+
+Entries posted this sheet:
+I-621: site DO-3, opened 05 Sep 2024, class S.
+I-333: site DO-3, opened 11 Jul 2024, class S.
+
+Receiving desk used the standard short form because both matters arrived from the same site stream. The worksheet preserves the site code, opening date, and class marker exactly as entered at intake.

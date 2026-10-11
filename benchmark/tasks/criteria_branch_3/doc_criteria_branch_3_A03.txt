@@ -1,0 +1,11 @@
+STORAGE TELEMETRY REGISTRY
+Monthly State Snapshot - June
+
+Record ID: B-317
+Installed at site: S-34
+Reported state during June: ONLINE
+
+Source stream: branch resilience telemetry uplink
+Display mode: monthly state rollup
+
+This snapshot reflects the state label carried in the telemetry registry for the June reporting window.

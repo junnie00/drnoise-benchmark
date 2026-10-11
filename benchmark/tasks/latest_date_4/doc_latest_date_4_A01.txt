@@ -1,0 +1,14 @@
+North Valley Industrial Compliance Office
+Incident Type Legend
+Classifier panel version 7.2
+
+For incident coding in the intake console, code S denotes safety; E denotes environmental; Q denotes product quality.
+
+This legend appears on the operator-facing and staff-facing intake screens. Use the single-letter class exactly as displayed in system records and outbound notices.
+
+Legend set:
+S = safety
+E = environmental
+Q = product quality
+
+Controls section: Intake Standards Unit

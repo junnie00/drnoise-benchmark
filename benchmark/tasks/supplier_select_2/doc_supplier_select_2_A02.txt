@@ -1,0 +1,8 @@
+Safety Credential Register
+Compliance Desk extract
+
+Current and lapsed entries checked for vendor access review:
+• SC-217 belongs to V-28 and expires 31 December 2024.
+• SC-261 for V-24 expired 20 March 2024.
+
+The register view above was printed from the credential screen used by receiving supervisors when a supplier’s safety filing must be confirmed at the gate before unloading windows are released.

@@ -1,0 +1,9 @@
+Incident Intake Extract
+Office of Plant Conduct Review
+Batch stamp: 2024-Q4 mixed-class intake
+
+Accepted intake lines:
+- I-1048: site HA-7, opened 08 Dec 2024, class E
+- I-771: site MF-7, opened 20 Nov 2024, class S
+
+This machine-form excerpt reflects two separate submissions logged during the quarter. Class markers are shown exactly as stored in the intake application, with site codes rendered from the facility index.

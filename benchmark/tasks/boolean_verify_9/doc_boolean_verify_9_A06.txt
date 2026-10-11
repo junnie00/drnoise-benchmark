@@ -1,0 +1,8 @@
+Timestamp Archive
+Acceptance Event Record
+
+Receipt: R-901
+Acceptance stamp: 09 April 2024 at 10:14
+Clock source: archive write-on-accept
+
+Archive excerpt from the acceptance ledger showing the date and time captured when the receipt moved into accepted state. Display format follows the human-readable archive view used for support lookups.

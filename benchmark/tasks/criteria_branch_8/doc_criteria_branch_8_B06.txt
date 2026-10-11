@@ -1,0 +1,8 @@
+Utility Ticket U-82
+Service interruption record
+
+Facility: F8LV
+Service lost: 13:40
+Cleared: 14:46
+
+Opened through utilities coordination for branch electrical service restoration.

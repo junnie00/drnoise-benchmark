@@ -1,0 +1,9 @@
+NORTH QUAY COMMERCIAL BANK
+Monthly Business Statement Extract
+Account holder: Korros Holdings
+Account reference: ****8091
+Statement period: 12/2024
+
+Extracted operating figure: total operating outflows $16,000.
+
+Portal export class: monthly summary. This extract presents only the operating outflow aggregate attached to the selected statement period and does not include the full payment ledger or image archive panels.

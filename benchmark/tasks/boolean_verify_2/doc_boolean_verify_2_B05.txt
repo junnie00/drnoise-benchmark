@@ -1,0 +1,9 @@
+Portal Audit Trail
+Event Detail
+
+Event ID: E-219
+Action: submitted Nil Return 2
+Tenant: T-284
+Channel: authenticated portal session
+
+Application logger entry for a successful submission transaction within the tenant workspace identified above.

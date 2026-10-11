@@ -1,0 +1,27 @@
+{
+  "answer": [
+    "Route Ester",
+    "Route Flume",
+    "Route Gable"
+  ],
+  "false_value": [
+    "Route Flume",
+    "Route Ester",
+    "Route Heron"
+  ],
+  "false_values": [
+    [
+      "Route Flume",
+      "Route Ester",
+      "Route Heron"
+    ]
+  ],
+  "type": "ordered_top3",
+  "dom": "logistics",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "map lane IDs to names, sum July/August/September volumes for every candidate, then rank",
+    "B": "map dispatch corridors to names, sum multiple consignment masses, then rank"
+  }
+}

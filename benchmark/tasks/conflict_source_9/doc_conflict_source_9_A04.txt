@@ -1,0 +1,18 @@
+External Profile Snapshot
+Profile Archive Console
+Record ID: PR-988
+Institution: Upland Technical
+Capture type: publication record snapshot
+
+Publication record PR-988 lists Upland Technical enrollment as 4790.
+
+Snapshot fields
+Outlet category: external profile
+Display format: institution summary card
+Ingest status: stored
+Profile title string: Upland Technical
+Observed field family: enrollment
+Archive lane: publications mirror
+
+Operator remark: value captured as displayed from the issuing publication at time of import.
+Imported into the profile archive for reference in outbound media and verification work.

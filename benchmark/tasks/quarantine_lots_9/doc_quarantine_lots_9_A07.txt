@@ -1,0 +1,7 @@
+ALTON PHARMA
+Packaging Line Inspection Log
+Event Summary - supplemental sheet
+
+Seal inspection events for the remaining listed cartons: C-905A passed; C-931A failed for absent seal.
+
+This supplemental sheet follows the same floor notation used in line inspection books, separating cartons by identifier and outcome for the tamper seal presence check during final packaging review.

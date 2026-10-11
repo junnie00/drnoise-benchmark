@@ -1,0 +1,12 @@
+Meridian Commercial Bank
+Business Account Statement Summary
+Client: Korron Holdings
+Account: a/c ****1705
+Statement period: 01/2024
+
+Operating cash section: total operating outflows $12,000.
+
+Statement currency: USD
+Channel: Treasury Services
+Closing format: Monthly business summary
+Debit and credit transaction listings are maintained in the full statement image; this cover summary highlights aggregate operating cash movement for the stated cycle.

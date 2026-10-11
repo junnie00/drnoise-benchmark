@@ -1,0 +1,10 @@
+BOREALIS LABORATORY
+Codename Vault — Restricted Lookup Card
+Access tier: Naming Desk
+
+Vault correspondences in current sequence:
+AK-555 corresponds to Pale Harbor; AK-561 to Green Lattice; AK-572 to Black Aspen.
+
+Card stock: cream, edge-banded red
+Reference class: internal codename conversion
+The naming desk uses this card when archive keys must be resolved to approved experiment codenames for authorized requests.

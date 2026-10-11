@@ -1,0 +1,7 @@
+ALTON PHARMA
+Carton Control Worksheet
+Section: Batch-carton assignment, continuation
+
+C-905A belongs to B-905; C-931A belongs to B-931.
+
+Packaging operations maintain this continuation sheet for carton identifiers issued to the remaining listed batches in the run group. The worksheet appears in the standard production packet with carton references written in the same compact style used by line inspection staff.

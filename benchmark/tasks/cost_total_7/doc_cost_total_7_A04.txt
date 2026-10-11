@@ -1,0 +1,15 @@
+NarrowGate Finance Suite
+General Ledger Activity Extract
+Reporting entity: Korron Holdings
+Fiscal cycle: FY2024
+Period code: 05
+Issued: 24 Feb 2024
+Report slice: Operating expense movement
+
+Recorded amount: operating expenses posted at $30,000.
+
+Currency denomination: USD
+Ledger set: Main corporate book
+Posting status: Posted
+Origin: GL transaction register
+Generated for internal monthly accounting package assembly and limited to the chosen period's operating expense postings.

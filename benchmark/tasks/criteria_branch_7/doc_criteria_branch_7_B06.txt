@@ -1,0 +1,11 @@
+UTILITY INCIDENT TICKET
+Ticket No.: U-72
+Service location: F7LV
+
+Incident timeline
+Service lost: 13:40
+Cleared: 14:46
+
+Queue: branch utility support
+Ticket type: supply interruption
+Display: incident timing panel

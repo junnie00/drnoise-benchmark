@@ -1,0 +1,17 @@
+NORTH QUAY CAPITAL SERVICES
+GL Summary Sheet
+
+Account holder: Korric Holdings
+Year code: FY2024
+Period code: 04
+Issue date: 11 Aug 2024
+Category: Operating expenses
+
+Recorded amount for the period: operating expenses posted at $64,000.
+Basis: posted ledger activity
+Currency: USD
+Compilation mode: summary-only
+Close status: archived
+
+Office of origin: Financial Systems Division
+Record layout: standard month-close snapshot

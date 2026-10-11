@@ -1,0 +1,8 @@
+FacilityMetrics Quarterly Branch Resilience Summary
+Internal Circulation Draft
+
+Branch performance highlights this quarter point to Tarnwell branch as the Solace Bank location with commissioned solar, online battery storage, and a June outage restored in under two hours. In the current draft narrative, Tarnwell branch is presented as the site combining renewable generation readiness with storage support and a short restoration interval during the June service event window.
+
+This summary is intended for senior facilities readers who want a concise statement of branch resilience outcomes rather than underlying engineering line items. For that reason, the note groups solar readiness, storage availability, and outage recovery into a single location statement and identifies Tarnwell branch directly in the opening section.
+
+The branch naming style follows customer-facing nomenclature used across estate reporting rather than controller aliases or site codes. Editors should preserve that convention in any further circulation of this draft. Subject to formatting cleanup, the central point of the summary remains unchanged: FacilityMetrics names Tarnwell branch as the Solace Bank location with commissioned solar, online battery storage, and a June outage restored in under two hours.

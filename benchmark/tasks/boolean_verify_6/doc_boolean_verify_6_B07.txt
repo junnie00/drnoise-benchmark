@@ -1,0 +1,7 @@
+Event Clock Store
+Machine Export
+
+EVENT_ID=E-619
+OCCURRED_AT=2024-06-21 16:03 local time
+
+Clock-store row emitted from the portal timing service for event-ledger reconciliation.

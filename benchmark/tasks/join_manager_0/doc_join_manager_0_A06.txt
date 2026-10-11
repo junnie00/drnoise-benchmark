@@ -1,0 +1,9 @@
+Personnel Directory
+Internal Employee Lookup
+
+Employee roster excerpt:
+E-208 is Nadia Keene
+E-114 is Omar Voss
+
+Search scope: name resolution by employee identifier
+Office services may use this listing for signature blocks, mailbox labels, and internal contact entry.

@@ -1,0 +1,11 @@
+Seal Inspection Log
+Packaging Line Observation Entries
+
+Inspection events entered for the reviewed cartons were: C-782A failed for absent seal; C-782B passed; C-719A failed for absent seal.
+
+Disposition field on this log uses pass/fail language tied to tamper-seal presence.
+Inspection point: post-cartoner visual check
+Shift: day
+Screen title on terminal: Seal Presence Capture
+Log class: exception and acceptance mix
+Terminal ID: PKG-INSP-06

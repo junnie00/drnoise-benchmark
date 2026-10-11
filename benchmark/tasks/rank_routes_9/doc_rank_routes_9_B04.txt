@@ -1,0 +1,10 @@
+Northstar Freight Dispatch Settlement
+Q3 Consignment Masses — Batch 3
+
+Closed batch entry:
+C9D: 2.4 and 2.8 tonnes; C9O: 2.5 and 2.35 tonnes; C9K: 2.3 and 2.5 tonnes.
+
+Collection channel: quarter dispatch settlement batches
+Formatting convention: two consignments per listed corridor in this batch
+
+Entered to the settlement archive at close of upload cycle.

@@ -1,0 +1,12 @@
+Korros Holdings
+Controller's Office
+General Ledger Period Card
+
+Date issued: 13 Mar 2024
+Fiscal year: FY2024
+Period: 04
+Category: Operating expenses
+
+Recorded amount: operating expenses posted at $36,000.
+
+Reference view was produced from the ledger close workspace and formatted as a one-period card for internal month-end packet assembly. The card shows only the booked operating expense total for the selected period and excludes capital and financing lines.

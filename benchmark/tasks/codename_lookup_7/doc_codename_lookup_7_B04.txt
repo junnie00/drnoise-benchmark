@@ -1,0 +1,13 @@
+Facilities Calibration Office
+Room Calibration Record
+
+Calibration record notes CR-7A maintained 4 degrees C; AM-7B maintained 22 degrees C.
+
+Asset class: temperature-controlled laboratory rooms
+Calibration mode: maintained-condition certification
+Display unit: degrees C
+Certificate format: room condition statement
+Technician bench: Thermal Systems
+Status ribbon on file copy: valid current issue
+
+This record is the calibration office statement of maintained temperature conditions for the listed rooms.

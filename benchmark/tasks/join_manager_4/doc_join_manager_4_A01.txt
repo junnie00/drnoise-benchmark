@@ -1,0 +1,8 @@
+Finance Systems Export
+Module: Package Accounting Crosswalk
+
+package_id,posting_cost_center
+PK-491,CC-47
+PK-438,CC-42
+
+Source format preserved from ledger bridge output. Values are used by accounting intake when package charges are posted to program cost centers.

@@ -1,0 +1,9 @@
+OPS-INTAKE EXTRACT
+Source: Facility Incident Console
+Run mode: compact incident listing
+
+Record set returned for selected entries:
+- I-241 | site CA-2 | opened 03 Feb 2024 | class S
+- I-217 | site CA-2 | opened 18 Jun 2024 | class S
+
+System footer: rows displayed in incident-number order; date format follows bureau short form.

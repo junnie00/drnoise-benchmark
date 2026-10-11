@@ -1,0 +1,18 @@
+Feed Provenance Chain
+Syndication Operations Ticket View
+Ticket: SYN-CHAIN-224
+
+Feed item F-990 originated from publisher key PUB-9CR; F-4460 originated from PUB-9RL.
+
+Tracing context
+Reason opened: attribution check on inbound metric items
+Resolver group: Syndication Operations
+Trace method: origin lookup from item envelope to publisher registry key
+
+Observed chain
+F-990 -> PUB-9CR
+F-4460 -> PUB-9RL
+
+Ticket state: origin mapping confirmed
+Console section: provenance tab
+This ticket view reflects publisher-key resolution only and is used for feed attribution handling.

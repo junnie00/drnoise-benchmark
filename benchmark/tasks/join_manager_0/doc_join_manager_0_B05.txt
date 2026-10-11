@@ -1,0 +1,8 @@
+HR Identity Crosswalk
+Supervisor Reference File
+
+Mapped identities:
+supervisor S-77 maps to employee E-208
+S-31 maps to E-114
+
+Crosswalk maintained for systems that store supervisory assignments under code values rather than employee identifiers.

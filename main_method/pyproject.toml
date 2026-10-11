@@ -1,0 +1,48 @@
+[project]
+name = "noisy_bench"
+version = "0.1.0"
+description = "Trustworthy Deep-Research benchmark in noisy environments, built on BrowseComp-Plus"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "requests>=2.31",
+    "fastapi>=0.110",
+    "uvicorn>=0.29",
+    "anthropic>=0.58.2",
+    "openai>=1.97.0",
+    "google-genai>=1.27.0",
+    "nltk>=3.9.1",
+    "rapidfuzz>=3.10.0",
+    "transformers>=4.53.2",
+    "torch>=2.4.0",
+    "faiss-cpu>=1.11.0.post1",
+    "pyserini>=1.2.0",
+    "tqdm>=4.67.1",
+    "rich>=14.0.0",
+    "python-dotenv>=1.1.1",
+    "datasets>=4.0.0",
+    "tenacity>=9.0.0",
+    "omegaconf>=2.3.0",
+    "json5>=0.12.0",
+    "pyzmq>=26.0.0",
+    "mcp>=1.12.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-mock>=3.14",
+    "pytest-asyncio>=0.24",
+    "ruff>=0.6",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["noisy_bench*", "retrieval*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra -q"

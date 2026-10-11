@@ -1,0 +1,11 @@
+ALTON PHARMA
+Cold-Chain Support Desk
+Ticket Index
+
+Index entries for active distribution units:
+DU-98 tickets T-911 and T-912; DU-92 ticket T-921; DU-96 ticket T-931; DU-91 ticket T-941.
+
+Format: operator quick index
+Scope: refrigerated transport event logging
+
+The index is arranged by distribution unit so support staff can read the ticket numbers attached to each refrigerated movement without expanding the underlying ticket screens.

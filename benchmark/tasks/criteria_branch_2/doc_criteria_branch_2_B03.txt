@@ -1,0 +1,11 @@
+RESILIENCE CONTROLLER LOG EXPORT
+run_id=JUNE-SUMM
+format=state_snapshot
+
+facility_code,storage_state
+F2RV,1
+F2LV,0
+F2EM,1
+
+source=resilience-controller-cluster
+period=June

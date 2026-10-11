@@ -1,0 +1,18 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract
+Entity: Ashos Holdings
+Fiscal year: FY2024
+Period: 01
+Posting date: 15 May 2024
+Book section: Operating Expenses
+
+System output confirms that operating expenses posted at $31,000 for the period shown above. Entry class is listed under routine operating cost activity for the month-end close.
+
+Source batch: GL-OPEX-P01
+Status: Posted
+Currency: USD
+Ledger basis: Accrual
+Generated: 15 May 2024 18:42
+Operator terminal: NQF-GL-04
+
+End of extract — totals displayed for selected section only.

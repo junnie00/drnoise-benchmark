@@ -1,0 +1,8 @@
+North Quay Components
+Gatehouse Operations
+Punctuality Extract — variance list
+
+C-39 late by 36 minutes; C-32 early by 12 minutes.
+
+Variance list displays gate performance by consignment reference using the scheduled booking as the comparison point.
+Issued to: yard coordination desk

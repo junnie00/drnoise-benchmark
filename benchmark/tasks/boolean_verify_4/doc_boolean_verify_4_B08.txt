@@ -1,0 +1,12 @@
+MEDDATA SECURE FILINGS PORTAL
+Event Clock Store
+machine export / event-time lookup
+
+match_count=1
+E-401 occurred 2024-07-03 for tenant T-448.
+clock_source=application event clock
+precision=date
+view=tenant-associated event line
+status_line=stored
+
+-- end record --

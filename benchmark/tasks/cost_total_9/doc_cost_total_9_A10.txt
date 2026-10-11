@@ -1,0 +1,19 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract
+Entity title: Ashos Holdings
+FY reference: FY2024
+Period: 11
+Posting date: 14 Aug 2024
+Selected segment: Operating Expenses
+
+The selected segment reflects operating expenses posted at $43,000 for this fiscal period. Export shows the posted amount captured in the general ledger after close processing.
+
+Section metadata
+Currency: USD
+Ledger book: Primary
+Post status: Posted
+Close run code: AUG-P11
+Export time: 14 Aug 2024 20:21
+Host console: GL-REPORT-8
+
+Single-section summary complete.

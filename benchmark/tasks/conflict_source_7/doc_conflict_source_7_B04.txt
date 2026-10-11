@@ -1,0 +1,12 @@
+Feed Provenance Chain
+Syndication Lineage Register
+
+Feed item | Origin publisher key
+F-790 | PUB-7CR
+F-5790 | PUB-7RL
+
+Register description:
+The lineage register stores publisher-key origins for inbound feed items after normalization in the syndication pipeline.
+
+View name: provenance chain
+Maintained by: Data Exchange Console

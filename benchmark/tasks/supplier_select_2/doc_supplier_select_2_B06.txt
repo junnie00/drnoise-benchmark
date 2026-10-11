@@ -1,0 +1,6 @@
+Gate Punctuality Extract
+Arrival variance screen print
+
+C-27 early by 4 minutes; C-24 early by 9 minutes.
+
+The screen print was taken from the security gate console during an end-of-day service check. Variance is displayed in minutes from booked time, using “early” for arrivals ahead of slot and omitting any warehouse unload information.

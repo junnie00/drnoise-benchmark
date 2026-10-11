@@ -1,0 +1,9 @@
+Utility Ticket U-34
+Service Interruption Record
+
+Ticket: U-34
+Facility: F3RV
+Service lost: 09:12
+Cleared: 10:36
+
+Opened under the utility liaison queue to track the loss and clearance times communicated for the June incident at this facility.

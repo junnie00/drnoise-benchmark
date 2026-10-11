@@ -1,0 +1,15 @@
+NarrowGate Finance Suite
+GL Extract Report
+Entity: Korron Holdings
+Fiscal year label: FY2024
+Period: 09
+Run stamp: 07 Aug 2024
+Report group: Operating expenses
+
+Extract total states operating expenses posted at $89,000.
+
+Journal class: Expense
+Posting state: Posted
+Currency code: USD
+Ledger environment: Production
+This document is a report-rendered ledger excerpt from the monthly accounting cycle and captures only posted expense activity for the selected period.

@@ -1,0 +1,10 @@
+Resilience Controller Log
+Machine Export — June
+
+RUNSET=JUNE
+FACILITY,STORAGE_STATE
+F9RV,1
+F9LV,0
+F9EM,1
+
+Controller output captured from the resilience platform monthly state register.

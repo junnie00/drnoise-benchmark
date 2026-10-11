@@ -1,0 +1,17 @@
+NORTH QUAY CAPITAL SERVICES
+Machine Output - GL Period Summary
+
+Entity: Korric Holdings
+FY: FY2024
+Period No.: 07
+As of: 28 Jan 2024
+Focus: Operating expense line activity
+
+Summary amount: operating expenses posted at $81,000.
+Currency: USD
+Posting status: posted
+Journal population: expense-related postings
+Archive state: retained snapshot
+
+System remarks:
+Output compiled from period-close balances and journal movement totals in the standard ledger export view.

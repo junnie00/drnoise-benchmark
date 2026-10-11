@@ -1,0 +1,10 @@
+BOREALIS LABORATORY
+Bench Scanner Log
+Scanner node: BN-06
+
+Session capture shows that vial VX51-02 scanned into study S-525.
+
+Read quality: accepted
+Operator prompt mode: silent
+Feed: single-vial intake
+This printout reflects barcode scans recorded at the bench during study intake, preserving the vial identifier and the study code accepted by the station.

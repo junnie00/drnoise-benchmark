@@ -1,0 +1,10 @@
+Renewable Certificate File
+Operational Acceptance Notices
+
+Certificate entries on file for branch arrays:
+
+Array | Facility | Acceptance note
+A-301 | F3RV | reached operational acceptance
+A-311 | F3LV | reached operational acceptance
+
+Filed by the renewable projects desk following acceptance processing for these two facilities.

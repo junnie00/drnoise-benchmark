@@ -1,0 +1,10 @@
+Timestamp Archive
+Acceptance Event Record
+
+Receipt reference: R-350
+Organization context: ORG-36
+Accepted: 03 July 2024
+Clock source: intake acceptance service
+Archive status: sealed event line
+
+This archived acceptance entry was recorded for ORG-36 under receipt R-350 and remains available through the standard event-history lookup.

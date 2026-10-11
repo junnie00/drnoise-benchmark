@@ -1,0 +1,16 @@
+Harborside Treasury Bank
+Business Banking
+
+STATEMENT SUMMARY CARD
+Client: Korric Holdings
+Account: ****3521
+Statement period: 10/2024
+
+Recorded on the statement for this cycle: total operating outflows $34,000.
+Currency: USD
+Statement class: commercial account
+Availability: portal image
+Issue status: complete
+
+Origin unit: Treasury Operations
+Cycle reference: October monthly run

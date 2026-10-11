@@ -1,0 +1,10 @@
+UTILITY SERVICE TICKET
+Ticket No.: U-54
+Facility: F5RV
+Service class: electrical supply
+
+Incident timeline
+- service lost 09:12
+- cleared 10:36
+
+Dispatch remarks: closure time reflects utility clear posted to the facilities queue. Ticket remains in the utility incident register under the cited number.

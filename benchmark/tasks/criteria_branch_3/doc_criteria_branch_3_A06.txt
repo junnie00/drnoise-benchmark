@@ -1,0 +1,8 @@
+Solace Bank Utilities Desk
+June Outage Event Slip
+
+Site: S-32
+Interruption time: 13:40
+Restoration time: 14:46
+
+Operations use this event slip to capture timing for service interruptions affecting branch premises during June.

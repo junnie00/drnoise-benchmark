@@ -1,0 +1,7 @@
+Northstar Freight
+Consignment Mass Worksheet — Q3 batch 3
+Measure: tonnes
+
+Batch 3 closed with these corridor entries: C3D: 2.4 and 2.8 tonnes; C3O: 2.5 and 2.35 tonnes; C3K: 2.3 and 2.5 tonnes.
+
+Sheet layout follows the regular quarter worksheet pattern for dispatch-origin consignments, listing each corridor in code form with individual recorded masses.

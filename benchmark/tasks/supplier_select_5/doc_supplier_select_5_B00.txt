@@ -1,0 +1,13 @@
+North Quay Components
+Accounts Payable Control
+Supplier Alias Table — payment master extract
+
+Account mapping:
+AC-504 pays Vesper Seals
+AC-571 pays Lumen Gaskets
+AC-509 pays Harbor Molds
+
+Usage context: payment-name normalization for voucher issue and remittance formatting. This control extract presents the supplier name attached to each payable account code in the current master.
+
+Source application: AP-CTRL
+Export style: nightly fixed record dump

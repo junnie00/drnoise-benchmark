@@ -1,0 +1,9 @@
+Restricted Name Register
+Borealis Laboratory
+
+Token-to-name registry line:
+token T-388 is North Comet; T-393 is Silver Fen; T-397 is Blue Quarry.
+
+Access category: restricted nomenclature
+Register cabinet: sealed drawer series RN
+Entry band: current active names

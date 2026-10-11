@@ -1,0 +1,7 @@
+Receiving Dock Event Ledger
+Bay timing slip
+
+Logged dock events:
+D-218 due 08:30, received 08:18; D-229 due 10:00, received 09:52.
+
+Recorder notes: both entries were posted from the inbound gate timestamp feed after trailer check-in and before unload confirmation. Times are shown in local 24-hour format exactly as displayed on the dock board.

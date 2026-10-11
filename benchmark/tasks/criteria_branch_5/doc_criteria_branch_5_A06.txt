@@ -1,0 +1,9 @@
+Solace Bank Facilities Helpdesk
+June Outage Event Record
+
+Site: S-52
+Event type: power interruption
+Interruption time: 13:40
+Restoration time: 14:46
+
+Logged by the outage desk in the June event sequence for branch service continuity tracking.

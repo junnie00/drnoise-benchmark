@@ -1,0 +1,13 @@
+STONEBAY INSTITUTE :: STUDENT CENSUS EXTRACT
+Run mode: registrar snapshot
+
+institution=Stonebay Institute
+population_code=UG
+active_students=4610
+extract_class=enrollment census
+record_status=posted
+output_channel=OPS-REG-EXPORT
+
+Field remarks:
+population_code identifies the student population bucket used in the census extract.
+active_students is the posted active-student count for that bucket at time of export.

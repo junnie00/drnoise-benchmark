@@ -1,0 +1,8 @@
+ALTON PHARMA
+Batch Genealogy Crosswalk Card
+Line: Finished Goods / Domestic Release
+
+Lot-reference entries active for current warehouse tracing:
+LOT-814 is batch B-182; LOT-276 is B-119; LOT-693 is B-105; LOT-155 is B-131.
+
+Format note: external lot number shown first, internal batch code shown second. Card issued from Manufacturing Records for floor supervisors and release staff using mixed lot/batch labels during packing closeout.

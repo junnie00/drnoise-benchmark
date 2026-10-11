@@ -1,0 +1,12 @@
+Meridian Commercial Bank
+Commercial Account Statement
+Customer: Korron Holdings
+Account reference: a/c ****6234
+Statement period: 04/2024
+
+Cash management rollup reports total operating outflows $47,000.
+
+Currency denomination: USD
+Statement class: Monthly
+Bank division: Corporate Operations
+This statement page provides the high-level operating disbursement total for the period alongside standard account identification details.

@@ -1,0 +1,11 @@
+MedData Regulatory Exchange
+Regulatory Filing Codebook
+2024 filing aliases and form codes
+
+Code definitions in current use:
+F-A4 means data-use renewal; F-B4 means unplanned-visit summary.
+
+These labels appear in routing logs, intake receipts, and filing queues exactly as shown above.
+
+Codebook section: annual provider submissions
+Format edition: exchange short-code layout

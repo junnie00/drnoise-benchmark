@@ -1,0 +1,16 @@
+KORREL HOLDINGS
+Ledger Summary Output
+
+Generation date: 07 Aug 2024
+Entity: Korrel Holdings
+Book year: FY2024
+Period no.: 09
+Section: Operating expenses
+Posted total: $24,000
+Entry condition: Posted
+
+Output profile: condensed
+Amount display: whole dollars
+Use case: period-end accounting review
+
+Machine-rendered summary line from the ledger application.

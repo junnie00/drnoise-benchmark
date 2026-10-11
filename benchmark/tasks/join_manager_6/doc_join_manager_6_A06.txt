@@ -1,0 +1,7 @@
+Personnel Directory Extract
+Name Lookup by Employee Number
+
+Employee E-608 is Iona Locke.
+Employee E-614 is Gareth Wren.
+
+Directory output generated from the staff identity index for standard office contact and roster reference.

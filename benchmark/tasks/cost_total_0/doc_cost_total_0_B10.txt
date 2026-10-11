@@ -1,0 +1,15 @@
+Harbor State Bank
+Statement Register — Commercial Accounts
+Client: Tannic Holdings
+Account mask: ****2166
+Statement period: 11/2024
+
+For the 11/2024 cycle, total operating outflows $36,000. The amount is presented in the operating activity summary on the monthly statement register.
+
+Register data
+Account category: Demand deposit business
+Currency display: USD
+Cycle close marker: 11/2024
+Delivery form: electronic
+Service office: Harbor State Treasury Support
+Page code: REG-11-C

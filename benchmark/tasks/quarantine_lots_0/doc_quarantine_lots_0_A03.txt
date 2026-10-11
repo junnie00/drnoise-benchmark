@@ -1,0 +1,12 @@
+ALTON PHARMA COLD STORAGE
+Machine Export: Pallet Sensor Summary
+
+EXPORT ID: CS-PALLET-SUM
+FORMAT: fixed text
+
+P-4  result X
+P-7  result X
+P-6  result X
+P-3  result N
+
+End of generated summary.

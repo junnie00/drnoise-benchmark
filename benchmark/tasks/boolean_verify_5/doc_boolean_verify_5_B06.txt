@@ -1,0 +1,8 @@
+MedData Compliance Portal
+Event Clock Store
+System time record
+
+E-530 occurred 2024-04-09 10:14 local time.
+
+Clock source: application node timekeeper
+Precision: minute

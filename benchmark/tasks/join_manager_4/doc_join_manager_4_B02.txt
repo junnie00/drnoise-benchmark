@@ -1,0 +1,8 @@
+Independent Closeout Docket
+Docket Type: Program Assurance
+
+Program assurance entries
+P-440 — A1
+P-410 — B2
+
+The docket records final assurance codes as issued at closeout for each listed program number.

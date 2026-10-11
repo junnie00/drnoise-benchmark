@@ -1,0 +1,13 @@
+Portal Audit Trail
+Event detail panel
+
+Event E-830 submitted Continuation 8 for tenant T-884.
+
+Event ID: E-830
+Action: submitted
+Form label: Continuation 8
+Tenant: T-884
+Origin: authenticated portal session
+Audit class: filing activity
+
+Visible in the audit viewer when filtering by submission actions.

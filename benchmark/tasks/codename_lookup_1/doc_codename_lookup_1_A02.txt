@@ -1,0 +1,10 @@
+Borealis Lab
+Experiment Input Ledger
+
+Run entry: E-118 consumed lot L-171 and used chamber CH-19.
+
+Batch handling remarks
+Receiving bench cleared the lot label before transfer, and the chamber location was written into the intake line at launch of the run. This page is part of the standard experiment inputs book used by operations staff during active scheduling.
+
+Clerk mark: entered
+Station: West bench

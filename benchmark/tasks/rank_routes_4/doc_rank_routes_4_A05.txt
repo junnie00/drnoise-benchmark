@@ -1,0 +1,13 @@
+Northstar Freight
+Interoffice Memorandum
+
+From: Corporate Accounting
+To: Regional Operations Controllers
+Subject: Quarter boundary for Q3 2024 reporting
+Date: 03 October 2024
+
+For quarter-close treatment, Q3 2024 comprises July, August, and September; monthly ledger values are not cumulative.
+
+This point is being restated because several teams requested confirmation on whether posted month figures in the shipped-volume ledgers should be read as running balances. They should not. Each monthly ledger stands on its own for that calendar month, and quarter workups should use the three individual month postings assigned to Q3 2024.
+
+Please apply this convention in any internal recap prepared from the monthly tonnage files.

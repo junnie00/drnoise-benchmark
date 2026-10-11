@@ -1,0 +1,13 @@
+Harbor Commercial Bank
+eStatement Summary - Business Account
+Customer: Tannon Holdings
+A/C ending: ****3561
+Statement period: 12/2024
+Origin: Deposits Statement Platform
+
+For statement period 12/2024, total operating outflows $33,000. The amount appears under operating uses of cash for the account referenced above.
+
+Currency: USD
+Issue class: electronic monthly statement
+Page indicator: 1/1
+Bank service center: Harbor Commercial Bank, Corporate Accounts

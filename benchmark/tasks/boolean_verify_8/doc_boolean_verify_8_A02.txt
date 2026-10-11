@@ -1,0 +1,12 @@
+MedData Compliance Office
+2024 Obligation Calendar — Provider Entry
+
+Calendar item for ORG-82: F-A8 deadline: 15 April 2024.
+
+Provider: ORG-82
+Filing code: F-A8
+Due date: 15 April 2024
+Cycle: 2024
+Queue: annual obligations
+
+This entry appears in the provider-specific date view used by filing coordinators.

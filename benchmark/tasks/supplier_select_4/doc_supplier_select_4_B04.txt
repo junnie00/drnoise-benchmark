@@ -1,0 +1,8 @@
+North Quay Logistics Interface
+Carrier Manifest Crosswalk
+April cross-reference excerpt
+
+account=AC-471 | consignments=C-44,C-49,C-42
+account=AC-409 | consignments=C-43,C-46,C-48
+
+Interface extract produced for carrier-facing manifest reconciliation.

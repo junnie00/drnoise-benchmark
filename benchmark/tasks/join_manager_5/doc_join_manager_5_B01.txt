@@ -1,0 +1,7 @@
+Budget Control Bureau
+Appropriation Register
+
+Register excerpt for current assignments:
+AP-510 was assigned to program number P-540; AP-522 to P-510.
+
+These entries are used in budget administration to identify the program number attached to each appropriation during fund control review.

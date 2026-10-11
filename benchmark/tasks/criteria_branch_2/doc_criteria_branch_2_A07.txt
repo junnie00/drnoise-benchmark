@@ -1,0 +1,10 @@
+Solace Bank Facilities Operations
+June Outage Events Log
+
+Site: S-21
+Event type: supply interruption
+Interruption time: 07:05
+Restoration time: 09:53
+Origin: automatic outage capture
+
+Single-incident log entry for the June electrical interruption recorded against the listed Solace Bank site.

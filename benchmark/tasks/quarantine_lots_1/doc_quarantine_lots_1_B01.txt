@@ -1,0 +1,8 @@
+Distribution Operations Ledger
+Distribution Unit Map
+
+Movement coding on this page records the following pairings: R-148 travelled as DU-18; R-171 as DU-12; R-160 as DU-16; R-133 as DU-11.
+
+Ledger section: outbound refrigerated units
+Recorded by: logistics office clerk
+Presentation style follows the abbreviated unit notation used on carrier manifests.

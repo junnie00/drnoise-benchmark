@@ -1,0 +1,12 @@
+Northstar Freight
+Consignment Mass Worksheet
+Q3 Consignment Masses, batch 1
+
+Corridor entries logged in this batch:
+C4D: 4.1 and 3.0 tonnes
+C4O: 3.7 and 2.8 tonnes
+C4K: 3.1 and 2.6 tonnes
+
+Worksheet source: dispatch closeout stack
+Unit basis: tonnes per consignment
+Batch integrity: accepted into quarter packet

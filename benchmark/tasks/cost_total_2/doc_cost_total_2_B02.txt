@@ -1,0 +1,17 @@
+NORTH COAST MERCANTILE BANK
+Commercial Statement Extract
+
+Date of issue: 03-cycle archive
+Customer name: Korrel Holdings
+Account ending: ****9282
+Statement period: 03/2024
+
+Cash activity category: Operating outflows
+Period total: $61,000
+
+Presentation flags
+View type: summary extract
+Balance style: activity totals
+Currency code: USD
+
+End of statement extract.

@@ -1,0 +1,13 @@
+Operations Intake Worksheet
+Regional Safety and Environment Desk
+
+Two newly logged plant matters were entered for the same site during the third-quarter intake window: I-704: site EV-4, opened 05 Sep 2024, class S; I-433: site EV-4, opened 11 Jul 2024, class S.
+
+Worksheet purpose: summarize same-day coding verification for identifiers, site codes, and class assignment before supervisor sign-off.
+
+Observed attributes
+• Site family: EV-4
+• Classification used: S
+• Intake stream: incident reporting
+
+Checked by shift lead at end of queue review.

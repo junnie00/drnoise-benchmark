@@ -1,0 +1,8 @@
+Operations Intake Worksheet
+Division: Site Compliance Reception
+
+New matters entered this pull:
+- I-1207 — site JU-9 — opened 05 Sep 2024 — class S
+- I-933 — site JU-9 — opened 11 Jul 2024 — class S
+
+Clerk entry format follows the intake convention of incident number, site identifier, opening date, and class code.

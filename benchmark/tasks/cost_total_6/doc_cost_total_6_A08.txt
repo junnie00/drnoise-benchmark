@@ -1,0 +1,16 @@
+NORTH QUAY CAPITAL SERVICES
+General Ledger Extract
+
+Entity: Korric Holdings
+Year: FY2024
+Period: 09
+Date issued: 11 Jan 2024
+Account grouping: Operating expenses
+
+Period figure: operating expenses posted at $8,000.
+Currency denomination: USD
+Population: posted journals
+Close indicator: final period snapshot
+Output type: concise ledger statement
+
+Generated within the standard accounting export environment for monthly records administration.

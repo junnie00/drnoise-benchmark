@@ -1,0 +1,11 @@
+Packaging Observation Register
+Release Code Observation Map
+
+Mapped observations for released goods:
+R-448 observations O-414 and O-415; R-471 observation O-422.
+
+This compact register lets packaging QA retrieve observation slips by release code during lot file assembly. Multiple observations may appear where the same released unit was checked more than once during handling and packing review.
+
+Register family: PKG-OBS
+Shelf copy: QA Packaging Office
+Print class: observation locator

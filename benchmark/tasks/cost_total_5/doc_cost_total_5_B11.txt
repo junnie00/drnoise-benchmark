@@ -1,0 +1,17 @@
+HARBOR MERCHANT BANK
+Monthly Statement Excerpt
+
+Customer record: Korrby Holdings
+Account no.: ****5199
+Statement period: 12/2024
+Page purpose: summarize operating disbursements
+
+Shown in the period rollup: total operating outflows $23,000.
+
+Currency: USD
+Cycle marker: DEC2024
+Excerpt type: online statement page
+Cash flow classification: operating
+Service unit: business banking operations
+
+End excerpt.

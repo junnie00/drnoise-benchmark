@@ -1,0 +1,12 @@
+BOREALIS LABORATORY
+Controlled Reagent Catalog — Issue Register
+Catalog section: Active assay stocks
+
+Reagent assignment currently posted for floor inventory:
+- reagent R-57 was issued as stock lot L-571
+- reagent R-51 was lot L-517
+
+Catalog steward initials on file: MRE
+Shelf grouping: wet chemistry / numbered reagents
+Format revision: RC-3
+This register page is the working lot reference used by intake and bench staff when matching reagent names to issued stock lots during run setup.

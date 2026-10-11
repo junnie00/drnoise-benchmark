@@ -1,0 +1,8 @@
+MedData Portal Tenant Directory
+Active Tenant Lookup
+
+Tenant assignments currently listed:
+- tenant T-684 is Fennel Clinic
+- tenant T-648 is Northbank Clinic
+
+Directory output generated for portal access administration and tenant-scoped audit review.

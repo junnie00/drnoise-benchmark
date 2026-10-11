@@ -1,0 +1,7 @@
+Independent Closeout Docket
+Case Summary Lines
+
+P-440 final assurance code A1
+P-510 final assurance code B2
+
+Docket purpose: capture the assurance code entered at independent closeout for each program number under review.

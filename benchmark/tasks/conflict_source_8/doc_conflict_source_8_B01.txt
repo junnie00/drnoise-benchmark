@@ -1,0 +1,13 @@
+-- Tamarack College Student Census Extract --
+EXPORT JOB: REG-CENSUS-NIGHTLY
+FORMAT: fixed-width rendering
+
+institution = Tamarack College
+extract title = Student Census Extract
+population code = GR
+active students = 760
+run stamp = 06:00 registrar batch
+feed target = enrollment warehouse
+record mode = active population summary
+
+End of segment. No demographic breakout included in this export slice.

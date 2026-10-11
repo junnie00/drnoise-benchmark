@@ -1,0 +1,10 @@
+SOLACE BANK
+Facilities Operations — Site Directory Extract
+Current branch/site cross-reference
+
+Site Code   Branch Name
+S-14        Riverton branch
+S-22        Lakeview branch
+S-31        Eastmere branch
+
+Issued from the internal facilities directory for branch property identification and work-order routing. This extract lists active site codes used by estates, utilities coordination, and energy systems teams when logging service events or assigning plant assets.

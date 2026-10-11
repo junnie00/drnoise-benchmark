@@ -1,0 +1,10 @@
+Facilities Calibration Office
+Room Calibration Record
+Verified maintenance conditions
+
+CR-4A maintained 4 degrees C; AM-4B maintained 22 degrees C.
+
+Record status: certified operating values
+Instrument family: room environmental monitors
+
+The values shown are the maintained conditions recorded for the listed rooms in the calibration record. This short certificate view is the standard extract issued to operations when confirming room thermal conditions by room code.

@@ -1,0 +1,6 @@
+Cold-Chain Findings
+Exception Ticket Outcomes
+
+T-611 recorded above-limit temperature; T-612 normal; T-621 above-limit; T-631 above-limit; T-641 normal.
+
+Findings were posted by the cold-chain desk after review of trip and hold data. “Above-limit temperature” indicates the monitored temperature exceeded the accepted range for that ticket interval; “normal” indicates no such condition was recorded.

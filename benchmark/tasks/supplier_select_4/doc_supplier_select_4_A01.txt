@@ -1,0 +1,9 @@
+North Quay Procurement Authority
+Safety Credential Register
+Snapshot entry
+
+Credential ID: SC-492
+Assigned vendor: V-43
+Expiry date: 31 December 2024
+Issuing panel: Industrial Site Safety Desk
+Register condition: listed for routine vendor access and handling authorization within the current register cycle.

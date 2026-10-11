@@ -1,0 +1,7 @@
+North Meridian Human Resources
+Public Directory
+
+Employee roster excerpt:
+employee E-508 is Rhea Calder; employee E-514 is Nolan Pryce.
+
+Directory entries are displayed in public-facing staff lookup format, pairing each employee identifier with its corresponding name.

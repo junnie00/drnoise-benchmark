@@ -1,0 +1,9 @@
+MedData Registry Services
+Provider Master File — Organization Index
+
+Active provider entries extracted for call-center verification:
+
+- ORG-92 — Iris Clinic
+- ORG-96 — Northbank Clinic
+
+Index scope: participating clinic entities maintained in the provider master for regulated submissions and portal routing. This view is the short-name index used by intake staff when confirming organization identifiers during receipt handling.

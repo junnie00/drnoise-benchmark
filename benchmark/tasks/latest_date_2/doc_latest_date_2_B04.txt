@@ -1,0 +1,7 @@
+Docket Opening Register
+Export fragment — calendar and prior-year carryover view
+
+Open-date entries on the selected lines are:
+HS-241 opened 03 Feb 2024; HS-217 opened 18 Jun 2024; HS-204 opened 05 Sep 2024; HS-233 opened 11 Jul 2024; HS-288 opened in 2023.
+
+Register output preserves the board's original date wording for each line item, including year-only carryover notation where applicable.

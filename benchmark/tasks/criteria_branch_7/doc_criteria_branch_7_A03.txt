@@ -1,0 +1,12 @@
+STORAGE TELEMETRY REGISTRY
+Month window: June
+Platform: Resilience Monitoring Console
+
+Device record
+Battery ID: B-717
+Site: S-74
+Reported state during June: ONLINE
+
+Polling profile: branch resilience storage
+Feed path: controller uplink
+View rendered for operations support to confirm the state label returned by the telemetry platform during the month window.

@@ -1,0 +1,11 @@
+SYSTEM EXPORT :: Chemical Barcode Directory
+Node: BL-CHEM-IDX
+Format: fixed-width mirror
+
+R-87 containers carry prefix VX87; R-81 containers carry prefix VX81.
+
+[DIR-ENTRY]
+CHEM=R-87  BARCODE_PREFIX=VX87
+CHEM=R-81  BARCODE_PREFIX=VX81
+
+End of returned segment.

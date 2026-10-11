@@ -1,0 +1,12 @@
+MEDDATA REGULATORY SERVICES
+Provider Master File — Facility Index Card
+
+Organization ID assignment for active clinic providers:
+- ORG-72 — Grove Clinic
+- ORG-76 — Northbank Clinic
+
+Index class: outpatient provider entities
+Record format: master reference extract
+Last display mode: alphabetical by facility name
+
+This card is used by intake and routing staff when matching organization identifiers to provider names during filing and correspondence handling.

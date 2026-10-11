@@ -1,0 +1,15 @@
+Renewable Certificate File
+Operational Acceptance Notice
+
+This certificate file records that array A-401 at F4RV reached operational acceptance; A-411 at F4LV reached operational acceptance.
+
+Accepted assets
+Array ID: A-401
+Facility: F4RV
+Disposition: operational acceptance
+
+Array ID: A-411
+Facility: F4LV
+Disposition: operational acceptance
+
+Filed under renewable installations for accepted branch generation equipment.

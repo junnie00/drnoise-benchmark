@@ -1,0 +1,12 @@
+Source Name Directory
+Name resolution register
+
+Directory entry: SR-212 is EduScope; SR-230 is College Atlas.
+
+Registry type: source key to display name
+Maintained by: External Publications Office
+Display convention: English legal or trade display name as carried in source onboarding
+Directory segment: active named sources
+Session printout: source-name lookup
+
+This register excerpt resolves the coded source identifiers used in publication attribution.

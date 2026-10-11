@@ -1,0 +1,8 @@
+NQPA Risk & Compliance
+Safety Credential Register
+Daily credential inquiry
+
+SC-717 — vendor V-78 — expires 31 December 2024
+SC-761 — vendor V-74 — expired 20 March 2024
+
+Inquiry run from the credential register console for active and lapsed supplier safety documents. Output condensed to credential number, linked vendor, and displayed expiry field.

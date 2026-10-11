@@ -1,0 +1,13 @@
+Borealis Lab Engineering Services
+Room Calibration Record
+
+Calibration listing states that CR-A maintained 4 degrees C; AM-B maintained 22 degrees C.
+
+Room code: CR-A
+Maintained temperature: 4 degrees C
+
+Room code: AM-B
+Maintained temperature: 22 degrees C
+
+Certificate group: environmental rooms
+Instrument block: stable-temperature spaces

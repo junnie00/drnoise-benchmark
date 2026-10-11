@@ -1,0 +1,10 @@
+North Quay Components
+Plant Risk Office
+Safety Credential Register — vendor credential lines
+
+Credential SC-517 belongs to V-58 and expires 31 December 2024; SC-561 for V-54 expired 20 March 2024.
+
+This compact register printout was produced for internal safety administration and reflects the current vendor-linked credential lines under the supplier safety program. Dates are printed exactly as held in the register for access and receiving oversight.
+
+Output source: RSK-SCR panel 2
+Issue channel: internal control print

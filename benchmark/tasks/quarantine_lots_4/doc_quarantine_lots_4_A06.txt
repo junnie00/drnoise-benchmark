@@ -1,0 +1,12 @@
+Seal Inspection Worksheet
+Tamper Band Check — Station 3
+
+Seal Inspection Events recorded this shift:
+C-482A failed for absent seal; C-482B passed; C-419A failed for absent seal.
+
+Inspector marks were entered at the carton level after visual confirmation at the discharge table. “Absent seal” indicates the tamper feature was not present at time of check. Passed cartons cleared the same station without exception.
+
+Worksheet ID: SIW-3-214
+Area: Secondary Packaging
+Shift: Late
+Inspector line: Station 3 roster signature on file

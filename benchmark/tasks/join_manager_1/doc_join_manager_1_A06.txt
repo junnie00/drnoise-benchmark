@@ -1,0 +1,8 @@
+Human Resources Directory Extract
+Employee Lookup
+
+Employee ID | Employee Name
+E-108       | Mira Solen
+E-114       | Dorian Vale
+
+Directory view compiled from the internal people index for standard name-to-employee lookup use.

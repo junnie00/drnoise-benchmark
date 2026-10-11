@@ -1,0 +1,7 @@
+North Quay Components Trust
+Gate Administration Unit
+Punctuality Extract — booked versus actual gate time
+
+Consignment C-91 early by 12 minutes. Consignment C-95 early by 8 minutes.
+
+The gate extract presents the timing delta only, as calculated from the booked slot and the recorded gate passage.

@@ -1,0 +1,12 @@
+ALTON PHARMA
+Batch Genealogy — Lot Crosswalk Card
+Plant: North River Fill & Pack
+
+Lot-to-batch relationship for current review scope:
+LOT-825 is batch B-282; LOT-287 is B-219; LOT-604 is B-205; LOT-166 is B-231.
+
+Record class: Batch genealogy reference
+Format: Controlled index card export
+Verified in line master by Materials Coordination
+Status line: active mappings shown only
+Print queue: GEN-4 / copy 1 of 1

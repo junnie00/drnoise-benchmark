@@ -1,0 +1,13 @@
+North Quay Components
+Gate Operations
+Punctuality Extract — selected consignments
+
+Variance lines: C-57 early by 4 minutes; C-54 early by 9 minutes.
+
+Report window: April movement review
+Location: main gate office
+Clock standard: gate system transaction time
+
+This short extract records whether each named consignment arrived ahead of its booked gate time and by how many minutes.
+
+Print class: operational snapshot

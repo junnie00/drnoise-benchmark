@@ -1,0 +1,11 @@
+Operations Intake Extract
+Queue: Plant Incident Entry
+Session export
+
+For site BE-1, the intake screen shows I-431 opened 05 Sep 2024, class S, and I-133 opened 11 Jul 2024, class S.
+
+Entry lines
+I-431 / BE-1 / 05 Sep 2024 / S
+I-133 / BE-1 / 11 Jul 2024 / S
+
+Source format preserved from the entry module.

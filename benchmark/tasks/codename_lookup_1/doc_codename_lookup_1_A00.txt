@@ -1,0 +1,10 @@
+Borealis Lab Materials Control
+Reagent Catalog Extract
+
+Catalog section: Active wet chemistry stocks
+
+Reagent code | Issued stock lot
+R-17 | L-171
+R-11 | L-117
+
+Release notation: Entries above reflect issued stock lots currently referenced by internal bench and archive systems. Format follows standard catalog pairing of reagent code to lot identifier for dispensing and intake logging.

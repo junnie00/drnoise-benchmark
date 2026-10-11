@@ -1,0 +1,8 @@
+Timestamp Archive
+Acceptance Record
+
+Receipt: R-901
+Accepted: 09 April 2024 at 10:14
+
+Archive source: intake acceptance service
+Stored as the official acceptance time for the receipt.

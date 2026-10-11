@@ -1,0 +1,9 @@
+Publication Identity Table
+Publication-to-Source Register
+
+Publication record | Issuing source
+PR-388 | SR-312
+PR-341 | SR-330
+
+Register scope: external profile issuers maintained by Orchard State syndication review.
+Format authority: source keys are stored in SR-series notation and referenced at the publication-record level. This table excerpt is used for resolving which source issued a given publication record during profile intake and exception handling.

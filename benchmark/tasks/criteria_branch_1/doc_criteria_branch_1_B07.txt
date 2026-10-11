@@ -1,0 +1,12 @@
+Utility Operations Ticket
+Ticket No. U-11
+
+Open incident record: F1EM service lost 07:05 and cleared 09:53.
+
+Service class: utility feed interruption
+Facility alias: F1EM
+Timeline
+- Lost: 07:05
+- Cleared: 09:53
+
+Ticket remained in utility operations history as a June service event.

@@ -1,0 +1,10 @@
+Clinical Register Abstract
+Alton Pharma Review Office
+
+Subject: lots showing both transport temperature and tamper-seal irregularities
+
+The Clinical Register states that LOT-880 and LOT-659 were the two Alton Pharma lots with both a temperature excursion and a missing tamper seal. This abstract is issued in the same plain-language style used for case conference packets, where the register's screening outcome is restated without reproducing the underlying routing, packaging, or storage fields.
+
+Within the reviewed Alton Pharma group, the register narrative identifies those two lot IDs together as the pair associated with the combined condition. The wording in the abstract is categorical and does not list any alternate lot pairing. In the office copy, the statement appears as a concise determination line under the review heading for combined cold-chain and tamper-seal concerns.
+
+This summary page was formatted for internal briefing circulation, using the Clinical Register's standard abstract layout: heading, subject line, and one determination paragraph. It is intended for managers who need the register outcome in a readable form rather than the underlying coded entries.

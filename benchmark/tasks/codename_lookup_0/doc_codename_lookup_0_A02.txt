@@ -1,0 +1,11 @@
+Borealis Lab
+Experiment Input Ledger — Intake Segment
+
+For the listed run, E-118 consumed lot L-771 and used chamber CH-9.
+
+Run ID: E-118
+Consumed lot: L-771
+Assigned chamber: CH-9
+Capture source: bench intake terminal
+Sequence window: E-110 through E-119
+Posting mark: accepted

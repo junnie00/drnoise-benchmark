@@ -1,0 +1,14 @@
+Board Docket Codebook
+Hearings Secretariat
+Edition: 2024 standard abbreviations
+
+Under the secretariat codebook, docket prefix HS is occupational safety; EN is environmental review.
+
+Prefixes are printed ahead of sequence numbers in board calendars, notices, and filing jackets.
+
+Code list:
+HS — occupational safety
+EN — environmental review
+
+Desk issuing copy: Hearings Secretariat Registry
+Print class: desk card

@@ -1,0 +1,13 @@
+Borealis Lab Archive Services
+Key Sheet — Run Filing Accessions
+
+Current accession references indicate that run E-102 filed under key AK-55; E-118 under AK-61; E-130 under AK-72.
+
+Run        Archive key
+E-102      AK-55
+E-118      AK-61
+E-130      AK-72
+
+Drawer group: experiment archives
+Sheet type: accession lookup
+Print batch: AR-KS-5

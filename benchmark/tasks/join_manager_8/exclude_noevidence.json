@@ -1,0 +1,20 @@
+{
+  "condition": "noevidence",
+  "description": "all truthful route documents removed; false summary retained",
+  "docids": [
+    "join_manager_8_06d938ed",
+    "join_manager_8_80a39df3",
+    "join_manager_8_d0553a94",
+    "join_manager_8_b06efc79",
+    "join_manager_8_59c8c7e7",
+    "join_manager_8_d801f88c",
+    "join_manager_8_63349d74",
+    "join_manager_8_8605eb92",
+    "join_manager_8_0c911042",
+    "join_manager_8_05b99539",
+    "join_manager_8_6d2793af",
+    "join_manager_8_eb3d3bf4",
+    "join_manager_8_e85700d8",
+    "join_manager_8_0d8b4cca"
+  ]
+}

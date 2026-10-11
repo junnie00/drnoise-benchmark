@@ -1,0 +1,15 @@
+Northstar Freight
+Monthly Operations Ledger — August 2024 Tonnage
+Unit basis: kg
+
+Posted lane totals for August 2024:
+
+| Lane | Shipped volume |
+|------|----------------|
+| L-14 | 6,300 kg |
+| L-19 | 5,600 kg |
+| L-12 | 5,400 kg |
+| L-17 | 4,800 kg |
+| L-11 | 3,800 kg |
+
+This extract reflects the month-end posting set carried in the operations ledger after the August close. Figures are recorded in kilograms under lane code for transport-volume accounting.

@@ -1,0 +1,11 @@
+Bench Scanner Log
+Acquisition Console Transcript
+
+vial VX97-03 scanned into study S-904; vial VX97-09 scanned into study S-919.
+
+Scanner unit: BENCH-SCAN-4
+Read mode: container ingest
+Session state: committed
+Lab area: wet bench corridor
+
+The console recorded both scans as accepted study ingests under standard vial capture settings.

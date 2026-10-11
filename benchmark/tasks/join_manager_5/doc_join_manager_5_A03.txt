@@ -1,0 +1,10 @@
+Project Name Register
+Portfolio Registry Desk
+
+Registered project names currently on file:
+
+Project Code | Registered Name
+HG-5 | Ember Works
+QD-5 | Quasar Dock 5
+
+Names listed here are the formal portfolio titles attached to each project code in the registry.

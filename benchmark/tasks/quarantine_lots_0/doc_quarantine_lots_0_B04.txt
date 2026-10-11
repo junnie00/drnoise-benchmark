@@ -1,0 +1,6 @@
+Packaging Observation Register
+Observation map — release code section
+
+Mapped observation references for this section are: R-48 observations O-14 and O-15; R-71 observation O-22.
+
+Observation numbers are the identifiers printed on packaging check slips generated during final pack review.

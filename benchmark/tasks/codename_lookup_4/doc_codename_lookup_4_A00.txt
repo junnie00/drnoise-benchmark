@@ -1,0 +1,9 @@
+BOREALIS LABORATORY
+Controlled Reagent Catalog
+Stores issue excerpt
+
+Reagent Code | Issue Lot
+R-47 | L-471
+R-41 | L-417
+
+Catalog scope: active wet-lab reagents cleared for internal bench issue. Lot notation reflects stock issue formatting used by central stores at the time of release. This excerpt was generated for floor inventory confirmation and includes only the listed reagent codes and their assigned stock lots.

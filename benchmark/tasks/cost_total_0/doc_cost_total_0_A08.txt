@@ -1,0 +1,16 @@
+North Quay FinanceSuite
+General Ledger Summary Record
+Entity record: Tannic Holdings
+Fiscal frame: FY2024
+Report date: 03 Apr 2024
+
+For period 09, operating expenses posted at $63,000. The summary record is drawn from the standard posted movement view for operating expense accounts.
+
+Record fields:
+Period ID: 09
+Book type: Actuals
+Account group: Operating expenses
+Posting status: Posted
+Monetary display: USD
+Terminal session: NQ-CNTRL-11
+Timestamp: 03 Apr 2024 17:31

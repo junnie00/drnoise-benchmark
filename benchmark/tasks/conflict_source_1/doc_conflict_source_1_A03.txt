@@ -1,0 +1,17 @@
+Office of the College Registrar
+Arithmetic Policy Bulletin
+Subject: Institutional enrollment roll-up
+
+For census reporting, institutional enrollment is the sum of the certified undergraduate and graduate unit counts.
+
+This bulletin governs how the enrollment roll-up is calculated when unit certifications are received from registrar operations. The policy applies to formal census submissions, summary packets prepared for executive review, and outbound reporting fields derived from registrar-certified counts.
+
+Scope labels used in registrar documentation:
+- undergraduate unit count
+- graduate unit count
+- institutional enrollment
+
+Authority line:
+Registrar Methods Panel
+Policy series: AR-ENR
+Distribution: census operations, records analysis, reporting services

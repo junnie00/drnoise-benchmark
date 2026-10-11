@@ -1,0 +1,11 @@
+North Quay Components
+Gate Operations Bulletin
+Consignment arrival note
+
+Gate record statement: C-53, C-56, and C-58 were each recorded before the booked gate time.
+
+Bulletin scope: April inbound carrier observations
+Issued by: Gate Operations supervisor desk
+The note summarizes the arrival condition logged for the three listed consignments relative to their booked gate appointments.
+
+Format: short-form operational bulletin

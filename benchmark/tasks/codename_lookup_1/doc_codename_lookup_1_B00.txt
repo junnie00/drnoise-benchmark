@@ -1,0 +1,9 @@
+Borealis Lab Supply Informatics
+Chemical Barcode Directory
+
+Machine listing:
+R-17 containers carry prefix VX17; R-11 containers carry prefix VX11.
+
+Export channel: handheld scanner support table
+Delimiter profile: fixed-width short form
+Active prefixes shown above are the values recognized by bench intake devices when container labels are scanned into study records.

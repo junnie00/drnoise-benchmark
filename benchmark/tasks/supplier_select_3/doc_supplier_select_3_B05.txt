@@ -1,0 +1,9 @@
+North Quay Components
+Gatehouse Operations
+Punctuality Extract — booked gate comparison
+
+C-31 early by 12 minutes; C-35 early by 8 minutes.
+
+Measure shown: variance between booked gate time and recorded arrival.
+Sort order: consignment reference
+Report slice: selected April movements

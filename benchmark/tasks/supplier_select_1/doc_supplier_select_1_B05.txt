@@ -1,0 +1,8 @@
+Gate Punctuality Extract
+Operations snapshot
+
+C-11 early by 12 minutes; C-15 early by 8 minutes.
+
+Source: booked gate appointments versus actual gate timestamp.
+Display mode: variance only.
+Issued to yard control for quick review of inbound carrier performance during the period shown.

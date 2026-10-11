@@ -1,0 +1,6 @@
+Packaging Observation Register
+Release-linked observation map — continuation
+
+This page lists the remaining assignments in sequence: R-160 observation O-131; R-133 observation O-141.
+
+Compiled for packaging QA handling of release-coded goods under standard finished-pack observation numbering.

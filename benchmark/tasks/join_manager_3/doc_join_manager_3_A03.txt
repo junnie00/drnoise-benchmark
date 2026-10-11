@@ -1,0 +1,8 @@
+Project Name Register
+Portfolio Catalog Extract
+
+Project Code | Recorded Project Name
+HG-3         | Cinder Array
+QD-3         | Quasar Dock 3
+
+Catalog excerpt issued from the portfolio naming register for use on forms, notices, and internal listings where full project names are required.

@@ -1,0 +1,8 @@
+Renewable Certificate File
+Acceptance Record
+
+Array: A-333
+Facility: F3EM
+Status entry: reached operational acceptance
+
+Entered in the certificate file as the facility acceptance wording used for branch renewable installations.

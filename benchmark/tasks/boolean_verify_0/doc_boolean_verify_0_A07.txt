@@ -1,0 +1,8 @@
+Timestamp Archive
+Acceptance Record
+
+Receipt: R-944
+Accepted: 21 June 2024 at 16:03
+
+Archive source: intake acceptance service
+Stored as the official acceptance time for the receipt.

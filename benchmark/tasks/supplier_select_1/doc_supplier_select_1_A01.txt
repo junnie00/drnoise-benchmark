@@ -1,0 +1,12 @@
+North Quay Components
+Safety Credential Register
+Extract generated for loading-bay access verification
+
+Credential SC-192 belongs to V-13 and expires 31 December 2024.
+
+Register remarks:
+- Credential class: supplier safety access
+- Display format on gate scans: SC-###
+- Vendor reference retained in internal register as issued
+
+Checked at Risk Office counter for routine registry maintenance.

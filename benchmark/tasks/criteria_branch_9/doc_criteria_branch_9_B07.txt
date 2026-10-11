@@ -1,0 +1,9 @@
+Utility Ticket U-91
+Distribution Service Desk
+
+Facility: F9EM
+Condition: service lost
+Time opened from event stamp: 07:05
+Clear time: 09:53
+
+Service interruption ticket retained in the June utility event run.

@@ -1,0 +1,16 @@
+Harbor Federal Commercial Banking
+Account Statement Summary
+Client: Ashos Holdings
+Account number: ****3993
+Statement period: 09/2024
+
+The statement summary shows total operating outflows $38,000 for statement period 09/2024. This is the categorized operating cash outflow amount displayed for the account during the cycle.
+
+Service information
+Currency: USD
+Delivery: Electronic
+Cycle close stamp: 30 Sep 2024 23:59
+Office designation: Lakeside Corporate Banking
+Document type: Period summary
+
+End summary.

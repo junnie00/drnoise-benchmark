@@ -1,0 +1,7 @@
+Closeout Administration Desk
+Independent Closeout Docket
+
+Docket status entries:
+P-540 final assurance code A1; P-510 final assurance code B2.
+
+The assurance code field records the final closeout classification returned by the independent review process.

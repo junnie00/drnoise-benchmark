@@ -1,0 +1,12 @@
+=== Compliance Calendar Export ===
+source_system=Portal Scheduler
+export_scope=tenant_cutoffs
+record_count=1
+
+tenant_id: T-384
+form_label: Nil Return 3
+cutoff: 2024-06-30
+schedule_group: annual
+state: listed
+
+--- end record ---

@@ -1,0 +1,10 @@
+MedData Portal
+Compliance Calendar Export
+Format: CSV preview
+
+tenant_id,form_alias,cutoff
+T-184,Continuation 1,2024-04-15
+
+Export source: compliance calendar module
+Rendered: local date format ISO-8601
+Rows filtered to requested tenant/form pair.

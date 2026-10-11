@@ -1,0 +1,10 @@
+Cold-Room Operations Desk
+Access Log Extract
+Facility: Borealis Lab support wing
+
+Logged room usage for listed studies:
+study S-504 used room CR-5A; study S-519 used room AM-5B; study S-525 used room CR-5A.
+
+Credential mode: badge and latch
+Extract reason: room occupancy review
+The operations desk issues these extracts when staff need a concise record of which controlled room was booked and opened for each study identifier.

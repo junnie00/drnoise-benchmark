@@ -1,0 +1,7 @@
+North Quay Components Trust
+Central Dock Office
+Dock Event Ledger — afternoon arrival note
+
+Recorded entry for D-937 due 14:15, received 14:11. Recorded entry for D-944 due 09:00, received 08:51.
+
+Clerk entry reflects the scheduled dock time and the actual received timestamp captured when the consignments cleared the receiving lane.

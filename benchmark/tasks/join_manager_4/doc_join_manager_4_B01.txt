@@ -1,0 +1,6 @@
+Budget Control Bureau
+Appropriation Register
+
+Assignment entries on the current register state that AP-410 was assigned to program number P-440; AP-422 to P-410.
+
+The register is maintained for appropriation-to-program routing used in budget release and oversight reporting.

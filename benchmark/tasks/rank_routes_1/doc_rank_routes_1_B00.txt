@@ -1,0 +1,7 @@
+Northstar Freight
+Dispatch Corridor Alias File
+Export fragment: corridor-to-route map
+
+C1D maps to Route Atlas; C1O maps to Route Beacon; C1K maps to Route Cinder.
+
+Source view: dispatch alias maintenance table. These corridor aliases appear on consignment screens and handheld route labels where corridor shorthand is used instead of the full route name. The extract is formatted as a machine-readable text block for quick import into dispatch-side lookup tools.

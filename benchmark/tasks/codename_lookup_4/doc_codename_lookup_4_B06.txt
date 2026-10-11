@@ -1,0 +1,10 @@
+BOREALIS LABORATORY
+Restricted Name Register
+Token-name segment
+
+Token T-488 is Opal Ridge; T-493 is Red Willow; T-497 is White Tern.
+
+Clearance band: internal restricted
+Register function: codename rendering from archive token
+
+The register segment provides the approved name tied to each listed token. It is formatted for controlled lookups where a token must be read into its assigned project-style codename.

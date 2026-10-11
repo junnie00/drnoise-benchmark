@@ -1,0 +1,8 @@
+Independent Closeout Docket
+Disposition Extract
+
+Program No. | Final Assurance Code
+P-240 | A1
+P-210 | B2
+
+Docket lines reflect the assurance code carried at independent closeout.

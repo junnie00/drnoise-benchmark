@@ -1,0 +1,14 @@
+SOLACE BANK
+Property & Facilities Directory
+Current Site Codes
+
+Site Code  Branch Name
+S-24       Dunwich branch
+S-22       Ealmont branch
+S-21       Fairhollow branch
+
+Issued by: Workplace Services Desk
+Directory segment: Retail network locations
+Format: internal quick-reference card
+
+For switchboard, maintenance routing, and site-level work orders, use the site code shown above when booking attendance or logging plant activity against a branch location.

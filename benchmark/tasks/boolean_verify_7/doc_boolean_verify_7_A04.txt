@@ -1,0 +1,11 @@
+MEDDATA REGULATORY SERVICES
+Submission Routing Log
+Receipt Assignment Slip
+
+Receipt R-701 is assigned to organization ORG-72 for form F-A7.
+
+Channel: regulated intake portal
+Routing state: indexed for standard processing
+Log sequence: submissions desk export fragment
+
+This slip accompanies internal routing where a receipt number must be tied to the provider identifier and filing code before downstream acceptance handling.

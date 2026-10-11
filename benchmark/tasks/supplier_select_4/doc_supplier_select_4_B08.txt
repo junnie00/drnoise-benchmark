@@ -1,0 +1,7 @@
+North Quay Gatehouse
+Gate Punctuality Extract
+Batch message
+
+C-43, C-46, and C-48 were each recorded before the booked gate time.
+
+Batch generated from gate event comparisons for the listed consignment group.

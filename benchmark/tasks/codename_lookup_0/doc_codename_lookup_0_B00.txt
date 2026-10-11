@@ -1,0 +1,12 @@
+Borealis Lab Materials Systems
+Machine Export: Chemical Barcode Directory
+
+Directory output indicates that R-17 containers carry prefix VX17; R-71 containers carry prefix VX71.
+
+[barcode_prefix_map]
+chemical_id=R-17|container_prefix=VX17
+chemical_id=R-71|container_prefix=VX71
+
+export_node=chem-dir-02
+render_mode=plain
+record_count=2

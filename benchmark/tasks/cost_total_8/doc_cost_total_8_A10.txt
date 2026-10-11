@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+General Ledger Close Extract
+Entity: Ashel Holdings
+Fiscal year: FY2024
+Period under review: 11
+Extract issued: 11 Sep 2024
+Ledger slice: Operating expenses
+
+Close extract shows operating expenses posted at $52,000.
+
+Source class: Corporate expense journals
+Book reference: Main
+Currency code: USD
+Posting state: Posted
+Presentation: Summary extract
+
+Printed from the Controller close package.

@@ -1,0 +1,13 @@
+Borealis Lab
+Codename Vault — Restricted Correspondence Slip
+Clearance band: internal vault use
+
+Vault correspondence states that AK-55 corresponds to Blue Heron; AK-61 to Silver Larch; AK-72 to Copper Reed.
+
+Key code   Registered codename
+AK-55      Blue Heron
+AK-61      Silver Larch
+AK-72      Copper Reed
+
+Vault station: naming desk
+Slip serial: CV-214

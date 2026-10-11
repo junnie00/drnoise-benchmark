@@ -1,0 +1,17 @@
+Harbor Merchant Bank
+Commercial Deposit Statement
+
+Registered customer: Korrby Holdings
+A/C ending: ****3852
+Statement period: 10/2024
+Displayed segment: operating payments summary
+
+Recorded for the period: total operating outflows $30,000.
+
+Currency: USD
+Cycle label: OCT2024
+Statement format: summary image
+Debit family: operating cash outflows
+System ref: ST10-3852
+
+No memo-posted items shown here.

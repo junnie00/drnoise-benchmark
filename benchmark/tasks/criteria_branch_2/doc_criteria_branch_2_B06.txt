@@ -1,0 +1,10 @@
+Utility Service Ticket U-22
+Solace Bank Facilities Helpdesk
+
+Facility: F2LV
+Incident: service lost
+Time opened by monitoring feed: 13:40
+Time cleared: 14:46
+Service class: electrical supply
+
+Notes: Ticket remained active until premises supply was confirmed back in service and the incident was marked cleared.

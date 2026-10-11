@@ -1,0 +1,7 @@
+March Purchase Dispatch Map
+Sourcing Operations Console Export
+
+Vendor dispatch assignment for March:
+V-73 handled dispatches D-118, D-219, and D-337.
+
+Map function: binds the vendor code on the purchase release to the dock dispatch identifier created by the scheduling console. The above assignment set is the complete March listing shown for this vendor in the export pane.

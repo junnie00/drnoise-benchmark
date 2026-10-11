@@ -1,0 +1,12 @@
+HR Identity Crosswalk
+Supervisor-to-Employee Mapping Ticket
+Ticket: HRX-44-219
+Status: Closed
+Requestor: Program Administration
+Purpose: convert supervision IDs for staff-facing roster use
+
+Resolved mapping:
+- supervisor S-177 maps to employee E-108
+- supervisor S-131 maps to employee E-114
+
+The roster service has confirmed these are the active employee identities corresponding to the listed supervisor references for operational use in internal staffing views.

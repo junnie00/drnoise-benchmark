@@ -1,0 +1,12 @@
+Seal Inspection Worksheet
+Tamper Band Check — Follow-on Entries
+
+Seal Inspection Events
+C-405A passed; C-431A failed for absent seal.
+
+This page continues the carton-level observations logged at the packaging inspection bench. Outcomes are recorded in the same language used by the line supervisor during disposition huddle, with a simple pass/fail notation tied to visible seal presence.
+
+Worksheet ID: SIW-3-215
+Area: Secondary Packaging
+Station clock: 19:07
+Reviewed by: Packaging QA desk

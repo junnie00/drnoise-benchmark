@@ -1,0 +1,17 @@
+North Valley Industrial Oversight Office
+Corporate Facility Index
+Current plant listing excerpt
+
+Operator roster on file shows Grantham Textiles operates site GR-6; Meridian Foundry operates MF-6.
+
+Index fields
+Site Code: GR-6
+Operator Name: Grantham Textiles
+Facility Class: Active industrial location
+
+Site Code: MF-6
+Operator Name: Meridian Foundry
+Facility Class: Active industrial location
+
+Issued by: Registry Desk, Facilities Unit
+Format: controlled index excerpt for internal plant identification

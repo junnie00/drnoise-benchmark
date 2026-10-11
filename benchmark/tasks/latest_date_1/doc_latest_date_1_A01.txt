@@ -1,0 +1,12 @@
+North Valley Industrial Compliance Bureau
+Incident Type Legend
+Revision in force for intake screens
+
+Code assignments used by intake staff are as follows: code S denotes safety; E denotes environmental; Q denotes product quality.
+
+Legend display
+S  Safety
+E  Environmental
+Q  Product quality
+
+Use the class code exactly as shown when logging a new incident.

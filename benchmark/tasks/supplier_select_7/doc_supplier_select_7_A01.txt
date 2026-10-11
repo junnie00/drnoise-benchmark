@@ -1,0 +1,10 @@
+NQPA Risk & Compliance
+Safety Credential Register
+
+Credential lookup
+
+Credential No.: SC-792
+Assigned vendor: V-73
+Expiry date: 31 December 2024
+
+Register status line captured from the live credential panel for standard supplier admission checks. Record format reflects the credential office screen used by receiving and buyer administration teams.

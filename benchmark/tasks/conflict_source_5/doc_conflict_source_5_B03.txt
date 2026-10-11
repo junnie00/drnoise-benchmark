@@ -1,0 +1,11 @@
+Syndication Feed Record
+Item Detail View
+
+Feed item ID: F-590
+Institution label: Quarry University
+Reported field: total students
+Value carried: 8360
+Distribution class: outbound profile feed
+Record state: released
+
+The feed item above is the stored outbound value for total students in the syndication system. Item formatting follows the standard item-detail layout used for institutional profile transfers.

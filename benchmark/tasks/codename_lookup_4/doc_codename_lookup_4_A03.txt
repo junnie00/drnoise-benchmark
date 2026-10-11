@@ -1,0 +1,12 @@
+Borealis Laboratory
+Experiment Input Ledger
+Run Materials Entry
+
+Run ID: E-430
+Consumed lot: L-417
+Assigned chamber: CH-44
+
+Origin queue: Experimental Operations
+Record format: abbreviated intake line
+
+This item records the consumed stock lot and the chamber associated with the run reservation. The abbreviated ledger view is used for quick trace checks during archive preparation and floor reconciliation.

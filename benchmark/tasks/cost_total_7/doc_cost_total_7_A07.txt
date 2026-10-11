@@ -1,0 +1,15 @@
+NarrowGate Finance Suite
+General Ledger Activity Extract
+Company record: Korron Holdings
+Fiscal designation: FY2024
+Period reference: 08
+Created: 19 May 2024
+Subject line: Operating expense postings
+
+This period reflects operating expenses posted at $15,000.
+
+Book: Corporate primary
+Journal status: Posted
+Currency: USD
+Display filter: Expense-only balances
+Intended use: period-close accounting review. Non-operating disbursements and balance-sheet movements are outside this extract scope.

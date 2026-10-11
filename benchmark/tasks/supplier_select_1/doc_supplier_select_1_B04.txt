@@ -1,0 +1,6 @@
+Carrier Services Interface
+Manifest Crosswalk Export — multi-account excerpt
+
+AC-171 consignments were C-14, C-19, and C-12; AC-109 consignments were C-13, C-16, and C-18.
+
+Generated from the carrier manifest crosswalk using the standard April account filter. This excerpt is formatted for the transport desk's daily handoff pack.

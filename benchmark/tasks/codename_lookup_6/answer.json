@@ -1,0 +1,15 @@
+{
+  "answer": "Quiet Ember",
+  "false_value": "Gold Vale",
+  "false_values": [
+    "Gold Vale"
+  ],
+  "type": "text_attribute_lookup",
+  "dom": "science",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "map reagent to stock lot, identify run by lot and chamber, decode chamber temperature, then map run to codename",
+    "B": "map reagent to vial family, join scan and cold-room logs to study ID, then map archive key to codename"
+  }
+}

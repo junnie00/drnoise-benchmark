@@ -1,0 +1,16 @@
+NORTH QUAY FINANCIALS
+General Ledger Transaction Extract
+Entity: Tannon Holdings
+Fiscal Year: FY2024
+Period: 02
+Print stamp: 24 Jul 2024 16:32
+Module: GL-SUMM
+
+For FY2024 period 02, operating expenses posted at $33,000. This page reflects the period ledger after standard posting and carries the operating expense class only, not balance-sheet activity.
+
+Currency: USD
+Book code: CORP
+Report scope: period movement
+Page: 1 of 1
+Operator session: NQF-GL-244
+Office: Treasury and Controller Services

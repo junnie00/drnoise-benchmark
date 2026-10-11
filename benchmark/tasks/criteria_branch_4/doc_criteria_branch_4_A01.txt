@@ -1,0 +1,10 @@
+Solace Bank Facilities Systems
+Generation Asset Register
+
+Register excerpt for photovoltaic plant currently held in branch inventory. PV-481 assigned to S-44, commissioned 04 March; PV-444 assigned to S-42, commissioned 19 February.
+
+Asset ID   Asset type         Site   Commissioned
+PV-481     Roof PV array      S-44   04 March
+PV-444     Roof PV array      S-42   19 February
+
+Register status: active entries only.

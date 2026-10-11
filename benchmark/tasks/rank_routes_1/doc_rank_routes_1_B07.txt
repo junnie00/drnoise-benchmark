@@ -1,0 +1,7 @@
+Northstar Freight
+Mass Accounting Note
+Subject: scope of listed Q3 consignments
+
+Accounting basis for the quarter mass schedules: each listed consignment is distinct and all Q3 consignments are included exactly once.
+
+This note accompanies the quarter mass output so readers understand the listing logic behind the corridor summaries and grouped consignment lines. No duplicate inclusion is present within the Q3 mass schedules covered by this note.

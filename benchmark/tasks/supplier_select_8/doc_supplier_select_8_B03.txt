@@ -1,0 +1,6 @@
+Carrier Desk Manifest Crosswalk
+Consignment lookup by payable account
+
+AC-804 consignments were C-81, C-85, and C-87.
+
+Dispatch support requested the account-to-consignment crosswalk to align carrier paperwork with the remittance account shown on incoming invoice packets.

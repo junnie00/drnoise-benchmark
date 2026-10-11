@@ -1,0 +1,11 @@
+ALTON PHARMA
+Environmental Monitoring Reference Sheet
+Document title: Temperature Alarm Legend
+
+Sensor result X means storage limits were exceeded; N means no excursion.
+
+Legend applies to pallet sensor summaries issued from refrigerated staging and transfer zones.
+Accepted display characters: X, N.
+Reference copy posted for logistics supervisors and QA intake staff.
+Series: EM-LGD-2
+Revision status: current floor copy.

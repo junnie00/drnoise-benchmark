@@ -1,0 +1,13 @@
+North Quay Gatehouse
+Gate Delay Ticket
+Ticket class: timing variance
+
+Consignment: C-49
+Timing result: late by 36 minutes
+Observed handling: held for amended lane sequencing.
+
+Consignment: C-42
+Timing result: early by 12 minutes
+Observed handling: admitted under standard queue conditions.
+
+Ticket opened by gate control during April movement monitoring.

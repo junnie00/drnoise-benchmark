@@ -1,0 +1,7 @@
+HR Identity Crosswalk
+Supervisor-to-Employee Map
+
+Crosswalk entries:
+supervisor S-777 maps to employee E-708; S-731 maps to E-714.
+
+View generated from workforce identity services

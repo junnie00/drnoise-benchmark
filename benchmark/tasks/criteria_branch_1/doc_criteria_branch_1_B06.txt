@@ -1,0 +1,12 @@
+Utility Operations Ticket
+Ticket No. U-12
+
+Open incident record: F1LV service lost 13:40 and cleared 14:46.
+
+Service class: utility feed interruption
+Facility alias: F1LV
+Timeline
+- Lost: 13:40
+- Cleared: 14:46
+
+Ticket remained in utility operations history as a June service event.

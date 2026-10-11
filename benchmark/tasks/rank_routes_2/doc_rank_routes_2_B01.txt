@@ -1,0 +1,8 @@
+Dispatch Corridor Alias File
+Northstar Freight — Active Alias Lines
+
+Current mappings in this segment:
+C2M maps to Route Ibis.
+C2V maps to Route Junco.
+
+This alias file segment is used by dispatch when corridor-coded consignments are received from upstream intake tools.

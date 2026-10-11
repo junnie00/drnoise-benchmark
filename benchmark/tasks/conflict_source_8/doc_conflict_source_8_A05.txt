@@ -1,0 +1,10 @@
+Publication Identity Table
+Lookup Register
+
+Publication record PR-888 is issued by source SR-812; PR-841 is issued by source SR-830.
+
+Table scope: external profile identifiers currently maintained in the source-mapping register
+Identifier family: publication record to source code
+Maintenance desk: profile intake and mapping
+
+Use this table when resolving an internal publication record number to the source code carried in source directories and intake logs.

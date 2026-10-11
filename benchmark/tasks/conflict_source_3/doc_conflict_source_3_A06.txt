@@ -1,0 +1,8 @@
+Source Name Directory
+Approved display names for issuer keys
+
+Source key SR-312 is CampusIndex.
+Source key SR-330 is College Atlas.
+
+Directory scope
+This naming list supplies the display string attached to each SR-series source key in profile and publishing interfaces. Use the exact capitalization shown when rendering source names in external-profile administration screens or correspondence.

@@ -1,0 +1,10 @@
+Bench Scanner Log
+Terminal BS-2
+
+Scan events captured this shift:
+vial VX27-03 scanned into study S-204; vial VX27-09 scanned into study S-219.
+
+Reader status remained online throughout the recorded interval. The terminal log stores vial identifier strings exactly as read from the label and appends the destination study at the point of bench intake.
+
+Session marker: 14A
+Scanner lamp test: normal

@@ -1,0 +1,21 @@
+{
+  "condition": "noevidence",
+  "description": "all truthful route documents removed; false summary retained",
+  "docids": [
+    "rank_routes_9_a785ead0",
+    "rank_routes_9_689c5cf8",
+    "rank_routes_9_fc27cc0b",
+    "rank_routes_9_302183ea",
+    "rank_routes_9_ff0563d9",
+    "rank_routes_9_6e2dcfed",
+    "rank_routes_9_6522f158",
+    "rank_routes_9_fb1bc2db",
+    "rank_routes_9_0324ce3f",
+    "rank_routes_9_97de023e",
+    "rank_routes_9_b06b8354",
+    "rank_routes_9_46e151fc",
+    "rank_routes_9_20df16f4",
+    "rank_routes_9_5a12ee8a",
+    "rank_routes_9_c8ce5034"
+  ]
+}

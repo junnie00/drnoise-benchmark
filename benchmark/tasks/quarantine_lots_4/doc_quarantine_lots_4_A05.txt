@@ -1,0 +1,11 @@
+Packaging Line Carton Register
+Supplemental Carton Assignment Slip
+
+Carton-to-Batch Map
+C-405A belongs to B-405; C-431A belongs to B-431.
+
+Use on the packing floor when carton identifiers are reviewed separately from the main run packet. The slip lists the remaining cartons for the current review block and mirrors the shorthand used by the seal inspection station.
+
+Location: Secondary Packaging Office
+Register family: carton assignment
+Print batch: PK-SUP-07

@@ -1,0 +1,11 @@
+Submission Routing Log
+MedData Intake Console
+
+Receipt: R-301
+Organization: ORG-32
+Form code: F-A3
+Route state: assigned to regulatory intake
+Channel: portal-originated submission
+
+Routing comment:
+Receipt R-301 is indexed under ORG-32 and tagged to form F-A3 for normal downstream processing. No alternate organization mapping is shown on this line item.

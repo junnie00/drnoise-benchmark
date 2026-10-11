@@ -1,0 +1,9 @@
+North Quay Procurement Authority
+Accounts Payable Alias Table
+Payment routing names
+
+Account AC-404 pays Marlin Optics
+Account AC-471 pays Osric Wireworks
+Account AC-409 pays Cobalt Frames
+
+This alias table is used by accounts-payable staff when matching remittance accounts to supplier trading names.

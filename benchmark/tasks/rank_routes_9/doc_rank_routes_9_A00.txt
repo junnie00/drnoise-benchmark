@@ -1,0 +1,16 @@
+NORTHSTAR FREIGHT
+Lane Directory Extract
+Network Planning Console
+
+Lane codes currently assigned in the active directory:
+L-94 is Route Osprey; L-99 is Route Pine; L-92 is Route Quartz.
+
+Display options
+- View mode: lane code to route name
+- Region filter: all domestic trunk lanes
+- Status filter: active naming records
+
+Operator remark:
+Use the lane code shown on freight ledgers and dock summaries when route names are abbreviated in internal traffic reports.
+
+End of extract.

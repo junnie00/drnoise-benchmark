@@ -1,0 +1,11 @@
+ALTON PHARMA ENVIRONMENTAL SYSTEMS
+Machine Export: Pallet Sensor Results
+Storage zone snapshot
+
+P-24 result X; P-27 result X; P-26 result X; P-23 result N.
+
+Export source: cold-room monitor bus
+Output mode: compact alarm result feed
+Terminal: ES-3
+Sequence flag: pallet-level summary
+Generated for operations board posting

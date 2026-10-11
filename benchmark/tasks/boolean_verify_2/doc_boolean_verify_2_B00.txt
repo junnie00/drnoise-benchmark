@@ -1,0 +1,6 @@
+Portal Operations Directory
+Tenant Enrollment List
+
+Tenant T-284 is Briar Clinic. Tenant T-248 is Northbank Clinic.
+
+This directory excerpt reflects tenant naming as displayed in the MedData compliance portal workspace selector.

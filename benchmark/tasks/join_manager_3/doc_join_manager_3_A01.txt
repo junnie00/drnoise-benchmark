@@ -1,0 +1,9 @@
+NMDA Finance Platform
+Export: Package Accounting Crosswalk
+Mode: posting reference
+
+package_id,posting_cost_center
+PK-391,CC-37
+PK-338,CC-32
+
+Generated for accounting operations to support package-based journal routing.

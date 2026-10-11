@@ -1,0 +1,15 @@
+External Profile Snapshot
+Record ID: PR-488
+Institution: Pember College
+
+Listing captured in the profile system shows publication record PR-488 lists Pember College enrollment as 3480.
+
+Snapshot metadata
+Category: institution profile
+Display status: active in external reference catalog
+Record family: profile publication
+Capture mode: indexed snapshot
+Stored by: external publications desk
+Timestamp: 14:22 local system time
+
+This snapshot preserves the published profile value as displayed in the cataloged publication record.

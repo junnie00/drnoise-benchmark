@@ -1,0 +1,13 @@
+North Quay Components
+Inbound Dock Event Ledger
+Receiving Bay time slip extract
+
+Ledger entries: D-518 due 08:30, received 08:18; D-529 due 10:00, received 09:52.
+
+Shift segment: day receiving
+Clock basis: dock wall clock synchronized to gate office
+Use: bay occupancy and unloading order management
+
+The ledger excerpt records planned dock time against actual receipt time for the referenced dispatches during routine inbound handling.
+
+Printed at: Receiving Bay 2 terminal

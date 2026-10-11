@@ -1,0 +1,8 @@
+Human Resources Service Center
+Personnel Directory Extract
+
+Employee lookup
+E-708 is Petra Moss.
+E-714 is Lucan Shore.
+
+Display mode: surname-normalized public staff directory

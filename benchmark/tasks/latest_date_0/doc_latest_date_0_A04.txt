@@ -1,0 +1,8 @@
+OPS-INCIDENT INTAKE EXTRACT
+Selection: 2024 incident cards
+
+I-260 | site AW-6 | opened 08 Dec | class E
+I-271 | site BF-2 | opened 20 Nov | class S
+
+Print channel: records room line printer
+Record style: abbreviated intake view

@@ -1,0 +1,8 @@
+Projects Office
+Project Name Register
+
+Project code listing for publication formatting:
+HG-7 is Grove Portal.
+QD-7 is Quasar Dock 7.
+
+Names are displayed in standard short-title style used on schedules, notices, and cover sheets.

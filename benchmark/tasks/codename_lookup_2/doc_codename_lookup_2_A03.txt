@@ -1,0 +1,11 @@
+BOREALIS LAB — INPUT LEDGER CARD
+
+Run: E-230
+Consumable lot charged: L-217
+Environmental chamber: CH-24
+
+Recorded on issue to the chamber corridor station. Card retained with the day batch until ledger closeout.
+
+Instrument family: wet bench series
+Card stock: blue tag issue
+Internal sequence mark: 23-CH

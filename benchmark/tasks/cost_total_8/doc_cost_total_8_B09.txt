@@ -1,0 +1,16 @@
+North Basin Commercial Bank
+Corporate Statement Extract
+Registered customer: Ashel Holdings
+Account identifier: ****1610
+Statement period: 10/2024
+Plan: Business Operating Account
+
+The extract shows total operating outflows $83,000.
+
+Currency used: USD
+Delivery channel: Treasury web
+Cycle standard: Monthly
+Statement state: Issued
+Servicing branch: Enterprise Banking Center
+
+Statement extract ends here.

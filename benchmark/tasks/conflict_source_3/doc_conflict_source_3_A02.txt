@@ -1,0 +1,16 @@
+Orchard State Registrar
+Autumn Census Counts — Certification Slip
+
+Institution: Orchard State
+Term set: Autumn Census
+Certifying office: Registrar Operations
+
+Certified count for unit G-3: 1480.
+
+Control details
+Unit description on file: graduate records
+Certification class: final unit count
+Accepted by: Census Desk, Registrar Operations
+Posting channel: internal census ledger
+
+This certification slip is the unit-level count notice issued for routing into the institutional census workbook.

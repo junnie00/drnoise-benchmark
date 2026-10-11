@@ -1,0 +1,12 @@
+ALTON PHARMA
+Batch Genealogy Reference Card
+
+Product family: Controlled-temperature finished goods
+
+Lot-to-batch crosswalk in current use:
+- LOT-482 is batch B-82
+- LOT-719 is B-19
+- LOT-605 is B-05
+- LOT-331 is B-31
+
+This card is kept with genealogy packets so warehouse and packaging staff can identify the internal batch number used on line documents when only the commercial lot appears on cartons or release paperwork.

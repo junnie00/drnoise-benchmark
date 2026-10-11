@@ -1,0 +1,8 @@
+April Purchase Dispatch Map
+Machine export — buyer routing view
+
+period=APR
+vendor=V-23
+assigned_dispatches=D-218|D-229|D-237
+
+This routing line is the vendor-facing dispatch allocation captured after order release and before dock appointment sequencing. Export format preserves compact pipe-separated dispatch references for upload into the warehouse planning terminal.

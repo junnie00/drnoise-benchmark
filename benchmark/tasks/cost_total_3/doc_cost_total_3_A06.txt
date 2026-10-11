@@ -1,0 +1,11 @@
+KORROS HOLDINGS
+GL PERIOD EXTRACT
+Printed 28 Jun 2024
+Company file: Korros Holdings
+Year: FY2024
+Period no.: 07
+
+Operating expenses posted at $77,000.
+
+System remarks:
+Period extract prepared in condensed layout for accounting review. The amount shown is the booked operating expense figure for the specified period only. Report class excludes payroll liability, debt service, and non-operating movement screens.

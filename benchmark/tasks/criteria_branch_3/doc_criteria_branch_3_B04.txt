@@ -1,0 +1,8 @@
+Controller Code Legend
+Resilience Storage States
+
+State mapping in current controller vocabulary:
+- storage state 1 means online
+- state 0 means unavailable
+
+This legend accompanies controller exports that use numeric state values for branch storage systems.

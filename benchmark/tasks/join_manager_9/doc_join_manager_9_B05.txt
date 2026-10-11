@@ -1,0 +1,8 @@
+HR Identity Crosswalk
+Machine Readout
+
+supervisor_id,employee_id
+S-977,E-908
+S-931,E-914
+
+Output format follows the personnel mapping utility used by HR systems support when converting supervisor references to employee identifiers.

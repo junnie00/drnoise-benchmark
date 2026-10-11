@@ -1,0 +1,11 @@
+Cold-Chain Ticket Index
+Transit Monitoring Desk
+
+Distribution unit to ticket assignment:
+DU-48 tickets T-411 and T-412; DU-42 ticket T-421; DU-46 ticket T-431; DU-41 ticket T-441.
+
+Index purpose: quick retrieval of monitoring tickets when a route packet contains multiple logger reviews or a single closed transit record. The desk uses this short form at intake before the detailed findings sheet is pulled.
+
+Console group: CCD-Index
+Clerk shift: morning intake
+Printed: ticket retrieval strip

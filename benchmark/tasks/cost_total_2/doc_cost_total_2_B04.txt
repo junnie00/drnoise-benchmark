@@ -1,0 +1,12 @@
+NORTH COAST MERCANTILE BANK
+Account Statement Snapshot
+
+Korrel Holdings appears on statement period 05/2024 for account ****7108 with total operating outflows $26,000.
+
+Banking profile
+Product line: Commercial demand deposit
+Statement style: Condensed monthly view
+Currency: USD
+Issue method: Digital
+
+Snapshot generated from the bank statement system for standard client reporting.

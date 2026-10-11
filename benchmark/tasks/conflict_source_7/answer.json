@@ -1,0 +1,15 @@
+{
+  "answer": "CampusMeter",
+  "false_value": "Registrar File",
+  "false_values": [
+    "Registrar File"
+  ],
+  "type": "conflict_attribution",
+  "dom": "education",
+  "design_version": 3,
+  "document_style": "realistic_expanded",
+  "evidence_requirements": {
+    "A": "sum registrar components, compare with an anonymously keyed publication value, then map publication ID to source",
+    "B": "sum independent census components, compare with a syndication record, then resolve publisher code to source"
+  }
+}

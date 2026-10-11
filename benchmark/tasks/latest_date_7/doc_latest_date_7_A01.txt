@@ -1,0 +1,7 @@
+Safety & Process Reporting Console
+Reference Legend: Incident Classification Codes
+Panel ID: IC-LGD-02
+
+Code assignments in the current intake schema are as follows: code S denotes safety; E denotes environmental; Q denotes product quality.
+
+These one-letter classes appear in the incident queue, intake cards, and closure worksheets. Display format is fixed-width in the console and remains unchanged for the 2024 operating cycle.

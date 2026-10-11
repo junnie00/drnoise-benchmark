@@ -1,0 +1,11 @@
+Distribution Operations Memo
+From: Distribution Control
+To: Route Documentation File
+Subject: Release-to-unit travel mapping
+
+For dispatch tracing, the unit numbers tied to released material are as follows: R-448 travelled as DU-48; R-471 as DU-42; R-460 as DU-46; R-433 as DU-41.
+
+This memo was issued so courier packets and cold-chain envelopes would carry the same distribution unit identifiers used by the dock team. The notation “travelled as” follows the wording printed on linehaul summaries.
+
+Filed under: outbound movement mapping
+Office: Distribution Control, Alton Pharma

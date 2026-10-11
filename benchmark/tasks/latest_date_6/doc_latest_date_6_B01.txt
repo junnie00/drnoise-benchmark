@@ -1,0 +1,10 @@
+Board Docket Codebook
+Hearing Secretariat
+
+The active prefix table states that docket prefix HS is occupational safety; EN is environmental review.
+
+Codebook excerpt
+HS — occupational safety
+EN — environmental review
+
+Formatting follows the board's short-form docket header style used on calendars, notices, and archive slips.

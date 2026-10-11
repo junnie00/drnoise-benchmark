@@ -1,0 +1,7 @@
+Gate Punctuality Extract
+Transport Analytics Module
+
+Selected consignment timing results:
+C-81 early by 12 minutes; C-95 early by 8 minutes.
+
+The module reports variance against booked gate time in minutes, using “early” where the arrival preceded the booked slot. This extract was circulated for quick review during the monthly freight rhythm meeting.

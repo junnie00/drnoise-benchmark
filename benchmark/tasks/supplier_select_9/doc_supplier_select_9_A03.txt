@@ -1,0 +1,8 @@
+North Quay Components Trust
+Inbound Purchasing Console
+April Purchase Dispatch Map
+Export stamp: APR-OPS
+
+Vendor reference V-93 handled dispatches D-918, D-929, and D-937.
+
+Routing note: the dispatch map is used to associate booked inbound loads with the vendor reference appearing on the purchase file before dock receipt is posted.

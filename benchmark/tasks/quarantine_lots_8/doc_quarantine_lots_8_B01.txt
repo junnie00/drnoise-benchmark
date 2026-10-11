@@ -1,0 +1,9 @@
+ALTON PHARMA DISTRIBUTION CONTROL
+Distribution Unit Map
+
+Mapped travel units for release-coded consignments:
+R-848 travelled as DU-88; R-871 as DU-82; R-860 as DU-86; R-833 as DU-81.
+
+Map purpose: convert release handling code to distribution unit identity used by transport operations.
+Dispatch office: Distribution Control
+Document class: route unit mapping

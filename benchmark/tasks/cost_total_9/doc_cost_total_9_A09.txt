@@ -1,0 +1,18 @@
+NORTH QUAY FINANCIALS
+General Ledger Extract
+Company: Ashos Holdings
+Fiscal period set: FY2024 / 10
+Posting date: 18 Jan 2024
+Ledger section: Operating Expenses
+
+Posted ledger activity for this period shows operating expenses posted at $35,000. The report is a section extract and does not display other account families.
+
+Technical details
+Currency denomination: USD
+Book basis: Accrual
+Posting state: Posted
+Batch marker: CLOSE10
+Generated at: 18 Jan 2024 15:58
+Render service: GLSERV-2
+
+End of machine report.

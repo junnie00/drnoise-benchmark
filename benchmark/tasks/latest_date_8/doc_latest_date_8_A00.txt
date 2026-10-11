@@ -1,0 +1,12 @@
+North Coast Industrial Oversight Bureau
+Corporate Facility Index
+Extract: Active Manufacturing Sites
+
+Operator listing on this extract shows Istria Packaging operates site IS-8; Meridian Foundry operates MF-8.
+
+Site Code | Operating Entity
+IS-8 | Istria Packaging
+MF-8 | Meridian Foundry
+
+Index status: current facility identifier roster
+Format rev.: CFI-2.1

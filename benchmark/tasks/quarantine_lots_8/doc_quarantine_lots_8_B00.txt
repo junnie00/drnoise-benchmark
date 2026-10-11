@@ -1,0 +1,10 @@
+ALTON PHARMA
+Release-Control Register
+Clinical Release Identifier Register
+
+Lot-to-release coding entered in the register:
+LOT-891 uses release code R-848; LOT-353 uses R-871; LOT-670 uses R-860; LOT-232 uses R-833.
+
+Register slice: active coded releases
+Maintained by: Release Control Unit
+Medium: controlled register page export

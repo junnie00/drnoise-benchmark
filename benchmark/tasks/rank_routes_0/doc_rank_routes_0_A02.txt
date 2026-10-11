@@ -1,0 +1,15 @@
+Northstar Freight
+Monthly Operations Ledger — April 2024
+Tonnage Summary by Lane
+
+Posting month: April 2024
+Unit of measure: kg
+
+Lane     Shipped mass
+L-04     6,100 kg
+L-09     5,700 kg
+L-12     5,200 kg
+L-17     4,900 kg
+L-21     3,700 kg
+
+Ledger section issued by linehaul accounting for month-end close. Figures represent the monthly tonnage booked to each listed lane during April 2024.

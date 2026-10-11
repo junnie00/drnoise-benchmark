@@ -1,0 +1,14 @@
+Environmental Monitoring Program
+Temperature Alarm Legend
+Applies to pallet sensor summary outputs used by the storage team.
+
+Result code definitions:
+X means storage limits were exceeded.
+N means no excursion.
+
+Display convention:
+- One character result per pallet record
+- Code shown in the alarm result column only
+
+Issued by: Monitoring Services
+Legend set: TEMP-SHORT/2

@@ -1,0 +1,6 @@
+Cold-Chain Service Desk
+Ticket Index by Distribution Unit
+
+Index entries for refrigerated transport review are listed as follows: DU-18 tickets T-111 and T-112; DU-12 ticket T-121; DU-16 ticket T-131; DU-11 ticket T-141.
+
+This index page is the routing view used inside the cold-chain desk to organize transport exception paperwork by distribution unit rather than by release code.

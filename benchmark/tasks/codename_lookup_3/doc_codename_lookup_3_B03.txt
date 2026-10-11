@@ -1,0 +1,8 @@
+Borealis Lab Access Control
+Cold-Room Usage Log
+
+Checked room assignments by study code for the listed interval:
+study S-304 used room CR-3A; study S-319 used room AM-3B; study S-325 used room CR-3A.
+
+Badge reader cluster: thermal access group
+Display mode: room-use summary

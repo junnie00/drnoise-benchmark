@@ -1,0 +1,10 @@
+North Corridor Development Authority
+Contracts Office
+
+Allocation Schedule Extract — Active Funding Packages
+
+Contract Code   Funding Package
+CT-708          PK-891
+CT-851          PK-838
+
+Issued from the allocation scheduler for package routing and budget loading. This extract lists current package assignments by contract code for internal finance handling.

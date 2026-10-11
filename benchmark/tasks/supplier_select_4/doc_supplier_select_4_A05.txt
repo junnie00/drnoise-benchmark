@@ -1,0 +1,8 @@
+North Quay Inland Receiving
+Dock Event Ledger
+Lane receipt excerpt
+
+Dispatch D-418 — due 08:30 — received 08:18
+Dispatch D-429 — due 10:00 — received 09:52
+
+Recorded by dock console at time of vehicle acceptance. Entry format follows scheduled due time against physical receipt time.

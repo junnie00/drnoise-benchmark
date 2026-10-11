@@ -1,0 +1,9 @@
+NORTHSTAR FREIGHT DISPATCH SYSTEM
+Corridor Alias File
+Export slice: active aliases
+
+Alias mappings in the current dispatch corridor file are: C8D maps to Route Jasper; C8O maps to Route Kestrel; C8K maps to Route Linden.
+
+Record type: corridor alias
+Output mode: fixed-text export
+Consumer systems: dispatch boards, consignment headers, movement batch imports

@@ -1,0 +1,10 @@
+NORTHSTAR FREIGHT // OPS-LEDGER EXPORT
+Period: August 2024
+Measure: shipped tonnage
+Unit: kg
+
+L-94 6,300 kg; L-99 5,600 kg; L-92 5,400 kg; L-97 4,800 kg; L-91 3,800 kg.
+
+Export profile: route_summary_month
+Generated for internal month-close package.
+EOF

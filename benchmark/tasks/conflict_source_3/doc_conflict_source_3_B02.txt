@@ -1,0 +1,12 @@
+Census Codebook
+Registrar Data Services
+Population codes included in total enrollment
+
+UG and GR are the two disjoint populations included in registrar total enrollment.
+
+Field guidance
+Code family: student population
+Aggregation use: registrar total enrollment only
+Interpretation: each included population is counted separately before any total is produced; overlap is not permitted within this code set.
+
+This excerpt accompanies machine exports and reporting jobs that consume census population codes.

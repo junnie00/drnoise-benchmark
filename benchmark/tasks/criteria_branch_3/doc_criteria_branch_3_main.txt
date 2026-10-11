@@ -1,0 +1,13 @@
+FacilityMetrics
+Branch Resilience Brief
+
+Subject: Hawthorn branch
+
+FacilityMetrics names Hawthorn branch as the Solace Bank location with commissioned solar, online battery storage, and a June outage restored in under two hours.
+
+The June branch resilience review places Hawthorn branch forward as the location matching that operating profile. In the briefing layout used by FacilityMetrics, the branch is presented as the identified Solace Bank site for that combination of generation readiness, storage availability, and restoration timing. The statement is carried as a facilities summary for readers needing a quick branch-level identification rather than the underlying logs and registers.
+
+This brief is written in the concise style used for executive facilities updates, with the branch designation expressed directly and without supporting calculation. The named location for the described condition is Hawthorn branch, and the summary text treats that identification as settled for the purpose of the report.
+
+FacilityMetrics desk distribution
+Internal circulation copy

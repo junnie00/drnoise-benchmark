@@ -1,0 +1,17 @@
+SOLACE BANK
+Property Services Division
+Site Directory Extract — Retail Branch Portfolio
+
+Site code assignments in current use: S-64 is Pineholt branch; S-62 is Queensmere branch; S-61 is Redcliff branch.
+
+Directory status: active branch locations
+Region set: Community Banking Estates
+Format: internal location lookup
+
+Notes
+- S-64 retained for Pineholt branch in plant and utility systems
+- S-62 retained for Queensmere branch in branch services scheduling
+- S-61 retained for Redcliff branch in maintenance dispatch
+
+Issued by: Facilities Records Desk
+Reference view: Branch/Site cross-reference

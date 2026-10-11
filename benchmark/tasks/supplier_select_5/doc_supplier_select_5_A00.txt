@@ -1,0 +1,14 @@
+North Quay Components
+Procurement Services Division
+Approved Vendor Directory — April revision
+Effective window: April revision issue
+
+Vendor code roster
+V-53  | Vesper Seals
+V-58  | Lumen Gaskets
+V-54  | Harbor Molds
+
+Directory scope: active purchasing counterparties listed for buyer setup, dispatch allocation, and invoice naming control during the April revision cycle. Entries shown in this issue reflect the supplier names carried in the operating vendor file at release time.
+
+Issued by: Supplier Administration Desk
+Format: controlled directory extract

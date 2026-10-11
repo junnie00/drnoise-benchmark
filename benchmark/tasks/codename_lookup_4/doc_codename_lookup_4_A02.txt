@@ -1,0 +1,12 @@
+Borealis Laboratory
+Experiment Input Ledger
+Run Materials Entry
+
+Run ID: E-418
+Consumed lot: L-471
+Assigned chamber: CH-49
+
+Posting channel: Experimental Operations intake
+Ledger section: lot-to-run consumption
+
+The entry reflects the material lot drawn down for this run and the chamber tied to the booking. No interpretive notes appear on this extract; it is the standard short-form line issued from the run intake module.

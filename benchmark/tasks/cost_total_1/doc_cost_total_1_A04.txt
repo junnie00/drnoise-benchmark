@@ -1,0 +1,14 @@
+NORTH QUAY FINANCIALS
+GL Extract - Corporate Book
+Legal Entity: Tannon Holdings
+Year/Period: FY2024 / 05
+Timestamp: 23 Oct 2024 14:55
+Output profile: OPX-SUM
+
+For period 05 of FY2024, operating expenses posted at $56,000. No non-operating classes are included on this sheet; the view is restricted to expense movement within the selected period.
+
+Denomination: USD
+Environment: production ledger
+Batch state: posted only
+User node: FIN-CL-09
+Department: Group Accounting

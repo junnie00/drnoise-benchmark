@@ -1,0 +1,13 @@
+UTILITY INCIDENT TICKET
+Ticket No.: U-74
+Service location: F7RV
+
+Incident timeline
+Service lost: 09:12
+Cleared: 10:36
+
+Queue: branch utility support
+Ticket type: supply interruption
+Close view: timing panel
+
+This utility ticket reflects the recorded loss and clearance times for the affected facility in the service desk system.

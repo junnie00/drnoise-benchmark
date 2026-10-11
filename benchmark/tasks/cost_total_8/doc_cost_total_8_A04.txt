@@ -1,0 +1,17 @@
+LEDGERLINE FINANCE SUITE
+Period Ledger Register
+Business unit: Ashel Holdings
+Fiscal cycle: FY2024
+Period selected: 05
+Register date: 14 Mar 2024
+Register section: Operating expenses
+
+The register shows operating expenses posted at $21,000.
+
+Book code: CORP
+Currency code: USD
+Posting result: Accepted to ledger
+Display scope: Single period
+Layout profile: Compact register
+
+Issued from the Accounting Operations console.

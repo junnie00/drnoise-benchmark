@@ -1,0 +1,10 @@
+UTILITY SERVICE TICKET
+Ticket No.: U-51
+Facility: F5EM
+Service class: electrical supply
+
+Incident timeline
+- service lost 07:05
+- cleared 09:53
+
+Stored in the utility ticketing queue as the June service interruption record for the facility.

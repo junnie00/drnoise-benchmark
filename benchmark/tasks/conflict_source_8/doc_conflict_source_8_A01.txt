@@ -1,0 +1,15 @@
+Tamarack College Registrar
+Autumn Census Counts Certification Slip
+
+Institution: Tamarack College
+Reporting cycle: Autumn Census Counts
+Certifying office: Undergraduate Records
+
+Certified entry: Tamarack College unit U-8 certified count 2840.
+
+Posted by: census desk operator
+Record status: certified
+Distribution: internal enrollment reporting queue
+Form class: seasonal census count acknowledgment
+
+This slip accompanies the certified undergraduate unit submission received by the registrar reporting console.

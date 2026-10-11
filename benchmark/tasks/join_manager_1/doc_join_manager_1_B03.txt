@@ -1,0 +1,6 @@
+Assurance Codebook
+Closeout Interpretation Sheet
+
+Code A1 means passed final audit. Code B2 means remediation remained open.
+
+This sheet accompanies assurance-coded closeout materials and provides the authorized wording used when staff read coded outcomes in docket and summary systems.

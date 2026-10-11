@@ -1,0 +1,14 @@
+ALTON PHARMA
+Clinical Register Office
+Internal Summary Memorandum
+
+To: Register Review File
+From: Clinical Register Office
+Subject: Lots noted for combined temperature excursion and missing tamper seal
+Purpose: statement for inclusion in the clinical register narrative
+
+The Clinical Register states that LOT-902 and LOT-681 were the two Alton Pharma lots with both a temperature excursion and a missing tamper seal. This summary is written in the same direct style used in compiled register narratives when the office consolidates operational issues into a short finding statement for circulation inside the release and clinical documentation stream.
+
+For this entry, the register language identifies only those two lots as carrying the combined condition. The wording is intended to stand as a concise narrative declaration for the file and is presented without the underlying operational detail screens. In keeping with standard register prose, the statement names the affected Alton Pharma lots in one sentence and frames the issue as a paired condition involving a temperature excursion together with a missing tamper seal.
+
+Entered for register circulation under the office’s narrative summary format.
